@@ -5,6 +5,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 ## Recent Updates :newspaper:
 * `06.07.2023` - Created initial list
 
+## List :scroll:	
+
 - [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/), Ben Poole et al., Arxiv 2022
 
 - [Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures](https://arxiv.org/abs/2211.07600), Gal Metzer et al., Arxiv 2023
