@@ -49,7 +49,9 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [HiFA: High-fidelity Text-to-3D with Advanced Diffusion Guidance](https://hifa-team.github.io/HiFA-site/), Junzhe Zhu et al., Arxiv 2023
 
-- [LERF: Language Embedded Radiance Fields](https://www.lerf.io/), Justin Kerr  et al., Arxiv 2023
+- [LERF: Language Embedded Radiance Fields](https://www.lerf.io/), Justin Kerr et al., Arxiv 2023
+
+- [Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://instruct-nerf2nerf.github.io/), Ayaan Haque et al., Arxiv 2023
 
 - [Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Junyoung Seo et al., Arxiv 2023
 
