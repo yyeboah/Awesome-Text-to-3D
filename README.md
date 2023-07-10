@@ -11,9 +11,13 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures](https://arxiv.org/abs/2211.07600), Gal Metzer et al., Arxiv 2023
 
-- [Magic3D: High-Resolution Text-to-3D Content Creation](https://research.nvidia.com/labs/dir/magic3d/), Chen-Hsuan Linet al., CVPR2023
+- [Magic3D: High-Resolution Text-to-3D Content Creation](https://research.nvidia.com/labs/dir/magic3d/), Chen-Hsuan Linet et al., CVPR2023
 
-- [RealFusion: 360° Reconstruction of Any Object from a Single Image](https://arxiv.org/abs/2302.10663), Luke Melas-Kyriazi al., CVPR2023
+- [RealFusion: 360° Reconstruction of Any Object from a Single Image](https://arxiv.org/abs/2302.10663), Luke Melas-Kyriazi et al., CVPR2023
+
+- [SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction](https://arxiv.org/abs/2212.00792), Zhizhuo Zho et al., CVPR2023
+
+- [Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation](https://arxiv.org/abs/2212.00774), Haochen Wang et al., CVPR2023
 
 - [TEXTure: Text-Guided Texturing of 3D Shapes](https://texturepaper.github.io/TEXTurePaper/), Elad Richardson Chen et al., SIGGRAPH2023
 
