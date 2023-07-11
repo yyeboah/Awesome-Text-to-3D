@@ -71,4 +71,11 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Shap-E: Generating Conditional 3D Implicit Functions](https://arxiv.org/abs/2305.02463), Heewoo Jun et al., Arxiv 2023
 
+- [Sketch-A-Shape: Zero-Shot Sketch-to-3D Shape Generation](https://arxiv.org/abs/2307.03869), Aditya Sanghi et al., Arxiv 2023
+
 - [Text2Tex: Text-driven Texture Synthesis via Diffusion Models](https://daveredrum.github.io/Text2Tex/), Dave Zhenyu Chen et al., Arxiv 2023
+
+## TODO
+- [x] Initial List of the STOA
+- [ ] Provide citations in BibTeX
+- [ ] Sub-categorize based on input conditioning 
