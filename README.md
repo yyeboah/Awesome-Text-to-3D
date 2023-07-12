@@ -75,13 +75,13 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Text2Tex: Text-driven Texture Synthesis via Diffusion Models](https://daveredrum.github.io/Text2Tex/), Dave Zhenyu Chen et al., Arxiv 2023
 
-- [Text2Tex: Text-driven Texture Synthesis via Diffusion Models](https://daveredrum.github.io/Text2Tex/), Dave Zhenyu Chen et al., Arxiv 2023
+- [3D VADER - AutoDecoding Latent 3D Diffusion Models](https://snap-research.github.io/3DVADER/), Evangelos Ntavelis et al., Arxiv 2023
 
 ## Datasets :floppy_disk:	
 
 - [Objaverse: A Universe of Annotated 3D Objects](https://arxiv.org/abs/2212.08051), Matt Deitke et al., Arxiv 2022
 
-- [3D VADER - AutoDecoding Latent 3D Diffusion Models](https://snap-research.github.io/3DVADER/), Evangelos Ntavelis et al., Arxiv 2023
+- [Objaverse-XL: A Universe of 10M+ 3D Objects](https://objaverse.allenai.org/objaverse-xl-paper.pdf), Matt Deitke et al., Preprint 2023
 
 ## TODO
 - [x] Initial List of the STOA
