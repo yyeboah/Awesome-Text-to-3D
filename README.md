@@ -19,6 +19,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation](https://arxiv.org/abs/2212.00774), Haochen Wang et al., CVPR2023
 
+- [High-fidelity 3D Face Generation from Natural Language Descriptions](https://arxiv.org/abs/2305.03302), Menghua Wu et al., CVPR2023
+
 - [TEXTure: Text-Guided Texturing of 3D Shapes](https://texturepaper.github.io/TEXTurePaper/), Elad Richardson Chen et al., SIGGRAPH2023
 
 - [NeRDi: Single-View NeRF Synthesis with Language-Guided Diffusion as General Image Priors](https://arxiv.org/abs/2212.03267), Congyue Deng et al., CVPR2023
@@ -82,6 +84,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Objaverse: A Universe of Annotated 3D Objects](https://arxiv.org/abs/2212.08051), Matt Deitke et al., Arxiv 2022
 
 - [Objaverse-XL: A Universe of 10M+ 3D Objects](https://objaverse.allenai.org/objaverse-xl-paper.pdf), Matt Deitke et al., Preprint 2023
+
+- [Describe3D: High-Fidelity 3D Face Generation from Natural Language Descriptions](https://arxiv.org/abs/2305.03302), Menghua Wu et al., CVPR2023
 
 ## TODO
 - [x] Initial List of the STOA
