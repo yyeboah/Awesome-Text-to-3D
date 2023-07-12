@@ -79,7 +79,7 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Objaverse: A Universe of Annotated 3D Objects](https://arxiv.org/abs/2212.08051), Matt Deitke et al., Arxiv 2022
 
-- [Objaverse-XL: A Universe of 10M+ 3D Objects](https://objaverse.allenai.org/objaverse-xl-paper.pdf), Matt Deitke et al., Arxiv 2023
+- [Objaverse-XL: A Universe of 10M+ 3D Objects](https://objaverse.allenai.org/objaverse-xl-paper.pdf), Matt Deitke et al., Preprint 2023
 
 ## TODO
 - [x] Initial List of the STOA
