@@ -1,4 +1,4 @@
-# Awesome Text-to-3D [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Text-to-3D [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![master](https://img.shields.io/github/last-commit/badges/shields/master)
 
 A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF)
 
@@ -97,7 +97,7 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 ## Frameworks :desktop_computer:
 
-- [threestudio: A unified framework for 3D content generation](https://github.com/threestudio-project/threestudio),Yuan-Chen Guo et al., Github 2023	
+- [threestudio: A unified framework for 3D content generation](https://github.com/threestudio-project/threestudio), Yuan-Chen Guo et al., Github 2023	
 
 - [Nerfstudio: A Modular Framework for Neural Radiance Field Development](https://docs.nerf.studio/en/latest/index.html), Matthew Tancik et al., SIGGRAPH 2023
 
