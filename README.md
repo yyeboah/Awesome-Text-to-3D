@@ -25,6 +25,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [NeRDi: Single-View NeRF Synthesis with Language-Guided Diffusion as General Image Priors](https://arxiv.org/abs/2212.03267), Congyue Deng et al., CVPR 2023
 
+- [DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model](https://gwang-kim.github.io/datid_3d/), Gwanghyun Kim et al., CVPR 2023
+
 - [Novel View Synthesis with Diffusion Models](https://arxiv.org/abs/2210.04628), Daniel Watson et al., ICLR 2023
 
 - [ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation](https://ml.cs.tsinghua.edu.cn/prolificdreamer/), Zhengyi Wang et al., Arxiv 2023
