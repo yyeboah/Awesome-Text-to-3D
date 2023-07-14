@@ -7,6 +7,14 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 ## Papers :scroll:	
 
+- [Zero-Shot Text-Guided Object Generation with Dream Fields](https://arxiv.org/abs/2112.01455), Ajay Jain et al., Arxiv 2021
+
+- [CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://arxiv.org/abs/2112.05139), Can Wang et al., Arxiv 2021
+
+- [CG-NeRF: Conditional Generative Neural Radiance Fields](https://arxiv.org/abs/2112.03517), Kyungmin Jo et al., Arxiv 2021
+
+- [3DDesigner: Towards Photorealistic 3D Object Generation and Editing with Text-guided Diffusion Models](https://arxiv.org/abs/2211.14108), Gang Li et al., Arxiv 2021
+
 - [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/), Ben Poole et al., Arxiv 2022
 
 - [Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures](https://arxiv.org/abs/2211.07600), Gal Metzer et al., Arxiv 2023
@@ -36,6 +44,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [3D-aware Image Generation using 2D Diffusion Models](https://arxiv.org/abs/2303.17905), Jianfeng Xiang et al., Arxiv 2023
 
 - [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://make-it-3d.github.io/), Junshu Tang et al., Arxiv 2023
+
+- [Text-To-4D Dynamic Scene Generation](https://arxiv.org/abs/2301.11280), Uriel Singer et al., Arxiv 2023
 
 - [Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors](https://guochengqian.github.io/project/magic123/), Guocheng Qian et al., Arxiv 2023
 
@@ -69,6 +79,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [SceneScape: Text-Driven Consistent Scene Generation](https://scenescape.github.io/), Rafail Fridman et al., Arxiv 2023
 
+- [Local 3D Editing via 3D Distillation of CLIP Knowledge](https://arxiv.org/abs/2306.12570), Junha Hyung et al., Arxiv 2023
+
 - [CLIP-Mesh: Generating textured meshes from text using pretrained image-text models](https://www.nasir.lol/clipmesh), Nasir Khalid et al., Arxiv 2023
 
 - [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://lukashoel.github.io/text-to-room/), Lukas Höllein et al., Arxiv 2023
@@ -76,6 +88,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Shap-E: Generating Conditional 3D Implicit Functions](https://arxiv.org/abs/2305.02463), Heewoo Jun et al., Arxiv 2023
 
 - [Sketch-A-Shape: Zero-Shot Sketch-to-3D Shape Generation](https://arxiv.org/abs/2307.03869), Aditya Sanghi et al., Arxiv 2023
+
+- [RePaint-NeRF: NeRF Editting via Semantic Masks and Diffusion Models](https://arxiv.org/abs/2306.05668), Xingchen Zhou et al., Arxiv 2023
 
 - [Text2Tex: Text-driven Texture Synthesis via Diffusion Models](https://daveredrum.github.io/Text2Tex/), Dave Zhenyu Chen et al., Arxiv 2023
 
@@ -86,6 +100,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation](https://fantasia3d.github.io/), Rui Chen et al., Arxiv 2023
 
 - [DreamFace: Progressive Generation of Animatable 3D Faces under Text Guidance](https://arxiv.org/abs/2304.03117), Longwen Zhang et al., Arxiv 2023
+
+- [Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes](https://arxiv.org/abs/2303.13450), Dana Cohen-Bar et al., Arxiv 2023
   
 
 ## Datasets :floppy_disk:	
