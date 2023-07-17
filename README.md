@@ -17,6 +17,10 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/), Ben Poole et al., Arxiv 2022
 
+- [Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models](https://arxiv.org/abs/2212.14704), Jiale Xu et al., Arxiv 2022
+
+- [NeRF-Art: Text-Driven Neural Radiance Fields Stylization](https://arxiv.org/abs/2212.08070), Can Wang et al., Arxiv 2022
+
 - [Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures](https://arxiv.org/abs/2211.07600), Gal Metzer et al., Arxiv 2023
 
 - [Magic3D: High-Resolution Text-to-3D Content Creation](https://research.nvidia.com/labs/dir/magic3d/), Chen-Hsuan Linet et al., CVPR 2023
@@ -54,6 +58,10 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/), Ruoshi Liu  et al., Arxiv 2023
 
 - [ZeroAvatar: Zero-shot 3D Avatar Generation from a Single Image](https://zero123.cs.columbia.edu/), Zhenzhen Weng  et al., Arxiv 2023
+
+- [AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control](https://arxiv.org/abs/2303.17606), Ruixiang Jiang et al., Arxiv 2023
+
+- [TextDeformer: Geometry Manipulation using Text Guidance](https://arxiv.org/abs/2304.13348), William Gao et al., Arxiv 2033
 
 - [ATT3D: Amortized Text-to-3D Object Synthesis](https://research.nvidia.com/labs/toronto-ai/ATT3D/), Jonathan Lorraine  et al., Arxiv 2023
 
@@ -102,6 +110,10 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [DreamFace: Progressive Generation of Animatable 3D Faces under Text Guidance](https://arxiv.org/abs/2304.03117), Longwen Zhang et al., Arxiv 2023
 
 - [Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes](https://arxiv.org/abs/2303.13450), Dana Cohen-Bar et al., Arxiv 2023
+
+- [HeadSculpt: Crafting 3D Head Avatars with Text](https://arxiv.org/abs/2306.03038), Xiao Han et al., Arxiv 2023
+
+- [InstructP2P: Learning to Edit 3D Point Clouds with Text Instructions](https://arxiv.org/abs/2306.07154), Jiale Xu et al., Arxiv 2023
   
 
 ## Datasets :floppy_disk:	
