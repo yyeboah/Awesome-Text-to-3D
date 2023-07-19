@@ -7,7 +7,7 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 ## Papers :scroll:	
 
-- [Zero-Shot Text-Guided Object Generation with Dream Fields](https://arxiv.org/abs/2112.01455), Ajay Jain et al., Arxiv 2021
+- [Zero-Shot Text-Guided Object Generation with Dream Fields](https://arxiv.org/abs/2112.01455), Ajay Jain et al., CVPR 2022
 
 - [CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://arxiv.org/abs/2112.05139), Can Wang et al., Arxiv 2021
 
@@ -15,11 +15,15 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [3DDesigner: Towards Photorealistic 3D Object Generation and Editing with Text-guided Diffusion Models](https://arxiv.org/abs/2211.14108), Gang Li et al., Arxiv 2021
 
-- [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/), Ben Poole et al., Arxiv 2022
+- [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/), Ben Poole et al., ICLR 2023
 
 - [Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models](https://arxiv.org/abs/2212.14704), Jiale Xu et al., Arxiv 2022
 
 - [NeRF-Art: Text-Driven Neural Radiance Fields Stylization](https://arxiv.org/abs/2212.08070), Can Wang et al., Arxiv 2022
+
+- [Novel View Synthesis with Diffusion Models](https://arxiv.org/abs/2210.04628), Daniel Watson et al., Arxiv 2022
+
+- [Point-E: A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/abs/2212.08751), Alex Nichol et al., Arxiv 2022
 
 - [Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures](https://arxiv.org/abs/2211.07600), Gal Metzer et al., Arxiv 2023
 
@@ -28,6 +32,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [RealFusion: 360° Reconstruction of Any Object from a Single Image](https://arxiv.org/abs/2302.10663), Luke Melas-Kyriazi et al., CVPR 2023
 
 - [SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction](https://arxiv.org/abs/2212.00792), Zhizhuo Zho et al., CVPR 2023
+
+- [NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion](https://arxiv.org/abs/2302.10109), Jiatao Gu et al., Arxiv 2023
 
 - [Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation](https://arxiv.org/abs/2212.00774), Haochen Wang et al., CVPR 2023
 
@@ -51,9 +57,11 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Text-To-4D Dynamic Scene Generation](https://arxiv.org/abs/2301.11280), Uriel Singer et al., Arxiv 2023
 
+- [Text-To-4D Dynamic Scene Generation](https://arxiv.org/abs/2301.11280), Uriel Singer et al., Arxiv 2023
+
 - [Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors](https://guochengqian.github.io/project/magic123/), Guocheng Qian et al., Arxiv 2023
 
-- [DreamBooth3D: Subject-Driven Text-to-3D Generation](https://arxiv.org/abs/2303.13508/), Amit Raj et al., Arxiv 2023
+- [DreamBooth3D: Subject-Driven Text-to-3D Generation](https://arxiv.org/abs/2303.13508/), Amit Raj et al., ICCV 2023
 
 - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/), Ruoshi Liu  et al., Arxiv 2023
 
@@ -104,6 +112,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [3D VADER - AutoDecoding Latent 3D Diffusion Models](https://snap-research.github.io/3DVADER/), Evangelos Ntavelis et al., Arxiv 2023
 
 - [Control4D: Dynamic Portrait Editing by Learning 4D GAN from 2D Diffusion-based Editor](https://control4darxiv.github.io/), Ruizhi Shao et al., Arxiv 2023
+
+- [DreamSparse: Escaping from Plato's Cave with 2D Frozen Diffusion Model Given Sparse Views](https://arxiv.org/abs/2306.03414), Paul Yoo et al., Arxiv 2023
 
 - [Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation](https://fantasia3d.github.io/), Rui Chen et al., Arxiv 2023
 
