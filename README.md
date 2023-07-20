@@ -123,7 +123,7 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [HeadSculpt: Crafting 3D Head Avatars with Text](https://arxiv.org/abs/2306.03038), Xiao Han et al., Arxiv 2023
 
-- [Scalable 3D Captioning with Pretrained Models](https://arxiv.org/abs/2306.07279), Tiange Luo et al., Arxiv 2023
+- [Cap3D: Scalable 3D Captioning with Pretrained Models](https://arxiv.org/abs/2306.07279), Tiange Luo et al., Arxiv 2023
 
 - [InstructP2P: Learning to Edit 3D Point Clouds with Text Instructions](https://arxiv.org/abs/2306.07154), Jiale Xu et al., Arxiv 2023
   
