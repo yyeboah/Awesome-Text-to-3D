@@ -23,6 +23,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Novel View Synthesis with Diffusion Models](https://arxiv.org/abs/2210.04628), Daniel Watson et al., Arxiv 2022
 
+- [NeuralLift-360: Lifting An In-the-wild 2D Photo to A 3D Object with 360° Views](https://arxiv.org/abs/2211.16431), Dejia Xu et al., Arxiv 2022
+
 - [Point-E: A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/abs/2212.08751), Alex Nichol et al., Arxiv 2022
 
 - [Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures](https://arxiv.org/abs/2211.07600), Gal Metzer et al., Arxiv 2023
