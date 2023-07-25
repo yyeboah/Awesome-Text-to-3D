@@ -130,6 +130,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [InstructP2P: Learning to Edit 3D Point Clouds with Text Instructions](https://arxiv.org/abs/2306.07154), Jiale Xu et al., Arxiv 2023
 
 - [FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields](https://arxiv.org/abs/2307.11418), Sungwon Hwang et al., Arxiv 2023
+
+- [3D-LLM: Injecting the 3D World into Large Language Models](https://arxiv.org/abs/2307.12981), Yining Hong et al., Arxiv 2023
   
 
 ## Datasets :floppy_disk:	
