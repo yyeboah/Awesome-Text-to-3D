@@ -73,7 +73,7 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [TextDeformer: Geometry Manipulation using Text Guidance](https://arxiv.org/abs/2304.13348), William Gao et al., Arxiv 2033
 
-- [ATT3D: Amortized Text-to-3D Object Synthesis](https://research.nvidia.com/labs/toronto-ai/ATT3D/), Jonathan Lorraine  et al., Arxiv 2023
+- [ATT3D: Amortized Text-to-3D Object Synthesis](https://research.nvidia.com/labs/toronto-ai/ATT3D/), Jonathan Lorraine  et al., ICCV 2023
 
 - [Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation](https://neuralcarver.github.io/michelangelo/), Zibo Zhao  et al., Arxiv 2023
 
