@@ -15,7 +15,7 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [CG-NeRF: Conditional Generative Neural Radiance Fields](https://arxiv.org/abs/2112.03517), Kyungmin Jo et al., Arxiv 2021
 
-- [PreCLIPNERF: Understanding Pure CLIP Guidance for Voxel Grid NeRF Models](https://arxiv.org/abs/2209.15172), Han-Hung Lee et al., Arxiv 2022
+- [PureCLIPNERF: Understanding Pure CLIP Guidance for Voxel Grid NeRF Models](https://arxiv.org/abs/2209.15172), Han-Hung Lee et al., Arxiv 2022
 
 - [3DDesigner: Towards Photorealistic 3D Object Generation and Editing with Text-guided Diffusion Models](https://arxiv.org/abs/2211.14108), Gang Li et al., Arxiv 2022
 
