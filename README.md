@@ -115,6 +115,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://lukashoel.github.io/text-to-room/), Lukas Höllein et al., Arxiv 2023
 
+- [Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction](https://arxiv.org/abs/2304.06714), Hansheng Chen et al., Arxiv 2023
+
 - [Shap-E: Generating Conditional 3D Implicit Functions](https://arxiv.org/abs/2305.02463), Heewoo Jun et al., Arxiv 2023
 
 - [Sketch-A-Shape: Zero-Shot Sketch-to-3D Shape Generation](https://arxiv.org/abs/2307.03869), Aditya Sanghi et al., Arxiv 2023
