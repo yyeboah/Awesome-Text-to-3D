@@ -17,6 +17,10 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [PureCLIPNERF: Understanding Pure CLIP Guidance for Voxel Grid NeRF Models](https://arxiv.org/abs/2209.15172), Han-Hung Lee et al., Arxiv 2022
 
+- [TANGO: Text-driven Photorealistic and Robust 3D Stylization via Lighting Decomposition](https://arxiv.org/abs/2210.11277), Yongwei Chen et al., NeurIPS 2022
+
+- [SDFusion: Multimodal 3D Shape Completion, Reconstruction, and Generation](https://arxiv.org/abs/2212.04493), Yen-Chi Cheng et al., CVPR 2023
+
 - [3DDesigner: Towards Photorealistic 3D Object Generation and Editing with Text-guided Diffusion Models](https://arxiv.org/abs/2211.14108), Gang Li et al., Arxiv 2022
 
 - [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/), Ben Poole et al., ICLR 2023
@@ -75,7 +79,7 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [ZeroAvatar: Zero-shot 3D Avatar Generation from a Single Image](https://zero123.cs.columbia.edu/), Zhenzhen Weng  et al., Arxiv 2023
 
-- [AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control](https://arxiv.org/abs/2303.17606), Ruixiang Jiang et al., Arxiv 2023
+- [AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control](https://arxiv.org/abs/2303.17606), Ruixiang Jiang et al., ICCV 2023
 
 - [TextDeformer: Geometry Manipulation using Text Guidance](https://arxiv.org/abs/2304.13348), William Gao et al., Arxiv 2033
 
