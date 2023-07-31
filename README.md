@@ -67,7 +67,7 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://make-it-3d.github.io/), Junshu Tang et al., ICCV 2023
 
-- [Text-To-4D Dynamic Scene Generation](https://arxiv.org/abs/2301.11280), Uriel Singer et al., Arxiv 2023
+- [Re-imagine the Negative Prompt Algorithm: Transform 2D Diffusion into 3D, alleviate Janus problem and Beyond](https://arxiv.org/abs/2304.04968), Mohammadreza Armandpour et al., Arxiv 2023
 
 - [Text-To-4D Dynamic Scene Generation](https://arxiv.org/abs/2301.11280), Uriel Singer et al., Arxiv 2023
 
