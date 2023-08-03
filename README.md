@@ -41,6 +41,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [RealFusion: 360° Reconstruction of Any Object from a Single Image](https://arxiv.org/abs/2302.10663), Luke Melas-Kyriazi et al., CVPR 2023
 
+- [Monocular Depth Estimation using Diffusion Models](https://arxiv.org/abs/2302.14816), Saurabh Saxena et al., Arxiv 2023
+
 - [SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction](https://arxiv.org/abs/2212.00792), Zhizhuo Zho et al., CVPR 2023
 
 - [NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion](https://arxiv.org/abs/2302.10109), Jiatao Gu et al., ICML 2023
@@ -148,6 +150,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [3D-LLM: Injecting the 3D World into Large Language Models](https://arxiv.org/abs/2307.12981), Yining Hong et al., Arxiv 2023
 
 - [Points-to-3D: Bridging the Gap between Sparse Points and Shape-Controllable Text-to-3D Generation](https://arxiv.org/abs/2307.13908), Chaohui Yu et al., Arxiv 2023
+
+- [RGB-D-Fusion: Image Conditioned Depth Diffusion of Humanoid Subjects](https://arxiv.org/abs/2307.15988), Sascha Kirch et al., Arxiv 2023
   
 
 ## Datasets :floppy_disk:	
