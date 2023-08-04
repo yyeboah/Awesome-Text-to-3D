@@ -73,6 +73,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Text-To-4D Dynamic Scene Generation](https://arxiv.org/abs/2301.11280), Uriel Singer et al., Arxiv 2023
 
+- [Generative Novel View Synthesis with 3D-Aware Diffusion Models](https://arxiv.org/abs/2304.02602), Eric R. Chan et al., Arxiv 2023
+
 - [Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields](https://arxiv.org/abs/2305.11588), Jingbo Zhang et al., Arxiv 2023
 
 - [Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors](https://guochengqian.github.io/project/magic123/), Guocheng Qian et al., Arxiv 2023
