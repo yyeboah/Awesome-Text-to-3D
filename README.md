@@ -7,7 +7,7 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 ## Papers :scroll:	
 
-- [Zero-Shot Text-Guided Object Generation with Dream Fields](https://arxiv.org/abs/2112.01455), Ajay Jain et al., CVPR 2022
+- [Zero-Shot Text-Guided Object Generation with Dream Fields](https://arxiv.org/abs/2112.01455), Ajay Jain et al., CVPR 2022 | [citation](./references/citations.bib#L1-L6)
 
 - [CLIP-Forge: Towards Zero-Shot Text-to-Shape Generation](https://arxiv.org/abs/2110.02624), Aditya Sanghi et al., Arxiv 2021
 
