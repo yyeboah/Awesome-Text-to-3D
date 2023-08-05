@@ -4,12 +4,13 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 ## Recent Updates :newspaper:
 * `06.07.2023` - Created initial list
+* `05.08.2023` - Provided citations in BibTeX
 
 ## Papers :scroll:	
 
 - [Zero-Shot Text-Guided Object Generation with Dream Fields](https://arxiv.org/abs/2112.01455), Ajay Jain et al., CVPR 2022 | [citation](./references/citations.bib#L1-L6)
 
-- [CLIP-Forge: Towards Zero-Shot Text-to-Shape Generation](https://arxiv.org/abs/2110.02624), Aditya Sanghi et al., Arxiv 2021 | [citation](./references/citations.bib#L8-L3)
+- [CLIP-Forge: Towards Zero-Shot Text-to-Shape Generation](https://arxiv.org/abs/2110.02624), Aditya Sanghi et al., Arxiv 2021 | [citation](./references/citations.bib#L8-L13)
 
 - [CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://arxiv.org/abs/2112.05139), Can Wang et al., Arxiv 2021 | [citation](./references/citations.bib#L15-L20)
 
@@ -173,5 +174,5 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 ## TODO
 - [x] Initial List of the STOA
-- [ ] Provide citations in BibTeX
+- [x] Provide citations in BibTeX
 - [ ] Sub-categorize based on input conditioning 
