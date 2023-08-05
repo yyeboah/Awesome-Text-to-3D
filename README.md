@@ -3,8 +3,8 @@
 A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF)
 
 ## Recent Updates :newspaper:
-* `06.07.2023` - Created initial list
 * `05.08.2023` - Provided citations in BibTeX
+* `06.07.2023` - Created initial list
 
 ## Papers :scroll:	
 
