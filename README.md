@@ -157,6 +157,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Points-to-3D: Bridging the Gap between Sparse Points and Shape-Controllable Text-to-3D Generation](https://arxiv.org/abs/2307.13908), Chaohui Yu et al., Arxiv 2023 | [citation](./references/citations.bib#L505-L510)
 
 - [RGB-D-Fusion: Image Conditioned Depth Diffusion of Humanoid Subjects](https://arxiv.org/abs/2307.15988), Sascha Kirch et al., Arxiv 2023 | [citation](./references/citations.bib#L512-L517)
+
+- [AvatarVerse: High-quality & Stable 3D Avatar Creation from Text and Pose](https://arxiv.org/abs/2308.03610), Huichao Zhang et al., Arxiv 2023 | [citation](./references/citations.bib#L547-L552)
   
 
 ## Datasets :floppy_disk:	
