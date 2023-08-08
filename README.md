@@ -167,7 +167,7 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Objaverse-XL: A Universe of 10M+ 3D Objects](https://objaverse.allenai.org/objaverse-xl-paper.pdf), Matt Deitke et al., Preprint 2023 | [citation](./references/citations.bib#L526-L531)
 
-- [Describe3D: High-Fidelity 3D Face Generation from Natural Language Descriptions](https://arxiv.org/abs/2305.03302), Menghua Wu et al., CVPR2023 | [citation](./references/citations.bib#L533-L538)
+- [Describe3D: High-Fidelity 3D Face Generation from Natural Language Descriptions](https://arxiv.org/abs/2305.03302), Menghua Wu et al., CVPR 2023 | [citation](./references/citations.bib#L533-L538)
   
 
 ## Frameworks :desktop_computer:
