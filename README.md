@@ -124,6 +124,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction](https://arxiv.org/abs/2304.06714), Hansheng Chen et al., Arxiv 2023 | [citation](./references/citations.bib#L393-L398)
 
+- [PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion](https://arxiv.org/abs/2304.01900), Gwanghyun Kim et al., ICCV 2023 | [citation](./references/citations.bib#L561-L566)
+
 - [Shap-E: Generating Conditional 3D Implicit Functions](https://arxiv.org/abs/2305.02463), Heewoo Jun et al., Arxiv 2023 | [citation](./references/citations.bib#L400-L405)
 
 - [Sketch-A-Shape: Zero-Shot Sketch-to-3D Shape Generation](https://arxiv.org/abs/2307.03869), Aditya Sanghi et al., Arxiv 2023 | [citation](./references/citations.bib#L407-L412)
@@ -149,6 +151,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Cap3D: Scalable 3D Captioning with Pretrained Models](https://arxiv.org/abs/2306.07279), Tiange Luo et al., Arxiv 2023 | [citation](./references/citations.bib#L477-L482)
 
 - [InstructP2P: Learning to Edit 3D Point Clouds with Text Instructions](https://arxiv.org/abs/2306.07154), Jiale Xu et al., Arxiv 2023 | [citation](./references/citations.bib#L484-L489)
+
+- [DreamHuman: Animatable 3D Avatars from Text](https://arxiv.org/abs/2306.09329), Nikos Kolotouros et al., Arxiv 2023 | [citation](./references/citations.bib#L554-L559)
 
 - [FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields](https://arxiv.org/abs/2307.11418), Sungwon Hwang et al., Arxiv 2023 | [citation](./references/citations.bib#L491-L496)
 
