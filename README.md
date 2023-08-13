@@ -104,7 +104,7 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://instruct-nerf2nerf.github.io/), Ayaan Haque et al., Arxiv 2023 | [citation](./references/citations.bib#L323-L328)
 
-- [Fuse3D: Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Junyoung Seo et al., Arxiv 2023 | [citation](./references/citations.bib#L330-L335)
+- [3DFuse: Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Junyoung Seo et al., Arxiv 2023 | [citation](./references/citations.bib#L330-L335)
 
 - [MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion](https://mvdiffusion.github.io/), Shitao Tang et al., Arxiv 2023 | [citation](./references/citations.bib#L337-L342)
 
