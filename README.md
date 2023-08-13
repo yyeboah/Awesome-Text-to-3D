@@ -182,6 +182,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Nerfstudio: A Modular Framework for Neural Radiance Field Development](https://docs.nerf.studio/en/latest/index.html), Matthew Tancik et al., SIGGRAPH 2023
 
+- [Mirage3D: Open-Source Implementations of 3D Diffusion Models Optimized for GLB Output](https://github.com/MirageML/Mirage3D), Mirageml et al., Github 2023
+
 ## TODO
 - [x] Initial List of the STOA
 - [x] Provide citations in BibTeX
