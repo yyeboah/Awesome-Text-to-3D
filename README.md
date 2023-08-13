@@ -126,6 +126,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion](https://arxiv.org/abs/2304.01900), Gwanghyun Kim et al., ICCV 2023 | [citation](./references/citations.bib#L561-L566)
 
+- [Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D Diffusion Probabilistic Models](https://arxiv.org/abs/2305.11870), Byungjun Kim et al., ICCV 2023 | [citation](./references/citations.bib#L568-L573)
+
 - [Shap-E: Generating Conditional 3D Implicit Functions](https://arxiv.org/abs/2305.02463), Heewoo Jun et al., Arxiv 2023 | [citation](./references/citations.bib#L400-L405)
 
 - [Sketch-A-Shape: Zero-Shot Sketch-to-3D Shape Generation](https://arxiv.org/abs/2307.03869), Aditya Sanghi et al., Arxiv 2023 | [citation](./references/citations.bib#L407-L412)
