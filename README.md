@@ -169,6 +169,10 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [TeCH: Text-guided Reconstruction of Lifelike Clothed Humans](https://arxiv.org/abs/2308.08545), Yangyi Huang et al., Arxiv 2023 | [citation](./references/citations.bib#L575-L580)
 
 - [HumanLiff: Layer-wise 3D Human Generation with Diffusion Model](https://skhu101.github.io/HumanLiff/), Hu Shoukang et al., Arxiv 2023 | [citation](./references/citations.bib#L582-L587)
+
+- [TADA! Text to Animatable Digital Avatars](https://tada.is.tue.mpg.de), Tingting Liao et al., Arxiv 2023 | [citation](./references/citations.bib#L589-L594)
+
+- [MATLABER: Material-Aware Text-to-3D via LAtent BRDF auto-EncodeR](https://arxiv.org/abs/2308.09278), Xudong Xu et al., Arxiv 2023 | [citation](./references/citations.bib#L596-L601)
   
 
 ## Datasets :floppy_disk:	
