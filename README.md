@@ -167,6 +167,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [AvatarVerse: High-quality & Stable 3D Avatar Creation from Text and Pose](https://arxiv.org/abs/2308.03610), Huichao Zhang et al., Arxiv 2023 | [citation](./references/citations.bib#L547-L552)
 
 - [TeCH: Text-guided Reconstruction of Lifelike Clothed Humans](https://arxiv.org/abs/2308.08545), Yangyi Huang et al., Arxiv 2023 | [citation](./references/citations.bib#L575-L580)
+
+- [HumanLiff: Layer-wise 3D Human Generation with Diffusion Model](https://skhu101.github.io/HumanLiff/), Hu Shoukang et al., Arxiv 2023 | [citation](./references/citations.bib#L582-L587)
   
 
 ## Datasets :floppy_disk:	
