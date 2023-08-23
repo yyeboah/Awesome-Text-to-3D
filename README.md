@@ -173,6 +173,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [TADA! Text to Animatable Digital Avatars](https://tada.is.tue.mpg.de), Tingting Liao et al., Arxiv 2023 | [citation](./references/citations.bib#L589-L594)
 
 - [MATLABER: Material-Aware Text-to-3D via LAtent BRDF auto-EncodeR](https://arxiv.org/abs/2308.09278), Xudong Xu et al., Arxiv 2023 | [citation](./references/citations.bib#L596-L601)
+
+- [IT3D: Improved Text-to-3D Generation with Explicit View Synthesis](https://arxiv.org/abs/2308.11473), Yiwen Chen et al., Arxiv 2023 | [citation](./references/citations.bib#L603-L608)
   
 
 ## Datasets :floppy_disk:	
