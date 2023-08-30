@@ -177,6 +177,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [IT3D: Improved Text-to-3D Generation with Explicit View Synthesis](https://arxiv.org/abs/2308.11473), Yiwen Chen et al., Arxiv 2023 | [citation](./references/citations.bib#L603-L608)
 
 - [SATR: Zero-Shot Semantic Segmentation of 3D Shapes](https://arxiv.org/abs/2304.04909), Ahmed Abdelreheem et al., ICCV 2023 | [citation](./references/citations.bib#L610-L615)
+
+- [One-shot Implicit Animatable Avatars with Model-based Priors](https://arxiv.org/abs/2212.02469v2), Yangyi Huang et al., ICCV 2023 | [citation](./references/citations.bib#L617-L622)
   
 
 ## Datasets :floppy_disk:	
