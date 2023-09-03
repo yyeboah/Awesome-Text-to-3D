@@ -179,6 +179,10 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [SATR: Zero-Shot Semantic Segmentation of 3D Shapes](https://arxiv.org/abs/2304.04909), Ahmed Abdelreheem et al., ICCV 2023 | [citation](./references/citations.bib#L610-L615)
 
 - [One-shot Implicit Animatable Avatars with Model-based Priors](https://arxiv.org/abs/2212.02469v2), Yangyi Huang et al., ICCV 2023 | [citation](./references/citations.bib#L617-L622)
+
+- [MVDream: Multi-view Diffusion for 3D Generation](https://arxiv.org/abs/2308.16512), Yichun Shi et al., Arxiv 2023 | [citation](./references/citations.bib#L624-L629)
+
+- [PointLLM: Empowering Large Language Models to Understand Point Clouds](https://arxiv.org/abs/2308.16911), Xu Runsen et al., Arxiv 2023 | [citation](./references/citations.bib#L631-L636)
   
 
 ## Datasets :floppy_disk:	
