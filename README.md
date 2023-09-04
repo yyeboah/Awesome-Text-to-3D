@@ -180,6 +180,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [One-shot Implicit Animatable Avatars with Model-based Priors](https://arxiv.org/abs/2212.02469v2), Yangyi Huang et al., ICCV 2023 | [citation](./references/citations.bib#L617-L622)
 
+- [Texture Generation on 3D Meshes with Point-UV Diffusion](https://arxiv.org/abs/2308.10490), Xin Yu et al., ICCV 2023 | [citation](./references/citations.bib#L638-L643)
+
 - [MVDream: Multi-view Diffusion for 3D Generation](https://arxiv.org/abs/2308.16512), Yichun Shi et al., Arxiv 2023 | [citation](./references/citations.bib#L624-L629)
 
 - [PointLLM: Empowering Large Language Models to Understand Point Clouds](https://arxiv.org/abs/2308.16911), Xu Runsen et al., Arxiv 2023 | [citation](./references/citations.bib#L631-L636)
