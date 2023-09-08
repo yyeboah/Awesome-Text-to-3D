@@ -185,6 +185,10 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [MVDream: Multi-view Diffusion for 3D Generation](https://arxiv.org/abs/2308.16512), Yichun Shi et al., Arxiv 2023 | [citation](./references/citations.bib#L624-L629)
 
 - [PointLLM: Empowering Large Language Models to Understand Point Clouds](https://arxiv.org/abs/2308.16911), Xu Runsen et al., Arxiv 2023 | [citation](./references/citations.bib#L631-L636)
+
+- [SyncDreamer: Generating Multiview-consistent Images from a Single-view Image](https://arxiv.org/abs/2309.03453), Yuan Liu et al., Arxiv 2023 | [citation](./references/citations.bib#L645-L650)
+
+- [Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model](https://arxiv.org/abs/2309.03550), Sungwon Hwang et al., Arxiv 2023 | [citation](./references/citations.bib#L652-L657)
   
 
 ## Datasets :floppy_disk:	
