@@ -189,6 +189,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [SyncDreamer: Generating Multiview-consistent Images from a Single-view Image](https://arxiv.org/abs/2309.03453), Yuan Liu et al., Arxiv 2023 | [citation](./references/citations.bib#L645-L650)
 
 - [Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model](https://arxiv.org/abs/2309.03550), Sungwon Hwang et al., Arxiv 2023 | [citation](./references/citations.bib#L652-L657)
+
+- [Text-Guided Generation and Editing of Compositional 3D Avatars](https://arxiv.org/abs/2309.07125), Hao Zhang et al., Arxiv 2023 | [citation](./references/citations.bib#L659-L664)
   
 
 ## Datasets :floppy_disk:	
