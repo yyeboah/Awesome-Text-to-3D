@@ -70,6 +70,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [3D-aware Image Generation using 2D Diffusion Models](https://arxiv.org/abs/2303.17905), Jianfeng Xiang et al., Arxiv 2023 | [citation](./references/citations.bib#L204-L209)
 
+- [DINAR: Diffusion Inpainting of Neural Textures for One-Shot Human Avatars](https://arxiv.org/abs/2303.09375), David Svitov et al., Arxiv 2023 | [citation](./references/citations.bib#L666-L671)
+
 - [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://make-it-3d.github.io/), Junshu Tang et al., ICCV 2023 | [citation](./references/citations.bib#L211-L216)
 
 - [Re-imagine the Negative Prompt Algorithm: Transform 2D Diffusion into 3D, alleviate Janus problem and Beyond](https://arxiv.org/abs/2304.04968), Mohammadreza Armandpour et al., Arxiv 2023 | [citation](./references/citations.bib#L218-L223)
@@ -191,6 +193,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model](https://arxiv.org/abs/2309.03550), Sungwon Hwang et al., Arxiv 2023 | [citation](./references/citations.bib#L652-L657)
 
 - [Text-Guided Generation and Editing of Compositional 3D Avatars](https://arxiv.org/abs/2309.07125), Hao Zhang et al., Arxiv 2023 | [citation](./references/citations.bib#L659-L664)
+
+- [Large-Vocabulary 3D Diffusion Model with Transformer](https://arxiv.org/abs/2309.07920), Ziang Cao et al., Arxiv 2023 | [citation](./references/citations.bib#L673-L678)
   
 
 ## Datasets :floppy_disk:	
