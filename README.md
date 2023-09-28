@@ -195,6 +195,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Text-Guided Generation and Editing of Compositional 3D Avatars](https://arxiv.org/abs/2309.07125), Hao Zhang et al., Arxiv 2023 | [citation](./references/citations.bib#L659-L664)
 
 - [Large-Vocabulary 3D Diffusion Model with Transformer](https://arxiv.org/abs/2309.07920), Ziang Cao et al., Arxiv 2023 | [citation](./references/citations.bib#L673-L678)
+
+- [Progressive Text-to-3D Generation for Automatic 3D Prototyping](https://arxiv.org/abs/2309.14600), Han Yi et al., Arxiv 2023 | [citation](./references/citations.bib#L680-L685)
   
 
 ## Datasets :floppy_disk:	
