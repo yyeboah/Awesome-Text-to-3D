@@ -202,9 +202,9 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation](https://arxiv.org/abs/2309.16653), Jiaxiang Tang et al., Arxiv 2023 | [citation](./references/citations.bib#L687-L692)
 
-- [SweetDreamer: Aligning Geometric Priors in 2D Diffusion for Consistent Text-to-3D](https://arxiv.org/abs/2310.02596), Weiyu Li, Rui Chen, Xuelin Chen, Ping Tan., Arxiv 2023 | [citation](./references/citations.bib#L701-L706)
+- [SweetDreamer: Aligning Geometric Priors in 2D Diffusion for Consistent Text-to-3D](https://arxiv.org/abs/2310.02596), Weiyu Li et al., Arxiv 2023 | [citation](./references/citations.bib#L701-L706)
 
-- [HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation](https://arxiv.org/abs/2310.01406), Xin Huang and Ruizhi Shao and Qi Zhang and Hongwen Zhang and Ying Feng and Yebin Liu and Qing Wang., Arxiv 2023 | [citation](./references/citations.bib#L708-L713)
+- [HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation](https://arxiv.org/abs/2310.01406), Xin Huang et al., Arxiv 2023 | [citation](./references/citations.bib#L708-L713)
 
   
 
