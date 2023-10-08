@@ -206,6 +206,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation](https://arxiv.org/abs/2310.01406), Xin Huang et al., Arxiv 2023 | [citation](./references/citations.bib#L708-L713)
 
+- [Consistent123: One Image to Highly Consistent 3D Asset Using Case-Aware Diffusion Priors](https://arxiv.org/abs/2309.17261), Yukang Lin et al., Arxiv 2023 | [citation](./references/citations.bib#L715-L720)
+
   
 
 ## Datasets :floppy_disk:	
