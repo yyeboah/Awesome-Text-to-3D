@@ -213,7 +213,6 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Text-to-3D using Gaussian Splatting](https://arxiv.org/abs/2309.16585), Zilong Chen et al., Arxiv 2023 | [citation](./references/citations.bib#L729-L734)
 
   
-
 ## Datasets :floppy_disk:	
 
 - [Objaverse: A Universe of Annotated 3D Objects](https://arxiv.org/abs/2212.08051), Matt Deitke et al., Arxiv 2022 | [citation](./references/citations.bib#L519-L524)
