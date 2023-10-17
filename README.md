@@ -210,7 +210,7 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [GaussianDreamer: Fast Generation from Text to 3D Gaussian Splatting with Point Cloud Priors](https://arxiv.org/abs/2310.08529),Taoran Yi et al., Arxiv 2023 | [citation](./references/citations.bib#L722-L727)
 
-- [Text-to-3D using Gaussian Splatting](https://arxiv.org/abs/2309.16585), Zilong Chen et al., Arxiv 2023 | [citation](./references/citations.bib#729-L734)
+- [Text-to-3D using Gaussian Splatting](https://arxiv.org/abs/2309.16585), Zilong Chen et al., Arxiv 2023 | [citation](./references/citations.bib#L729-L734)
 
   
 
