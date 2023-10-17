@@ -208,6 +208,10 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Consistent123: One Image to Highly Consistent 3D Asset Using Case-Aware Diffusion Priors](https://arxiv.org/abs/2309.17261), Yukang Lin et al., Arxiv 2023 | [citation](./references/citations.bib#L715-L720)
 
+- [GaussianDreamer: Fast Generation from Text to 3D Gaussian Splatting with Point Cloud Priors](https://arxiv.org/abs/2310.08529),Taoran Yi et al., Arxiv 2023 | [citation](./references/citations.bib#L722-L727)
+
+- [Text-to-3D using Gaussian Splatting](https://arxiv.org/abs/2309.16585), Zilong Chen et al., Arxiv 2023 | [citation](./references/citations.bib#729-L734)
+
   
 
 ## Datasets :floppy_disk:	
