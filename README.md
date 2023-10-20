@@ -212,6 +212,10 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Text-to-3D using Gaussian Splatting](https://arxiv.org/abs/2309.16585), Zilong Chen et al., Arxiv 2023 | [citation](./references/citations.bib#L729-L734)
 
+- [Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts](https://arxiv.org/abs/2310.11784), Xinhua Cheng et al., Arxiv 2023 | [citation](./references/citations.bib#L736-L741)
+
+- [3D-GPT: Procedural 3D Modeling with Large Language Models](https://arxiv.org/abs/2310.12945), Chunyi Sun et al., Arxiv 2023 | [citation](./references/citations.bib#L743-L748)
+
   
 ## Datasets :floppy_disk:	
 
