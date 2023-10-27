@@ -216,6 +216,9 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [3D-GPT: Procedural 3D Modeling with Large Language Models](https://arxiv.org/abs/2310.12945), Chunyi Sun et al., Arxiv 2023 | [citation](./references/citations.bib#L743-L748)
 
+- [Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model](https://arxiv.org/abs/2310.15110), Ruoxi Shi et al., Arxiv 2023 | [citation](./references/citations.bib#L750-L755)
+
+- [DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior](https://arxiv.org/abs/2310.16818), Jingxiang Sun et al., Arxiv 2023 | [citation](./references/citations.bib#L757-L762)
   
 ## Datasets :floppy_disk:	
 
