@@ -231,6 +231,12 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Objaverse-XL: A Universe of 10M+ 3D Objects](https://objaverse.allenai.org/objaverse-xl-paper.pdf), Matt Deitke et al., Preprint 2023 | [citation](./references/citations.bib#L526-L531)
 
 - [Describe3D: High-Fidelity 3D Face Generation from Natural Language Descriptions](https://arxiv.org/abs/2305.03302), Menghua Wu et al., CVPR 2023 | [citation](./references/citations.bib#L533-L538)
+
+- [Text-to-3D with classifier score distillation](https://arxiv.org/abs/2310.19415), Xin Yu et al., Arxiv 2023 | [citation](./references/citations.bib#L778-L783)
+
+- [Noise-Free Score Distillation](https://arxiv.org/abs/2310.17590), Oren Katzir et al., Arxiv 2023 | [citation](./references/citations.bib#L785-L790)
+
+- [CustomNet: Zero-shot Object Customization with Variable-Viewpoints in Text-to-Image Diffusion Models](https://arxiv.org/abs/2310.19784), Ziyang YUan et al., Arxiv 2023 | [citation](./references/citations.bib#L792-L797)
   
 
 ## Frameworks :desktop_computer:
