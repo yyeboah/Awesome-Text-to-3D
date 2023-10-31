@@ -228,7 +228,7 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Noise-Free Score Distillation](https://arxiv.org/abs/2310.17590), Oren Katzir et al., Arxiv 2023 | [citation](./references/citations.bib#L785-L790)
 
-- [CustomNet: Zero-shot Object Customization with Variable-Viewpoints in Text-to-Image Diffusion Models](https://arxiv.org/abs/2310.19784), Ziyang YUan et al., Arxiv 2023 | [citation](./references/citations.bib#L792-L797)
+- [CustomNet: Zero-shot Object Customization with Variable-Viewpoints in Text-to-Image Diffusion Models](https://arxiv.org/abs/2310.19784), Ziyang Yuan et al., Arxiv 2023 | [citation](./references/citations.bib#L792-L797)
 
   
 ## Datasets :floppy_disk:	
