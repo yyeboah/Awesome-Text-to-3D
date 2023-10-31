@@ -223,6 +223,13 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [HyperFields: Towards Zero-Shot Generation of NeRFs from Text](https://arxiv.org/abs/2310.17075), Sudarshan Babu et al., Arxiv 2023 | [citation](./references/citations.bib#L764-L769)
 
 - [Enhancing High-Resolution 3D Generation through Pixel-wise Gradient Clipping](https://arxiv.org/abs/2310.12474), Zijie Pan et al., Arxiv 2023 | [citation](./references/citations.bib#L771-L776)
+
+- [Text-to-3D with classifier score distillation](https://arxiv.org/abs/2310.19415), Xin Yu et al., Arxiv 2023 | [citation](./references/citations.bib#L778-L783)
+
+- [Noise-Free Score Distillation](https://arxiv.org/abs/2310.17590), Oren Katzir et al., Arxiv 2023 | [citation](./references/citations.bib#L785-L790)
+
+- [CustomNet: Zero-shot Object Customization with Variable-Viewpoints in Text-to-Image Diffusion Models](https://arxiv.org/abs/2310.19784), Ziyang YUan et al., Arxiv 2023 | [citation](./references/citations.bib#L792-L797)
+
   
 ## Datasets :floppy_disk:	
 
@@ -232,12 +239,6 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Describe3D: High-Fidelity 3D Face Generation from Natural Language Descriptions](https://arxiv.org/abs/2305.03302), Menghua Wu et al., CVPR 2023 | [citation](./references/citations.bib#L533-L538)
 
-- [Text-to-3D with classifier score distillation](https://arxiv.org/abs/2310.19415), Xin Yu et al., Arxiv 2023 | [citation](./references/citations.bib#L778-L783)
-
-- [Noise-Free Score Distillation](https://arxiv.org/abs/2310.17590), Oren Katzir et al., Arxiv 2023 | [citation](./references/citations.bib#L785-L790)
-
-- [CustomNet: Zero-shot Object Customization with Variable-Viewpoints in Text-to-Image Diffusion Models](https://arxiv.org/abs/2310.19784), Ziyang YUan et al., Arxiv 2023 | [citation](./references/citations.bib#L792-L797)
-  
 
 ## Frameworks :desktop_computer:
 
@@ -246,6 +247,7 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Nerfstudio: A Modular Framework for Neural Radiance Field Development](https://docs.nerf.studio/en/latest/index.html), Matthew Tancik et al., SIGGRAPH 2023
 
 - [Mirage3D: Open-Source Implementations of 3D Diffusion Models Optimized for GLB Output](https://github.com/MirageML/Mirage3D), Mirageml et al., Github 2023
+
 
 ## TODO
 - [x] Initial List of the STOA
