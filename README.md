@@ -230,6 +230,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [CustomNet: Zero-shot Object Customization with Variable-Viewpoints in Text-to-Image Diffusion Models](https://arxiv.org/abs/2310.19784), Ziyang Yuan et al., Arxiv 2023 | [citation](./references/citations.bib#L792-L797)
 
+- [Consistent4D: Consistent 360 Degree Dynamic Object Generation from Monocular Video](https://arxiv.org/abs/2311.02848), Yanqin Jiang et al., Arxiv 2023 | [citation](./references/citations.bib#L799-L809)
+
   
 ## Datasets :floppy_disk:	
 
