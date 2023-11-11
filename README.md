@@ -232,6 +232,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Consistent4D: Consistent 360 Degree Dynamic Object Generation from Monocular Video](https://arxiv.org/abs/2311.02848), Yanqin Jiang et al., Arxiv 2023 | [citation](./references/citations.bib#L799-L809)
 
+- [LRM: Large Reconstruction Model for Single Image to 3D](https://arxiv.org/abs/2311.04400), Yicong Hong et al., Arxiv 2023 | [citation](./references/citations.bib#L806-L811)
+
   
 ## Datasets :floppy_disk:	
 
