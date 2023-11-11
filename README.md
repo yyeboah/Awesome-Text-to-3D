@@ -3,6 +3,7 @@
 A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF)
 
 ## Recent Updates :newspaper:
+* `11.11.2023` - Added [Tutorial Videos](https://github.com/yyeboah/Awesome-Text-to-3D/blob/a387201d3f284cad7fd364c983af3d3f349e0dd3/README.md#L257)
 * `05.08.2023` - Provided citations in BibTeX
 * `06.07.2023` - Created initial list
 
@@ -251,6 +252,11 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Nerfstudio: A Modular Framework for Neural Radiance Field Development](https://docs.nerf.studio/en/latest/index.html), Matthew Tancik et al., SIGGRAPH 2023
 
 - [Mirage3D: Open-Source Implementations of 3D Diffusion Models Optimized for GLB Output](https://github.com/MirageML/Mirage3D), Mirageml et al., Github 2023
+
+
+## Tutorial Videos :tv:
+
+- [AI 3D Generation, explained](https://www.youtube.com/watch?v=EoAm1yZR-ao)
 
 
 ## TODO
