@@ -3,7 +3,7 @@
 A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF)
 
 ## Recent Updates :newspaper:
-* `11.11.2023` - Added [Tutorial Videos](https://github.com/yyeboah/Awesome-Text-to-3D/blob/a387201d3f284cad7fd364c983af3d3f349e0dd3/README.md#L257)
+* `11.11.2023` - Added [Tutorial Videos](https://github.com/yyeboah/Awesome-Text-to-3D/blob/87ab50f78ee6f320fdfde82dacaff4a97fb39f84/README.md#L257-L259)
 * `05.08.2023` - Provided citations in BibTeX
 * `06.07.2023` - Created initial list
 
