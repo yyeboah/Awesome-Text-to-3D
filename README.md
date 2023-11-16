@@ -235,6 +235,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [LRM: Large Reconstruction Model for Single Image to 3D](https://arxiv.org/abs/2311.04400), Yicong Hong et al., Arxiv 2023 | [citation](./references/citations.bib#L806-L811)
 
+- [One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion](https://arxiv.org/abs/2311.07885), Minghua Liu et al., Arxiv 2023 | [citation](./references/citations.bib#L813-L818)
+
   
 ## Datasets :floppy_disk:	
 
