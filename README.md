@@ -237,6 +237,10 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion](https://arxiv.org/abs/2311.07885), Minghua Liu et al., Arxiv 2023 | [citation](./references/citations.bib#L813-L818)
 
+- [LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching](https://arxiv.org/abs/2311.11284), Yixun Liang et al., Arxiv 2023 | [citation](./references/citations.bib#L820-L825)
+
+- [MetaDreamer: Efficient Text-to-3D Creation With Disentangling Geometry and Texture](https://arxiv.org/abs/2311.10123), Lincong Feng et al., Arxiv 2023 | [citation](./references/citations.bib#L827-L832)
+
   
 ## Datasets :floppy_disk:	
 
