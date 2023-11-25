@@ -241,6 +241,7 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [MetaDreamer: Efficient Text-to-3D Creation With Disentangling Geometry and Texture](https://arxiv.org/abs/2311.10123), Lincong Feng et al., Arxiv 2023 | [citation](./references/citations.bib#L827-L832)
 
+- [Decorate3D: Text-Driven High-Quality Texture Generation for Mesh Decoration in the Wild]([https://arxiv.org/abs/2311.10123](https://openreview.net/pdf?id=1recIOnzOF)), Yanhui Guo et al., NeurIPS 2023 | [citation](./references/citations.bib#L834-L840)
   
 ## Datasets :floppy_disk:	
 
