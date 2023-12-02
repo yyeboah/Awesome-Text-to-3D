@@ -242,6 +242,17 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [MetaDreamer: Efficient Text-to-3D Creation With Disentangling Geometry and Texture](https://arxiv.org/abs/2311.10123), Lincong Feng et al., Arxiv 2023 | [citation](./references/citations.bib#L827-L832)
 
 - [Decorate3D: Text-Driven High-Quality Texture Generation for Mesh Decoration in the Wild](https://openreview.net/pdf?id=1recIOnzOF), Yanhui Guo et al., NeurIPS 2023 | [citation](./references/citations.bib#L834-L840)
+
+- [4D-fy:Text-to-4D Generation Using Hybrid Score Distillation Sampling](https://arxiv.org/abs/2311.17984), Lincong Feng et al., Arxiv 2023 | [citation](./references/citations.bib#L842-L847)
+
+- [Adversarial Diffusion Distillation](https://arxiv.org/abs/2311.17042), Axel Sauer et al., Arxiv 2023 | [citation](./references/citations.bib#L849-L854)
+
+- [HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting](https://arxiv.org/abs/2311.17061), Xian Liu et al., Arxiv 2023 | [citation](./references/citations.bib#L856-L861)
+
+- [MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers](https://arxiv.org/abs/2311.15475), Yawar Siddiqui et al., Arxiv 2023| [citation](./references/citations.bib#L863-L868)
+
+- [DreamPropeller: Supercharge Text-to-3D Generation with Parallel Sampling](https://arxiv.org/abs/2311.17082), Linqi Zhou et al., Arxiv 2023| [citation](./references/citations.bib#L870-L875)
+
   
 ## Datasets :floppy_disk:	
 
