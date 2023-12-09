@@ -252,7 +252,12 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers](https://arxiv.org/abs/2311.15475), Yawar Siddiqui et al., Arxiv 2023| [citation](./references/citations.bib#L863-L868)
 
 - [DreamPropeller: Supercharge Text-to-3D Generation with Parallel Sampling](https://arxiv.org/abs/2311.17082), Linqi Zhou et al., Arxiv 2023| [citation](./references/citations.bib#L870-L875)
+  
+- [HyperDreamer: Hyper-Realistic 3D Content Generation and Editing from a Single Image](https://arxiv.org/abs/2312.04543), Tong Wu et al., Arxiv 2023 | [citation](./references/citations.bib#L877-L882)
 
+- [X-Dreamer: Creating High-quality 3D Content by Bridging the Domain Gap Between Text-to-2D and Text-to-3D Generation](https://arxiv.org/abs/2312.00085), Yiwei Ma et al., Arxiv 2023 | [citation](./references/citations.bib#L884-L889)
+
+- [Text-Guided 3D Face Synthesis: From Generation to Editing](https://arxiv.org/abs/2312.00375), Yunjie Wu wt al., Arxiv 2023 | [citation](./references/citations.bib#L891-L896)
   
 ## Datasets :floppy_disk:	
 
