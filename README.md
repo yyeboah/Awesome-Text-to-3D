@@ -258,6 +258,8 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [X-Dreamer: Creating High-quality 3D Content by Bridging the Domain Gap Between Text-to-2D and Text-to-3D Generation](https://arxiv.org/abs/2312.00085), Yiwei Ma et al., Arxiv 2023 | [citation](./references/citations.bib#L884-L889)
 
 - [Text-Guided 3D Face Synthesis: From Generation to Editing](https://arxiv.org/abs/2312.00375), Yunjie Wu wt al., Arxiv 2023 | [citation](./references/citations.bib#L891-L896)
+
+- [StableDreamer: Taming Noisy Score Distillation Sampling for Text-to-3D](https://arxiv.org/abs/2312.02189), Pengsheng Guo et al., Arxiv 2023 | [citation](./references/citations.bib#L898-L903)
   
 ## Datasets :floppy_disk:	
 
