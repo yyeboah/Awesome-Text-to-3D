@@ -260,7 +260,16 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Text-Guided 3D Face Synthesis: From Generation to Editing](https://arxiv.org/abs/2312.00375), Yunjie Wu wt al., Arxiv 2023 | [citation](./references/citations.bib#L891-L896)
 
 - [StableDreamer: Taming Noisy Score Distillation Sampling for Text-to-3D](https://arxiv.org/abs/2312.02189), Pengsheng Guo et al., Arxiv 2023 | [citation](./references/citations.bib#L898-L903)
-  
+
+- [CAD: Photorealistic 3D Generation via Adversarial Distillation](https://arxiv.org/abs/2312.06663), Ziyu Wan et al., Arxiv 2023 | [citation](./references/citations.bib#L905-L910)
+
+- [RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D](https://arxiv.org/abs/2311.16918), Lingteng Qiu et al., Arxiv 2023 | [citation](./references/citations.bib#L912-L917)
+
+- [Inpaint3D: 3D Scene Content Generation using 2D Inpainting Diffusion](https://arxiv.org/abs/2312.03869), Kira Prabhu et al., Arxiv 2023 | [citation](./references/citations.bib#L919-L924)
+
+- [Text-to-3D Generation with Bidirectional Diffusion using both 2D and 3D priors](https://arxiv.org/abs/2312.04963), Lihe Ding et al., Arxiv 2023 | [citation](./references/citations.bib#L926-L931)
+
+
 ## Datasets :floppy_disk:	
 
 - [Objaverse: A Universe of Annotated 3D Objects](https://arxiv.org/abs/2212.08051), Matt Deitke et al., Arxiv 2022 | [citation](./references/citations.bib#L519-L524)
