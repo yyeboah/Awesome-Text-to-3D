@@ -269,6 +269,10 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Text-to-3D Generation with Bidirectional Diffusion using both 2D and 3D priors](https://arxiv.org/abs/2312.04963), Lihe Ding et al., Arxiv 2023 | [citation](./references/citations.bib#L926-L931)
 
+- [SEEAvatar: Photorealistic Text-to-3D Avatar Generation with Constrained Geometry and Appearance](https://arxiv.org/abs/2312.08889), Yuanyou Xu et al., Arxiv 2023 | [citation](./references/citations.bib#L933-L938)
+
+- [Text2Immersion: Generative Immersive Scene with 3D Gaussians](https://arxiv.org/abs/2312.09242), Hao Ouyang et al., Arxiv 2023 | [citation](./references/citations.bib#L940-L945)
+
 
 ## Datasets :floppy_disk:	
 
