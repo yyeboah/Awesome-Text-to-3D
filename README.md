@@ -273,6 +273,10 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Text2Immersion: Generative Immersive Scene with 3D Gaussians](https://arxiv.org/abs/2312.09242), Hao Ouyang et al., Arxiv 2023 | [citation](./references/citations.bib#L940-L945)
 
+- [GAvatar: Animatable 3D Gaussian Avatars with Implicit Mesh Learning](https://arxiv.org/abs/2312.11461), Ye Yuan et al., Arxiv 2023 | [citation](./references/citations.bib#L968-L973)
+
+- [Stable Score Distillation for High-Quality 3D Generation](https://arxiv.org/abs/2312.09305), Boshi Tang et al., Arxiv 2023 | [citation](./references/citations.bib#L975-L980)
+
 
 ## Datasets :floppy_disk:	
 
@@ -281,6 +285,12 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Objaverse-XL: A Universe of 10M+ 3D Objects](https://objaverse.allenai.org/objaverse-xl-paper.pdf), Matt Deitke et al., Preprint 2023 | [citation](./references/citations.bib#L526-L531)
 
 - [Describe3D: High-Fidelity 3D Face Generation from Natural Language Descriptions](https://arxiv.org/abs/2305.03302), Menghua Wu et al., CVPR 2023 | [citation](./references/citations.bib#L533-L538)
+
+- [Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting](https://arxiv.org/abs/2312.1327), Hao Ouyang et at., Arxiv 2023 | [citation](./references/citations.bib#L947-L952)
+
+- [Customize-It-3D: High-Quality 3D Creation from A Single Image Using Subject-Specific Knowledge Prior](https://arxiv.org/abs/2312.11535), Nan Huang et al., Arxiv 2023 | [citation](./references/citations.bib#L954-L959)
+
+- [Paint-it: Text-to-Texture Synthesis via Deep Convolutional Texture Map Optimization and Physically-Based Rendering](https://arxiv.org/abs/2312.11360), Kim Youwan et al., Arxiv 2023 | [citation](./references/citations.bib#L961-L966)
 
 
 ## Frameworks :desktop_computer:
