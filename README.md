@@ -1,6 +1,6 @@
 # Awesome Text-to-3D [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF)
+The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF)
 
 ## Recent Updates :newspaper:
 * `11.11.2023` - Added Tutorial Videos
@@ -276,6 +276,12 @@ A growing curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [GAvatar: Animatable 3D Gaussian Avatars with Implicit Mesh Learning](https://arxiv.org/abs/2312.11461), Ye Yuan et al., Arxiv 2023 | [citation](./references/citations.bib#L968-L973)
 
 - [Stable Score Distillation for High-Quality 3D Generation](https://arxiv.org/abs/2312.09305), Boshi Tang et al., Arxiv 2023 | [citation](./references/citations.bib#L975-L980)
+
+- [Hyper-VolTran: Fast and Generalizable One-Shot Image to 3D Object Structure via HyperNetworks](https://arxiv.org/abs/2312.16218), Christian Simon et al., Arxv 2023 | [citation](./references/citations.bib#L982-L987)
+
+- [HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D](https://arxiv.org/abs/2312.15980), Sangmin Woo et al., Arxv 2023 | [citation](./references/citations.bib#L989-L994)
+
+- [Make-A-Character: High Quality Text-to-3D Character Generation within Minutes](https://arxiv.org/abs/2312.15430), Jianqiang Ren et al., Arxv 2023 | [citation](./references/citations.bib#L1003-L1008)
 
 
 ## Datasets :floppy_disk:	
