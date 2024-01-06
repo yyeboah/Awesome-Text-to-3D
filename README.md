@@ -283,6 +283,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Make-A-Character: High Quality Text-to-3D Character Generation within Minutes](https://arxiv.org/abs/2312.15430), Jianqiang Ren et al., Arxv 2023 | [citation](./references/citations.bib#L1003-L1008)
 
+- [En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data](https://arxiv.org/abs/2401.01173), Yifang Men et al., Arxiv 2024 | [citation](./references/citations.bib#L1010-L1015)
+
+- [SteinDreamer: Variance Reduction for Text-to-3D Score Distillation via Stein Identity](https://arxiv.org/abs/2401.00604), Peihao Wang et al., Arxiv 2024 | [citation](./references/citations.bib#L1017-L1022)
+
 
 ## Datasets :floppy_disk:	
 
@@ -297,10 +301,6 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Customize-It-3D: High-Quality 3D Creation from A Single Image Using Subject-Specific Knowledge Prior](https://arxiv.org/abs/2312.11535), Nan Huang et al., Arxiv 2023 | [citation](./references/citations.bib#L954-L959)
 
 - [Paint-it: Text-to-Texture Synthesis via Deep Convolutional Texture Map Optimization and Physically-Based Rendering](https://arxiv.org/abs/2312.11360), Kim Youwan et al., Arxiv 2023 | [citation](./references/citations.bib#L961-L966)
-
-- [En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data](https://arxiv.org/abs/2401.01173), Yifang Men et al., Arxiv 2024 | [citation](./references/citations.bib#L1010-L1015)
-
-- [SteinDreamer: Variance Reduction for Text-to-3D Score Distillation via Stein Identity](https://arxiv.org/abs/2401.00604), Peihao Wang et al., Arxiv 2024 | [citation](./references/citations.bib#L1017-L1022)
 
 
 ## Frameworks :desktop_computer:
