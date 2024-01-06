@@ -298,7 +298,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Paint-it: Text-to-Texture Synthesis via Deep Convolutional Texture Map Optimization and Physically-Based Rendering](https://arxiv.org/abs/2312.11360), Kim Youwan et al., Arxiv 2023 | [citation](./references/citations.bib#L961-L966)
 
-- [En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data](https://arxiv.org/abs/2401.01173), Yifang Men et al., Arxiv 2024 | [citation](./references/citations.bib#L1011-L1015)
+- [En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data](https://arxiv.org/abs/2401.01173), Yifang Men et al., Arxiv 2024 | [citation](./references/citations.bib#L1010-L1015)
 
 - [SteinDreamer: Variance Reduction for Text-to-3D Score Distillation via Stein Identity](https://arxiv.org/abs/2401.00604), Peihao Wang et al., Arxiv 2024 | [citation](./references/citations.bib#L1017-L1022)
 
