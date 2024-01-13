@@ -287,6 +287,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [SteinDreamer: Variance Reduction for Text-to-3D Score Distillation via Stein Identity](https://arxiv.org/abs/2401.00604), Peihao Wang et al., Arxiv 2024 | [citation](./references/citations.bib#L1017-L1022)
 
+- [InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes](https://arxiv.org/abs/2401.05335), Mohamad Shahbazi et al., Arxiv 2024 | [citation](./references/citations.bib#L1024-L1029)
+
+- [AGG: Amortized Generative 3D Gaussians for Single Image to 3D](https://arxiv.org/abs/2401.04099), Dejia Xu et al., Arxiv 2024 | [citation](./references/citations.bib#L1031-L1036)
+
 
 ## Datasets :floppy_disk:	
 
