@@ -306,6 +306,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Paint-it: Text-to-Texture Synthesis via Deep Convolutional Texture Map Optimization and Physically-Based Rendering](https://arxiv.org/abs/2312.11360), Kim Youwan et al., Arxiv 2023 | [citation](./references/citations.bib#L961-L966)
 
+- [SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding](https://arxiv.org/abs/2401.09340), Baoxiong Jia et al., Arxiv 2024 | [citation](./references/citations.bib#L1038-L1043)
+
 
 ## Frameworks :desktop_computer:
 
