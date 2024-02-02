@@ -291,6 +291,16 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [AGG: Amortized Generative 3D Gaussians for Single Image to 3D](https://arxiv.org/abs/2401.04099), Dejia Xu et al., Arxiv 2024 | [citation](./references/citations.bib#L1031-L1036)
 
+- [Topology-Aware Latent Diffusion for 3D Shape Generation](https://arxiv.org/abs/2401.17603), Jiangbei Hu et al., Arxiv 2024 | [citation](./references/citations.bib#L1045-L1050)
+
+- [ReplaceAnything3D:Text-Guided 3D Scene Editing with Compositional Neural Radiance Fields](https://arxiv.org/abs/2401.17895), JEdward Bartrum et al., Arxiv 2024 | [citation](./references/citations.bib#L1052-L1057)
+
+- [BoostDream: Efficient Refining for High-Quality Text-to-3D Generation from Multi-View Diffusion](https://arxiv.org/abs/2401.16764), Yonghao Yu  et al., Arxiv 2024 | [citation](./references/citations.bib#L1059-L1064)
+
+- [2L3: Lifting Imperfect Generated 2D Images into Accurate 3D](https://arxiv.org/abs/2401.15841), Yizheng Chen et al., Arxiv 2024 | [citation](./references/citations.bib#L1066-L1071)
+
+- [Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation](https://arxiv.org/abs/2401.14257), Minglin Chen et al., Arxiv 2024| [citation](./references/citations.bib#L1073-L1078)
+
 
 ## Datasets :floppy_disk:	
 
