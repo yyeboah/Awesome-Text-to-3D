@@ -200,6 +200,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Topology-Aware Latent Diffusion for 3D Shape Generation](https://arxiv.org/abs/2401.17603), Jiangbei Hu et al., Arxiv 2024 | [citation](./references/citations.bib#L1045-L1050)
 
+- [AToM: Amortized Text-to-Mesh using 2D Diffusion](https://arxiv.org/abs/2402.00867), Guocheng Qian et al., Arxiv 2024 | [citation](./references/citations.bib#L1080-L1085)
+
 
 
 </details>
