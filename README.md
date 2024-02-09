@@ -202,6 +202,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [AToM: Amortized Text-to-Mesh using 2D Diffusion](https://arxiv.org/abs/2402.00867), Guocheng Qian et al., Arxiv 2024 | [citation](./references/citations.bib#L1080-L1085)
 
+- [LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation](https://arxiv.org/abs/2402.05054), Jiaxiang Tang et al., Arxiv 2024 | [citation](./references/citations.bib#L1087-L1092)
+
 
 
 </details>
