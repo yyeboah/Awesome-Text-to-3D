@@ -320,6 +320,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data](https://arxiv.org/abs/2401.01173), Yifang Men et al., Arxiv 2024 | [citation](./references/citations.bib#L1010-L1015)
 
+- [HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting](https://zhenglinzhou.github.io/HeadStudio-ProjectPage/), Zhenglin Zhou et al., Arxiv 2024 | [citation](./references/citations.bib#L1094-L1099)
+
 
 
 </details>
