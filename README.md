@@ -204,6 +204,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation](https://arxiv.org/abs/2402.05054), Jiaxiang Tang et al., Arxiv 2024 | [citation](./references/citations.bib#L1087-L1092)
 
+- [IM-3D: : Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation](https://arxiv.org/abs/2402.08682), Luke Melas-Kyriazi et al., Arxiv 2024 | [citation](./references/citations.bib#L1108-L1113)
+
+- [L3GO: Language Agents with Chain-of-3D-Thoughts for Generating Unconventional Objects](https://arxiv.org/abs/2402.09052), Yutaro Yamada et al., Arxiv 2024 | [citation](./references/citations.bib#L1105-L1120)
+
 
 
 </details>
@@ -263,6 +267,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [BoostDream: Efficient Refining for High-Quality Text-to-3D Generation from Multi-View Diffusion](https://arxiv.org/abs/2401.16764), Yonghao Yu  et al., Arxiv 2024 | [citation](./references/citations.bib#L1059-L1064)
 
 - [2L3: Lifting Imperfect Generated 2D Images into Accurate 3D](https://arxiv.org/abs/2401.15841), Yizheng Chen et al., Arxiv 2024 | [citation](./references/citations.bib#L1066-L1071)
+
+- [GALA3D: Towards Text-to-3D Complex Scene Generation via Layout-guided Generative Gaussian Splatting](https://arxiv.org/abs/2402.07207), Xiaoyu Zhou et al., Arxiv 2024 | [citation](./references/citations.bib#L1101-L1106)
 
 
 
