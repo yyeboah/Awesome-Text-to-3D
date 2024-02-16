@@ -206,7 +206,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [IM-3D: : Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation](https://arxiv.org/abs/2402.08682), Luke Melas-Kyriazi et al., Arxiv 2024 | [citation](./references/citations.bib#L1108-L1113)
 
-- [L3GO: Language Agents with Chain-of-3D-Thoughts for Generating Unconventional Objects](https://arxiv.org/abs/2402.09052), Yutaro Yamada et al., Arxiv 2024 | [citation](./references/citations.bib#L1105-L1120)
+- [L3GO: Language Agents with Chain-of-3D-Thoughts for Generating Unconventional Objects](https://arxiv.org/abs/2402.09052), Yutaro Yamada et al., Arxiv 2024 | [citation](./references/citations.bib#L1115-L1120)
 
 
 
