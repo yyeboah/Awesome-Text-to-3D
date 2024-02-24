@@ -208,6 +208,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [L3GO: Language Agents with Chain-of-3D-Thoughts for Generating Unconventional Objects](https://arxiv.org/abs/2402.09052), Yutaro Yamada et al., Arxiv 2024 | [citation](./references/citations.bib#L1115-L1120)
 
+- [MVD2: Efficient Multiview 3D Reconstruction for Multiview Diffusion](https://arxiv.org/abs/2402.14253), Xin-Yang Zheng et al., Arxiv 2024 | [citation](./references/citations.bib#L1122-L1127)
+
+- [Pushing Auto-regressive Models for 3D Shape Generation at Capacity and Scalability](https://arxiv.org/abs/2402.12225), Xuelin Qian et al., Arxiv 2024 | [citation](./references/citations.bib#L1129-L1134)
+
 
 
 </details>
