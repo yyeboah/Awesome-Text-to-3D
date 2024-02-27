@@ -212,7 +212,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Pushing Auto-regressive Models for 3D Shape Generation at Capacity and Scalability](https://arxiv.org/abs/2402.12225), Xuelin Qian et al., Arxiv 2024 | [citation](./references/citations.bib#L1129-L1134)
 
-
+- [SceneWiz3D: Towards Text-guided 3D Scene Composition](https://arxiv.org/abs/2312.08885) Qihang Zhang et al., CVPR 2024 | [citation](./references/citations.bib#L1136-L1141)
 
 </details>
 
