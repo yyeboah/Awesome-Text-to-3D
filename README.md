@@ -274,6 +274,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [GALA3D: Towards Text-to-3D Complex Scene Generation via Layout-guided Generative Gaussian Splatting](https://arxiv.org/abs/2402.07207), Xiaoyu Zhou et al., Arxiv 2024 | [citation](./references/citations.bib#L1101-L1106)
 
+- [Disentangled 3D Scene Generation with Layout Learning](https://arxiv.org/abs/2402.16936), Dave Epstein et al., Arxiv 2024 | [citation](./references/citations.bib#L1143-L1148)
+
 
 
 </details>
