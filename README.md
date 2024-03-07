@@ -212,7 +212,9 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Pushing Auto-regressive Models for 3D Shape Generation at Capacity and Scalability](https://arxiv.org/abs/2402.12225), Xuelin Qian et al., Arxiv 2024 | [citation](./references/citations.bib#L1129-L1134)
 
-- [SceneWiz3D: Towards Text-guided 3D Scene Composition](https://arxiv.org/abs/2312.08885) Qihang Zhang et al., CVPR 2024 | [citation](./references/citations.bib#L1136-L1141)
+- [SceneWiz3D: Towards Text-guided 3D Scene Composition](https://arxiv.org/abs/2312.08885), Qihang Zhang et al., CVPR 2024 | [citation](./references/citations.bib#L1136-L1141)
+
+- [TripoSR: Fast 3D Object Reconstruction from a Single Image](https://arxiv.org/abs/2403.02151) Dmitry Tochilkin et al., Arxiv 2024 | [citation](./references/citations.bib#L1150-L1155)
 
 </details>
 
@@ -275,6 +277,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [GALA3D: Towards Text-to-3D Complex Scene Generation via Layout-guided Generative Gaussian Splatting](https://arxiv.org/abs/2402.07207), Xiaoyu Zhou et al., Arxiv 2024 | [citation](./references/citations.bib#L1101-L1106)
 
 - [Disentangled 3D Scene Generation with Layout Learning](https://arxiv.org/abs/2402.16936), Dave Epstein et al., Arxiv 2024 | [citation](./references/citations.bib#L1143-L1148)
+
+- [MagicClay: Sculpting Meshes With Generative Neural Fields](https://arxiv.org/abs/2403.02460) Amir Barda et al., Arxiv 2024 | [citation](./references/citations.bib#L1157-L1162)
 
 
 
