@@ -216,6 +216,12 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [TripoSR: Fast 3D Object Reconstruction from a Single Image](https://arxiv.org/abs/2403.02151) Dmitry Tochilkin et al., Arxiv 2024 | [citation](./references/citations.bib#L1150-L1155)
 
+- [V3D: Video Diffusion Models are Effective 3D Generators](https://arxiv.org/abs/2403.06738) Zilong Chen et al., Arxiv 2024 | [citation](./references/citations.bib#L1164-L1169)
+
+- [CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction Model](https://arxiv.org/abs/2403.05034) Zhengyi Wang et al., Arxiv 2024 | [citation](./references/citations.bib#L1174-L1176)
+
+- [Make-Your-3D: Fast and Consistent Subject-Driven 3D Content Generation](https://arxiv.org/abs/2403.09625) Fangfu Liu et al., Arxiv 2024 | [citation](./references/citations.bib#L1178-L1183)
+
 </details>
 
 
