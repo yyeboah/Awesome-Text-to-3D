@@ -222,6 +222,14 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Make-Your-3D: Fast and Consistent Subject-Driven 3D Content Generation](https://arxiv.org/abs/2403.09625) Fangfu Liu et al., Arxiv 2024 | [citation](./references/citations.bib#L1178-L1183)
 
+- [Isotropic3D: Image-to-3D Generation Based on a Single CLIP Embedding](https://arxiv.org/abs/2403.10395), Pengkun Liu et al., Arxiv 2024 | [citation](./references/citations.bib#L1185-L1190)
+
+- [SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion](https://arxiv.org/abs/2403.12008), Vikram Volet et al., Arxiv 2024 | [citation](./references/citations.bib#L1192-L1197)
+
+- [Generic 3D Diffusion Adapter Using Controlled Multi-View Editing](https://arxiv.org/abs/2403.12032), Hansheng Chen et al., Arxiv 2024 | [citation](./references/citations.bib#L1199-L1204)
+
+- [GVGEN: Text-to-3D Generation with Volumetric Representation](https://arxiv.org/abs/2403.12957), Xianglong He et al., Arxiv 2024 | [citation](./references/citations.bib#L1206-L1211)
+
 </details>
 
 
