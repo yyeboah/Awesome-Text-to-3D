@@ -230,6 +230,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [GVGEN: Text-to-3D Generation with Volumetric Representation](https://arxiv.org/abs/2403.12957), Xianglong He et al., Arxiv 2024 | [citation](./references/citations.bib#L1206-L1211)
 
+- [BrightDreamer: Generic 3D Gaussian Generative Framework for Fast Text-to-3D Synthesis](https://arxiv.org/abs/2403.11273), Lutao Jiang et al., Arxiv 2024 | [citation](./references/citations.bib#L1213-L1218)
+
 </details>
 
 
