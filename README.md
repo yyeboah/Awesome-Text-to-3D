@@ -232,6 +232,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [BrightDreamer: Generic 3D Gaussian Generative Framework for Fast Text-to-3D Synthesis](https://arxiv.org/abs/2403.11273), Lutao Jiang et al., Arxiv 2024 | [citation](./references/citations.bib#L1213-L1218)
 
+- [LATTE3D: Large-scale Amortized Text-To-Enhanced3D Synthesis](https://research.nvidia.com/labs/toronto-ai/LATTE3D), Kevin Xie et al., Arxiv 2024 | [citation](./references/citations.bib#L1234-L1239)
+
 </details>
 
 
@@ -294,7 +296,11 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Disentangled 3D Scene Generation with Layout Learning](https://arxiv.org/abs/2402.16936), Dave Epstein et al., Arxiv 2024 | [citation](./references/citations.bib#L1143-L1148)
 
-- [MagicClay: Sculpting Meshes With Generative Neural Fields](https://arxiv.org/abs/2403.02460) Amir Barda et al., Arxiv 2024 | [citation](./references/citations.bib#L1157-L1162)
+- [MagicClay: Sculpting Meshes With Generative Neural Fields](https://arxiv.org/abs/2403.02460), Amir Barda et al., Arxiv 2024 | [citation](./references/citations.bib#L1157-L1162)
+
+- [TexDreamer: Towards Zero-Shot High-Fidelity 3D Human Texture Generation](https://arxiv.org/abs//2403.12906) Yufei Liu et al., Arxiv 2024 | [citation](./references/citations.bib#L1220-L1225)
+
+- [InTeX: Interactive Text-to-texture Synthesis via Unified Depth-aware Inpainting](https://arxiv.org/abs/2403.11878), Jiaxiang Tang et al., Arxiv 2024 | [citation](./references/citations.bib#L1227-L1232)
 
 
 
