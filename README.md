@@ -234,6 +234,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [LATTE3D: Large-scale Amortized Text-To-Enhanced3D Synthesis](https://research.nvidia.com/labs/toronto-ai/LATTE3D), Kevin Xie et al., Arxiv 2024 | [citation](./references/citations.bib#L1234-L1239)
 
+- [Make-Your-3D: Fast and Consistent Subject-Driven 3D Content Generation](https://arxiv.org/abs/2403.09625), Fangfu Liu et al., Arxiv 2024 | [citation](./references/citations.bib#L1241-L1246)
+
+- [GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation](https://arxiv.org/abs/2403.14621), Yinghao Xu et al., Arxiv 2024 | [citation](./references/citations.bib#L1248-L1253)
+
 </details>
 
 
