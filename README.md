@@ -326,35 +326,35 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [ZeroAvatar: Zero-shot 3D Avatar Generation from a Single Image](https://zero123.cs.columbia.edu/), Zhenzhen Weng  et al., Arxiv 2023 | [citation](./references/citations.bib#L267-L272)
 
-- [AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control](https://arxiv.org/abs/2303.17606), Ruixiang Jiang et al., ICCV 2023 | [citation](./references/citations.bib#L274-L279) | [site]() | [code]()
+- [AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control](https://arxiv.org/abs/2303.17606), Ruixiang Jiang et al., ICCV 2023 | [citation](./references/citations.bib#L274-L279) | [site](https://avatar-craft.github.io/) | [code](https://github.com/songrise/avatarcraft)
 
-- [Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D Diffusion Probabilistic Models](https://arxiv.org/abs/2305.11870), Byungjun Kim et al., ICCV 2023 | [citation](./references/citations.bib#L568-L573) | [site]() | [code]()
+- [Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D Diffusion Probabilistic Models](https://arxiv.org/abs/2305.11870), Byungjun Kim et al., ICCV 2023 | [citation](./references/citations.bib#L568-L573) | [site](https://snuvclab.github.io/chupa/) | [code](https://github.com/snuvclab/chupa)
 
-- [DreamFace: Progressive Generation of Animatable 3D Faces under Text Guidance](https://arxiv.org/abs/2304.03117), Longwen Zhang et al., Arxiv 2023 | [citation](./references/citations.bib#L456-L461) | [site]() | [code]()
+- [DreamFace: Progressive Generation of Animatable 3D Faces under Text Guidance](https://arxiv.org/abs/2304.03117), Longwen Zhang et al., Arxiv 2023 | [citation](./references/citations.bib#L456-L461) | [site](https://sites.google.com/view/dreamface) | [code](https://huggingface.co/spaces/DEEMOSTECH/3D-Avatar-Generator)
 
-- [HeadSculpt: Crafting 3D Head Avatars with Text](https://arxiv.org/abs/2306.03038), Xiao Han et al., Arxiv 2023 | [citation](./references/citations.bib#L470-L475) | [site]() | [code]()
+- [HeadSculpt: Crafting 3D Head Avatars with Text](https://arxiv.org/abs/2306.03038), Xiao Han et al., Arxiv 2023 | [citation](./references/citations.bib#L470-L475) | [site](https://brandonhan.uk/HeadSculpt/) | [code]()
 
-- [DreamHuman: Animatable 3D Avatars from Text](https://arxiv.org/abs/2306.09329), Nikos Kolotouros et al., Arxiv 2023 | [citation](./references/citations.bib#L554-L559) | [site]() | [code]()
+- [DreamHuman: Animatable 3D Avatars from Text](https://arxiv.org/abs/2306.09329), Nikos Kolotouros et al., Arxiv 2023 | [citation](./references/citations.bib#L554-L559) | [site](https://dream-human.github.io/) | [code]()
 
 - [FaceCLIPNeRF: Text-driven 3D Face Manipulation using Deformable Neural Radiance Fields](https://arxiv.org/abs/2307.11418), Sungwon Hwang et al., Arxiv 2023 | [citation](./references/citations.bib#L491-L496) | [site]() | [code]()
 
-- [AvatarVerse: High-quality & Stable 3D Avatar Creation from Text and Pose](https://arxiv.org/abs/2308.03610), Huichao Zhang et al., Arxiv 2023 | [citation](./references/citations.bib#L547-L552) | [site]() | [code]()
+- [AvatarVerse: High-quality & Stable 3D Avatar Creation from Text and Pose](https://arxiv.org/abs/2308.03610), Huichao Zhang et al., Arxiv 2023 | [citation](./references/citations.bib#L547-L552) | [site](https://avatarverse3d.github.io/) | [code](https://github.com/bytedance/AvatarVerse)
 
-- [TeCH: Text-guided Reconstruction of Lifelike Clothed Humans](https://arxiv.org/abs/2308.08545), Yangyi Huang et al., Arxiv 2023 | [citation](./references/citations.bib#L575-L580) | [site]() | [code]()
+- [TeCH: Text-guided Reconstruction of Lifelike Clothed Humans](https://arxiv.org/abs/2308.08545), Yangyi Huang et al., Arxiv 2023 | [citation](./references/citations.bib#L575-L580) | [site](https://huangyangyi.github.io/TeCH/) | [code](https://github.com/huangyangyi/TeCH)
 
-- [HumanLiff: Layer-wise 3D Human Generation with Diffusion Model](https://skhu101.github.io/HumanLiff/), Hu Shoukang et al., Arxiv 2023 | [citation](./references/citations.bib#L582-L587) | [site]() | [code]()
+- [HumanLiff: Layer-wise 3D Human Generation with Diffusion Model](https://skhu101.github.io/HumanLiff/), Hu Shoukang et al., Arxiv 2023 | [citation](./references/citations.bib#L582-L587) | [site](https://skhu101.github.io/HumanLiff/) | [code](https://github.com/skhu101/HumanLiff)
 
-- [TADA! Text to Animatable Digital Avatars](https://tada.is.tue.mpg.de), Tingting Liao et al., Arxiv 2023 | [citation](./references/citations.bib#L589-L594) | [site]() | [code]()
+- [TADA! Text to Animatable Digital Avatars](https://tada.is.tue.mpg.de), Tingting Liao et al., Arxiv 2023 | [citation](./references/citations.bib#L589-L594) | [site](https://tada.is.tue.mpg.de/) | [code](https://github.com/TingtingLiao/TADA)
 
-- [One-shot Implicit Animatable Avatars with Model-based Priors](https://arxiv.org/abs/2212.02469v2), Yangyi Huang et al., ICCV 2023 | [citation](./references/citations.bib#L617-L622) | [site]() | [code]()
+- [One-shot Implicit Animatable Avatars with Model-based Priors](https://arxiv.org/abs/2212.02469v2), Yangyi Huang et al., ICCV 2023 | [citation](./references/citations.bib#L617-L622) | [site](https://huangyangyi.github.io/ELICIT/) | [code](https://github.com/huangyangyi/ELICIT)
 
 - [Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model](https://arxiv.org/abs/2309.03550), Sungwon Hwang et al., Arxiv 2023 | [citation](./references/citations.bib#L652-L657) | [site]() | [code]()
 
-- [Text-Guided Generation and Editing of Compositional 3D Avatars](https://arxiv.org/abs/2309.07125), Hao Zhang et al., Arxiv 2023 | [citation](./references/citations.bib#L659-L664)
+- [Text-Guided Generation and Editing of Compositional 3D Avatars](https://arxiv.org/abs/2309.07125), Hao Zhang et al., Arxiv 2023 | [citation](./references/citations.bib#L659-L664) | [site](https://yfeng95.github.io/teca/) | [code]()
 
-- [HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation](https://arxiv.org/abs/2310.01406), Xin Huang et al., Arxiv 2023 | [citation](./references/citations.bib#L708-L713) | [site]() | [code]()
+- [HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation](https://arxiv.org/abs/2310.01406), Xin Huang et al., Arxiv 2023 | [citation](./references/citations.bib#L708-L713) | [site](https://humannorm.github.io/) | [code](https://github.com/xhuangcv/humannorm)
 
-- [HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting](https://arxiv.org/abs/2311.17061), Xian Liu et al., Arxiv 2023 | [citation](./references/citations.bib#L856-L861)  | [site]() | [code]()
+- [HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting](https://arxiv.org/abs/2311.17061), Xian Liu et al., Arxiv 2023 | [citation](./references/citations.bib#L856-L861)  | [site](https://alvinliu0.github.io/projects/HumanGaussian) | [code](https://github.com/alvinliu0/HumanGaussian)
 
 - [Text-Guided 3D Face Synthesis: From Generation to Editing](https://arxiv.org/abs/2312.00375), Yunjie Wu wt al., Arxiv 2023 | [citation](./references/citations.bib#L891-L896)  | [site](https://faceg2e.github.io/) | [code]()
 
