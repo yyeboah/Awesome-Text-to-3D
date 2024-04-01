@@ -250,65 +250,65 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 <details close>
 <summary>3D Editing, Decomposition & Stylization</summary>
 
-- [CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://arxiv.org/abs/2112.05139), Can Wang et al., Arxiv 2021 | [citation](./references/citations.bib#L15-L20)
+- [CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://arxiv.org/abs/2112.05139), Can Wang et al., Arxiv 2021 | [citation](./references/citations.bib#L15-L20) | [site](https://cassiepython.github.io/clipnerf/) | [code](https://github.com/cassiePython/CLIPNeRF)
 
-- [CG-NeRF: Conditional Generative Neural Radiance Fields](https://arxiv.org/abs/2112.03517), Kyungmin Jo et al., Arxiv 2021 | [citation](./references/citations.bib#L22-L27)
+- [CG-NeRF: Conditional Generative Neural Radiance Fields](https://arxiv.org/abs/2112.03517), Kyungmin Jo et al., Arxiv 2021 | [citation](./references/citations.bib#L22-L27) | [site]() | [code]()
 
-- [TANGO: Text-driven Photorealistic and Robust 3D Stylization via Lighting Decomposition](https://arxiv.org/abs/2210.11277), Yongwei Chen et al., NeurIPS 2022 | [citation](./references/citations.bib#L36-L41)
+- [TANGO: Text-driven Photorealistic and Robust 3D Stylization via Lighting Decomposition](https://arxiv.org/abs/2210.11277), Yongwei Chen et al., NeurIPS 2022 | [citation](./references/citations.bib#L36-L41) | [site](https://cyw-3d.github.io/tango/) | [code](https://github.com/Gorilla-Lab-SCUT/tango)
 
-- [3DDesigner: Towards Photorealistic 3D Object Generation and Editing with Text-guided Diffusion Models](https://arxiv.org/abs/2211.14108), Gang Li et al., Arxiv 2022 | [citation](./references/citations.bib#L50-L55)
+- [3DDesigner: Towards Photorealistic 3D Object Generation and Editing with Text-guided Diffusion Models](https://arxiv.org/abs/2211.14108), Gang Li et al., Arxiv 2022 | [citation](./references/citations.bib#L50-L55) | [site](https://3ddesigner-diffusion.github.io/) | [code]()
 
-- [NeRF-Art: Text-Driven Neural Radiance Fields Stylization](https://arxiv.org/abs/2212.08070), Can Wang et al., Arxiv 2022 | [citation](./references/citations.bib#L71-L76)
+- [NeRF-Art: Text-Driven Neural Radiance Fields Stylization](https://arxiv.org/abs/2212.08070), Can Wang et al., Arxiv 2022 | [citation](./references/citations.bib#L71-L76) | [site](https://cassiepython.github.io/nerfart/) | [code](https://github.com/cassiePython/NeRF-Art)
 
-- [Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://instruct-nerf2nerf.github.io/), Ayaan Haque et al., Arxiv 2023 | [citation](./references/citations.bib#L323-L328)
+- [Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://instruct-nerf2nerf.github.io/), Ayaan Haque et al., Arxiv 2023 | [citation](./references/citations.bib#L323-L328) | [site](https://instruct-nerf2nerf.github.io/) | [code](https://github.com/ayaanzhaque/instruct-nerf2nerf)
 
-- [Local 3D Editing via 3D Distillation of CLIP Knowledge](https://arxiv.org/abs/2306.12570), Junha Hyung et al., Arxiv 2023 | [citation](./references/citations.bib#L372-L377)
+- [Local 3D Editing via 3D Distillation of CLIP Knowledge](https://arxiv.org/abs/2306.12570), Junha Hyung et al., Arxiv 2023 | [citation](./references/citations.bib#L372-L377) | [site]() | [code]()
 
-- [RePaint-NeRF: NeRF Editing via Semantic Masks and Diffusion Models](https://arxiv.org/abs/2306.05668), Xingchen Zhou et al., Arxiv 2023 | [citation](./references/citations.bib#L414-L419)
+- [RePaint-NeRF: NeRF Editing via Semantic Masks and Diffusion Models](https://arxiv.org/abs/2306.05668), Xingchen Zhou et al., Arxiv 2023 | [citation](./references/citations.bib#L414-L419) | [site](https://starstesla.github.io/repaintnerf/) | [code](https://github.com/StarsTesla/RePaint-NeRF)
 
-- [Text2Tex: Text-driven Texture Synthesis via Diffusion Models](https://daveredrum.github.io/Text2Tex/), Dave Zhenyu Chen et al., Arxiv 2023 | [citation](./references/citations.bib#L421-L426)
+- [Text2Tex: Text-driven Texture Synthesis via Diffusion Models](https://daveredrum.github.io/Text2Tex/), Dave Zhenyu Chen et al., Arxiv 2023 | [citation](./references/citations.bib#L421-L426) | [site](https://daveredrum.github.io/Text2Tex/) | [code](https://github.com/daveredrum/Text2Tex)
 
-- [Control4D: Dynamic Portrait Editing by Learning 4D GAN from 2D Diffusion-based Editor](https://control4darxiv.github.io/), Ruizhi Shao et al., Arxiv 2023 | [citation](./references/citations.bib#L435-L440)
+- [Control4D: Dynamic Portrait Editing by Learning 4D GAN from 2D Diffusion-based Editor](https://control4darxiv.github.io/), Ruizhi Shao et al., Arxiv 2023 | [citation](./references/citations.bib#L435-L440) | [site](https://fantasia3d.github.io/) | [code](https://github.com/Gorilla-Lab-SCUT/Fantasia3D)
 
-- [Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation](https://fantasia3d.github.io/), Rui Chen et al., Arxiv 2023 | [citation](./references/citations.bib#L449-L454)
+- [Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation](https://fantasia3d.github.io/), Rui Chen et al., Arxiv 2023 | [citation](./references/citations.bib#L449-L454) | [site]() | [code]()
 
-- [Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes](https://arxiv.org/abs/2303.13450), Dana Cohen-Bar et al., Arxiv 2023 | [citation](./references/citations.bib#L463-L468)
+- [Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes](https://arxiv.org/abs/2303.13450), Dana Cohen-Bar et al., Arxiv 2023 | [citation](./references/citations.bib#L463-L468) | [site](https://control4darxiv.github.io/) | [code]()
 
-- [MATLABER: Material-Aware Text-to-3D via LAtent BRDF auto-EncodeR](https://arxiv.org/abs/2308.09278), Xudong Xu et al., Arxiv 2023 | [citation](./references/citations.bib#L596-L601)
+- [MATLABER: Material-Aware Text-to-3D via LAtent BRDF auto-EncodeR](https://arxiv.org/abs/2308.09278), Xudong Xu et al., Arxiv 2023 | [citation](./references/citations.bib#L596-L601) | [site](https://sheldontsui.github.io/projects/Matlaber) | [code](https://github.com/SheldonTsui/Matlaber)
 
-- [SATR: Zero-Shot Semantic Segmentation of 3D Shapes](https://arxiv.org/abs/2304.04909), Ahmed Abdelreheem et al., ICCV 2023 | [citation](./references/citations.bib#L610-L615)
+- [SATR: Zero-Shot Semantic Segmentation of 3D Shapes](https://arxiv.org/abs/2304.04909), Ahmed Abdelreheem et al., ICCV 2023 | [citation](./references/citations.bib#L610-L615) | [site](https://samir55.github.io/SATR/) | [code](https://github.com/Samir55/SATR)
 
-- [Texture Generation on 3D Meshes with Point-UV Diffusion](https://arxiv.org/abs/2308.10490), Xin Yu et al., ICCV 2023 | [citation](./references/citations.bib#L638-L643)
+- [Texture Generation on 3D Meshes with Point-UV Diffusion](https://arxiv.org/abs/2308.10490), Xin Yu et al., ICCV 2023 | [citation](./references/citations.bib#L638-L643) | [site](https://cvmi-lab.github.io/Point-UV-Diffusion/) | [code](https://github.com/CVMI-Lab/Point-UV-Diffusion)
 
-- [Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts](https://arxiv.org/abs/2310.11784), Xinhua Cheng et al., Arxiv 2023 | [citation](./references/citations.bib#L736-L741)
+- [Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts](https://arxiv.org/abs/2310.11784), Xinhua Cheng et al., Arxiv 2023 | [citation](./references/citations.bib#L736-L741) | [site](https://cxh0519.github.io/projects/Progressive3D/) | [code](https://github.com/cxh0519/Progressive3D)
 
-- [3D-GPT: Procedural 3D Modeling with Large Language Models](https://arxiv.org/abs/2310.12945), Chunyi Sun et al., Arxiv 2023 | [citation](./references/citations.bib#L743-L748)
+- [3D-GPT: Procedural 3D Modeling with Large Language Models](https://arxiv.org/abs/2310.12945), Chunyi Sun et al., Arxiv 2023 | [citation](./references/citations.bib#L743-L748) | [site](https://chuny1.github.io/3DGPT/3dgpt.html) | [code]()
 
-- [CustomNet: Zero-shot Object Customization with Variable-Viewpoints in Text-to-Image Diffusion Models](https://arxiv.org/abs/2310.19784), Ziyang Yuan et al., Arxiv 2023 | [citation](./references/citations.bib#L792-L797)
+- [CustomNet: Zero-shot Object Customization with Variable-Viewpoints in Text-to-Image Diffusion Models](https://arxiv.org/abs/2310.19784), Ziyang Yuan et al., Arxiv 2023 | [citation](./references/citations.bib#L792-L797) | [site]() | [code]()
 
-- [Decorate3D: Text-Driven High-Quality Texture Generation for Mesh Decoration in the Wild](https://openreview.net/pdf?id=1recIOnzOF), Yanhui Guo et al., NeurIPS 2023 | [citation](./references/citations.bib#L834-L840)
+- [Decorate3D: Text-Driven High-Quality Texture Generation for Mesh Decoration in the Wild](https://openreview.net/pdf?id=1recIOnzOF), Yanhui Guo et al., NeurIPS 2023 | [citation](./references/citations.bib#L834-L840) | [site](https://decorate3d.github.io/Decorate3D/) | [code](https://github.com/Decorate3D/Decorate3D)
 
-- [HyperDreamer: Hyper-Realistic 3D Content Generation and Editing from a Single Image](https://arxiv.org/abs/2312.04543), Tong Wu et al., Arxiv 2023 | [citation](./references/citations.bib#L877-L882)
+- [HyperDreamer: Hyper-Realistic 3D Content Generation and Editing from a Single Image](https://arxiv.org/abs/2312.04543), Tong Wu et al., Arxiv 2023 | [citation](./references/citations.bib#L877-L882) | [site]() | [code]()
 
-- [InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes](https://arxiv.org/abs/2401.05335), Mohamad Shahbazi et al., Arxiv 2024 | [citation](./references/citations.bib#L1024-L1029)
+- [InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes](https://arxiv.org/abs/2401.05335), Mohamad Shahbazi et al., Arxiv 2024 | [citation](./references/citations.bib#L1024-L1029) | [site](https://mohamad-shahbazi.github.io/inserf/) | [code]()
 
-- [ReplaceAnything3D:Text-Guided 3D Scene Editing with Compositional Neural Radiance Fields](https://arxiv.org/abs/2401.17895), JEdward Bartrum et al., Arxiv 2024 | [citation](./references/citations.bib#L1052-L1057)
+- [ReplaceAnything3D:Text-Guided 3D Scene Editing with Compositional Neural Radiance Fields](https://arxiv.org/abs/2401.17895), JEdward Bartrum et al., Arxiv 2024 | [citation](./references/citations.bib#L1052-L1057) | [site](https://replaceanything3d.github.io/) | [code]()
 
-- [Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation](https://arxiv.org/abs/2401.14257), Minglin Chen et al., Arxiv 2024| [citation](./references/citations.bib#L1073-L1078)
+- [Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation](https://arxiv.org/abs/2401.14257), Minglin Chen et al., Arxiv 2024| [citation](./references/citations.bib#L1073-L1078) | [site]() | [code]()
 
-- [BoostDream: Efficient Refining for High-Quality Text-to-3D Generation from Multi-View Diffusion](https://arxiv.org/abs/2401.16764), Yonghao Yu  et al., Arxiv 2024 | [citation](./references/citations.bib#L1059-L1064)
+- [BoostDream: Efficient Refining for High-Quality Text-to-3D Generation from Multi-View Diffusion](https://arxiv.org/abs/2401.16764), Yonghao Yu  et al., Arxiv 2024 | [citation](./references/citations.bib#L1059-L1064) | [site]() | [code]()
 
-- [2L3: Lifting Imperfect Generated 2D Images into Accurate 3D](https://arxiv.org/abs/2401.15841), Yizheng Chen et al., Arxiv 2024 | [citation](./references/citations.bib#L1066-L1071)
+- [2L3: Lifting Imperfect Generated 2D Images into Accurate 3D](https://arxiv.org/abs/2401.15841), Yizheng Chen et al., Arxiv 2024 | [citation](./references/citations.bib#L1066-L1071) | [site]() | [code]()
 
-- [GALA3D: Towards Text-to-3D Complex Scene Generation via Layout-guided Generative Gaussian Splatting](https://arxiv.org/abs/2402.07207), Xiaoyu Zhou et al., Arxiv 2024 | [citation](./references/citations.bib#L1101-L1106)
+- [GALA3D: Towards Text-to-3D Complex Scene Generation via Layout-guided Generative Gaussian Splatting](https://arxiv.org/abs/2402.07207), Xiaoyu Zhou et al., Arxiv 2024 | [citation](./references/citations.bib#L1101-L1106) | [site](https://gala3d.github.io/) | [code](https://github.com/VDIGPKU/GALA3D)
 
-- [Disentangled 3D Scene Generation with Layout Learning](https://arxiv.org/abs/2402.16936), Dave Epstein et al., Arxiv 2024 | [citation](./references/citations.bib#L1143-L1148)
+- [Disentangled 3D Scene Generation with Layout Learning](https://arxiv.org/abs/2402.16936), Dave Epstein et al., Arxiv 2024 | [citation](./references/citations.bib#L1143-L1148) | [site](https://dave.ml/layoutlearning/) | [code]()
 
-- [MagicClay: Sculpting Meshes With Generative Neural Fields](https://arxiv.org/abs/2403.02460), Amir Barda et al., Arxiv 2024 | [citation](./references/citations.bib#L1157-L1162)
+- [MagicClay: Sculpting Meshes With Generative Neural Fields](https://arxiv.org/abs/2403.02460), Amir Barda et al., Arxiv 2024 | [citation](./references/citations.bib#L1157-L1162) | [site]() | [code]()
 
-- [TexDreamer: Towards Zero-Shot High-Fidelity 3D Human Texture Generation](https://arxiv.org/abs//2403.12906) Yufei Liu et al., Arxiv 2024 | [citation](./references/citations.bib#L1220-L1225)
+- [TexDreamer: Towards Zero-Shot High-Fidelity 3D Human Texture Generation](https://arxiv.org/abs//2403.12906) Yufei Liu et al., Arxiv 2024 | [citation](./references/citations.bib#L1220-L1225) | [site](https://ggxxii.github.io/texdreamer/) | [code]()
 
-- [InTeX: Interactive Text-to-texture Synthesis via Unified Depth-aware Inpainting](https://arxiv.org/abs/2403.11878), Jiaxiang Tang et al., Arxiv 2024 | [citation](./references/citations.bib#L1227-L1232)
+- [InTeX: Interactive Text-to-texture Synthesis via Unified Depth-aware Inpainting](https://arxiv.org/abs/2403.11878), Jiaxiang Tang et al., Arxiv 2024 | [citation](./references/citations.bib#L1227-L1232) | [site](https://me.kiui.moe/intex/) | [code](https://github.com/ashawkey/InTeX)
 
 
 
