@@ -354,17 +354,17 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation](https://arxiv.org/abs/2310.01406), Xin Huang et al., Arxiv 2023 | [citation](./references/citations.bib#L708-L713)
 
-- [HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting](https://arxiv.org/abs/2311.17061), Xian Liu et al., Arxiv 2023 | [citation](./references/citations.bib#L856-L861)
+- [HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting](https://arxiv.org/abs/2311.17061), Xian Liu et al., Arxiv 2023 | [citation](./references/citations.bib#L856-L861)  | [site]() | [code]()
 
-- [Text-Guided 3D Face Synthesis: From Generation to Editing](https://arxiv.org/abs/2312.00375), Yunjie Wu wt al., Arxiv 2023 | [citation](./references/citations.bib#L891-L896)
+- [Text-Guided 3D Face Synthesis: From Generation to Editing](https://arxiv.org/abs/2312.00375), Yunjie Wu wt al., Arxiv 2023 | [citation](./references/citations.bib#L891-L896)  | [site]() | [code]()
 
-- [SEEAvatar: Photorealistic Text-to-3D Avatar Generation with Constrained Geometry and Appearance](https://arxiv.org/abs/2312.08889), Yuanyou Xu et al., Arxiv 2023 | [citation](./references/citations.bib#L933-L938)
+- [SEEAvatar: Photorealistic Text-to-3D Avatar Generation with Constrained Geometry and Appearance](https://arxiv.org/abs/2312.08889), Yuanyou Xu et al., Arxiv 2023 | [citation](./references/citations.bib#L933-L938)  | [site]() | [code]()
 
-- [GAvatar: Animatable 3D Gaussian Avatars with Implicit Mesh Learning](https://arxiv.org/abs/2312.11461), Ye Yuan et al., Arxiv 2023 | [citation](./references/citations.bib#L968-L973)
+- [GAvatar: Animatable 3D Gaussian Avatars with Implicit Mesh Learning](https://arxiv.org/abs/2312.11461), Ye Yuan et al., Arxiv 2023 | [citation](./references/citations.bib#L968-L973)  | [site]() | [code]()
 
-- [Make-A-Character: High Quality Text-to-3D Character Generation within Minutes](https://arxiv.org/abs/2312.15430), Jianqiang Ren et al., Arxv 2023 | [citation](./references/citations.bib#L1003-L1008)
+- [Make-A-Character: High Quality Text-to-3D Character Generation within Minutes](https://arxiv.org/abs/2312.15430), Jianqiang Ren et al., Arxv 2023 | [citation](./references/citations.bib#L1003-L1008)  | [site]() | [code]()
 
-- [En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data](https://arxiv.org/abs/2401.01173), Yifang Men et al., Arxiv 2024 | [citation](./references/citations.bib#L1010-L1015)
+- [En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data](https://arxiv.org/abs/2401.01173), Yifang Men et al., Arxiv 2024 | [citation](./references/citations.bib#L1010-L1015) | [site]() | [code]()
 
 - [HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting](https://zhenglinzhou.github.io/HeadStudio-ProjectPage/), Zhenglin Zhou et al., Arxiv 2024 | [citation](./references/citations.bib#L1094-L1099)
 
@@ -378,13 +378,13 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 <details close>
 <summary>Dynamic Content Generation</summary>
 
-- [Text-To-4D Dynamic Scene Generation](https://arxiv.org/abs/2301.11280), Uriel Singer et al., Arxiv 2023 | [citation](./references/citations.bib#L225-L230)
+- [Text-To-4D Dynamic Scene Generation](https://arxiv.org/abs/2301.11280), Uriel Singer et al., Arxiv 2023 | [citation](./references/citations.bib#L225-L230) | [site](https://make-a-video3d.github.io/) | [code]()
 
-- [TextDeformer: Geometry Manipulation using Text Guidance](https://arxiv.org/abs/2304.13348), William Gao et al., Arxiv 2033 | [citation](./references/citations.bib#L281-L286)
+- [TextDeformer: Geometry Manipulation using Text Guidance](https://arxiv.org/abs/2304.13348), William Gao et al., Arxiv 2033 | [citation](./references/citations.bib#L281-L286) | [site]() | [code]()
 
-- [Consistent4D: Consistent 360 Degree Dynamic Object Generation from Monocular Video](https://arxiv.org/abs/2311.02848), Yanqin Jiang et al., Arxiv 2023 | [citation](./references/citations.bib#L799-L809)
+- [Consistent4D: Consistent 360 Degree Dynamic Object Generation from Monocular Video](https://arxiv.org/abs/2311.02848), Yanqin Jiang et al., Arxiv 2023 | [citation](./references/citations.bib#L799-L809) | [site](https://consistent4d.github.io/) | [code](https://github.com/yanqinJiang/Consistent4D)
 
-- [4D-fy:Text-to-4D Generation Using Hybrid Score Distillation Sampling](https://arxiv.org/abs/2311.17984), Lincong Feng et al., Arxiv 2023 | [citation](./references/citations.bib#L842-L847)
+- [4D-fy:Text-to-4D Generation Using Hybrid Score Distillation Sampling](https://arxiv.org/abs/2311.17984), Lincong Feng et al., Arxiv 2023 | [citation](./references/citations.bib#L842-L847) | [site](https://sherwinbahmani.github.io/4dfy/) | [code](https://github.com/sherwinbahmani/4dfy)
 
 
 
