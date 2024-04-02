@@ -3,6 +3,7 @@
 The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF)
 
 ## Recent Updates :newspaper:
+* `02.04.2024` - Begin linking to project pages and codes
 * `09.02.2024` - Level One Categorization
 * `11.11.2023` - Added Tutorial Videos
 * `05.08.2023` - Provided citations in BibTeX
