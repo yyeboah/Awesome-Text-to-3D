@@ -13,49 +13,49 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 <details close>
 <summary>X-to-3D</summary>
 
-- [Zero-Shot Text-Guided Object Generation with Dream Fields](https://arxiv.org/abs/2112.01455), Ajay Jain et al., CVPR 2022 | [citation](./references/citations.bib#L1-L6) | [site]() | [code]()
+- [Zero-Shot Text-Guided Object Generation with Dream Fields](https://arxiv.org/abs/2112.01455), Ajay Jain et al., CVPR 2022 | [citation](./references/citations.bib#L1-L6) | [site](https://ajayj.com/dreamfields) | [code](https://github.com/google-research/google-research/tree/master/dreamfields)
 
-- [CLIP-Forge: Towards Zero-Shot Text-to-Shape Generation](https://arxiv.org/abs/2110.02624), Aditya Sanghi et al., Arxiv 2021 | [citation](./references/citations.bib#L8-L13) | [site]() | [code]()
+- [CLIP-Forge: Towards Zero-Shot Text-to-Shape Generation](https://arxiv.org/abs/2110.02624), Aditya Sanghi et al., Arxiv 2021 | [citation](./references/citations.bib#L8-L13) | [site]() | [code](https://github.com/AutodeskAILab/Clip-Forge)
 
-- [PureCLIPNERF: Understanding Pure CLIP Guidance for Voxel Grid NeRF Models](https://arxiv.org/abs/2209.15172), Han-Hung Lee et al., Arxiv 2022 | [citation](./references/citations.bib#L29-L34) | [site]() | [code]()
+- [PureCLIPNERF: Understanding Pure CLIP Guidance for Voxel Grid NeRF Models](https://arxiv.org/abs/2209.15172), Han-Hung Lee et al., Arxiv 2022 | [citation](./references/citations.bib#L29-L34) | [site](https://hanhung.github.io/PureCLIPNeRF/) | [code](https://github.com/hanhung/PureCLIPNeRF)
 
-- [SDFusion: Multimodal 3D Shape Completion, Reconstruction, and Generation](https://arxiv.org/abs/2212.04493), Yen-Chi Cheng et al., CVPR 2023 | [citation](./references/citations.bib#L43-L48) | [site]() | [code]()
+- [SDFusion: Multimodal 3D Shape Completion, Reconstruction, and Generation](https://arxiv.org/abs/2212.04493), Yen-Chi Cheng et al., CVPR 2023 | [citation](./references/citations.bib#L43-L48) | [site](https://yccyenchicheng.github.io/SDFusion/) | [code](https://github.com/yccyenchicheng/SDFusion)
 
-- [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/), Ben Poole et al., ICLR 2023 | [citation](./references/citations.bib#L57-L62) | [site]() | [code]()
+- [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/), Ben Poole et al., ICLR 2023 | [citation](./references/citations.bib#L57-L62) | [site](https://dreamfusion3d.github.io/) | [code]()
 
-- [Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models](https://arxiv.org/abs/2212.14704), Jiale Xu et al., Arxiv 2022 | [citation](./references/citations.bib#L64-L69) | [site]() | [code]()
+- [Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models](https://arxiv.org/abs/2212.14704), Jiale Xu et al., Arxiv 2022 | [citation](./references/citations.bib#L64-L69) | [site](https://bluestyle97.github.io/dream3d/) | [code]()
 
-- [Novel View Synthesis with Diffusion Models](https://arxiv.org/abs/2210.04628), Daniel Watson et al., Arxiv 2022 | [citation](./references/citations.bib#L78-L83) | [site]() | [code]()
+- [Novel View Synthesis with Diffusion Models](https://arxiv.org/abs/2210.04628), Daniel Watson et al., Arxiv 2022 | [citation](./references/citations.bib#L78-L83) | [site](https://3d-diffusion.github.io/) | [code]()
 
-- [NeuralLift-360: Lifting An In-the-wild 2D Photo to A 3D Object with 360° Views](https://arxiv.org/abs/2211.16431), Dejia Xu et al., Arxiv 2022 | [citation](./references/citations.bib#L85-L90) | [site]() | [code]()
+- [NeuralLift-360: Lifting An In-the-wild 2D Photo to A 3D Object with 360° Views](https://arxiv.org/abs/2211.16431), Dejia Xu et al., Arxiv 2022 | [citation](./references/citations.bib#L85-L90) | [site](https://vita-group.github.io/NeuralLift-360/) | [code](https://github.com/VITA-Group/NeuralLift-360)
 
-- [Point-E: A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/abs/2212.08751), Alex Nichol et al., Arxiv 2022 | [citation](./references/citations.bib#L92-L97) | [site]() | [code]()
+- [Point-E: A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/abs/2212.08751), Alex Nichol et al., Arxiv 2022 | [citation](./references/citations.bib#L92-L97) | [site]() | [code](https://github.com/openai/point-e)
 
-- [Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures](https://arxiv.org/abs/2211.07600), Gal Metzer et al., Arxiv 2023 | [citation](./references/citations.bib#L99-L104) | [site]() | [code]()
+- [Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures](https://arxiv.org/abs/2211.07600), Gal Metzer et al., Arxiv 2023 | [citation](./references/citations.bib#L99-L104) | [site]() | [code](https://github.com/eladrich/latent-nerf)
 
-- [Magic3D: High-Resolution Text-to-3D Content Creation](https://research.nvidia.com/labs/dir/magic3d/), Chen-Hsuan Linet et al., CVPR 2023 | [citation](./references/citations.bib#L106-L111) | [site]() | [code]()
+- [Magic3D: High-Resolution Text-to-3D Content Creation](https://research.nvidia.com/labs/dir/magic3d/), Chen-Hsuan Linet et al., CVPR 2023 | [citation](./references/citations.bib#L106-L111) | [site](https://research.nvidia.com/labs/dir/magic3d/) | [code]()
 
-- [RealFusion: 360° Reconstruction of Any Object from a Single Image](https://arxiv.org/abs/2302.10663), Luke Melas-Kyriazi et al., CVPR 2023 | [citation](./references/citations.bib#L113-L118) | [site]() | [code]()
+- [RealFusion: 360° Reconstruction of Any Object from a Single Image](https://arxiv.org/abs/2302.10663), Luke Melas-Kyriazi et al., CVPR 2023 | [citation](./references/citations.bib#L113-L118) | [site](https://lukemelas.github.io/realfusion/) | [code](https://github.com/lukemelas/realfusion)
 
-- [Monocular Depth Estimation using Diffusion Models](https://arxiv.org/abs/2302.14816), Saurabh Saxena et al., Arxiv 2023 | [citation](./references/citations.bib#L120-L125) | [site]() | [code]()
+- [Monocular Depth Estimation using Diffusion Models](https://arxiv.org/abs/2302.14816), Saurabh Saxena et al., Arxiv 2023 | [citation](./references/citations.bib#L120-L125) | [site](https://depth-gen.github.io/) | [code]()
 
-- [SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction](https://arxiv.org/abs/2212.00792), Zhizhuo Zho et al., CVPR 2023 | [citation](./references/citations.bib#L127-L132) | [site]() | [code]()
+- [SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction](https://arxiv.org/abs/2212.00792), Zhizhuo Zho et al., CVPR 2023 | [citation](./references/citations.bib#L127-L132) | [site](https://sparsefusion.github.io/) | [code](https://github.com/zhizdev/sparsefusion)
 
-- [NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion](https://arxiv.org/abs/2302.10109), Jiatao Gu et al., ICML 2023 | [citation](./references/citations.bib#L134-L139) | [site]() | [code]()
+- [NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from 3D-aware Diffusion](https://arxiv.org/abs/2302.10109), Jiatao Gu et al., ICML 2023 | [citation](./references/citations.bib#L134-L139) | [site](https://jiataogu.me/nerfdiff/) | [code]()
 
-- [Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation](https://arxiv.org/abs/2212.00774), Haochen Wang et al., CVPR 2023 | [citation](./references/citations.bib#L141-L146) | [site]() | [code]()
+- [Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation](https://arxiv.org/abs/2212.00774), Haochen Wang et al., CVPR 2023 | [citation](./references/citations.bib#L141-L146) | [site](https://pals.ttic.edu/p/score-jacobian-chaining) | [code](https://github.com/pals-ttic/sjc/)
 
-- [High-fidelity 3D Face Generation from Natural Language Descriptions](https://arxiv.org/abs/2305.03302), Menghua Wu et al., CVPR 2023 | [citation](./references/citations.bib#L148-L153)
+- [High-fidelity 3D Face Generation from Natural Language Descriptions](https://arxiv.org/abs/2305.03302), Menghua Wu et al., CVPR 2023 | [citation](./references/citations.bib#L148-L153) | [site](https://mhwu2017.github.io/) | [code](https://github.com/zhuhao-nju/describe3d)
 
-- [TEXTure: Text-Guided Texturing of 3D Shapes](https://texturepaper.github.io/TEXTurePaper/), Elad Richardson Chen et al., SIGGRAPH 2023 | [citation](./references/citations.bib#L155-L160) | [site]() | [code]()
+- [TEXTure: Text-Guided Texturing of 3D Shapes](https://texturepaper.github.io/TEXTurePaper/), Elad Richardson Chen et al., SIGGRAPH 2023 | [citation](./references/citations.bib#L155-L160) | [site](https://texturepaper.github.io/TEXTurePaper/) | [code](https://github.com/TEXTurePaper/TEXTurePaper)
 
 - [NeRDi: Single-View NeRF Synthesis with Language-Guided Diffusion as General Image Priors](https://arxiv.org/abs/2212.03267), Congyue Deng et al., CVPR 2023 | [citation](./references/citations.bib#L162-L167) | [site]() | [code]()
 
-- [DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models](https://arxiv.org/abs/2302.12231), Jamie Wynn et al., CVPR 2023 | [citation](./references/citations.bib#L169-L174) | [site]() | [code]()
+- [DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models](https://arxiv.org/abs/2302.12231), Jamie Wynn et al., CVPR 2023 | [citation](./references/citations.bib#L169-L174) | [site]() | [code](https://github.com/nianticlabs/diffusionerf)
 
-- [3DQD: Generalized Deep 3D Shape Prior via Part-Discretized Diffusion Process](https://arxiv.org/abs/2303.10406), Yuhan Li et al., CVPR 2023 | [citation](./references/citations.bib#L540-L545) | [site]() | [code]()
+- [3DQD: Generalized Deep 3D Shape Prior via Part-Discretized Diffusion Process](https://arxiv.org/abs/2303.10406), Yuhan Li et al., CVPR 2023 | [citation](./references/citations.bib#L540-L545) | [site]() | [code](https://github.com/colorful-liyu/3DQD)
 
-- [DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model](https://gwang-kim.github.io/datid_3d/), Gwanghyun Kim et al., CVPR 2023 | [citation](./references/citations.bib#L176-L181) | [site]() | [code]()
+- [DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model](https://gwang-kim.github.io/datid_3d/), Gwanghyun Kim et al., CVPR 2023 | [citation](./references/citations.bib#L176-L181) | [site](https://gwang-kim.github.io/datid_3d/) | [code](https://github.com/gwang-kim/DATID-3D)
 
 - [Novel View Synthesis with Diffusion Models](https://arxiv.org/abs/2210.04628), Daniel Watson et al., ICLR 2023 | [citation](./references/citations.bib#L183-L188) | [site]() | [code]()
 
