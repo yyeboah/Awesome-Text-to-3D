@@ -243,6 +243,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [DreamPolisher: Towards High-Quality Text-to-3D Generation via Geometric Diffusion](https://arxiv.org/abs/2403.17237), Yuanze Lin et al., Arxiv 2024 | [citation](./references/citations.bib#L1262-L1267) | [site]() | [code]()
 
+- [PointInfinity: Resolution-Invariant Point Diffusion Models](https://arxiv.org/abs/2404.03566), Zixuan Huang et al., Arxiv 2024 | [citation](./references/citations.bib#L1269-L1274) | [site](https://zixuanh.com/projects/pointinfinity.html) | [code]()
+
 </details>
 
 
