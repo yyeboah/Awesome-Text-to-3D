@@ -129,13 +129,13 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [IT3D: Improved Text-to-3D Generation with Explicit View Synthesis](https://arxiv.org/abs/2308.11473), Yiwen Chen et al., Arxiv 2023 | [citation](./references/citations.bib#L603-L608) | [site]() | [code]()
 
-- [MVDream: Multi-view Diffusion for 3D Generation](https://arxiv.org/abs/2308.16512), Yichun Shi et al., Arxiv 2023 | [citation](./references/citations.bib#L624-L629)
+- [MVDream: Multi-view Diffusion for 3D Generation](https://arxiv.org/abs/2308.16512), Yichun Shi et al., Arxiv 2023 | [citation](./references/citations.bib#L624-L629) | [site]() | [code]()
 
 - [PointLLM: Empowering Large Language Models to Understand Point Clouds](https://arxiv.org/abs/2308.16911), Xu Runsen et al., Arxiv 2023 | [citation](./references/citations.bib#L631-L636) | [site]() | [code]()
 
 - [SyncDreamer: Generating Multiview-consistent Images from a Single-view Image](https://arxiv.org/abs/2309.03453), Yuan Liu et al., Arxiv 2023 | [citation](./references/citations.bib#L645-L650) | [site]() | [code]()
 
-- [Large-Vocabulary 3D Diffusion Model with Transformer](https://arxiv.org/abs/2309.07920), Ziang Cao et al., Arxiv 2023 | [citation](./references/citations.bib#L673-L678)
+- [Large-Vocabulary 3D Diffusion Model with Transformer](https://arxiv.org/abs/2309.07920), Ziang Cao et al., Arxiv 2023 | [citation](./references/citations.bib#L673-L678) | [site]() | [code]()
 
 - [Progressive Text-to-3D Generation for Automatic 3D Prototyping](https://arxiv.org/abs/2309.14600), Han Yi et al., Arxiv 2023 | [citation](./references/citations.bib#L680-L685) | [site]() | [code]()
 
@@ -157,7 +157,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Enhancing High-Resolution 3D Generation through Pixel-wise Gradient Clipping](https://arxiv.org/abs/2310.12474), Zijie Pan et al., Arxiv 2023 | [citation](./references/citations.bib#L771-L776) | [site]() | [code]()
 
-- [Text-to-3D with classifier score distillation](https://arxiv.org/abs/2310.19415), Xin Yu et al., Arxiv 2023 | [citation](./references/citations.bib#L778-L783)
+- [Text-to-3D with classifier score distillation](https://arxiv.org/abs/2310.19415), Xin Yu et al., Arxiv 2023 | [citation](./references/citations.bib#L778-L783) | [site]() | [code]()
 
 - [Noise-Free Score Distillation](https://arxiv.org/abs/2310.17590), Oren Katzir et al., Arxiv 2023 | [citation](./references/citations.bib#L785-L790) | [site]() | [code]()
 
@@ -169,7 +169,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [MetaDreamer: Efficient Text-to-3D Creation With Disentangling Geometry and Texture](https://arxiv.org/abs/2311.10123), Lincong Feng et al., Arxiv 2023 | [citation](./references/citations.bib#L827-L832) | [site]() | [code]()
 
-- [Adversarial Diffusion Distillation](https://arxiv.org/abs/2311.17042), Axel Sauer et al., Arxiv 2023 | [citation](./references/citations.bib#L849-L854)
+- [Adversarial Diffusion Distillation](https://arxiv.org/abs/2311.17042), Axel Sauer et al., Arxiv 2023 | [citation](./references/citations.bib#L849-L854) | [site]() | [code]()
 
 - [MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers](https://arxiv.org/abs/2311.15475), Yawar Siddiqui et al., Arxiv 2023| [citation](./references/citations.bib#L863-L868) | [site]() | [code]()
 
@@ -217,7 +217,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [TripoSR: Fast 3D Object Reconstruction from a Single Image](https://arxiv.org/abs/2403.02151) Dmitry Tochilkin et al., Arxiv 2024 | [citation](./references/citations.bib#L1150-L1155) | [site]() | [code]()
 
-- [V3D: Video Diffusion Models are Effective 3D Generators](https://arxiv.org/abs/2403.06738) Zilong Chen et al., Arxiv 2024 | [citation](./references/citations.bib#L1164-L1169)
+- [V3D: Video Diffusion Models are Effective 3D Generators](https://arxiv.org/abs/2403.06738) Zilong Chen et al., Arxiv 2024 | [citation](./references/citations.bib#L1164-L1169) | [site]() | [code]()
 
 - [CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction Model](https://arxiv.org/abs/2403.05034) Zhengyi Wang et al., Arxiv 2024 | [citation](./references/citations.bib#L1174-L1176) | [site]() | [code]()
 
