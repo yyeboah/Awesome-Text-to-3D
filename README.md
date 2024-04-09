@@ -371,6 +371,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting](https://zhenglinzhou.github.io/HeadStudio-ProjectPage/), Zhenglin Zhou et al., Arxiv 2024 | [citation](./references/citations.bib#L1094-L1099) | [site](https://zhenglinzhou.github.io/HeadStudio-ProjectPage/) | [code](https://github.com/ZhenglinZhou/HeadStudio/)
 
+- [InstructHumans: Editing Animatable 3D Human Textures with Instructions](https://jyzhu.top/instruct-humans/), Jiayin Zhu et al., Arxiv 2024 | [citation](./references/citations.bib#L1276-L1281) | [site](https://jyzhu.top/instruct-humans/) | [code](https://github.com/viridityzhu/InstructHumans)
+
 
 
 </details>
