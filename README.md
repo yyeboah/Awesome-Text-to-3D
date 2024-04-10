@@ -245,6 +245,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [PointInfinity: Resolution-Invariant Point Diffusion Models](https://arxiv.org/abs/2404.03566), Zixuan Huang et al., Arxiv 2024 | [citation](./references/citations.bib#L1269-L1274) | [site](https://zixuanh.com/projects/pointinfinity.html) | [code]()
 
+- [The More You See in 2D, the More You Perceive in 3D](https://arxiv.org/abs/2404.03652), Xinyang Han et al., Arxiv 2024 | [citation](./references/citations.bib#L1290-L1295) | [site](https://sap3d.github.io/) | [code]()
+
+- [Hash3D: Training-free Acceleration for 3D Generation](https://arxiv.org/abs/2404.06091), Xingyi Yang et al., Arxiv 2024 | [citation](./references/citations.bib#L1297-L1302) | [site](https://adamdad.github.io/hash3D/) | [code](https://github.com/Adamdad/hash3D)
+
 </details>
 
 
@@ -313,6 +317,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [InTeX: Interactive Text-to-texture Synthesis via Unified Depth-aware Inpainting](https://arxiv.org/abs/2403.11878), Jiaxiang Tang et al., Arxiv 2024 | [citation](./references/citations.bib#L1227-L1232) | [site](https://me.kiui.moe/intex/) | [code](https://github.com/ashawkey/InTeX)
 
+- [SC4D: Sparse-Controlled Video-to-4D Generation and Motion Transfer](https://arxiv.org/abs/2404.03736), Zijie Wu et al., Arxiv 2024 | [citation](./references/citations.bib#L1283-L1288) | [site](https://sc4d.github.io/) | [code]()
 
 
 </details>
