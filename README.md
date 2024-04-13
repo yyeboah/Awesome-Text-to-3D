@@ -249,6 +249,14 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Hash3D: Training-free Acceleration for 3D Generation](https://arxiv.org/abs/2404.06091), Xingyi Yang et al., Arxiv 2024 | [citation](./references/citations.bib#L1297-L1302) | [site](https://adamdad.github.io/hash3D/) | [code](https://github.com/Adamdad/hash3D)
 
+- [RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion](https://arxiv.org/abs/2404.07199), Jaidev Shriram et al., Arxiv 2024 | [citation](./references/citations.bib#L1304-L1309) | [site](https://realmdreamer.github.io/) | [code]()
+
+- [TC4D: Trajectory-Conditioned Text-to-4D Generation](https://arxiv.org/abs/2403.17920), Sherwin Bahmani et al., Arxiv 2024 | [citation](./references/citations.bib#L1311-L1316) | [site](https://sherwinbahmani.github.io/tc4d/) | [code]()
+
+- [Zero-shot Point Cloud Completion Via 2D Priors](https://arxiv.org/abs/2404.06814), Tianxin Huang et al., Arxiv 2024 | [citation](./references/citations.bib#L1318-L1323) | [site]() | [code]()
+
+- [InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models](https://arxiv.org/abs/2404.07191), Jiale Xu et al., Arxiv 2024 | [citation](./references/citations.bib#L1325-L1330) | [site]() | [code](https://github.com/TencentARC/InstantMesh)
+
 </details>
 
 
