@@ -257,6 +257,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models](https://arxiv.org/abs/2404.07191), Jiale Xu et al., Arxiv 2024 | [citation](./references/citations.bib#L1325-L1330) | [site]() | [code](https://github.com/TencentARC/InstantMesh)
 
+- [Zero-shot Point Cloud Completion Via 2D Priors](https://arxiv.org/abs/2404.06814), Tianxin Huang et al., Arxiv 2024 | [citation](./references/citations.bib#L1332-L1337) | [site]() | [code]()
+
 </details>
 
 
