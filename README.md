@@ -259,6 +259,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Zero-shot Point Cloud Completion Via 2D Priors](https://arxiv.org/abs/2404.06814), Tianxin Huang et al., Arxiv 2024 | [citation](./references/citations.bib#L1332-L1337) | [site]() | [code]()
 
+- [CLIP-GS: CLIP-Informed Gaussian Splatting for Real-time and View-consistent 3D Semantic Understanding](https://arxiv.org/abs/2404.14249), Guibiao Liao et al., Arxiv 2024 | [citation](./references/citations.bib#L1360-L1365) | [site]() | [code]()
+
 </details>
 
 
@@ -328,6 +330,12 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [InTeX: Interactive Text-to-texture Synthesis via Unified Depth-aware Inpainting](https://arxiv.org/abs/2403.11878), Jiaxiang Tang et al., Arxiv 2024 | [citation](./references/citations.bib#L1227-L1232) | [site](https://me.kiui.moe/intex/) | [code](https://github.com/ashawkey/InTeX)
 
 - [SC4D: Sparse-Controlled Video-to-4D Generation and Motion Transfer](https://arxiv.org/abs/2404.03736), Zijie Wu et al., Arxiv 2024 | [citation](./references/citations.bib#L1283-L1288) | [site](https://sc4d.github.io/) | [code]()
+
+- [TELA: Text to Layer-wise 3D Clothed Human Generation](https://arxiv.org/abs/2404.16748), Junting Dong et al., Arxiv 2024 | [citation](./references/citations.bib#L1339-L1344) | [site](http://jtdong.com/tela_layer/) | [code]()
+
+- [Interactive3D: Create What You Want by Interactive 3D Generation](https://arxiv.org/abs/2404.16510), Shaocong Dong et al., Arxiv 2024 | [citation](./references/citations.bib#L1346-L1351) | [site](https://interactive-3d.github.io) | [code](https://github.com/interactive-3d/interactive3d)
+
+- [TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts](https://arxiv.org/abs/2401.14828), Jingyu Zhuang et al., Arxiv 2024 | [citation](./references/citations.bib#L1353-L1358) | [site](https://zjy526223908.github.io/TIP-Editor) | [code](https://github.com/zjy526223908/TIP-Editor)
 
 
 </details>
