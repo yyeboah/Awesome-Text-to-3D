@@ -408,7 +408,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Text-To-4D Dynamic Scene Generation](https://arxiv.org/abs/2301.11280), Uriel Singer et al., Arxiv 2023 | [citation](./references/citations.bib#L225-L230) | [site](https://make-a-video3d.github.io/) | [code]()
 
-- [TextDeformer: Geometry Manipulation using Text Guidance](https://arxiv.org/abs/2304.13348), William Gao et al., Arxiv 2033 | [citation](./references/citations.bib#L281-L286) | [site]() | [code]()
+- [TextDeformer: Geometry Manipulation using Text Guidance](https://arxiv.org/abs/2304.13348), William Gao et al., Arxiv 2023 | [citation](./references/citations.bib#L281-L286) | [site]() | [code]()
 
 - [Consistent4D: Consistent 360 Degree Dynamic Object Generation from Monocular Video](https://arxiv.org/abs/2311.02848), Yanqin Jiang et al., Arxiv 2023 | [citation](./references/citations.bib#L799-L809) | [site](https://consistent4d.github.io/) | [code](https://github.com/yanqinJiang/Consistent4D)
 
