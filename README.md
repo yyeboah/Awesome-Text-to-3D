@@ -261,6 +261,9 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [CLIP-GS: CLIP-Informed Gaussian Splatting for Real-time and View-consistent 3D Semantic Understanding](https://arxiv.org/abs/2404.14249), Guibiao Liao et al., Arxiv 2024 | [citation](./references/citations.bib#L1360-L1365) | [site]() | [code]()
 
+- [CAT3D: Create Anything in 3D with Multi-View Diffusion Models](https://arxiv.org/abs/2405.10314), Ruiqi Gao et al., Arxiv 2024 | [citation](./references/citations.bib#L1367-L1372) | [site](https://cat3d.github.io) | [code]()
+
+
 </details>
 
 
@@ -337,6 +340,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts](https://arxiv.org/abs/2401.14828), Jingyu Zhuang et al., Arxiv 2024 | [citation](./references/citations.bib#L1353-L1358) | [site](https://zjy526223908.github.io/TIP-Editor) | [code](https://github.com/zjy526223908/TIP-Editor)
 
+- [Coin3D: Controllable and Interactive 3D Assets Generation with Proxy-Guided Conditioning](https://arxiv.org/abs/2405.08054), Wenqi Dong et al., Arxiv 2024 | [citation](./references/citations.bib#L1374-L1379) | [site]() | [code]()
+
 
 </details>
 
@@ -396,6 +401,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [InstructHumans: Editing Animatable 3D Human Textures with Instructions](https://jyzhu.top/instruct-humans/), Jiayin Zhu et al., Arxiv 2024 | [citation](./references/citations.bib#L1276-L1281) | [site](https://jyzhu.top/instruct-humans/) | [code](https://github.com/viridityzhu/InstructHumans)
 
+- [X-Oscar: A Progressive Framework for High-quality Text-guided 3D Animatable Avatar Generation](https://arxiv.org/abs/2405.00954), Yiwei Ma et al., Arxiv 2024 | [citation](./references/citations.bib#L1381-L1386) | [site](https://xmu-xiaoma666.github.io/Projects/X-Oscar/) | [code](https://github.com/LinZhekai/X-Oscar)
+
 
 
 </details>
@@ -436,6 +443,9 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Paint-it: Text-to-Texture Synthesis via Deep Convolutional Texture Map Optimization and Physically-Based Rendering](https://arxiv.org/abs/2312.11360), Kim Youwan et al., Arxiv 2023 | [citation](./references/citations.bib#L961-L966)
 
 - [SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding](https://arxiv.org/abs/2401.09340), Baoxiong Jia et al., Arxiv 2024 | [citation](./references/citations.bib#L1038-L1043)
+
+- [Scalable 3D Captioning with Pretrained Models](https://arxiv.org/abs/2306.07279), Tiange Luo et al., Arxiv 2024 | [citation](./references/citations.bib#L1388-L1393)
+
 
 
 ## Frameworks :desktop_computer:
