@@ -263,6 +263,14 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [CAT3D: Create Anything in 3D with Multi-View Diffusion Models](https://arxiv.org/abs/2405.10314), Ruiqi Gao et al., Arxiv 2024 | [citation](./references/citations.bib#L1367-L1372) | [site](https://cat3d.github.io) | [code]()
 
+- [Portrait3D: Text-Guided High-Quality 3D Portrait Generation Using Pyramid Representation and GANs Prior](https://arxiv.org/abs/2404.10394), Yiqian Wu et al., Arxiv 2024 | [citation](./references/citations.bib#L1402-L1407) | [site]() | [code]()
+
+- [CraftsMan: High-fidelity Mesh Generation with 3D Native Generation and Interactive Geometry Refiner](https://arxiv.org/abs/2405.14979), Weiyu Li et al., Arxiv 2024 | [citation](./references/citations.bib#L1409-L1414) | [site](https://craftsman3d.github.io/) | [code](https://github.com/wyysf-98/CraftsMan)
+
+- [LDM: Large Tensorial SDF Model for Textured Mesh Generation](https://arxiv.org/abs/2405.14580), Rengan Xie et al., Arxiv 2024 | [citation](./references/citations.bib#L1416-L1421) | [site]() | [code]()
+
+- [Dreamer XL: Towards High-Resolution Text-to-3D Generation via Trajectory Score Matching](https://arxiv.org/abs/2405.11252), Xingyu Miao et al., Arxiv 2024 | [citation](./references/citations.bib#L1423-L1428) | [site]() | [code]()
+
 
 </details>
 
@@ -342,6 +350,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Coin3D: Controllable and Interactive 3D Assets Generation with Proxy-Guided Conditioning](https://arxiv.org/abs/2405.08054), Wenqi Dong et al., Arxiv 2024 | [citation](./references/citations.bib#L1374-L1379) | [site]() | [code]()
 
+- [Part123: Part-aware 3D Reconstruction from a Single-view Image](https://arxiv.org/abs/2405.16888), Anran Liu et al., Arxiv 2024 | [citation](./references/citations.bib#L1395-L1400) | [site]() | [code]()
 
 </details>
 
