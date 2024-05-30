@@ -271,6 +271,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Dreamer XL: Towards High-Resolution Text-to-3D Generation via Trajectory Score Matching](https://arxiv.org/abs/2405.11252), Xingyu Miao et al., Arxiv 2024 | [citation](./references/citations.bib#L1423-L1428) | [site]() | [code]()
 
+- [Era3D: High-Resolution Multiview Diffusion using Efficient Row-wise Attention](https://arxiv.org/abs/2405.11616), Peng Li et al., Arxiv 2024 | [citation](./references/citations.bib#L1430-L1435) | [site](https://penghtyx.github.io/Era3D/) | [code](https://github.com/pengHTYX/Era3D)
+
 
 </details>
 
