@@ -273,6 +273,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Era3D: High-Resolution Multiview Diffusion using Efficient Row-wise Attention](https://arxiv.org/abs/2405.11616), Peng Li et al., Arxiv 2024 | [citation](./references/citations.bib#L1430-L1435) | [site](https://penghtyx.github.io/Era3D/) | [code](https://github.com/pengHTYX/Era3D)
 
+- [GaussianCube: A Structured and Explicit Radiance Representation for 3D Generative Modeling](https://arxiv.org/abs/2403.19655), Bowen Zhang et al., Arxiv 2024 | [citation](./references/citations.bib#L1451-L1456) | [site](https://gaussiancube.github.io/) | [code](https://github.com/GaussianCube/)
+
+- [Tetrahedron Splatting for 3D Generation](https://arxiv.org/abs/2406.01579), Chun Gu et al., Arxiv 2024 | [citation](./references/citations.bib#L1458-L1463) | [site]() | [code](https://github.com/fudan-zvg/tet-splatting)
+
 
 </details>
 
@@ -354,6 +358,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Part123: Part-aware 3D Reconstruction from a Single-view Image](https://arxiv.org/abs/2405.16888), Anran Liu et al., Arxiv 2024 | [citation](./references/citations.bib#L1395-L1400) | [site]() | [code]()
 
+- [DreamMat: High-quality PBR Material Generation with Geometry- and Light-aware Diffusion Models](https://arxiv.org/abs/2405.17176), Yuqing Zhang et al., Arxiv 2024 | [citation](./references/citations.bib#L1437-L1442) | [site](https://zzzyuqing.github.io/dreammat.github.io/) | [code](https://github.com/zzzyuqing/DreamMat)
+
 </details>
 
 
@@ -413,6 +419,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [InstructHumans: Editing Animatable 3D Human Textures with Instructions](https://jyzhu.top/instruct-humans/), Jiayin Zhu et al., Arxiv 2024 | [citation](./references/citations.bib#L1276-L1281) | [site](https://jyzhu.top/instruct-humans/) | [code](https://github.com/viridityzhu/InstructHumans)
 
 - [X-Oscar: A Progressive Framework for High-quality Text-guided 3D Animatable Avatar Generation](https://arxiv.org/abs/2405.00954), Yiwei Ma et al., Arxiv 2024 | [citation](./references/citations.bib#L1381-L1386) | [site](https://xmu-xiaoma666.github.io/Projects/X-Oscar/) | [code](https://github.com/LinZhekai/X-Oscar)
+
+- [MagicPose4D: Crafting Articulated Models with Appearance and Motion Control](https://arxiv.org/abs/2405.14017), Hao Zhang et al., Arxiv 2024 | [citation](./references/citations.bib#L1444-L1449) | [site](https://boese0601.github.io/magicpose4d/) | [code](https://github.com/haoz19/MagicPose4D)
 
 
 
