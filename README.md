@@ -277,6 +277,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Tetrahedron Splatting for 3D Generation](https://arxiv.org/abs/2406.01579), Chun Gu et al., Arxiv 2024 | [citation](./references/citations.bib#L1458-L1463) | [site]() | [code](https://github.com/fudan-zvg/tet-splatting)
 
+- [L4GM: Large 4D Gaussian Reconstruction Model](https://arxiv.org/abs/2406.10324), Jiawei Ren et al., Arxiv 2024 | [citation](./references/citations.bib#L1472-L1477) | [site](https://research.nvidia.com/labs/toronto-ai/l4gm/) | [code]()
+
 
 </details>
 
@@ -421,6 +423,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [X-Oscar: A Progressive Framework for High-quality Text-guided 3D Animatable Avatar Generation](https://arxiv.org/abs/2405.00954), Yiwei Ma et al., Arxiv 2024 | [citation](./references/citations.bib#L1381-L1386) | [site](https://xmu-xiaoma666.github.io/Projects/X-Oscar/) | [code](https://github.com/LinZhekai/X-Oscar)
 
 - [MagicPose4D: Crafting Articulated Models with Appearance and Motion Control](https://arxiv.org/abs/2405.14017), Hao Zhang et al., Arxiv 2024 | [citation](./references/citations.bib#L1444-L1449) | [site](https://boese0601.github.io/magicpose4d/) | [code](https://github.com/haoz19/MagicPose4D)
+
+- [HAAR: Text-Conditioned Generative Model of 3D Strand-based Human Hairstyles](https://arxiv.org/abs/2312.11666), Vanessa Sklyarova et al., Arxiv 2024 | [citation](./references/citations.bib#L1465-L1470) | [site](https://haar.is.tue.mpg.de/) | [code](https://github.com/Vanessik/HAAR)
+
+- [GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality](https://arxiv.org/abs/2406.18462), Taoran Yi et al., Arxiv 2024 | [citation](./references/citations.bib#L1479-L1484) | [site](https://taoranyi.com/gaussiandreamerpro/) | [code](https://github.com/hustvl/GaussianDreamerPro)
 
 
 
