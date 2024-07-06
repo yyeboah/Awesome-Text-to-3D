@@ -279,6 +279,12 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [L4GM: Large 4D Gaussian Reconstruction Model](https://arxiv.org/abs/2406.10324), Jiawei Ren et al., Arxiv 2024 | [citation](./references/citations.bib#L1472-L1477) | [site](https://research.nvidia.com/labs/toronto-ai/l4gm/) | [code]()
 
+- [Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction](https://arxiv.org/abs/2403.18795), Taoran Yi et al., Arxiv 2024 | [citation](./references/citations.bib#L1486-L1491) | [site](https://florinshen.github.io/gamba-project/) | [code](https://github.com/SkyworkAI/Gamba)
+
+- [HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Model](https://arxiv.org/abs/2406.20077), Hieu T. Nguyen et al., Arxiv 2024 | [citation](./references/citations.bib#L1493-L1493) | [site](https://neu-vi.github.io/houseCrafter/) | [code]()
+
+- [Meta 3D Gen](https://arxiv.org/abs/2407.02599), Raphael Bensadoun et al., Arxiv 2024 | [citation](./references/citations.bib#L1500-L1505) | [site](https://ai.meta.com/research/publications/meta-3d-gen/) | [code]()
+
 
 </details>
 
