@@ -483,7 +483,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [threestudio: A unified framework for 3D content generation](https://github.com/threestudio-project/threestudio), Yuan-Chen Guo et al., Github 2023	
 
-- [Nerfstudio: A Modular Framework for Neural Radiance Field Development](https://docs.nerf.studio/en/latest/index.html), Matthew Tancik et al., SIGGRAPH 2023
+- [Nerfstudio: A Modular Framework for Neural Radiance Field Development](https://docs.nerf.studio/), Matthew Tancik et al., SIGGRAPH 2023
 
 - [Mirage3D: Open-Source Implementations of 3D Diffusion Models Optimized for GLB Output](https://github.com/MirageML/Mirage3D), Mirageml et al., Github 2023
 
