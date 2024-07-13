@@ -285,6 +285,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Meta 3D Gen](https://arxiv.org/abs/2407.02599), Raphael Bensadoun et al., Arxiv 2024 | [citation](./references/citations.bib#L1500-L1505) | [site](https://ai.meta.com/research/publications/meta-3d-gen/) | [code]()
 
+- [ScaleDreamer](https://arxiv.org/abs/2407.02040), Zhiyuan Ma et al., ECCV 2024 | [citation](./references/citations.bib#L1507-L1512) | [site](https://sites.google.com/view/scaledreamer-release/) | [code](https://github.com/theEricMa/ScaleDreamer)
 
 </details>
 
