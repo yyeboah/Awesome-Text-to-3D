@@ -287,6 +287,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [ScaleDreamer](https://arxiv.org/abs/2407.02040), Zhiyuan Ma et al., ECCV 2024 | [citation](./references/citations.bib#L1507-L1512) | [site](https://sites.google.com/view/scaledreamer-release/) | [code](https://github.com/theEricMa/ScaleDreamer)
 
+- [YouDream: Generating Anatomically Controllable Consistent Text-to-3D Animals](https://arxiv.org/abs/2406.16273v1), Sandeep Mishra et al., Arxiv 2024 | [citation](./references/citations.bib#L1514-L1519) | [site](https://youdream3d.github.io/) | [code](https://github.com/YouDream3D/YouDream/)
+
+- [RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models](https://arxiv.org/abs/2407.06938), Bowen Zhang et al., Arxiv 2024 | [citation](./references/citations.bib#L1521-L1526) | [site]() | [code]()
+
 </details>
 
 
