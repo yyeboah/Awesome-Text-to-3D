@@ -468,7 +468,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Objaverse: A Universe of Annotated 3D Objects](https://arxiv.org/abs/2212.08051), Matt Deitke et al., Arxiv 2022 | [citation](./references/citations.bib#L519-L524)
 
-- [Objaverse-XL: A Universe of 10M+ 3D Objects](https://objaverse.allenai.org/objaverse-xl-paper.pdf), Matt Deitke et al., Preprint 2023 | [citation](./references/citations.bib#L526-L531)
+- [Objaverse-XL: A Universe of 10M+ 3D Objects](https://objaverse.allenai.org/), Matt Deitke et al., Preprint 2023 | [citation](./references/citations.bib#L526-L531)
 
 - [Describe3D: High-Fidelity 3D Face Generation from Natural Language Descriptions](https://arxiv.org/abs/2305.03302), Menghua Wu et al., CVPR 2023 | [citation](./references/citations.bib#L533-L538)
 
