@@ -291,6 +291,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models](https://arxiv.org/abs/2407.06938), Bowen Zhang et al., Arxiv 2024 | [citation](./references/citations.bib#L1521-L1526) | [site]() | [code]()
 
+- [HoloDreamer: Holistic 3D Panoramic World Generation from Text Descriptions](https://arxiv.org/abs/2407.15187), Haiyang Zhou et al., Arxiv 2024 | [citation](./references/citations.bib#L1535-L1540) | [site](https://zhouhyocean.github.io/holodreamer/) | [code](https://github.com/zhouhyOcean/HoloDreamer)
+
+- [PlacidDreamer: Advancing Harmony in Text-to-3D Generation](https://arxiv.org/abs/2407.13976), Shuo Huang et al., Arxiv 2024 | [citation](./references/citations.bib#L1543-L151548) | [site]() | [code]()
+
 </details>
 
 
@@ -372,6 +376,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Part123: Part-aware 3D Reconstruction from a Single-view Image](https://arxiv.org/abs/2405.16888), Anran Liu et al., Arxiv 2024 | [citation](./references/citations.bib#L1395-L1400) | [site]() | [code]()
 
 - [DreamMat: High-quality PBR Material Generation with Geometry- and Light-aware Diffusion Models](https://arxiv.org/abs/2405.17176), Yuqing Zhang et al., Arxiv 2024 | [citation](./references/citations.bib#L1437-L1442) | [site](https://zzzyuqing.github.io/dreammat.github.io/) | [code](https://github.com/zzzyuqing/DreamMat)
+
+- [DreamVTON: Customizing 3D Virtual Try-on with Personalized Diffusion Models](https://arxiv.org/abs/2407.16511), Zhenyu Xie et al., Arxiv 2024 | [citation](./references/citations.bib#L1528-L1533) | [site]() | [code]()
 
 </details>
 
