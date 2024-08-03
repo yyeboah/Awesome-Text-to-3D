@@ -299,6 +299,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Ouroboros3D: Image-to-3D Generation via 3D-aware Recursive Diffusion](https://arxiv.org/abs/2406.03184), Hao Wen et al., Arxiv 2024 | [citation](./references/citations.bib#L1557-L1562) | [site](https://costwen.github.io/Ouroboros3D/) | [code](https://github.com/Costwen/Ouroboros3D)
 
+- [DreamReward: Text-to-3D Generation with Human Preference](https://arxiv.org/abs/2403.14613), Junliang Ye et al., ECCV 2024 | [citation](./references/citations.bib#L1564-L1569) | [site](https://jamesyjl.github.io/DreamReward/) | [code](https://github.com/liuff19/DreamReward)
+
 </details>
 
 
