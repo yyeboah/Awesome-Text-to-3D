@@ -301,6 +301,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [DreamReward: Text-to-3D Generation with Human Preference](https://arxiv.org/abs/2403.14613), Junliang Ye et al., ECCV 2024 | [citation](./references/citations.bib#L1564-L1569) | [site](https://jamesyjl.github.io/DreamReward/) | [code](https://github.com/liuff19/DreamReward)
 
+- [Cycle3D: High-quality and Consistent Image-to-3D Generation via Generation-Reconstruction Cycle](https://arxiv.org/abs/2407.19548), Zhenyu Tang et al., Arxiv 2024 | [citation](./references/citations.bib#L1571-L1576) | [site](https://pku-yuangroup.github.io/Cycle3D/) | [code](https://github.com/PKU-YuanGroup/Cycle3D)
+
 </details>
 
 
@@ -384,6 +386,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [DreamMat: High-quality PBR Material Generation with Geometry- and Light-aware Diffusion Models](https://arxiv.org/abs/2405.17176), Yuqing Zhang et al., Arxiv 2024 | [citation](./references/citations.bib#L1437-L1442) | [site](https://zzzyuqing.github.io/dreammat.github.io/) | [code](https://github.com/zzzyuqing/DreamMat)
 
 - [DreamVTON: Customizing 3D Virtual Try-on with Personalized Diffusion Models](https://arxiv.org/abs/2407.16511), Zhenyu Xie et al., Arxiv 2024 | [citation](./references/citations.bib#L1528-L1533) | [site]() | [code]()
+
+- [SF3D: Stable Fast 3D Mesh Reconstruction with UV-unwrapping and Illumination Disentanglement](https://arxiv.org/abs/2408.00653), Mark Boss et al., Arxiv 2024 | [citation](./references/citations.bib#L1578-L1583) | [site](https://stable-fast-3d.github.io/) | [code](https://github.com/Stability-AI/stable-fast-3d)
 
 </details>
 
