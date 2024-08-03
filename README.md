@@ -295,6 +295,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [PlacidDreamer: Advancing Harmony in Text-to-3D Generation](https://arxiv.org/abs/2407.13976), Shuo Huang et al., Arxiv 2024 | [citation](./references/citations.bib#L1543-L151548) | [site]() | [code]()
 
+- [EpiDiff: Enhancing Multi-View Synthesis via Localized Epipolar-Constrained Diffusion](https://arxiv.org/abs/2312.06725), Zehuan Huang et al., CVPR 2024 | [citation](./references/citations.bib#L1550-L1555) | [site](https://huanngzh.github.io/EpiDiff/) | [code](https://github.com/huanngzh/EpiDiff)
+
+- [Ouroboros3D: Image-to-3D Generation via 3D-aware Recursive Diffusion](https://arxiv.org/abs/2406.03184), Hao Wen et al., Arxiv 2024 | [citation](./references/citations.bib#L1557-L1562) | [site](https://costwen.github.io/Ouroboros3D/) | [code](https://github.com/Costwen/Ouroboros3D)
+
 </details>
 
 
