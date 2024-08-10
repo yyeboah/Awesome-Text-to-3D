@@ -303,6 +303,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Cycle3D: High-quality and Consistent Image-to-3D Generation via Generation-Reconstruction Cycle](https://arxiv.org/abs/2407.19548), Zhenyu Tang et al., Arxiv 2024 | [citation](./references/citations.bib#L1571-L1576) | [site](https://pku-yuangroup.github.io/Cycle3D/) | [code](https://github.com/PKU-YuanGroup/Cycle3D)
 
+- [DreamInit: A General Framework to Boost 3D GS Initialization for Text-to-3D Generation by Lexical Richness](https://arxiv.org/abs/2408.01269), Lutao Jiang et al., Arxiv 2024 | [citation](./references/citations.bib#L1585-L1590) | [site](https://vlislab22.github.io/DreamInit/) | [code]()
+
+- [TexGen: Text-Guided 3D Texture Generation with Multi-view Sampling and Resampling](https://arxiv.org/abs/2408.01291), Dong Huo et al., Arxiv 2024 | [citation](./references/citations.bib#L1599-L1604) | [site](https://dong-huo.github.io/TexGen/) | [code]()
+
 </details>
 
 
