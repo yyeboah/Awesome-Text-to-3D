@@ -307,6 +307,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [TexGen: Text-Guided 3D Texture Generation with Multi-view Sampling and Resampling](https://arxiv.org/abs/2408.01291), Dong Huo et al., Arxiv 2024 | [citation](./references/citations.bib#L1599-L1604) | [site](https://dong-huo.github.io/TexGen/) | [code]()
 
+- [DreamCouple: Exploring High Quality Text-to-3D Generation Via Rectified Flow](https://arxiv.org/abs/2408.05008), Hangyu Li et al., Arxiv 2024 | [citation](./references/citations.bib#L1606-L1611) | [site]() | [code]()
+
 </details>
 
 
