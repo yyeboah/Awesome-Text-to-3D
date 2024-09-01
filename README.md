@@ -309,6 +309,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [DreamCouple: Exploring High Quality Text-to-3D Generation Via Rectified Flow](https://arxiv.org/abs/2408.05008), Hangyu Li et al., Arxiv 2024 | [citation](./references/citations.bib#L1606-L1611) | [site]() | [code]()
 
+- [MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction Model](https://arxiv.org/abs/2408.10198), Minghua Liu et al., Arxiv 2024 | [citation](./references/citations.bib#L1613-L1618) | [site](https://meshformer3d.github.io/) | [code]()
+
 </details>
 
 
@@ -460,6 +462,9 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [HAAR: Text-Conditioned Generative Model of 3D Strand-based Human Hairstyles](https://arxiv.org/abs/2312.11666), Vanessa Sklyarova et al., Arxiv 2024 | [citation](./references/citations.bib#L1465-L1470) | [site](https://haar.is.tue.mpg.de/) | [code](https://github.com/Vanessik/HAAR)
 
 - [GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality](https://arxiv.org/abs/2406.18462), Taoran Yi et al., Arxiv 2024 | [citation](./references/citations.bib#L1479-L1484) | [site](https://taoranyi.com/gaussiandreamerpro/) | [code](https://github.com/hustvl/GaussianDreamerPro)
+
+- [Barbie: Text to Barbie-Style 3D Avatars](https://arxiv.org/abs/2408.09126), Xiaokun Sun et al., Arxiv 2024 | [citation](./references/citations.bib#L1620-L1625) | [site]() | [code]()
+
 
 
 
