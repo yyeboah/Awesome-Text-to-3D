@@ -311,6 +311,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction Model](https://arxiv.org/abs/2408.10198), Minghua Liu et al., Arxiv 2024 | [citation](./references/citations.bib#L1613-L1618) | [site](https://meshformer3d.github.io/) | [code]()
 
+- [Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models](https://arxiv.org/abs/2409.07452), Haibo Yang et al., Arxiv 2024 | [citation](./references/citations.bib#L1641-L1646) | [site]() | [code]()
+
+- [MVGaussian: High-Fidelity text-to-3D Content Generation with Multi-View Guidance and Surface Densification](https://arxiv.org/abs/2409.06620), Phu Pham et al., Arxiv 2024 | [citation](./references/citations.bib#L1648-L1653) | [site](https://mvgaussian.github.io/) | [code](https://github.com/mvgaussian/mvgaussian)
+
 </details>
 
 
@@ -396,6 +400,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [DreamVTON: Customizing 3D Virtual Try-on with Personalized Diffusion Models](https://arxiv.org/abs/2407.16511), Zhenyu Xie et al., Arxiv 2024 | [citation](./references/citations.bib#L1528-L1533) | [site]() | [code]()
 
 - [SF3D: Stable Fast 3D Mesh Reconstruction with UV-unwrapping and Illumination Disentanglement](https://arxiv.org/abs/2408.00653), Mark Boss et al., Arxiv 2024 | [citation](./references/citations.bib#L1578-L1583) | [site](https://stable-fast-3d.github.io/) | [code](https://github.com/Stability-AI/stable-fast-3d)
+
+- [DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors](https://arxiv.org/abs/2409.08278), Thomas Hanwen et al., Arxiv 2024 | [citation](./references/citations.bib#L1627-L1632) | [site](https://dreamhoi.github.io/) | [code](https://https://github.com/hanwenzhu/dreamhoi)
+
+- [DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation](https://arxiv.org/abs/2409.07454), Haibo Yang et al., Arxiv 2024 | [citation](./references/citations.bib#L1634-L1639) | [site](https://dreammesh.github.io/) | [code]()
 
 </details>
 
