@@ -315,6 +315,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [MVGaussian: High-Fidelity text-to-3D Content Generation with Multi-View Guidance and Surface Densification](https://arxiv.org/abs/2409.06620), Phu Pham et al., Arxiv 2024 | [citation](./references/citations.bib#L1648-L1653) | [site](https://mvgaussian.github.io/) | [code](https://github.com/mvgaussian/mvgaussian)
 
+- [Geometry Image Diffusion: Fast and Data-Efficient Text-to-3D with Image-Based Surface Representation](https://arxiv.org/abs/2409.03718), Slava Elizarov et al., Arxiv 2024 | [citation](./references/citations.bib#L1655-L1660) | [site](https://unity-research.github.io/Geometry-Image-Diffusion.github.io/) | [code]()
+
 </details>
 
 
