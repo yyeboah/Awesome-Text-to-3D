@@ -317,6 +317,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Geometry Image Diffusion: Fast and Data-Efficient Text-to-3D with Image-Based Surface Representation](https://arxiv.org/abs/2409.03718), Slava Elizarov et al., Arxiv 2024 | [citation](./references/citations.bib#L1655-L1660) | [site](https://unity-research.github.io/Geometry-Image-Diffusion.github.io/) | [code]()
 
+- [Phidias: A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions with Reference-Augmented Diffusion](https://arxiv.org/abs/2409.11406), Zhenwei Wang et al., Arxiv 2024 | [citation](./references/citations.bib#L1662-L1667) | [site](https://rag-3d.github.io/) | [code](https://github.com/3DTopia/Phidias-Diffusion)
+
+- [3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion](https://arxiv.org/abs/2409.12957), Zhaoxi Chen et al., Arxiv 2024 | [citation](./references/citations.bib#L1669-L1674) | [site](https://3dtopia.github.io/3DTopia-XL/) | [code](https://github.com/3DTopia/3DTopia-XL)
+
 </details>
 
 
