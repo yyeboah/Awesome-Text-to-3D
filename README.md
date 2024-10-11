@@ -321,6 +321,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion](https://arxiv.org/abs/2409.12957), Zhaoxi Chen et al., Arxiv 2024 | [citation](./references/citations.bib#L1669-L1674) | [site](https://3dtopia.github.io/3DTopia-XL/) | [code](https://github.com/3DTopia/3DTopia-XL)
 
+- [LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness](https://arxiv.org/abs/2409.18125), Chenming Zhu et al., Arxiv 2024 | [citation](./references/citations.bib#L1683-L1688) | [site](https://zcmax.github.io/projects/LLaVA-3D/) | [code](https://github.com/ZCMax/LLaVA-3D)
+
 </details>
 
 
@@ -410,6 +412,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors](https://arxiv.org/abs/2409.08278), Thomas Hanwen et al., Arxiv 2024 | [citation](./references/citations.bib#L1627-L1632) | [site](https://dreamhoi.github.io/) | [code](https://https://github.com/hanwenzhu/dreamhoi)
 
 - [DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation](https://arxiv.org/abs/2409.07454), Haibo Yang et al., Arxiv 2024 | [citation](./references/citations.bib#L1634-L1639) | [site](https://dreammesh.github.io/) | [code]()
+
+- [FlashTex: Fast Relightable Mesh Texturing with LightControlNet](https://arxiv.org/abs/2409.07454), Kangle Deng et al., Arxiv 2024 | [citation](./references/citations.bib#L1676-L1681) | [site](https://flashtex.github.io) | [code](https://github.com/Roblox/FlashTex)
 
 </details>
 
