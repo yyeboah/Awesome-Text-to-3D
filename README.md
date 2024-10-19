@@ -323,6 +323,9 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness](https://arxiv.org/abs/2409.18125), Chenming Zhu et al., Arxiv 2024 | [citation](./references/citations.bib#L1683-L1688) | [site](https://zcmax.github.io/projects/LLaVA-3D/) | [code](https://github.com/ZCMax/LLaVA-3D)
 
+- [SceneCraft: Layout-Guided 3D Scene Generation](https://arxiv.org/abs/2410.09049), Xiuyu Yang et al., Arxiv 2024 | [citation](./references/citations.bib#L1697-1702) | [site](https://orangesodahub.github.io/SceneCraft/) | [code](https://github.com/OrangeSodahub/SceneCraft/)
+
+
 </details>
 
 
@@ -414,6 +417,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation](https://arxiv.org/abs/2409.07454), Haibo Yang et al., Arxiv 2024 | [citation](./references/citations.bib#L1634-L1639) | [site](https://dreammesh.github.io/) | [code]()
 
 - [FlashTex: Fast Relightable Mesh Texturing with LightControlNet](https://arxiv.org/abs/2409.07454), Kangle Deng et al., Arxiv 2024 | [citation](./references/citations.bib#L1676-L1681) | [site](https://flashtex.github.io) | [code](https://github.com/Roblox/FlashTex)
+
+- [MeshUp: Multi-Target Mesh Deformation via Blended Score Distillation](https://arxiv.org/abs/2408.14899), Hyunwoo Kim et al., Arxiv 2024 | [citation](./references/citations.bib#L1690-L1695) | [site](https://threedle.github.io/MeshUp/) | [code](https://github.com/threedle/MeshUp)
 
 </details>
 
