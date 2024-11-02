@@ -325,6 +325,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [SceneCraft: Layout-Guided 3D Scene Generation](https://arxiv.org/abs/2410.09049), Xiuyu Yang et al., Arxiv 2024 | [citation](./references/citations.bib#L1697-1702) | [site](https://orangesodahub.github.io/SceneCraft/) | [code](https://github.com/OrangeSodahub/SceneCraft/)
 
+- [DreamCraft3D++: Efficient Hierarchical 3D Generation with Multi-Plane Reconstruction Model](https://arxiv.org/abs/2410.12928), Jingxiang Sun et al., Arxiv 2024 | [citation](./references/citations.bib#L1704-1709) | [site](https://dreamcraft3dplus.github.io) | [code](https://github.com/MrTornado24/DreamCraft3D_Plus)
+
+- [Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models](https://arxiv.org/abs/2410.10821), Jiangzhi Bao et al., Arxiv 2024 | [citation](./references/citations.bib#L1711-1716) | [site](https://tex4d.github.io) | [code](https://github.com/ZqlwMatt/Tex4D)
+
 
 </details>
 
@@ -419,6 +423,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [FlashTex: Fast Relightable Mesh Texturing with LightControlNet](https://arxiv.org/abs/2409.07454), Kangle Deng et al., Arxiv 2024 | [citation](./references/citations.bib#L1676-L1681) | [site](https://flashtex.github.io) | [code](https://github.com/Roblox/FlashTex)
 
 - [MeshUp: Multi-Target Mesh Deformation via Blended Score Distillation](https://arxiv.org/abs/2408.14899), Hyunwoo Kim et al., Arxiv 2024 | [citation](./references/citations.bib#L1690-L1695) | [site](https://threedle.github.io/MeshUp/) | [code](https://github.com/threedle/MeshUp)
+
+- [MvDrag3D: Drag-based Creative 3D Editing via Multi-view Generation-Reconstruction Priors](https://arxiv.org/abs/2410.16272), Honghua Chen et al., Arxiv 2024 | [citation](./references/citations.bib#L1718-1723) | [site](https://chenhonghua.github.io/MyProjects/MvDrag3D) | [code](https://github.com/chenhonghua/MvDrag3D)
 
 </details>
 
