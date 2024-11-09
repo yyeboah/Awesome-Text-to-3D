@@ -329,6 +329,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models](https://arxiv.org/abs/2410.10821), Jiangzhi Bao et al., Arxiv 2024 | [citation](./references/citations.bib#L1711-L1716) | [site](https://tex4d.github.io) | [code](https://github.com/ZqlwMatt/Tex4D)
 
+- [DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion](https://arxiv.org/abs/2411.04928), Wenqiang Sun et al., Arxiv 2024 | [citation](./references/citations.bib#L1739-L1744) | [site](https://chenshuo20.github.io/DimensionX/) | [code](https://github.com/wenqsun/DimensionX)
 
 </details>
 
@@ -425,6 +426,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [MeshUp: Multi-Target Mesh Deformation via Blended Score Distillation](https://arxiv.org/abs/2408.14899), Hyunwoo Kim et al., Arxiv 2024 | [citation](./references/citations.bib#L1690-L1695) | [site](https://threedle.github.io/MeshUp/) | [code](https://github.com/threedle/MeshUp)
 
 - [MvDrag3D: Drag-based Creative 3D Editing via Multi-view Generation-Reconstruction Priors](https://arxiv.org/abs/2410.16272), Honghua Chen et al., Arxiv 2024 | [citation](./references/citations.bib#L1718-L1723) | [site](https://chenhonghua.github.io/MyProjects/MvDrag3D) | [code](https://github.com/chenhonghua/MvDrag3D)
+
+- [StyleTex: Style Image-Guided Texture Generation for 3D Models](https://arxiv.org/abs/2411.00399), Zhiyu Xie et al., Arxiv 2024 | [citation](./references/citations.bib#L1725-L1730) | [site]() | [code]()
+
+- [MVPaint: Synchronized Multi-View Diffusion for Painting Anything 3D](https://arxiv.org/abs/2411.02336), Wei Cheng et al., Arxiv 2024 | [citation](./references/citations.bib#L1732-L1737) | [site](https://mvpaint.github.io/) | [code](https://github.com/3DTopia/MVPaint)
 
 </details>
 
