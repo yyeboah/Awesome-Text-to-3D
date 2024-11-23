@@ -331,6 +331,13 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion](https://arxiv.org/abs/2411.04928), Wenqiang Sun et al., Arxiv 2024 | [citation](./references/citations.bib#L1739-L1744) | [site](https://chenshuo20.github.io/DimensionX/) | [code](https://github.com/wenqsun/DimensionX)
 
+- [Edify 3D: Scalable High-Quality 3D Asset Generation](https://arxiv.org/abs/2411.07135), NVIDIA et al., Arxiv 2024 | [citation](./references/citations.bib#L1746-L1751) | [site](https://research.nvidia.com/labs/dir/edify-3d/) | [code]()
+
+- [Direct and Explicit 3D Generation from a Single Image](https://arxiv.org/abs/2411.10947), Haoyu Wu et al., Arxiv 2024 | [citation](./references/citations.bib#L1753-L1753) | [site]() | [code]()
+
+- [GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation](https://arxiv.org/abs/2411.08033), Yushi Lan et al., Arxiv 2024 | [citation](./references/citations.bib#L1767-L1772) | [site]() | [code]()
+
+
 </details>
 
 
@@ -430,6 +437,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [StyleTex: Style Image-Guided Texture Generation for 3D Models](https://arxiv.org/abs/2411.00399), Zhiyu Xie et al., Arxiv 2024 | [citation](./references/citations.bib#L1725-L1730) | [site]() | [code]()
 
 - [MVPaint: Synchronized Multi-View Diffusion for Painting Anything 3D](https://arxiv.org/abs/2411.02336), Wei Cheng et al., Arxiv 2024 | [citation](./references/citations.bib#L1732-L1737) | [site](https://mvpaint.github.io/) | [code](https://github.com/3DTopia/MVPaint)
+
+- [MVLight: Relightable Text-to-3D Generation via Light-conditioned Multi-View Diffusion](https://arxiv.org/abs/2411.11475), Dongseok Shim et al., Arxiv 2024 | [citation](./references/citations.bib#L1760-L1765) | [site]() | [code]()
+
+- [SAMPart3D: Segment Any Part in 3D Objects](https://arxiv.org/abs/2411.07184), Yunhan Yang et al., Arxiv 2024 | [citation](./references/citations.bib#L1774-L1779) | [site](https://yhyang-myron.github.io/SAMPart3D-website/) | [code](https://github.com/Pointcept/SAMPart3D)
 
 </details>
 
