@@ -337,6 +337,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation](https://arxiv.org/abs/2411.08033), Yushi Lan et al., Arxiv 2024 | [citation](./references/citations.bib#L1767-L1772) | [site]() | [code]()
 
+- [Turbo3D: Ultra-fast Text-to-3D Generation](https://arxiv.org/abs/2412.04470), Hanzhe Hu et al., Arxiv 2024 | [citation](./references/citations.bib#L1781-L1786) | [site](https://turbo-3d.github.io/) | [code]()
+
 
 </details>
 
@@ -441,6 +443,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [MVLight: Relightable Text-to-3D Generation via Light-conditioned Multi-View Diffusion](https://arxiv.org/abs/2411.11475), Dongseok Shim et al., Arxiv 2024 | [citation](./references/citations.bib#L1760-L1765) | [site]() | [code]()
 
 - [SAMPart3D: Segment Any Part in 3D Objects](https://arxiv.org/abs/2411.07184), Yunhan Yang et al., Arxiv 2024 | [citation](./references/citations.bib#L1774-L1779) | [site](https://yhyang-myron.github.io/SAMPart3D-website/) | [code](https://github.com/Pointcept/SAMPart3D)
+
+- [Material Anything: Generating Materials for Any 3D Object via Diffusion](https://arxiv.org/abs/2411.15138), Xin Huang et al., Arxiv 2024 | [citation](./references/citations.bib#L1788-L1793) | [site](https://xhuangcv.github.io/MaterialAnything/) | [code](https://github.com/3DTopia/MaterialAnything)
+
+- [Sharp-It: A Multi-view to Multi-view Diffusion Model for 3D Synthesis and Manipulation](https://arxiv.org/abs/2412.02631), Yiftach Edelstein et al., Arxiv 2024 | [citation](./references/citations.bib#L1795-L1800) | [site](https://yiftachede.github.io/Sharp-It/) | [code](https://github.com/YiftachEde/Sharp-It)
 
 </details>
 
