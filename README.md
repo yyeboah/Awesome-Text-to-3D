@@ -338,6 +338,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation](https://arxiv.org/abs/2411.08033), Yushi Lan et al., Arxiv 2024 | [citation](./references/citations.bib#L1767-L1772) | [site]() | [code]()
 
 - [Turbo3D: Ultra-fast Text-to-3D Generation](https://arxiv.org/abs/2412.04470), Hanzhe Hu et al., Arxiv 2024 | [citation](./references/citations.bib#L1781-L1786) | [site](https://turbo-3d.github.io/) | [code]()
+  
+- [WonderWorld: Interactive 3D Scene Generation from a Single Image](https://arxiv.org/abs/2406.09394), Hong-Xing Yu et al., Arxiv 2024 | [citation](./references/citations.bib#L1802-L1807) | [site](https://kovenyu.com/wonderworld/) | [code](https://github.com/KovenYu/WonderWorld)
+
+- [Wonderland: Navigating 3D Scenes from a Single Image](https://arxiv.org/abs/2412.12091), Hanwen Liang Yu et al., Arxiv 2024 | [citation](./references/citations.bib#L1809-L1814) | [site](https://snap-research.github.io/wonderland/) | [code]()
 
 
 </details>
@@ -515,6 +519,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality](https://arxiv.org/abs/2406.18462), Taoran Yi et al., Arxiv 2024 | [citation](./references/citations.bib#L1479-L1484) | [site](https://taoranyi.com/gaussiandreamerpro/) | [code](https://github.com/hustvl/GaussianDreamerPro)
 
 - [Barbie: Text to Barbie-Style 3D Avatars](https://arxiv.org/abs/2408.09126), Xiaokun Sun et al., Arxiv 2024 | [citation](./references/citations.bib#L1620-L1625) | [site]() | [code]()
+
+- [SimAvatar: Simulation-Ready Avatars with Layered Hair and Clothinge](https://arxiv.org/abs/2412.09545), Xueting Li et al., Arxiv 2024 | [citation](./references/citations.bib#L1816-L1821) | [site](https://nvlabs.github.io/SimAvatar/) | [code]()
 
 
 
