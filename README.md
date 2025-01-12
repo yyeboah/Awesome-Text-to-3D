@@ -343,6 +343,9 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Wonderland: Navigating 3D Scenes from a Single Image](https://arxiv.org/abs/2412.12091), Hanwen Liang Yu et al., Arxiv 2024 | [citation](./references/citations.bib#L1809-L1814) | [site](https://snap-research.github.io/wonderland/) | [code]()
 
+- [SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single Images](https://arxiv.org/abs/2501.04689), Zixuan Huang et al., Arxiv 2024 | [citation](./references/citations.bib#L1823-L1828) | [site](https://spar3d.github.io) | [code](https://github.com/Stability-AI/stable-point-aware-3d)
+
+- [Consistent Flow Distillation for Text-to-3D Generation](https://arxiv.org/abs/2501.05445), Runjie Yan et al., Arxiv 2024 | [citation](./references/citations.bib#L1830-L1835) | [site](https://runjie-yan.github.io/cfd/) | [code](https://github.com/runjie-yan/ConsistentFlowDistillation)
 
 </details>
 
