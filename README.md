@@ -347,6 +347,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Consistent Flow Distillation for Text-to-3D Generation](https://arxiv.org/abs/2501.05445), Runjie Yan et al., Arxiv 2024 | [citation](./references/citations.bib#L1830-L1835) | [site](https://runjie-yan.github.io/cfd/) | [code](https://github.com/runjie-yan/ConsistentFlowDistillation)
 
+- [TripoSG: High-Fidelity 3D Shape Synthesis using Large-Scale Rectified Flow Models](https://arxiv.org/abs/2502.06608), Yangguang Li et al., Arxiv 2024 | [citation](./references/citations.bib#L1837-L1842) | [site]() | [code]()
+
+- [ConsistentDreamer: View-Consistent Meshes Through Balanced Multi-View Gaussian Optimization](https://arxiv.org/abs/2502.09278), Onat Şahin et al., Arxiv 2024 | [citation](./references/citations.bib#L1844-L1849) | [site]() | [code]()
+
 </details>
 
 
@@ -524,6 +528,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Barbie: Text to Barbie-Style 3D Avatars](https://arxiv.org/abs/2408.09126), Xiaokun Sun et al., Arxiv 2024 | [citation](./references/citations.bib#L1620-L1625) | [site]() | [code]()
 
 - [SimAvatar: Simulation-Ready Avatars with Layered Hair and Clothinge](https://arxiv.org/abs/2412.09545), Xueting Li et al., Arxiv 2024 | [citation](./references/citations.bib#L1816-L1821) | [site](https://nvlabs.github.io/SimAvatar/) | [code]()
+
+- [HumanGif: Single-View Human Diffusion with Generative Prior](https://arxiv.org/abs/2502.12080), Shoukang Hu et al., Arxiv 2024 | [citation](./references/citations.bib#L1851-L1856) | [site]() | [code]()
 
 
 
