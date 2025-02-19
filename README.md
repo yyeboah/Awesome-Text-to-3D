@@ -531,6 +531,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [HumanGif: Single-View Human Diffusion with Generative Prior](https://arxiv.org/abs/2502.12080), Shoukang Hu et al., Arxiv 2024 | [citation](./references/citations.bib#L1851-L1856) | [site]() | [code]()
 
+- [GaussianMotion: End-to-End Learning of Animatable Gaussian Avatars with Pose Guidance from Text](https://arxiv.org/abs/2502.11642), Gyumin Shim et al., Arxiv 2024 | [citation](./references/citations.bib#L1858-L1863) | [site]() | [code]()
+
 
 
 
@@ -574,6 +576,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding](https://arxiv.org/abs/2401.09340), Baoxiong Jia et al., Arxiv 2024 | [citation](./references/citations.bib#L1038-L1043)
 
 - [Scalable 3D Captioning with Pretrained Models](https://arxiv.org/abs/2306.07279), Tiange Luo et al., Arxiv 2024 | [citation](./references/citations.bib#L1388-L1393)
+
+- [MagicArticulate/Articulation-XL2.0: Make Your 3D Models Articulation-Ready](https://arxiv.org/abs/2502.12135), Chaoyue Song et al., Arxiv 2024 | [citation](./references/citations.bib#L1865-L1870) | [site](https://chaoyuesong.github.io/MagicArticulate/) | [code](https://github.com/Seed3D/MagicArticulate)
 
 
 
