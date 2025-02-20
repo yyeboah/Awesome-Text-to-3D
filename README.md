@@ -599,4 +599,4 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [x] Initial List of the STOA
 - [x] Provide citations in BibTeX
 - [x] Sub-categorize based on input conditioning
-- [ ] Provide links to project pages and codes
+- [x] Provide links to project pages and codes
