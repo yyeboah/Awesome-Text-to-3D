@@ -351,6 +351,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [ConsistentDreamer: View-Consistent Meshes Through Balanced Multi-View Gaussian Optimization](https://arxiv.org/abs/2502.09278), Onat Şahin et al., Arxiv 2024 | [citation](./references/citations.bib#L1844-L1849) | [site]() | [code]()
 
+- [Geometry-Aware Diffusion Models for Multiview Scene Inpainting](https://arxiv.org/abs/2502.13335), Ahmad Salimi et al., Arxiv 2024 | [citation](./references/citations.bib#L1872-L1877) | [site]() | [code]()
+
 </details>
 
 
@@ -532,6 +534,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [HumanGif: Single-View Human Diffusion with Generative Prior](https://arxiv.org/abs/2502.12080), Shoukang Hu et al., Arxiv 2024 | [citation](./references/citations.bib#L1851-L1856) | [site]() | [code]()
 
 - [GaussianMotion: End-to-End Learning of Animatable Gaussian Avatars with Pose Guidance from Text](https://arxiv.org/abs/2502.11642), Gyumin Shim et al., Arxiv 2024 | [citation](./references/citations.bib#L1858-L1863) | [site]() | [code]()
+
+- [WonderHuman: Hallucinating Unseen Parts in Dynamic 3D Human Reconstruction](https://arxiv.org/abs/2502.01045), Zilong Wang et al., Arxiv 2024 | [citation](./references/citations.bib#L1879-L1884) | [site](https://wyiguanw.github.io/WonderHuman/) | [code](https://github.com/wyiguanw/WonderHuman/)
 
 
 
