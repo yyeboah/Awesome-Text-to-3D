@@ -353,7 +353,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Geometry-Aware Diffusion Models for Multiview Scene Inpainting](https://arxiv.org/abs/2502.13335), Ahmad Salimi et al., Arxiv 2024 | [citation](./references/citations.bib#L1872-L1877) | [site]() | [code]()
 
-- [CAST: Component-Aligned 3D Scene Reconstruction from an RGB Image](https://arxiv.org/abs/2502.12894), Zilong Wang et al., Arxiv 2024 | [citation](./references/citations.bib#L1886-L1890) | [site](https://sites.google.com/view/cast4) | [code]()
+- [CAST: Component-Aligned 3D Scene Reconstruction from an RGB Image](https://arxiv.org/abs/2502.12894), Zilong Wang et al., Arxiv 2024 | [citation](./references/citations.bib#L1886-L1891) | [site](https://sites.google.com/view/cast4) | [code]()
 
 </details>
 
