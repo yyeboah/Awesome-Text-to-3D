@@ -465,6 +465,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [DualNeRF: Text-Driven 3D Scene Editing via Dual-Field Representation](https://arxiv.org/abs/2502.16302), Yuxuan Xiong et al., Arxiv 2024 | [citation](./references/citations.bib#L1893-L1898) | [site]() | [code]()
 
+
 </details>
 
 
