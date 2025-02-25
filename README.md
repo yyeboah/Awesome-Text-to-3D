@@ -353,6 +353,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Geometry-Aware Diffusion Models for Multiview Scene Inpainting](https://arxiv.org/abs/2502.13335), Ahmad Salimi et al., Arxiv 2024 | [citation](./references/citations.bib#L1872-L1877) | [site]() | [code]()
 
+- [CAST: Component-Aligned 3D Scene Reconstruction from an RGB Image](https://arxiv.org/abs/2502.12894), Zilong Wang et al., Arxiv 2024 | [citation](./references/citations.bib#L1886-L1890) | [site](https://sites.google.com/view/cast4) | [code]()
+
 </details>
 
 
@@ -460,6 +462,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Material Anything: Generating Materials for Any 3D Object via Diffusion](https://arxiv.org/abs/2411.15138), Xin Huang et al., Arxiv 2024 | [citation](./references/citations.bib#L1788-L1793) | [site](https://xhuangcv.github.io/MaterialAnything/) | [code](https://github.com/3DTopia/MaterialAnything)
 
 - [Sharp-It: A Multi-view to Multi-view Diffusion Model for 3D Synthesis and Manipulation](https://arxiv.org/abs/2412.02631), Yiftach Edelstein et al., Arxiv 2024 | [citation](./references/citations.bib#L1795-L1800) | [site](https://yiftachede.github.io/Sharp-It/) | [code](https://github.com/YiftachEde/Sharp-It)
+
+- [DualNeRF: Text-Driven 3D Scene Editing via Dual-Field Representation](https://arxiv.org/abs/2502.16302), Yuxuan Xiong et al., Arxiv 2024 | [citation](./references/citations.bib#L1893-L1897) | [site]() | [code]()
 
 </details>
 
