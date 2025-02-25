@@ -463,7 +463,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Sharp-It: A Multi-view to Multi-view Diffusion Model for 3D Synthesis and Manipulation](https://arxiv.org/abs/2412.02631), Yiftach Edelstein et al., Arxiv 2024 | [citation](./references/citations.bib#L1795-L1800) | [site](https://yiftachede.github.io/Sharp-It/) | [code](https://github.com/YiftachEde/Sharp-It)
 
-- [DualNeRF: Text-Driven 3D Scene Editing via Dual-Field Representation](https://arxiv.org/abs/2502.16302), Yuxuan Xiong et al., Arxiv 2024 | [citation](./references/citations.bib#L1893-L1897) | [site]() | [code]()
+- [DualNeRF: Text-Driven 3D Scene Editing via Dual-Field Representation](https://arxiv.org/abs/2502.16302), Yuxuan Xiong et al., Arxiv 2024 | [citation](./references/citations.bib#L1893-L1898) | [site]() | [code]()
+
 
 </details>
 
