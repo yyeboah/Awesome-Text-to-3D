@@ -359,6 +359,20 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Joint Reconstruction of Spatially-Coherent and Realistic Clothed Humans and Objects from a Single Image](https://arxiv.org/abs/2502.18150), Ayushi Dutta et al., Arxiv 2024 | [citation](./references/citations.bib#L1907-L1912) | [site]() | [code]()
 
+- [I2V3D: Controllable image-to-video generation with 3D guidance](https://arxiv.org/abs/2503.09733), Zhiyuan Zhang et al., Arxiv 2025 | [citation](./references/citations.bib#L1914-L1919) | [site](https://bestzzhang.github.io/I2V3D/) | [code]()
+
+- [PBR3DGen: A VLM-guided Mesh Generation with High-quality PBR Texture](https://arxiv.org/abs/2503.11368), Xiaokang Wei et al., Arxiv 2025 | [citation](./references/citations.bib#L1921-L1926) | [site](https://pbr3dgen1218.github.io/) | [code](https://github.com/XiaokangWei/PBR3DGen)
+
+- [GaussianIP: Identity-Preserving Realistic 3D Human Generation via Human-Centric Diffusion Prior](https://arxiv.org/abs/2503.11143), Zichen Tang et al., Arxiv 2025 | [citation](./references/citations.bib#L1928-L1933) | [site](https://silence-tang.github.io/gaussian-ip/) | [code](https://github.com/silence-tang/GaussianIP)
+
+- [Amodal3R: Amodal 3D Reconstruction from Occluded 2D Images](https://arxiv.org/abs/2503.13439), Tianhao Wu et al., Arxiv 2025 | [citation](./references/citations.bib#L1935-L1940) | [site](https://sm0kywu.github.io/Amodal3R/) | [code]()
+
+- [Stable Virtual Camera: Generative View Synthesis with Diffusion Models](https://arxiv.org/abs/2503.14489), Jensen Zhou et al., Arxiv 2025 | [citation](./references/citations.bib#L1942-L1947) | [site](https://stable-virtual-camera.github.io/) | [code](https://github.com/Stability-AI/stable-virtual-camera)
+
+- [Bolt3D: Generating 3D Scenes in Seconds](https://arxiv.org/abs/2503.14445), Stanislaw Szymanowicz et al., Arxiv 2025 | [citation](./references/citations.bib#L1949-L1954) | [site](https://szymanowiczs.github.io/bolt3d/) | [code]()
+
+
+
 </details>
 
 
