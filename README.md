@@ -371,6 +371,12 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Bolt3D: Generating 3D Scenes in Seconds](https://arxiv.org/abs/2503.14445), Stanislaw Szymanowicz et al., Arxiv 2025 | [citation](./references/citations.bib#L1949-L1954) | [site](https://szymanowiczs.github.io/bolt3d/) | [code]()
 
+- [ExScene: Free-View 3D Scene Reconstruction with Gaussian Splatting from a Single Image](https://arxiv.org/abs/2503.23881), Tianyi Gong et al., Arxiv 2025 | [citation](./references/citations.bib#L1956-L1961) | [site]() | [code]()
+
+- [MeshCraft: Exploring Efficient and Controllable Mesh Generation with Flow-based DiTs](https://arxiv.org/abs/2503.23022), Xianglong He et al., Arxiv 2025 | [citation](./references/citations.bib#L1963-L1968) | [site]() | [code]()
+
+- [Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data](https://arxiv.org/abs/2503.21694), Zhiyuan Ma et al., Arxiv 2025 | [citation](./references/citations.bib#L1970-L1975) | [site]() | [code]()
+
 
 
 </details>
