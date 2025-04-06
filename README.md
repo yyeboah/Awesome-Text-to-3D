@@ -377,6 +377,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data](https://arxiv.org/abs/2503.21694), Zhiyuan Ma et al., Arxiv 2025 | [citation](./references/citations.bib#L1970-L1975) | [site]() | [code]()
 
+- [WorldPrompter: Traversable Text-to-Scene Generation](https://arxiv.org/abs/2504.02045), Zhanyang Zhang et al., Arxiv 2025 | [citation](./references/citations.bib#L1977-L1982) | [site]() | [code]()
+
 
 
 </details>
