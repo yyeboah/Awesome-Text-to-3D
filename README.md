@@ -491,6 +491,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [DualNeRF: Text-Driven 3D Scene Editing via Dual-Field Representation](https://arxiv.org/abs/2502.16302), Yuxuan Xiong et al., Arxiv 2024 | [citation](./references/citations.bib#L1893-L1898) | [site]() | [code]()
 
+- [IPDreamer: Appearance-Controllable 3D Object Generation with Complex Image Prompts](https://arxiv.org/abs/2310.05375), Bohan Zeng et al., ICLR 2025 | [citation](./references/citations.bib#L1984-L1989) | [site]() | [code](https://github.com/zengbohan0217/IPDreamer)
 
 </details>
 
@@ -545,6 +546,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Make-A-Character: High Quality Text-to-3D Character Generation within Minutes](https://arxiv.org/abs/2312.15430), Jianqiang Ren et al., Arxv 2023 | [citation](./references/citations.bib#L1003-L1008)  | [site](https://human3daigc.github.io/MACH/) | [code](https://github.com/Human3DAIGC/Make-A-Character)
 
 - [En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data](https://arxiv.org/abs/2401.01173), Yifang Men et al., Arxiv 2024 | [citation](./references/citations.bib#L1010-L1015) | [site](https://menyifang.github.io/projects/En3D/index.html) | [code](https://github.com/menyifang/En3D)
+
+- [UV-IDM: Identity-Conditioned Latent Diffusion Model for Face UV-Texture Generation](https://openaccess.thecvf.com/content/CVPR2024/html/Li_UV-IDM_Identity-Conditioned_Latent_Diffusion_Model_for_Face_UV-Texture_Generation_CVPR_2024_paper.html), Hong Li et al., CVPR 2024 | [citation](./references/citations.bib#L1991-L1996) | [site]() | [code](http://github.com/Luh1124/UV-IDM)
 
 - [HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting](https://zhenglinzhou.github.io/HeadStudio-ProjectPage/), Zhenglin Zhou et al., Arxiv 2024 | [citation](./references/citations.bib#L1094-L1099) | [site](https://zhenglinzhou.github.io/HeadStudio-ProjectPage/) | [code](https://github.com/ZhenglinZhou/HeadStudio/)
 
