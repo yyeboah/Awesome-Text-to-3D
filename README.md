@@ -379,6 +379,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [WorldPrompter: Traversable Text-to-Scene Generation](https://arxiv.org/abs/2504.02045), Zhanyang Zhang et al., Arxiv 2025 | [citation](./references/citations.bib#L1977-L1982) | [site]() | [code]()
 
+- [Art3D: Training-Free 3D Generation from Flat-Colored Illustration](https://arxiv.org/abs/2504.03536), Xiaoyan Cong et al., Arxiv 2025 | [citation](./references/citations.bib#L2005-L2010) | [site](https://joy-jy11.github.io) | [code]()
+
 
 
 </details>
@@ -571,6 +573,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [WonderHuman: Hallucinating Unseen Parts in Dynamic 3D Human Reconstruction](https://arxiv.org/abs/2502.01045), Zilong Wang et al., Arxiv 2024 | [citation](./references/citations.bib#L1879-L1884) | [site](https://wyiguanw.github.io/WonderHuman/) | [code](https://github.com/wyiguanw/WonderHuman/)
 
+- [HumanDreamer-X: Photorealistic Single-image Human Avatars Reconstruction via Gaussian Restoration](https://arxiv.org/abs/2504.03536), Boyuan Wang et al., Arxiv 2025 | [citation](./references/citations.bib#L1998-L2003) | [site](https://humandreamer-x.github.io) | [code](https://github.com/GigaAI-research/HumanDreamer-X)
+
 
 
 
@@ -616,6 +620,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Scalable 3D Captioning with Pretrained Models](https://arxiv.org/abs/2306.07279), Tiange Luo et al., Arxiv 2024 | [citation](./references/citations.bib#L1388-L1393)
 
 - [MagicArticulate/Articulation-XL2.0: Make Your 3D Models Articulation-Ready](https://arxiv.org/abs/2502.12135), Chaoyue Song et al., Arxiv 2024 | [citation](./references/citations.bib#L1865-L1870) | [site](https://chaoyuesong.github.io/MagicArticulate/) | [code](https://github.com/Seed3D/MagicArticulate)
+
+- [Objaverse++: Curated 3D Object Dataset with Quality Annotations](https://arxiv.org/abs/2504.07334), Chendi Lin et al., Arxiv 2025 | [citation](./references/citations.bib#L2012-L2017) | [site](https://huggingface.co/datasets/cindyxl/ObjaversePlusPlus) | [code](https://github.com/TCXX/ObjaversePlusPlus)
 
 
 
