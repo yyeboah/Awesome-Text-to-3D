@@ -495,6 +495,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [IPDreamer: Appearance-Controllable 3D Object Generation with Complex Image Prompts](https://arxiv.org/abs/2310.05375), Bohan Zeng et al., ICLR 2025 | [citation](./references/citations.bib#L1984-L1989) | [site]() | [code](https://github.com/zengbohan0217/IPDreamer)
 
+- [ScanEdit: Hierarchically-Guided Functional 3D Scan Editing](https://arxiv.org/abs/2504.15049), Mohamed el amine Boudjoghra et al., Arxiv 2025 | [citation](./references/citations.bib#L2019-L2024) | [site](https://aminebdj.github.io/scanedit/) | [code](https://github.com/zengbohan0217/IPDreamer)
+
 </details>
 
 
@@ -575,7 +577,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [HumanDreamer-X: Photorealistic Single-image Human Avatars Reconstruction via Gaussian Restoration](https://arxiv.org/abs/2504.03536), Boyuan Wang et al., Arxiv 2025 | [citation](./references/citations.bib#L1998-L2003) | [site](https://humandreamer-x.github.io) | [code](https://github.com/GigaAI-research/HumanDreamer-X)
 
-
+- [AnimPortrait3D]: Text-based Animatable 3D Avatars with Morphable Model Alignment](https://arxiv.org/abs/2504.15835), Yiqian Wu et al., Arxiv 2025 | [citation](./references/citations.bib#L2026-L2031) | [site](https://onethousandwu.com/animportrait3d.github.io/) | [code](https://github.com/oneThousand1000/AnimPortrait3D)
 
 
 </details>
