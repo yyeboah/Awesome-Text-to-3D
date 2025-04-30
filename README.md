@@ -578,7 +578,9 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [HumanDreamer-X: Photorealistic Single-image Human Avatars Reconstruction via Gaussian Restoration](https://arxiv.org/abs/2504.03536), Boyuan Wang et al., Arxiv 2025 | [citation](./references/citations.bib#L1998-L2003) | [site](https://humandreamer-x.github.io) | [code](https://github.com/GigaAI-research/HumanDreamer-X)
 
-- [AnimPortrait3D]: Text-based Animatable 3D Avatars with Morphable Model Alignment](https://arxiv.org/abs/2504.15835), Yiqian Wu et al., Arxiv 2025 | [citation](./references/citations.bib#L2026-L2031) | [site](https://onethousandwu.com/animportrait3d.github.io/) | [code](https://github.com/oneThousand1000/AnimPortrait3D)
+- [AnimPortrait3D: Text-based Animatable 3D Avatars with Morphable Model Alignment](https://arxiv.org/abs/2504.15835), Yiqian Wu et al., Arxiv 2025 | [citation](./references/citations.bib#L2026-L2031) | [site](https://onethousandwu.com/animportrait3d.github.io/) | [code](https://github.com/oneThousand1000/AnimPortrait3D)
+
+- [Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting](https://arxiv.org/abs/2504.20403), Hanxi Liu et al., Arxiv 2025 | [citation](./references/citations.bib#L2040-L2045) | [site]() | [code]()
 
 
 </details>
@@ -596,8 +598,6 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Consistent4D: Consistent 360 Degree Dynamic Object Generation from Monocular Video](https://arxiv.org/abs/2311.02848), Yanqin Jiang et al., Arxiv 2023 | [citation](./references/citations.bib#L799-L809) | [site](https://consistent4d.github.io/) | [code](https://github.com/yanqinJiang/Consistent4D)
 
 - [4D-fy:Text-to-4D Generation Using Hybrid Score Distillation Sampling](https://arxiv.org/abs/2311.17984), Lincong Feng et al., Arxiv 2023 | [citation](./references/citations.bib#L842-L847) | [site](https://sherwinbahmani.github.io/4dfy/) | [code](https://github.com/sherwinbahmani/4dfy)
-
-- [Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting](https://arxiv.org/abs/2504.20403), Hanxi Liu et al., Arxiv 2025 | [citation](./references/citations.bib#L2040-L2045) | [site]() | [code]()
 
 
 
