@@ -383,6 +383,12 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [TesserAct: Learning 4D Embodied World Models](https://arxiv.org/abs/2504.20995), Haoyu Zhen et al., Arxiv 2025 | [citation](./references/citations.bib#L2033-L2038) | [site](https://tesseractworld.github.io) | [code](https://tesseractworld.github.io)
 
+- [Eye2Eye: A Simple Approach for Monocular-to-Stereo Video Synthesis](https://arxiv.org/abs/2505.00135), Michal Geyer et al., Arxiv 2025 | [citation](./references/citations.bib#L2047-L2052) | [site](https://video-eye2eye.github.io) | [code]()
+
+- [HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation](https://arxiv.org/abs/2504.21650), Michal Geyer et al., Arxiv 2025 | [citation](./references/citations.bib#L2054-L2059) | [site](https://zhouhyocean.github.io/holotime/) | [code](https://github.com/PKU-YuanGroup/HoloTime)
+
+- [Bridging Geometry-Coherent Text-to-3D Generation with Multi-View Diffusion Priors and Gaussian Splatting](https://arxiv.org/abs/2505.04262), Feng Yang et al., Arxiv 2025 | [citation](./references/citations.bib#L2061-L2066) | [site]() | [code]()
+
 
 </details>
 
