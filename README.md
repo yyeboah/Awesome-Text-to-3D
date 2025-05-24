@@ -389,6 +389,11 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Bridging Geometry-Coherent Text-to-3D Generation with Multi-View Diffusion Priors and Gaussian Splatting](https://arxiv.org/abs/2505.04262), Feng Yang et al., Arxiv 2025 | [citation](./references/citations.bib#L2061-L2066) | [site]() | [code]()
 
+- [NeuSEditor: From Multi-View Images to Text-Guided Neural Surface Edits](https://arxiv.org/abs/2505.10827), Nail Ibrahimli et al., Arxiv 2025 | [citation](./references/citations.bib#L2068-L2073) | [site]() | [code]()
+
+- [Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets](https://arxiv.org/abs/2505.07747), Weiyu Li et al., Arxiv 2025 | [citation](./references/citations.bib#L2075-L2080) | [site](https://stepfun-ai.github.io/Step1X-3D/) | [code](https://github.com/stepfun-ai/Step1X-3D)
+
+- [Constructing a 3D Town from a Single Image](https://arxiv.org/abs/2505.15765), Kaizhi Zheng et al., Arxiv 2025 | [citation](./references/citations.bib#L2082-L2087) | [site](https://eric-ai-lab.github.io/3dtown.github.io/) | [code]()
 
 </details>
 
