@@ -395,6 +395,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Constructing a 3D Town from a Single Image](https://arxiv.org/abs/2505.15765), Kaizhi Zheng et al., Arxiv 2025 | [citation](./references/citations.bib#L2082-L2087) | [site](https://eric-ai-lab.github.io/3dtown.github.io/) | [code]()
 
+- [ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding](https://arxiv.org/abs/2506.01853), Junliang Ye et al., Arxiv 2023 | [citation](./references/citations.bib#L2089-L2094) | [site](https://jamesyjl.github.io/ShapeLLM/) | [code](https://github.com/JAMESYJL/ShapeLLM-Omni)
+
+- [Direct3D-S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention](https://arxiv.org/abs/2505.17412), Shuang Wu et al., Arxiv 2025 | [citation](./references/citations.bib#L2096-L2101) | [site](https://nju-3dv.github.io/projects/Direct3D-S2/) | [code](https://github.com/DreamTechAI/Direct3D-S2)
+
 </details>
 
 
