@@ -399,6 +399,12 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Direct3D-S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention](https://arxiv.org/abs/2505.17412), Shuang Wu et al., Arxiv 2025 | [citation](./references/citations.bib#L2096-L2101) | [site](https://nju-3dv.github.io/projects/Direct3D-S2/) | [code](https://github.com/DreamTechAI/Direct3D-S2)
 
+- [Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy](https://arxiv.org/abs/2506.22432), Yuhao Liu et al., Arxiv 2025 | [citation](./references/citations.bib#L2103-L2108) | [site](https://shapeformotion.github.io) | [code](https://github.com/yuhaoliu7456/Shape-for-Motion)
+
+- [Consistent Zero-shot 3D Texture Synthesis Using Geometry-aware Diffusion and Temporal Video Models](https://arxiv.org/abs/2506.20946), Donggoo Kang et al., Arxiv 2025 | [citation](./references/citations.bib#L2110-L2115) | [site]() | [code]()
+
+- [DeOcc-1-to-3: 3D De-Occlusion from a Single Image via Self-Supervised Multi-View Diffusion](https://arxiv.org/abs/2506.21544), Yansong Qu et al., Arxiv 2025 | [citation](./references/citations.bib#L2117-L2122) | [site](https://quyans.github.io/DeOcc123/) | [code](https://github.com/Quyans/DeOcc123)
+
 </details>
 
 
