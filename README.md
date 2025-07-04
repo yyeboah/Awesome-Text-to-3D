@@ -405,6 +405,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [DeOcc-1-to-3: 3D De-Occlusion from a Single Image via Self-Supervised Multi-View Diffusion](https://arxiv.org/abs/2506.21544), Yansong Qu et al., Arxiv 2025 | [citation](./references/citations.bib#L2117-L2122) | [site](https://quyans.github.io/DeOcc123/) | [code](https://github.com/Quyans/DeOcc123)
 
+- [EmbodiedGen: Towards a Generative 3D World Engine for Embodied Intelligence](https://arxiv.org/abs/2506.10600), Xinjie Wang et al., Arxiv 2025 | [citation](./references/citations.bib#L2124-L2129) | [site](hhttps://horizonrobotics.github.io/robot_lab/embodied_gen/index.html) | [code](https://github.com/HorizonRobotics/EmbodiedGen)
+
 </details>
 
 
