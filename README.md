@@ -411,7 +411,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [BrepDiff: Single-stage B-rep Diffusion Model](https://drive.google.com/file/d/1ZkdjmljmbJer5Lbn55UwKRqR9AcHBydA/view), Mingi Lee et al., Arxiv 2025 | [citation](./references/citations.bib#L2138-L2142) | [site](https://brepdiff.github.io) | [code](https://github.com/brepdiff/brepdiff)
 
-[LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion](https://arxiv.org/abs/2507.02813), Fangfu Liu et al., Arxiv 2025 | [citation](./references/citations.bib#L2145-L2149) | [site](https://liuff19.github.io/LangScene-X) | [code](https://liuff19.github.io/LangScene-X)
+- [LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion](https://arxiv.org/abs/2507.02813), Fangfu Liu et al., Arxiv 2025 | [citation](./references/citations.bib#L2145-L2150) | [site](https://liuff19.github.io/LangScene-X) | [code](https://liuff19.github.io/LangScene-X)
 
 </details>
 
