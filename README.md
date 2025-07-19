@@ -405,6 +405,14 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [DeOcc-1-to-3: 3D De-Occlusion from a Single Image via Self-Supervised Multi-View Diffusion](https://arxiv.org/abs/2506.21544), Yansong Qu et al., Arxiv 2025 | [citation](./references/citations.bib#L2117-L2122) | [site](https://quyans.github.io/DeOcc123/) | [code](https://github.com/Quyans/DeOcc123)
 
+- [EmbodiedGen: Towards a Generative 3D World Engine for Embodied Intelligence](https://arxiv.org/abs/2506.10600), Xinjie Wang et al., Arxiv 2025 | [citation](./references/citations.bib#L2124-L2129) | [site](https://horizonrobotics.github.io/robot_lab/embodied_gen/index.html) | [code](https://github.com/HorizonRobotics/EmbodiedGen)
+
+- [LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS](https://arxiv.org/abs/2507.07136), Wanhua Li et al., Arxiv 2025 | [citation](./references/citations.bib#L2131-L2136) | [site](https://langsplat-v2.github.io) | [code](https://github.com/ZhaoYujie2002/LangSplatV2)
+
+- [BrepDiff: Single-stage B-rep Diffusion Model](https://drive.google.com/file/d/1ZkdjmljmbJer5Lbn55UwKRqR9AcHBydA/view), Mingi Lee et al., Arxiv 2025 | [citation](./references/citations.bib#L2138-L2142) | [site](https://brepdiff.github.io) | [code](https://github.com/brepdiff/brepdiff)
+
+[LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion](https://arxiv.org/abs/2507.02813), Fangfu Liu et al., Arxiv 2025 | [citation](./references/citations.bib#L2145-L2149) | [site](https://liuff19.github.io/LangScene-X) | [code](https://liuff19.github.io/LangScene-X)
+
 </details>
 
 
