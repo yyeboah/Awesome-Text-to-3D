@@ -413,6 +413,11 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion](https://arxiv.org/abs/2507.02813), Fangfu Liu et al., Arxiv 2025 | [citation](./references/citations.bib#L2145-L2150) | [site](https://liuff19.github.io/LangScene-X) | [code](https://liuff19.github.io/LangScene-X)
 
+- [DreamScene: 3D Gaussian-based Text-to-3D Scene Generation via Formation Pattern Sampling](https://arxiv.org/abs/2404.03575), Haoran Li et al., Arxiv 2025 | [citation](./references/citations.bib#L2152-L2157) | [site](https://dreamscene-project.github.io/) | [code](https://github.com/DreamScene-Project/DreamScene)
+
+- [Blended Point Cloud Diffusion for Localized Text-guided Shape Editing}](https://arxiv.org/abs/2507.15399), Etai Sella et al., Arxiv 2025 | [citation](./references/citations.bib#L2159-L2164) | [site](https://tau-vailab.github.io/BlendedPC/) | [code](https://github.com/TAU-VAILab/BlendedPC)
+
+
 </details>
 
 
