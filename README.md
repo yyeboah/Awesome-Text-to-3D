@@ -417,6 +417,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Blended Point Cloud Diffusion for Localized Text-guided Shape Editing}](https://arxiv.org/abs/2507.15399), Etai Sella et al., Arxiv 2025 | [citation](./references/citations.bib#L2159-L2164) | [site](https://tau-vailab.github.io/BlendedPC/) | [code](https://github.com/TAU-VAILab/BlendedPC)
 
+- [LL3M: Large Language 3D Modelers](https://arxiv.org/abs/2507.02813), Sining Lu et al., Arxiv 2025 | [citation](./references/citations.bib#L2173-L2178) | [site](https://threedle.github.io/ll3m/) | [code](https://github.com/threedle/ll3m/)
+
 
 </details>
 
@@ -661,6 +663,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [MagicArticulate/Articulation-XL2.0: Make Your 3D Models Articulation-Ready](https://arxiv.org/abs/2502.12135), Chaoyue Song et al., Arxiv 2024 | [citation](./references/citations.bib#L1865-L1870) | [site](https://chaoyuesong.github.io/MagicArticulate/) | [code](https://github.com/Seed3D/MagicArticulate)
 
 - [Objaverse++: Curated 3D Object Dataset with Quality Annotations](https://arxiv.org/abs/2504.07334), Chendi Lin et al., Arxiv 2025 | [citation](./references/citations.bib#L2012-L2017) | [site](https://huggingface.co/datasets/cindyxl/ObjaversePlusPlus) | [code](https://github.com/TCXX/ObjaversePlusPlus)
+
+- [TexVerse: A Universe of 3D Objects with High-Resolution Textures](https://arxiv.org/abs/2507.02813), Zhang Yibo et al., Arxiv 2025 | [citation](./references/citations.bib#L2166-L2171) | [site](https://huggingface.co/datasets/YiboZhang2001/TexVerse) | [code](https://github.com/yiboz2001/TexVerse)
 
 
 
