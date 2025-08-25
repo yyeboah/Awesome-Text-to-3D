@@ -419,6 +419,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [LL3M: Large Language 3D Modelers](https://arxiv.org/abs/2507.02813), Sining Lu et al., Arxiv 2025 | [citation](./references/citations.bib#L2173-L2178) | [site](https://threedle.github.io/ll3m/) | [code](https://github.com/threedle/ll3m/)
 
+- [MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds](https://arxiv.org/abs/2508.14879), Bingquan Dai et al., Arxiv 2025 | [citation](./references/citations.bib#L2180-L2185) | [site](https://daibingquan.github.io/MeshCoder/) | [code](https://github.com/ZhaoyangLyu/MeshCoder)
+
 
 </details>
 
@@ -533,6 +535,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [IPDreamer: Appearance-Controllable 3D Object Generation with Complex Image Prompts](https://arxiv.org/abs/2310.05375), Bohan Zeng et al., ICLR 2025 | [citation](./references/citations.bib#L1984-L1989) | [site]() | [code](https://github.com/zengbohan0217/IPDreamer)
 
 - [ScanEdit: Hierarchically-Guided Functional 3D Scan Editing](https://arxiv.org/abs/2504.15049), Mohamed el amine Boudjoghra et al., Arxiv 2025 | [citation](./references/citations.bib#L2019-L2024) | [site](https://aminebdj.github.io/scanedit/) | [code](https://github.com/zengbohan0217/IPDreamer)
+
+- [GeoSAM2: Unleashing the Power of SAM2 for 3D Part Segmentation](https://arxiv.org/abs/2508.14036), Ken Deng et al., Arxiv 2025 | [citation](./references/citations.bib#L2187-L2192) | [site](https://detailgen3d.github.io/GeoSAM2/) | [code]()
+
+- [ArtiScene: Language-Driven Artistic 3D Scene Generation Through Image Intermediary](https://arxiv.org/abs/2506.00742), Zeqi Gu et al., Arxiv 2025 | [citation](./references/citations.bib#L2194-L2199) | [site](https://artiscene-cvpr.github.io/) | [code](https://github.com/NVlabs/ArtiScene)
 
 </details>
 
