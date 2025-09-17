@@ -421,6 +421,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds](https://arxiv.org/abs/2508.14879), Bingquan Dai et al., Arxiv 2025 | [citation](./references/citations.bib#L2180-L2185) | [site](https://daibingquan.github.io/MeshCoder/) | [code](https://github.com/ZhaoyangLyu/MeshCoder)
 
+- [Dream3DAvatar: Text-Controlled 3D Avatar Reconstruction from a Single Image](ttps://arxiv.org/abs/2509.13013), Gaofeng Liu et al., Arxiv 2025 | [citation](./references/citations.bib#L2215-L2220) | [site]() | [code]()
+
 
 </details>
 
@@ -539,6 +541,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [GeoSAM2: Unleashing the Power of SAM2 for 3D Part Segmentation](https://arxiv.org/abs/2508.14036), Ken Deng et al., Arxiv 2025 | [citation](./references/citations.bib#L2187-L2192) | [site](https://detailgen3d.github.io/GeoSAM2/) | [code]()
 
 - [ArtiScene: Language-Driven Artistic 3D Scene Generation Through Image Intermediary](https://arxiv.org/abs/2506.00742), Zeqi Gu et al., Arxiv 2025 | [citation](./references/citations.bib#L2194-L2199) | [site](https://artiscene-cvpr.github.io/) | [code](https://github.com/NVlabs/ArtiScene)
+
+- [X-Part: high fidelity and structure coherent shape decomposition](https://arxiv.org/abs/2509.08643), Xinhao Yan et al., Arxiv 2025 | [citation](./references/citations.bib#L2201-L2206) | [site]() | [code]()
+
+- [Chord: Chain of Rendering Decomposition for PBR Material Estimation from Generated Texture Images](https://arxiv.org/abs/2509.09952), Zhi Ying et al., Arxiv 2025 | [citation](./references/citations.bib#L2208-L2213) | [site]() | [code]()
 
 </details>
 
