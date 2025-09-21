@@ -423,6 +423,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Dream3DAvatar: Text-Controlled 3D Avatar Reconstruction from a Single Image](ttps://arxiv.org/abs/2509.13013), Gaofeng Liu et al., Arxiv 2025 | [citation](./references/citations.bib#L2215-L2220) | [site]() | [code]()
 
+- [PhysX-3D: Physical-Grounded 3D Asset Generation](https://arxiv.org/abs/2507.12465), Giang Cao et al., Arxiv 2025 | [citation](./references/citations.bib#L2222-L2227) | [site](https://physx-3d.github.io) | [code](https://github.com/ziangcao0312/PhysX-3D)
+
+- [Hunyuan3D Studio: End-to-End AI Pipeline for Game-Ready 3D Asset Generation](https://arxiv.org/abs/2509.12815), Biwen Lei et al., Arxiv 2025 | [citation](./references/citations.bib#L2236-L2241) | [site]() | [code]()
+
 
 </details>
 
@@ -677,6 +681,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Objaverse++: Curated 3D Object Dataset with Quality Annotations](https://arxiv.org/abs/2504.07334), Chendi Lin et al., Arxiv 2025 | [citation](./references/citations.bib#L2012-L2017) | [site](https://huggingface.co/datasets/cindyxl/ObjaversePlusPlus) | [code](https://github.com/TCXX/ObjaversePlusPlus)
 
 - [TexVerse: A Universe of 3D Objects with High-Resolution Textures](https://arxiv.org/abs/2507.02813), Zhang Yibo et al., Arxiv 2025 | [citation](./references/citations.bib#L2166-L2171) | [site](https://huggingface.co/datasets/YiboZhang2001/TexVerse) | [code](https://github.com/yiboz2001/TexVerse)
+
+- [Mosaic3D: Foundation Dataset and Model for Open-Vocabulary 3D Segmentation](https://arxiv.org/abs/2502.02548), Junha Lee et al., Arxiv 2025 | [citation](./references/citations.bib#L2229-L2230) | [site](https://nvlabs.github.io/Mosaic3D/) | [code](https://github.com/NVlabs/Mosaic3D)
 
 
 
