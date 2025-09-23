@@ -634,6 +634,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting](https://arxiv.org/abs/2504.20403), Hanxi Liu et al., Arxiv 2025 | [citation](./references/citations.bib#L2040-L2045) | [site]() | [code]()
 
+- [SPATIALGEN: Layout-guided 3D Indoor Scene Generation](https://arxiv.org/abs/2509.14981), Chuan Fang et al., Arxiv 2025 | [citation](./references/citations.bib#L2243-L2248) | [site](https://manycore-research.github.io/SpatialGen) | [code](https://github.com/manycore-research/SpatialGen)
+
 
 </details>
 
@@ -683,6 +685,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [TexVerse: A Universe of 3D Objects with High-Resolution Textures](https://arxiv.org/abs/2507.02813), Zhang Yibo et al., Arxiv 2025 | [citation](./references/citations.bib#L2166-L2171) | [site](https://huggingface.co/datasets/YiboZhang2001/TexVerse) | [code](https://github.com/yiboz2001/TexVerse)
 
 - [Mosaic3D: Foundation Dataset and Model for Open-Vocabulary 3D Segmentation](https://arxiv.org/abs/2502.02548), Junha Lee et al., Arxiv 2025 | [citation](./references/citations.bib#L2229-L2230) | [site](https://nvlabs.github.io/Mosaic3D/) | [code](https://github.com/NVlabs/Mosaic3D)
+
+- [VideoFrom3D: 3D Scene Video Generation via Complementary Image and Video Diffusion Models](https://arxiv.org/abs/2509.17985), Geonung Kim et al., Arxiv 2025 | [citation](./references/citations.bib#L2250-L2255) | [site](https://kimgeonung.github.io/VideoFrom3D/) | [code](https://github.com/KIMGEONUNG/VideoFrom3D)
 
 
 
