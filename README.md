@@ -427,6 +427,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Hunyuan3D Studio: End-to-End AI Pipeline for Game-Ready 3D Asset Generation](https://arxiv.org/abs/2509.12815), Biwen Lei et al., Arxiv 2025 | [citation](./references/citations.bib#L2236-L2241) | [site]() | [code]()
 
+- [Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation](https://arxiv.org/abs/2509.19296), Sherwin Bahmani et al., Arxiv 2025 | [citation](./references/citations.bib#L2257-L2262) | [site](https://research.nvidia.com/labs/toronto-ai/lyra/) | [code](https://github.com/nv-tlabs/lyra)
+
 
 </details>
 
