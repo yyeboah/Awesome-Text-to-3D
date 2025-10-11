@@ -552,6 +552,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Chord: Chain of Rendering Decomposition for PBR Material Estimation from Generated Texture Images](https://arxiv.org/abs/2509.09952), Zhi Ying et al., Arxiv 2025 | [citation](./references/citations.bib#L2208-L2213) | [site]() | [code]()
 
+- [ZeroScene: A Zero-Shot Framework for 3D Scene Generation from a Single Image and Controllable Texture Editing](https://arxiv.org/abs/2509.23607), Xiang Tang et al., Arxiv 2025 | [citation](./references/citations.bib#L2264-L2269) | [site](https://xdlbw.github.io/ZeroScene/) | [code]()
+
+- [HoloScene: Simulation-Ready Interactive 3D Worlds from a Single Video](https://arxiv.org/abs/2510.05560), Hongchi Xia et al., Arxiv 2025 | [citation](./references/citations.bib#L2271-L2276) | [site]() | [code]()
+
 </details>
 
 
