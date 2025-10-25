@@ -429,6 +429,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation](https://arxiv.org/abs/2509.19296), Sherwin Bahmani et al., Arxiv 2025 | [citation](./references/citations.bib#L2257-L2262) | [site](https://research.nvidia.com/labs/toronto-ai/lyra/) | [code](https://github.com/nv-tlabs/lyra)
 
+- [Seed3D 1.0: From Images to High-Fidelity Simulation-Ready 3D Assets](https://arxiv.org/abs/2510.19944), Jiashi Feng et al., Arxiv 2025 | [citation](./references/citations.bib#L2285-L2290) | [site]() | [code]()
+
+ - [FlashWorld: High-quality 3D Scene Generation within Seconds](https://arxiv.org/abs/2510.13678), Jinyang Li et al., Arxiv 2025 | [citation](./references/citations.bib#L2292-L2297) | [site](https://imlixinyang.github.io/FlashWorld-Project-Page/) | [code]()
+
 
 </details>
 
@@ -555,6 +559,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [ZeroScene: A Zero-Shot Framework for 3D Scene Generation from a Single Image and Controllable Texture Editing](https://arxiv.org/abs/2509.23607), Xiang Tang et al., Arxiv 2025 | [citation](./references/citations.bib#L2264-L2269) | [site](https://xdlbw.github.io/ZeroScene/) | [code]()
 
 - [HoloScene: Simulation-Ready Interactive 3D Worlds from a Single Video](https://arxiv.org/abs/2510.05560), Hongchi Xia et al., Arxiv 2025 | [citation](./references/citations.bib#L2271-L2276) | [site]() | [code]()
+
+- [NANO3D: A Training-Free Approach for Efficient 3D Editing Without Masks](https://arxiv.org/abs/2510.15019), Junliang Ye et al., Arxiv 2025 | [citation](./references/citations.bib#L2278-L2283) | [site](https://jamesyjl.github.io/Nano3D/) | [code](https://github.com/JAMESYJL/Nano3D)
 
 </details>
 
