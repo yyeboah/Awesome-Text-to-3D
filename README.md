@@ -421,6 +421,20 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds](https://arxiv.org/abs/2508.14879), Bingquan Dai et al., Arxiv 2025 | [citation](./references/citations.bib#L2180-L2185) | [site](https://daibingquan.github.io/MeshCoder/) | [code](https://github.com/ZhaoyangLyu/MeshCoder)
 
+- [Dream3DAvatar: Text-Controlled 3D Avatar Reconstruction from a Single Image](ttps://arxiv.org/abs/2509.13013), Gaofeng Liu et al., Arxiv 2025 | [citation](./references/citations.bib#L2215-L2220) | [site]() | [code]()
+
+- [PhysX-3D: Physical-Grounded 3D Asset Generation](https://arxiv.org/abs/2507.12465), Giang Cao et al., Arxiv 2025 | [citation](./references/citations.bib#L2222-L2227) | [site](https://physx-3d.github.io) | [code](https://github.com/ziangcao0312/PhysX-3D)
+
+- [Hunyuan3D Studio: End-to-End AI Pipeline for Game-Ready 3D Asset Generation](https://arxiv.org/abs/2509.12815), Biwen Lei et al., Arxiv 2025 | [citation](./references/citations.bib#L2236-L2241) | [site]() | [code]()
+
+- [Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation](https://arxiv.org/abs/2509.19296), Sherwin Bahmani et al., Arxiv 2025 | [citation](./references/citations.bib#L2257-L2262) | [site](https://research.nvidia.com/labs/toronto-ai/lyra/) | [code](https://github.com/nv-tlabs/lyra)
+
+- [Seed3D 1.0: From Images to High-Fidelity Simulation-Ready 3D Assets](https://arxiv.org/abs/2510.19944), Jiashi Feng et al., Arxiv 2025 | [citation](./references/citations.bib#L2285-L2290) | [site]() | [code]()
+
+ - [FlashWorld: High-quality 3D Scene Generation within Seconds](https://arxiv.org/abs/2510.13678), Jinyang Li et al., Arxiv 2025 | [citation](./references/citations.bib#L2292-L2297) | [site](https://imlixinyang.github.io/FlashWorld-Project-Page/) | [code]()
+
+ - [FreeArt3D: Training-Free Articulated Object Generation using 3D Diffusion](https://arxiv.org/abs/2510.25765), Chuhao Chen et al., Arxiv 2025 | [citation](./references/citations.bib#L2306-L2311) | [site]() | [code]()
+
 
 </details>
 
@@ -540,6 +554,18 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [ArtiScene: Language-Driven Artistic 3D Scene Generation Through Image Intermediary](https://arxiv.org/abs/2506.00742), Zeqi Gu et al., Arxiv 2025 | [citation](./references/citations.bib#L2194-L2199) | [site](https://artiscene-cvpr.github.io/) | [code](https://github.com/NVlabs/ArtiScene)
 
+- [X-Part: high fidelity and structure coherent shape decomposition](https://arxiv.org/abs/2509.08643), Xinhao Yan et al., Arxiv 2025 | [citation](./references/citations.bib#L2201-L2206) | [site]() | [code]()
+
+- [Chord: Chain of Rendering Decomposition for PBR Material Estimation from Generated Texture Images](https://arxiv.org/abs/2509.09952), Zhi Ying et al., Arxiv 2025 | [citation](./references/citations.bib#L2208-L2213) | [site]() | [code]()
+
+- [ZeroScene: A Zero-Shot Framework for 3D Scene Generation from a Single Image and Controllable Texture Editing](https://arxiv.org/abs/2509.23607), Xiang Tang et al., Arxiv 2025 | [citation](./references/citations.bib#L2264-L2269) | [site](https://xdlbw.github.io/ZeroScene/) | [code]()
+
+- [HoloScene: Simulation-Ready Interactive 3D Worlds from a Single Video](https://arxiv.org/abs/2510.05560), Hongchi Xia et al., Arxiv 2025 | [citation](./references/citations.bib#L2271-L2276) | [site]() | [code]()
+
+- [NANO3D: A Training-Free Approach for Efficient 3D Editing Without Masks](https://arxiv.org/abs/2510.15019), Junliang Ye et al., Arxiv 2025 | [citation](./references/citations.bib#L2278-L2283) | [site](https://jamesyjl.github.io/Nano3D/) | [code](https://github.com/JAMESYJL/Nano3D)
+
+- [IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction](https://arxiv.org/abs/2510.22706), Hao Li et al., Arxiv 2025 | [citation](./references/citations.bib#L2299-L2304) | [site](https://lifuguan.github.io/IGGT_official/) | [code](https://github.com/lifuguan/IGGT_official)
+
 </details>
 
 
@@ -624,6 +650,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting](https://arxiv.org/abs/2504.20403), Hanxi Liu et al., Arxiv 2025 | [citation](./references/citations.bib#L2040-L2045) | [site]() | [code]()
 
+- [SPATIALGEN: Layout-guided 3D Indoor Scene Generation](https://arxiv.org/abs/2509.14981), Chuan Fang et al., Arxiv 2025 | [citation](./references/citations.bib#L2243-L2248) | [site](https://manycore-research.github.io/SpatialGen) | [code](https://github.com/manycore-research/SpatialGen)
+
 
 </details>
 
@@ -671,6 +699,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Objaverse++: Curated 3D Object Dataset with Quality Annotations](https://arxiv.org/abs/2504.07334), Chendi Lin et al., Arxiv 2025 | [citation](./references/citations.bib#L2012-L2017) | [site](https://huggingface.co/datasets/cindyxl/ObjaversePlusPlus) | [code](https://github.com/TCXX/ObjaversePlusPlus)
 
 - [TexVerse: A Universe of 3D Objects with High-Resolution Textures](https://arxiv.org/abs/2507.02813), Zhang Yibo et al., Arxiv 2025 | [citation](./references/citations.bib#L2166-L2171) | [site](https://huggingface.co/datasets/YiboZhang2001/TexVerse) | [code](https://github.com/yiboz2001/TexVerse)
+
+- [Mosaic3D: Foundation Dataset and Model for Open-Vocabulary 3D Segmentation](https://arxiv.org/abs/2502.02548), Junha Lee et al., Arxiv 2025 | [citation](./references/citations.bib#L2229-L2230) | [site](https://nvlabs.github.io/Mosaic3D/) | [code](https://github.com/NVlabs/Mosaic3D)
+
+- [VideoFrom3D: 3D Scene Video Generation via Complementary Image and Video Diffusion Models](https://arxiv.org/abs/2509.17985), Geonung Kim et al., Arxiv 2025 | [citation](./references/citations.bib#L2250-L2255) | [site](https://kimgeonung.github.io/VideoFrom3D/) | [code](https://github.com/KIMGEONUNG/VideoFrom3D)
 
 
 
