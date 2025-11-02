@@ -433,6 +433,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
  - [FlashWorld: High-quality 3D Scene Generation within Seconds](https://arxiv.org/abs/2510.13678), Jinyang Li et al., Arxiv 2025 | [citation](./references/citations.bib#L2292-L2297) | [site](https://imlixinyang.github.io/FlashWorld-Project-Page/) | [code]()
 
+ - [FreeArt3D: Training-Free Articulated Object Generation using 3D Diffusion](https://arxiv.org/abs/2510.25765), Chuhao Chen et al., Arxiv 2025 | [citation](./references/citations.bib#L2306-L2311) | [site]() | [code]()
+
 
 </details>
 
@@ -561,6 +563,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [HoloScene: Simulation-Ready Interactive 3D Worlds from a Single Video](https://arxiv.org/abs/2510.05560), Hongchi Xia et al., Arxiv 2025 | [citation](./references/citations.bib#L2271-L2276) | [site]() | [code]()
 
 - [NANO3D: A Training-Free Approach for Efficient 3D Editing Without Masks](https://arxiv.org/abs/2510.15019), Junliang Ye et al., Arxiv 2025 | [citation](./references/citations.bib#L2278-L2283) | [site](https://jamesyjl.github.io/Nano3D/) | [code](https://github.com/JAMESYJL/Nano3D)
+
+- [IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction](https://arxiv.org/abs/2510.22706), Hao Li et al., Arxiv 2025 | [citation](./references/citations.bib#L2299-L2304) | [site](https://lifuguan.github.io/IGGT_official/) | [code](https://github.com/lifuguan/IGGT_official)
 
 </details>
 
