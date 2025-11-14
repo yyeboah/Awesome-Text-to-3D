@@ -435,7 +435,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
  - [FreeArt3D: Training-Free Articulated Object Generation using 3D Diffusion](https://arxiv.org/abs/2510.25765), Chuhao Chen et al., Arxiv 2025 | [citation](./references/citations.bib#L2306-L2311) | [site]() | [code]()
 
- - [Wonder3D++: Cross-Domain Diffusion for High-Fidelity 3D Generation From a Single Image](ttp://dx.doi.org/10.1109/TPAMI.2025.3618675), Yang, Yuxiao et al., Arxiv 2025 | [citation](./references/citations.bib#L2313-L2318) | [site]() | [code]()
+ - [Wonder3D++: Cross-Domain Diffusion for High-Fidelity 3D Generation From a Single Image](http://dx.doi.org/10.1109/TPAMI.2025.3618675), Yang, Yuxiao et al., Arxiv 2025 | [citation](./references/citations.bib#L2313-L2318) | [site]() | [code]()
 
 
 </details>
