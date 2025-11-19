@@ -568,6 +568,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction](https://arxiv.org/abs/2510.22706), Hao Li et al., Arxiv 2025 | [citation](./references/citations.bib#L2299-L2304) | [site](https://lifuguan.github.io/IGGT_official/) | [code](https://github.com/lifuguan/IGGT_official)
 
+- [PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image](https://arxiv.org/abs/2511.13648), Cao Ziang  et al., Arxiv 2025 | [citation](./references/citations.bib#L2320-L2325) | [site](https://physx-anything.github.io) | [code](https://github.com/ziangcao0312/PhysX-Anything)
+
+ - [GEN3D: Generating Domain-Free 3D Scenes from a Single Image](https://arxiv.org/abs/2511.14291), Yuxin Zhang  et al., Arxiv 2025 | [citation](./references/citations.bib#L2327-L2332) | [site]() | [code]()
+
 </details>
 
 
