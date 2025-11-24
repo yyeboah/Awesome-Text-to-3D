@@ -437,6 +437,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
  - [Wonder3D++: Cross-Domain Diffusion for High-Fidelity 3D Generation From a Single Image](http://dx.doi.org/10.1109/TPAMI.2025.3618675), Yang, Yuxiao et al., Arxiv 2025 | [citation](./references/citations.bib#L2313-L2318) | [site]() | [code]()
 
+ - [SAM 3D: 3Dfy Anything in Images](https://arxiv.org/abs/2511.16624), SAM 3D Team et al., Arxiv 2025 | [citation](./references/citations.bib#L2341-L2346) | [site](https://ai.meta.com/sam3d/) | [code](https://github.com/facebookresearch/sam-3d-objects)
+
 
 </details>
 
@@ -571,6 +573,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image](https://arxiv.org/abs/2511.13648), Cao Ziang  et al., Arxiv 2025 | [citation](./references/citations.bib#L2320-L2325) | [site](https://physx-anything.github.io) | [code](https://github.com/ziangcao0312/PhysX-Anything)
 
  - [GEN3D: Generating Domain-Free 3D Scenes from a Single Image](https://arxiv.org/abs/2511.14291), Yuxin Zhang  et al., Arxiv 2025 | [citation](./references/citations.bib#L2327-L2332) | [site]() | [code]()
+
+ - [WorldGen: From Text to Traversable and Interactive 3D Worlds](https://arxiv.org/abs/2511.16825), Dilin Wang  et al., Arxiv 2025 | [citation](./references/citations.bib#L2334-L2339) | [site](https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/) | [code]()
 
 </details>
 
