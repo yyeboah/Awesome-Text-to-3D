@@ -576,6 +576,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
  - [WorldGen: From Text to Traversable and Interactive 3D Worlds](https://arxiv.org/abs/2511.16825), Dilin Wang  et al., Arxiv 2025 | [citation](./references/citations.bib#L2334-L2339) | [site](https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/) | [code]()
 
+ - [SpaceControl: Introducing Test-Time Spatial Control to 3D Generative Modeling](https://arxiv.org/abs/2512.05343), Elisabetta Fedele  et al., Arxiv 2025 | [citation](./references/citations.bib#L2348-L2353) | [site](https://spacecontrol3d.github.io) | [code]()
+
 </details>
 
 
