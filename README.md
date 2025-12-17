@@ -439,6 +439,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
  - [SAM 3D: 3Dfy Anything in Images](https://arxiv.org/abs/2511.16624), SAM 3D Team et al., Arxiv 2025 | [citation](./references/citations.bib#L2341-L2346) | [site](https://ai.meta.com/sam3d/) | [code](https://github.com/facebookresearch/sam-3d-objects)
 
+ - [Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation](https://arxiv.org/abs/2512.10949), Yiwen Tang et al., Arxiv 2025 | [citation](./references/citations.bib#L2369-L2374) | [site]() | [code](https://github.com/Ivan-Tang-3D/3DGen-R1)
+
 
 </details>
 
@@ -665,6 +667,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting](https://arxiv.org/abs/2504.20403), Hanxi Liu et al., Arxiv 2025 | [citation](./references/citations.bib#L2040-L2045) | [site]() | [code]()
 
 - [SPATIALGEN: Layout-guided 3D Indoor Scene Generation](https://arxiv.org/abs/2509.14981), Chuan Fang et al., Arxiv 2025 | [citation](./references/citations.bib#L2243-L2248) | [site](https://manycore-research.github.io/SpatialGen) | [code](https://github.com/manycore-research/SpatialGen)
+
+- [STEER3D: ma2025feedforward3deditingtextsteerable](https://arxiv.org/abs/2512.13678), Ziqi Ma et al., Arxiv 2025 | [citation](./references/citations.bib#L2362-L2367) | [site](https://glab-caltech.github.io/steer3d/) | [code](https://github.com/ziqi-ma/Steer3D)
 
 
 </details>
