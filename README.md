@@ -441,6 +441,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
  - [Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation](https://arxiv.org/abs/2512.10949), Yiwen Tang et al., Arxiv 2025 | [citation](./references/citations.bib#L2369-L2374) | [site]() | [code](https://github.com/Ivan-Tang-3D/3DGen-R1)
 
+ - [Native and Compact Structured Latents for 3D Generation](https://arxiv.org/abs/2512.14692), Jianfeng Xiang et al., Arxiv 2025 | [citation](./references/citations.bib#L2376-L2381) | [site](https://microsoft.github.io/TRELLIS.2/) | [code](https://github.com/microsoft/TRELLIS.2)
+
 
 </details>
 
