@@ -443,6 +443,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
  - [Native and Compact Structured Latents for 3D Generation](https://arxiv.org/abs/2512.14692), Jianfeng Xiang et al., Arxiv 2025 | [citation](./references/citations.bib#L2376-L2381) | [site](https://microsoft.github.io/TRELLIS.2/) | [code](https://github.com/microsoft/TRELLIS.2)
 
+ - [MeshRipple: Structured Autoregressive Generation of Artist-Meshes](https://arxiv.org/abs/2512.07514), Junkai Lin  et al., Arxiv 2025 | [citation](./references/citations.bib#L2390-L2395) | [site](https://maymhappy.github.io/MeshRipple/) | [code](https://github.com/MayMhappy/MeshRipple)
+
 
 </details>
 
@@ -583,6 +585,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
  - [SpaceControl: Introducing Test-Time Spatial Control to 3D Generative Modeling](https://arxiv.org/abs/2512.05343), Elisabetta Fedele  et al., Arxiv 2025 | [citation](./references/citations.bib#L2348-L2353) | [site](https://spacecontrol3d.github.io) | [code]()
 
  - [MoCA: Mixture-of-Components Attention for Scalable Compositional 3D Generation](https://arxiv.org/abs/2512.05343), Zhiqi Li  et al., Arxiv 2025 | [citation](./references/citations.bib#L2355-L2360) | [site](https://lizhiqi49.github.io/MoCA/) | [code](https://github.com/lizhiqi49/MoCA)
+
+ - [3D-RE-GEN: 3D Reconstruction of Indoor Scenes with a Generative Framework](https://arxiv.org/abs/2512.17459), Tobias Sautter  et al., Arxiv 2025 | [citation](./references/citations.bib#L2383-L2388) | [site](https://3dregen.jdihlmann.com) | [code](https://github.com/cgtuebingen/3D-RE-GEN)
 
 </details>
 
