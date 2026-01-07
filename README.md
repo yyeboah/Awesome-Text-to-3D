@@ -445,6 +445,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
  - [MeshRipple: Structured Autoregressive Generation of Artist-Meshes](https://arxiv.org/abs/2512.07514), Junkai Lin  et al., Arxiv 2025 | [citation](./references/citations.bib#L2390-L2395) | [site](https://maymhappy.github.io/MeshRipple/) | [code](https://github.com/MayMhappy/MeshRipple)
 
+ - [UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement](https://arxiv.org/abs/2512.21185), Tanghui Jia et al., Arxiv 2025 | [citation](./references/citations.bib#L2397-L2402) | [site](https://pku-yuangroup.github.io/UltraShape-1.0/) | [code](https://github.com/PKU-YuanGroup/UltraShape-1.0)
+
 
 </details>
 
@@ -587,6 +589,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
  - [MoCA: Mixture-of-Components Attention for Scalable Compositional 3D Generation](https://arxiv.org/abs/2512.05343), Zhiqi Li  et al., Arxiv 2025 | [citation](./references/citations.bib#L2355-L2360) | [site](https://lizhiqi49.github.io/MoCA/) | [code](https://github.com/lizhiqi49/MoCA)
 
  - [3D-RE-GEN: 3D Reconstruction of Indoor Scenes with a Generative Framework](https://arxiv.org/abs/2512.17459), Tobias Sautter  et al., Arxiv 2025 | [citation](./references/citations.bib#L2383-L2388) | [site](https://3dregen.jdihlmann.com) | [code](https://github.com/cgtuebingen/3D-RE-GEN)
+
+ - [MorphAny3D: Unleashing the Power of Structured Latent in 3D Morphing](https://arxiv.org/abs/2601.00204), Xiaokun Sun  et al., Arxiv 2025 | [citation](./references/citations.bib#L2404-L2409) | [site](https://xiaokunsun.github.io/MorphAny3D.github.io/) | [code](https://github.com/XiaokunSun/MorphAny3D)
 
 </details>
 
