@@ -592,6 +592,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
  - [MorphAny3D: Unleashing the Power of Structured Latent in 3D Morphing](https://arxiv.org/abs/2601.00204), Xiaokun Sun  et al., Arxiv 2025 | [citation](./references/citations.bib#L2404-L2409) | [site](https://xiaokunsun.github.io/MorphAny3D.github.io/) | [code](https://github.com/XiaokunSun/MorphAny3D)
 
+ - [SceneFoundry: Generating Interactive Infinite 3D Worlds](https://arxiv.org/abs/2601.05810), ChunTeng Chen et al., Arxiv 2026 | [citation](./references/citations.bib#L2418-L2423) | [site]() | [code]()
+
 </details>
 
 
@@ -679,6 +681,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [SPATIALGEN: Layout-guided 3D Indoor Scene Generation](https://arxiv.org/abs/2509.14981), Chuan Fang et al., Arxiv 2025 | [citation](./references/citations.bib#L2243-L2248) | [site](https://manycore-research.github.io/SpatialGen) | [code](https://github.com/manycore-research/SpatialGen)
 
 - [STEER3D: ma2025feedforward3deditingtextsteerable](https://arxiv.org/abs/2512.13678), Ziqi Ma et al., Arxiv 2025 | [citation](./references/citations.bib#L2362-L2367) | [site](https://glab-caltech.github.io/steer3d/) | [code](https://github.com/ziqi-ma/Steer3D)
+
+- [LayerGS: Decomposition and Inpainting of Layered 3D Human Avatars via 2D Gaussian Splatting](https://arxiv.org/abs/2601.00204), Yinghan Xu et al., Arxiv 2026 | [citation](./references/citations.bib#L2411-L2416) | [site](https://rockyxu66.github.io/LayerGS-page/) | [code](https://github.com/RockyXu66/LayerGS)
 
 
 </details>
