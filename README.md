@@ -594,6 +594,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
  - [SceneFoundry: Generating Interactive Infinite 3D Worlds](https://arxiv.org/abs/2601.05810), ChunTeng Chen et al., Arxiv 2026 | [citation](./references/citations.bib#L2418-L2423) | [site]() | [code]()
 
+ - [CasTex: Cascaded Text-to-Texture Synthesis via Explicit Texture Maps and Physically-Based Shading](https://arxiv.org/abs/2504.06856), Aliev et al., WACV 2026 | [citation](./references/citations.bib#L2425-L2430) | [site](https://thecrazymage.github.io/CasTex/) | [code](https://github.com/thecrazymage/CasTex)
 </details>
 
 
