@@ -685,7 +685,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [LayerGS: Decomposition and Inpainting of Layered 3D Human Avatars via 2D Gaussian Splatting](https://arxiv.org/abs/2601.00204), Yinghan Xu et al., Arxiv 2026 | [citation](./references/citations.bib#L2411-L2416) | [site](https://rockyxu66.github.io/LayerGS-page/) | [code](https://github.com/RockyXu66/LayerGS)
 
-- [ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion](https://arxiv.org/abs/2601.16148), Remy Sabathier et al., Arxiv 2026 | [citation](./references/citations.bib#L2432-L2437) | [site](https://remysabathier.github.io/actionmesh/) | [code](https://remysabathier.github.io/actionmesh/)
+- [ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion](https://arxiv.org/abs/2601.16148), Remy Sabathier et al., Arxiv 2026 | [citation](./references/citations.bib#L2432-L2437) | [site](https://remysabathier.github.io/actionmesh/) | [code](https://remysabathier.github.io/actionmesh)
 
 
 </details>
