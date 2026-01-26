@@ -435,6 +435,18 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
  - [FreeArt3D: Training-Free Articulated Object Generation using 3D Diffusion](https://arxiv.org/abs/2510.25765), Chuhao Chen et al., Arxiv 2025 | [citation](./references/citations.bib#L2306-L2311) | [site]() | [code]()
 
+ - [Wonder3D++: Cross-Domain Diffusion for High-Fidelity 3D Generation From a Single Image](http://dx.doi.org/10.1109/TPAMI.2025.3618675), Yang, Yuxiao et al., Arxiv 2025 | [citation](./references/citations.bib#L2313-L2318) | [site]() | [code]()
+
+ - [SAM 3D: 3Dfy Anything in Images](https://arxiv.org/abs/2511.16624), SAM 3D Team et al., Arxiv 2025 | [citation](./references/citations.bib#L2341-L2346) | [site](https://ai.meta.com/sam3d/) | [code](https://github.com/facebookresearch/sam-3d-objects)
+
+ - [Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation](https://arxiv.org/abs/2512.10949), Yiwen Tang et al., Arxiv 2025 | [citation](./references/citations.bib#L2369-L2374) | [site]() | [code](https://github.com/Ivan-Tang-3D/3DGen-R1)
+
+ - [Native and Compact Structured Latents for 3D Generation](https://arxiv.org/abs/2512.14692), Jianfeng Xiang et al., Arxiv 2025 | [citation](./references/citations.bib#L2376-L2381) | [site](https://microsoft.github.io/TRELLIS.2/) | [code](https://github.com/microsoft/TRELLIS.2)
+
+ - [MeshRipple: Structured Autoregressive Generation of Artist-Meshes](https://arxiv.org/abs/2512.07514), Junkai Lin  et al., Arxiv 2025 | [citation](./references/citations.bib#L2390-L2395) | [site](https://maymhappy.github.io/MeshRipple/) | [code](https://github.com/MayMhappy/MeshRipple)
+
+ - [UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement](https://arxiv.org/abs/2512.21185), Tanghui Jia et al., Arxiv 2025 | [citation](./references/citations.bib#L2397-L2402) | [site](https://pku-yuangroup.github.io/UltraShape-1.0/) | [code](https://github.com/PKU-YuanGroup/UltraShape-1.0)
+
 
 </details>
 
@@ -566,6 +578,23 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction](https://arxiv.org/abs/2510.22706), Hao Li et al., Arxiv 2025 | [citation](./references/citations.bib#L2299-L2304) | [site](https://lifuguan.github.io/IGGT_official/) | [code](https://github.com/lifuguan/IGGT_official)
 
+- [PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image](https://arxiv.org/abs/2511.13648), Cao Ziang  et al., Arxiv 2025 | [citation](./references/citations.bib#L2320-L2325) | [site](https://physx-anything.github.io) | [code](https://github.com/ziangcao0312/PhysX-Anything)
+
+ - [GEN3D: Generating Domain-Free 3D Scenes from a Single Image](https://arxiv.org/abs/2511.14291), Yuxin Zhang  et al., Arxiv 2025 | [citation](./references/citations.bib#L2327-L2332) | [site]() | [code]()
+
+ - [WorldGen: From Text to Traversable and Interactive 3D Worlds](https://arxiv.org/abs/2511.16825), Dilin Wang  et al., Arxiv 2025 | [citation](./references/citations.bib#L2334-L2339) | [site](https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/) | [code]()
+
+ - [SpaceControl: Introducing Test-Time Spatial Control to 3D Generative Modeling](https://arxiv.org/abs/2512.05343), Elisabetta Fedele  et al., Arxiv 2025 | [citation](./references/citations.bib#L2348-L2353) | [site](https://spacecontrol3d.github.io) | [code]()
+
+ - [MoCA: Mixture-of-Components Attention for Scalable Compositional 3D Generation](https://arxiv.org/abs/2512.05343), Zhiqi Li  et al., Arxiv 2025 | [citation](./references/citations.bib#L2355-L2360) | [site](https://lizhiqi49.github.io/MoCA/) | [code](https://github.com/lizhiqi49/MoCA)
+
+ - [3D-RE-GEN: 3D Reconstruction of Indoor Scenes with a Generative Framework](https://arxiv.org/abs/2512.17459), Tobias Sautter  et al., Arxiv 2025 | [citation](./references/citations.bib#L2383-L2388) | [site](https://3dregen.jdihlmann.com) | [code](https://github.com/cgtuebingen/3D-RE-GEN)
+
+ - [MorphAny3D: Unleashing the Power of Structured Latent in 3D Morphing](https://arxiv.org/abs/2601.00204), Xiaokun Sun  et al., Arxiv 2025 | [citation](./references/citations.bib#L2404-L2409) | [site](https://xiaokunsun.github.io/MorphAny3D.github.io/) | [code](https://github.com/XiaokunSun/MorphAny3D)
+
+ - [SceneFoundry: Generating Interactive Infinite 3D Worlds](https://arxiv.org/abs/2601.05810), ChunTeng Chen et al., Arxiv 2026 | [citation](./references/citations.bib#L2418-L2423) | [site]() | [code]()
+
+ - [CasTex: Cascaded Text-to-Texture Synthesis via Explicit Texture Maps and Physically-Based Shading](https://arxiv.org/abs/2504.06856), Aliev et al., WACV 2026 | [citation](./references/citations.bib#L2425-L2430) | [site](https://thecrazymage.github.io/CasTex/) | [code](https://github.com/thecrazymage/CasTex)
 </details>
 
 
@@ -651,6 +680,12 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting](https://arxiv.org/abs/2504.20403), Hanxi Liu et al., Arxiv 2025 | [citation](./references/citations.bib#L2040-L2045) | [site]() | [code]()
 
 - [SPATIALGEN: Layout-guided 3D Indoor Scene Generation](https://arxiv.org/abs/2509.14981), Chuan Fang et al., Arxiv 2025 | [citation](./references/citations.bib#L2243-L2248) | [site](https://manycore-research.github.io/SpatialGen) | [code](https://github.com/manycore-research/SpatialGen)
+
+- [STEER3D: ma2025feedforward3deditingtextsteerable](https://arxiv.org/abs/2512.13678), Ziqi Ma et al., Arxiv 2025 | [citation](./references/citations.bib#L2362-L2367) | [site](https://glab-caltech.github.io/steer3d/) | [code](https://github.com/ziqi-ma/Steer3D)
+
+- [LayerGS: Decomposition and Inpainting of Layered 3D Human Avatars via 2D Gaussian Splatting](https://arxiv.org/abs/2601.00204), Yinghan Xu et al., Arxiv 2026 | [citation](./references/citations.bib#L2411-L2416) | [site](https://rockyxu66.github.io/LayerGS-page/) | [code](https://github.com/RockyXu66/LayerGS)
+
+- [ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion](https://arxiv.org/abs/2601.16148), Remy Sabathier et al., Arxiv 2026 | [citation](./references/citations.bib#L2432-L2437) | [site](https://remysabathier.github.io/actionmesh/) | [code](https://remysabathier.github.io/actionmesh)
 
 
 </details>
