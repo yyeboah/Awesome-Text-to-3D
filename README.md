@@ -447,6 +447,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
  - [UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement](https://arxiv.org/abs/2512.21185), Tanghui Jia et al., Arxiv 2025 | [citation](./references/citations.bib#L2397-L2402) | [site](https://pku-yuangroup.github.io/UltraShape-1.0/) | [code](https://github.com/PKU-YuanGroup/UltraShape-1.0)
 
+ - [AnchoredDream: Zero-Shot 360{\deg} Indoor Scene Generation from a Single View via Geometric Grounding](https://arxiv.org/abs/2601.16532), Runmao Yao et al., Arxiv 2026 | [citation](./references/citations.bib#L2446-L2451) | [site](https://gr3en-relight.github.io) | [code]()
+
 
 </details>
 
@@ -687,6 +689,9 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion](https://arxiv.org/abs/2601.16148), Remy Sabathier et al., Arxiv 2026 | [citation](./references/citations.bib#L2432-L2437) | [site](https://remysabathier.github.io/actionmesh/) | [code](https://remysabathier.github.io/actionmesh)
 
+- [GR3EN: Generative Relighting for 3D Environments](https://arxiv.org/abs/2601.16272), Xiaoyan Xing et al., Arxiv 2026 | [citation](./references/citations.bib#L2439-L2444) | [site](https://gr3en-relight.github.io) | [code]()
+
+
 
 </details>
 
@@ -738,6 +743,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Mosaic3D: Foundation Dataset and Model for Open-Vocabulary 3D Segmentation](https://arxiv.org/abs/2502.02548), Junha Lee et al., Arxiv 2025 | [citation](./references/citations.bib#L2229-L2230) | [site](https://nvlabs.github.io/Mosaic3D/) | [code](https://github.com/NVlabs/Mosaic3D)
 
 - [VideoFrom3D: 3D Scene Video Generation via Complementary Image and Video Diffusion Models](https://arxiv.org/abs/2509.17985), Geonung Kim et al., Arxiv 2025 | [citation](./references/citations.bib#L2250-L2255) | [site](https://kimgeonung.github.io/VideoFrom3D/) | [code](https://github.com/KIMGEONUNG/VideoFrom3D)
+
+- [ReWeaver: Towards Simulation-Ready and Topology-Accurate Garment Reconstruction](https://arxiv.org/abs/2601.16672), Ming Li et al., Arxiv 2026 | [citation](./references/citations.bib#L2453-L2458) | [site](https://gr3en-relight.github.io) | [code]()
 
 
 
