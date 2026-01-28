@@ -449,6 +449,12 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
  - [AnchoredDream: Zero-Shot 360{\deg} Indoor Scene Generation from a Single View via Geometric Grounding](https://arxiv.org/abs/2601.16532), Runmao Yao et al., Arxiv 2026 | [citation](./references/citations.bib#L2446-L2451) | [site](https://gr3en-relight.github.io) | [code]()
 
+- [RoamScene3D: Immersive Text-to-3D Scene Generation via Adaptive Object-aware Roaming](https://arxiv.org/abs/2601.19433), Jisheng Chu et al., Arxiv 2026 | [citation](./references/citations.bib#L2460-L2465) | [site]() | [code](https://github.com/JS-CHU/RoamScene3D)
+
+- [GeoDiff3D: Self-Supervised 3D Scene Generation with Geometry-Constrained 2D Diffusion Guidance](https://arxiv.org/abs/2601.19785), Haozhi Zhu et al., Arxiv 2026 | [citation](./references/citations.bib#L2467-L2472) | [site]() | [code]()
+
+- [Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning](https://arxiv.org/abs/2601.11109), Shaofeng Yin et al., Arxiv 2026 | [citation](./references/citations.bib#L2474-L2479) | [site](https://fugtemypt123.github.io/VIGA-website/) | [code](https://github.com/Fugtemypt123/VIGA)
+
 
 </details>
 
