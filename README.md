@@ -449,6 +449,12 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
  - [AnchoredDream: Zero-Shot 360{\deg} Indoor Scene Generation from a Single View via Geometric Grounding](https://arxiv.org/abs/2601.16532), Runmao Yao et al., Arxiv 2026 | [citation](./references/citations.bib#L2446-L2451) | [site](https://gr3en-relight.github.io) | [code]()
 
+- [RoamScene3D: Immersive Text-to-3D Scene Generation via Adaptive Object-aware Roaming](https://arxiv.org/abs/2601.19433), Jisheng Chu et al., Arxiv 2026 | [citation](./references/citations.bib#L2460-L2465) | [site]() | [code](https://github.com/JS-CHU/RoamScene3D)
+
+- [GeoDiff3D: Self-Supervised 3D Scene Generation with Geometry-Constrained 2D Diffusion Guidance](https://arxiv.org/abs/2601.19785), Haozhi Zhu et al., Arxiv 2026 | [citation](./references/citations.bib#L2467-L2472) | [site]() | [code]()
+
+- [Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning](https://arxiv.org/abs/2601.11109), Shaofeng Yin et al., Arxiv 2026 | [citation](./references/citations.bib#L2474-L2479) | [site](https://fugtemypt123.github.io/VIGA-website/) | [code](https://github.com/Fugtemypt123/VIGA)
+
 
 </details>
 
@@ -597,6 +603,9 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
  - [SceneFoundry: Generating Interactive Infinite 3D Worlds](https://arxiv.org/abs/2601.05810), ChunTeng Chen et al., Arxiv 2026 | [citation](./references/citations.bib#L2418-L2423) | [site]() | [code]()
 
  - [CasTex: Cascaded Text-to-Texture Synthesis via Explicit Texture Maps and Physically-Based Shading](https://arxiv.org/abs/2504.06856), Aliev et al., WACV 2026 | [citation](./references/citations.bib#L2425-L2430) | [site](https://thecrazymage.github.io/CasTex/) | [code](https://github.com/thecrazymage/CasTex)
+
+ - [VecSet-Edit: Unleashing Pre-trained LRM for Mesh Editing from Single Image](https://arxiv.org/abs/2602.04349), Teng-Fang et al., Arxiv 2026 | [citation](./references/citations.bib#L2481-L2486) | [site]() | [code](https://github.com/BlueDyee/VecSet-Edit)
+ 
 </details>
 
 
