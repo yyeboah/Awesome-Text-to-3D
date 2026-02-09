@@ -765,7 +765,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Mirage3D: Open-Source Implementations of 3D Diffusion Models Optimized for GLB Output](https://github.com/MirageML/Mirage3D), Mirageml et al., Github 2023
 
-- [https://worldgen.github.io/](https://worldgen.github.io), Ziyang et al., Github 2026 | [code](https://github.com/ZiYang-xie/WorldGen)
+- [WorldGen - Generate Any 3D Scene in Seconds](https://worldgen.github.io), Ziyang et al., Github 2026 | [code](https://github.com/ZiYang-xie/WorldGen)
 
 
 ## Tutorial Videos :tv:
