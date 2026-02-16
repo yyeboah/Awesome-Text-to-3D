@@ -455,6 +455,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning](https://arxiv.org/abs/2601.11109), Shaofeng Yin et al., Arxiv 2026 | [citation](./references/citations.bib#L2474-L2479) | [site](https://fugtemypt123.github.io/VIGA-website/) | [code](https://github.com/Fugtemypt123/VIGA)
 
+- [SceneReVis: A Self-Reflective Vision-Grounded Framework for 3D Indoor Scene Synthesis via Multi-turn RL](https://arxiv.org/abs/2602.09432), Yang Zhao et al., Arxiv 2026 | [citation](./references/citations.bib#L2495-L2500) | [site]() | [code]()
+
 
 </details>
 
@@ -605,6 +607,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
  - [CasTex: Cascaded Text-to-Texture Synthesis via Explicit Texture Maps and Physically-Based Shading](https://arxiv.org/abs/2504.06856), Aliev et al., WACV 2026 | [citation](./references/citations.bib#L2425-L2430) | [site](https://thecrazymage.github.io/CasTex/) | [code](https://github.com/thecrazymage/CasTex)
 
  - [VecSet-Edit: Unleashing Pre-trained LRM for Mesh Editing from Single Image](https://arxiv.org/abs/2602.04349), Teng-Fang et al., Arxiv 2026 | [citation](./references/citations.bib#L2481-L2486) | [site]() | [code](https://github.com/BlueDyee/VecSet-Edit)
+
+ - [TexSpot: 3D Texture Enhancement with Spatially-uniform Point Latent Representation](https://arxiv.org/abs/2602.12157), Ziteng Lu et al., Arxiv 2026 | [citation](./references/citations.bib#L2488-L2493) | [site](https://anonymous.4open.science/w/TexSpot-page-2D91/) | [code](https://github.com/BlueDyee/VecSet-Edit)
  
 </details>
 
@@ -699,6 +703,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion](https://arxiv.org/abs/2601.16148), Remy Sabathier et al., Arxiv 2026 | [citation](./references/citations.bib#L2432-L2437) | [site](https://remysabathier.github.io/actionmesh/) | [code](https://remysabathier.github.io/actionmesh)
 
 - [GR3EN: Generative Relighting for 3D Environments](https://arxiv.org/abs/2601.16272), Xiaoyan Xing et al., Arxiv 2026 | [citation](./references/citations.bib#L2439-L2444) | [site](https://gr3en-relight.github.io) | [code]()
+
+- [Stroke3D: Lifting 2D strokes into rigged 3D model via latent diffusion models](https://arxiv.org/abs/2602.09713), Ruisi Zhao et al., Arxiv 2026 | [citation](./references/citations.bib#L2502-L2506) | [site](https://whalesong-zrs.github.io/Stroke3D_project_page/) | [code](https://github.com/Whalesong-zrs/Stroke3D)
+
+- [NavDreamer: Video Models as Zero-Shot 3D Navigators](https://arxiv.org/abs/2602.09713), Xijie Huang et al., Arxiv 2026 | [citation](./references/citations.bib#L2509-L2514) | [site](https://xinjiu612.github.io/NavDreamer/) | [code]()
 
 
 
