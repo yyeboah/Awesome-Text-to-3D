@@ -726,6 +726,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [4D-fy:Text-to-4D Generation Using Hybrid Score Distillation Sampling](https://arxiv.org/abs/2311.17984), Lincong Feng et al., Arxiv 2023 | [citation](./references/citations.bib#L842-L847) | [site](https://sherwinbahmani.github.io/4dfy/) | [code](https://github.com/sherwinbahmani/4dfy)
 
+- [GeoDiff4D: Geometry-Aware Diffusion for 4D Head Avatar Reconstruction](https://arxiv.org/abs/2602.24161), Chao Xu et al., Arxiv 2026 | [citation](./references/citations.bib#L2423-L2528) | [site](https://lyxcc127.github.io/geodiff4d/) | [code]()
+
 
 
 </details>
