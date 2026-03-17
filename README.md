@@ -459,6 +459,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [RelaxFlow: Text-Driven Amodal 3D Generation](https://arxiv.org/abs/2603.05425), Jiayin Zhu et al., Arxiv 2026 | [citation](./references/citations.bib#L2544-L2549) | [site]() | [code]()
 
+- [MV-SAM3D: Adaptive Multi-View Fusion for Layout-Aware 3D Generation](https://arxiv.org/abs/2603.11633), Baicheng Li et al., Arxiv 2026 | [citation](./references/citations.bib#L2551-L2556) | [site]() | [code]()
+
 
 </details>
 
