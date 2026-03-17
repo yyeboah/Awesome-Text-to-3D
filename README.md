@@ -457,6 +457,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [SceneReVis: A Self-Reflective Vision-Grounded Framework for 3D Indoor Scene Synthesis via Multi-turn RL](https://arxiv.org/abs/2602.09432), Yang Zhao et al., Arxiv 2026 | [citation](./references/citations.bib#L2495-L2500) | [site]() | [code]()
 
+- [RelaxFlow: Text-Driven Amodal 3D Generation](https://arxiv.org/abs/2603.05425), Jiayin Zhu et al., Arxiv 2026 | [citation](./references/citations.bib#L2544-L2549) | [site]() | [code]()
+
+- [MV-SAM3D: Adaptive Multi-View Fusion for Layout-Aware 3D Generation](https://arxiv.org/abs/2603.11633), Baicheng Li et al., Arxiv 2026 | [citation](./references/citations.bib#L2551-L2556) | [site]() | [code]()
+
 
 </details>
 
@@ -609,6 +613,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
  - [VecSet-Edit: Unleashing Pre-trained LRM for Mesh Editing from Single Image](https://arxiv.org/abs/2602.04349), Teng-Fang et al., Arxiv 2026 | [citation](./references/citations.bib#L2481-L2486) | [site]() | [code](https://github.com/BlueDyee/VecSet-Edit)
 
  - [TexSpot: 3D Texture Enhancement with Spatially-uniform Point Latent Representation](https://arxiv.org/abs/2602.12157), Ziteng Lu et al., Arxiv 2026 | [citation](./references/citations.bib#L2488-L2493) | [site](https://anonymous.4open.science/w/TexSpot-page-2D91/) | [code](https://github.com/BlueDyee/VecSet-Edit)
+
+- [ArtiFixer: Enhancing and Extending 3D Reconstruction with Auto-Regressive Diffusion Models](https://arxiv.org/abs/2603.00492), Riccardo de Lutio et al., Arxiv 2026 | [citation](./references/citations.bib#L2530-L2535) | [site]() | [code]()
  
 </details>
 
@@ -708,6 +714,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [NavDreamer: Video Models as Zero-Shot 3D Navigators](https://arxiv.org/abs/2602.09713), Xijie Huang et al., Arxiv 2026 | [citation](./references/citations.bib#L2509-L2514) | [site](https://xinjiu612.github.io/NavDreamer/) | [code]()
 
+- [DogWeave: High-Fidelity 3D Canine Reconstruction from a Single Image via Normal Fusion and Conditional Inpainting](https://arxiv.org/abs/2603.07441), Shufan Sun et al., Arxiv 2026 | [citation](./references/citations.bib#L2537-L2542) | [site]() | [code]()
+
 
 
 </details>
@@ -725,6 +733,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Consistent4D: Consistent 360 Degree Dynamic Object Generation from Monocular Video](https://arxiv.org/abs/2311.02848), Yanqin Jiang et al., Arxiv 2023 | [citation](./references/citations.bib#L799-L809) | [site](https://consistent4d.github.io/) | [code](https://github.com/yanqinJiang/Consistent4D)
 
 - [4D-fy:Text-to-4D Generation Using Hybrid Score Distillation Sampling](https://arxiv.org/abs/2311.17984), Lincong Feng et al., Arxiv 2023 | [citation](./references/citations.bib#L842-L847) | [site](https://sherwinbahmani.github.io/4dfy/) | [code](https://github.com/sherwinbahmani/4dfy)
+
+- [GeoDiff4D: Geometry-Aware Diffusion for 4D Head Avatar Reconstruction](https://arxiv.org/abs/2602.24161), Chao Xu et al., Arxiv 2026 | [citation](./references/citations.bib#L2523-L2528) | [site](https://lyxcc127.github.io/geodiff4d/) | [code]()
 
 
 
