@@ -457,6 +457,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [SceneReVis: A Self-Reflective Vision-Grounded Framework for 3D Indoor Scene Synthesis via Multi-turn RL](https://arxiv.org/abs/2602.09432), Yang Zhao et al., Arxiv 2026 | [citation](./references/citations.bib#L2495-L2500) | [site]() | [code]()
 
+- [RelaxFlow: Text-Driven Amodal 3D Generation](https://arxiv.org/abs/2603.05425), Jiayin Zhu et al., Arxiv 2026 | [citation](./references/citations.bib#L2544-L2549) | [site]() | [code]()
+
 
 </details>
 
@@ -709,6 +711,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Stroke3D: Lifting 2D strokes into rigged 3D model via latent diffusion models](https://arxiv.org/abs/2602.09713), Ruisi Zhao et al., Arxiv 2026 | [citation](./references/citations.bib#L2502-L2506) | [site](https://whalesong-zrs.github.io/Stroke3D_project_page/) | [code](https://github.com/Whalesong-zrs/Stroke3D)
 
 - [NavDreamer: Video Models as Zero-Shot 3D Navigators](https://arxiv.org/abs/2602.09713), Xijie Huang et al., Arxiv 2026 | [citation](./references/citations.bib#L2509-L2514) | [site](https://xinjiu612.github.io/NavDreamer/) | [code]()
+
+- [DogWeave: High-Fidelity 3D Canine Reconstruction from a Single Image via Normal Fusion and Conditional Inpainting](https://arxiv.org/abs/2603.07441), Shufan Sun et al., Arxiv 2026 | [citation](./references/citations.bib#L2537-L2542) | [site]() | [code]()
 
 
 
