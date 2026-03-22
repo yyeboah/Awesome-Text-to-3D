@@ -615,6 +615,12 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
  - [TexSpot: 3D Texture Enhancement with Spatially-uniform Point Latent Representation](https://arxiv.org/abs/2602.12157), Ziteng Lu et al., Arxiv 2026 | [citation](./references/citations.bib#L2488-L2493) | [site](https://anonymous.4open.science/w/TexSpot-page-2D91/) | [code](https://github.com/BlueDyee/VecSet-Edit)
 
 - [ArtiFixer: Enhancing and Extending 3D Reconstruction with Auto-Regressive Diffusion Models](https://arxiv.org/abs/2603.00492), Riccardo de Lutio et al., Arxiv 2026 | [citation](./references/citations.bib#L2530-L2535) | [site]() | [code]()
+
+- [MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction](https://arxiv.org/abs/2603.19231), Haitian Li et al., Arxiv 2026 | [citation](./references/citations.bib#L2557-L2535) | [site](https://lihaitian.com/MonoArt/) | [code](https://github.com/Quest4Science/MonoArt)
+
+- [3DreamBooth: High-Fidelity 3D Subject-Driven Video Generation Model](https://arxiv.org/abs/2603.18524), Hyun-kyu Ko et al., Arxiv 2026 | [citation](./references/citations.bib#L2564-L2569) | [site](https://ko-lani.github.io/3DreamBooth/) | [code](https://github.com/Ko-Lani/3DreamBooth)
+
+- [MV2UV: Generating High-quality UV Texture Maps with Multiview Prompts](https://arxiv.org/abs/2603.15436), Zheng Zhang et al., Arxiv 2026 | [citation](./references/citations.bib#L2571-L2576) | [site]() | [code]()
  
 </details>
 
