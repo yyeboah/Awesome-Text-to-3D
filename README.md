@@ -3,6 +3,7 @@
 The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF)
 
 ## Recent Updates :newspaper:
+* `06.04.2026` - Began tracking world models as an independent category
 * `02.04.2024` - Begin linking to project pages and codes
 * `09.02.2024` - Level One Categorization
 * `11.11.2023` - Added Tutorial Videos
@@ -749,6 +750,18 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 
 
+<details close>
+<summary>World Models</summary>
+
+- [Generative World Renderer](https://arxiv.org/abs/2604.02329), Zheng-Hui Huang et al., Arxiv 2026 | [citation](./references/citations.bib#L2578-L2583) | [site](https://alaya-studio.github.io/renderer/) | [code](https://github.com/ShandaAI/AlayaRenderer)
+
+- [LivingWorld: Interactive 4D World Generation with Environmental Dynamics](https://arxiv.org/abs/2604.01641), Hyeongju Mun et al., Arxiv 2026 | [citation](./references/citations.bib#L2585-L2590) | [site](https://cvsp-lab.github.io/LivingWorld/) | [code]()
+
+- [NavCrafter: Exploring 3D Scenes from a Single Image](https://arxiv.org/abs/2604.02828), Hongbo Duan et al., Arxiv 2026 | [citation](./references/citations.bib#L2592-L2597) | [site]() | [code]()
+
+</details>
+
+
 ## Datasets :floppy_disk:	
 
 - [Objaverse: A Universe of Annotated 3D Objects](https://arxiv.org/abs/2212.08051), Matt Deitke et al., Arxiv 2022 | [citation](./references/citations.bib#L519-L524)
@@ -801,4 +814,4 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [x] Initial List of the STOA
 - [x] Provide citations in BibTeX
 - [x] Sub-categorize based on input conditioning
-- [ ] Provide links to project pages and codes
+- [x] Provide links to project pages and codes
