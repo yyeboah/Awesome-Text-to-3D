@@ -757,6 +757,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [LivingWorld: Interactive 4D World Generation with Environmental Dynamics](https://arxiv.org/abs/2604.01641), Hyeongju Mun et al., Arxiv 2026 | [citation](./references/citations.bib#L2585-L2590) | [site](https://cvsp-lab.github.io/LivingWorld/) | [code]()
 
+- [NavCrafter: Exploring 3D Scenes from a Single Image](https://arxiv.org/abs/2604.02828), Hongbo Duan et al., Arxiv 2026 | [citation](./references/citations.bib#L2592-L2597) | [site]() | [code]()
+
 </details>
 
 
