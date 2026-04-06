@@ -755,6 +755,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Generative World Renderer](https://arxiv.org/abs/2604.02329), Zheng-Hui Huang et al., Arxiv 2026 | [citation](./references/citations.bib#L2578-L2583) | [site](https://alaya-studio.github.io/renderer/) | [code](https://github.com/ShandaAI/AlayaRenderer)
 
+- [LivingWorld: Interactive 4D World Generation with Environmental Dynamics](https://arxiv.org/abs/2604.01641), Hyeongju Mun et al., Arxiv 2026 | [citation](./references/citations.bib#L2585-L2590) | [site](https://cvsp-lab.github.io/LivingWorld/) | [code]()
+
 </details>
 
 
