@@ -622,6 +622,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [3DreamBooth: High-Fidelity 3D Subject-Driven Video Generation Model](https://arxiv.org/abs/2603.18524), Hyun-kyu Ko et al., Arxiv 2026 | [citation](./references/citations.bib#L2564-L2569) | [site](https://ko-lani.github.io/3DreamBooth/) | [code](https://github.com/Ko-Lani/3DreamBooth)
 
 - [MV2UV: Generating High-quality UV Texture Maps with Multiview Prompts](https://arxiv.org/abs/2603.15436), Zheng Zhang et al., Arxiv 2026 | [citation](./references/citations.bib#L2571-L2576) | [site]() | [code]()
+
+- [GaussianGrow: Geometry-aware Gaussian Growing from 3D Point Clouds with Text Guidance](https://arxiv.org/abs/2604.05721), Weiqi Zhang et al., CVPR 2026 | [citation](./references/citations.bib#L2599-L2604) | [site](https://weiqi-zhang.github.io/GaussianGrow/) | [code]()
  
 </details>
 
