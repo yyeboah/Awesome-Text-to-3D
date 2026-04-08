@@ -725,6 +725,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [DogWeave: High-Fidelity 3D Canine Reconstruction from a Single Image via Normal Fusion and Conditional Inpainting](https://arxiv.org/abs/2603.07441), Shufan Sun et al., Arxiv 2026 | [citation](./references/citations.bib#L2537-L2542) | [site]() | [code]()
 
+- [Human Interaction-Aware 3D Reconstruction from a Single Image](https://arxiv.org/abs/2604.05436), Gwanghyun Kim et al., CVPR 2026 | [citation](./references/citations.bib#L2606-L2611) | [site]() | [code]()
+
 
 
 </details>
