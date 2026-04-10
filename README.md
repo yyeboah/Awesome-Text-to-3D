@@ -619,6 +619,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction](https://arxiv.org/abs/2603.19231), Haitian Li et al., Arxiv 2026 | [citation](./references/citations.bib#L2557-L2535) | [site](https://lihaitian.com/MonoArt/) | [code](https://github.com/Quest4Science/MonoArt)
 
+- [SceneTeract: Agentic Functional Affordances and VLM Grounding in 3D Scenes](https://arxiv.org/abs/2603.29798), Leopold Maillard et al., Arxiv 2026 | [citation](./references/citations.bib#L2613-L2618) | [site](https://sceneteract.github.io/) | [code]()
+
 - [3DreamBooth: High-Fidelity 3D Subject-Driven Video Generation Model](https://arxiv.org/abs/2603.18524), Hyun-kyu Ko et al., Arxiv 2026 | [citation](./references/citations.bib#L2564-L2569) | [site](https://ko-lani.github.io/3DreamBooth/) | [code](https://github.com/Ko-Lani/3DreamBooth)
 
 - [MV2UV: Generating High-quality UV Texture Maps with Multiview Prompts](https://arxiv.org/abs/2603.15436), Zheng Zhang et al., Arxiv 2026 | [citation](./references/citations.bib#L2571-L2576) | [site]() | [code]()
