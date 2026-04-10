@@ -1,6 +1,29 @@
 # Awesome Text-to-3D [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]() [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
-The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF)
+The first curated list of Text-to-3D and Diffusion-to-3D research, heavily inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF).
+
+This README is intended to work as a fast research index:
+- grouped by task and content type
+- linked to BibTeX, project pages, and code when available
+- updated incrementally as new papers and resources appear
+
+## Overview
+- Core categories: X-to-3D, 3D Editing, Avatars, Dynamic Content, World Models
+- Reference sections: Datasets, Frameworks & Projects, Tutorial Videos
+- Link legend: `citation` points to BibTeX, `site` points to the project page, `code` points to the implementation when public
+
+## Navigation
+- 📰 [Recent Updates](#recent-updates-newspaper)
+- 📚 [Papers](#papers-scroll)
+- 🧊 [X-to-3D](#x-to-3d)
+- ✏️ [3D Editing, Decomposition & Stylization](#3d-editing-decomposition--stylization)
+- 🧍 [Avatar Generation and Manupilation](#avatar-generation-and-manupilation)
+- 🎞️ [Dynamic Content Generation](#dynamic-content-generation)
+- 🌍 [World Models](#world-models)
+- 💾 [Datasets](#datasets-floppy_disk)
+- 🛠️ [Frameworks & Projects](#frameworks--projects-desktop_computer)
+- 📺 [Tutorial Videos](#tutorial-videos-tv)
+- ✅ [TODO](#todo)
 
 ## Recent Updates :newspaper:
 * `06.04.2026` - Began tracking world models as an independent category
@@ -11,6 +34,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 * `06.07.2023` - Created initial list
 
 ## Papers :scroll:	
+<a id="x-to-3d"></a>
 <details close>
 <summary>X-to-3D</summary>
 
@@ -465,9 +489,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 </details>
 
-
-
-
+<a id="3d-editing-decomposition--stylization"></a>
 <details close>
 <summary>3D Editing, Decomposition & Stylization</summary>
 
@@ -629,9 +651,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
  
 </details>
 
-
-
-
+<a id="avatar-generation-and-manupilation"></a>
 <details close>
 <summary>Avatar Generation and Manupilation</summary>
 
@@ -733,9 +753,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 </details>
 
-
-
-
+<a id="dynamic-content-generation"></a>
 <details close>
 <summary>Dynamic Content Generation</summary>
 
@@ -753,9 +771,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 </details>
 
-
-
-
+<a id="world-models"></a>
 <details close>
 <summary>World Models</summary>
 
