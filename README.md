@@ -64,7 +64,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [3D-aware Image Generation using 2D Diffusion Models](https://arxiv.org/abs/2303.17905), Jianfeng Xiang et al., Arxiv 2023 | [citation](./references/citations.bib#L204-L209) | [site]() | [code]()
 
-- [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://make-it-3d.github.io/), Junshu Tang et al., ICCV 2023 | [citation](./references/citations.bib#L211-L216) | [site]() | [code]()
+- [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://make-it-3d.github.io/), Junshu Tang et al., ICCV 2023 | [citation](./references/citations.bib#L211-L216) | [site](https://make-it-3d.github.io/) | [code](https://github.com/junshutang/Make-It-3D)
 
 - [GECCO: Geometrically-Conditioned Point Diffusion Models](https://arxiv.org/abs/2303.05916), Michał J. Tyszkiewicz et al., ICCV 2023 | [citation](./references/citations.bib#L694-L699) | [site]() | [code]()
 
@@ -74,37 +74,37 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields](https://arxiv.org/abs/2305.11588), Jingbo Zhang et al., Arxiv 2023 | [citation](./references/citations.bib#L239-L244) | [site]() | [code]()
 
-- [Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors](https://guochengqian.github.io/project/magic123/), Guocheng Qian et al., Arxiv 2023 | [citation](./references/citations.bib#L246-L251) | [site]() | [code]()
+- [Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors](https://guochengqian.github.io/project/magic123/), Guocheng Qian et al., Arxiv 2023 | [citation](./references/citations.bib#L246-L251) | [site](https://guochengqian.github.io/project/magic123/) | [code](https://github.com/guochengqian/Magic123)
 
 - [DreamBooth3D: Subject-Driven Text-to-3D Generation](https://arxiv.org/abs/2303.13508/), Amit Raj et al., ICCV 2023 | [citation](./references/citations.bib#L253-L258) | [site]() | [code]()
 
-- [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/), Ruoshi Liu  et al., Arxiv 2023 | [citation](./references/citations.bib#L260-L265) | [site]() | [code]()
+- [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/), Ruoshi Liu  et al., Arxiv 2023 | [citation](./references/citations.bib#L260-L265) | [site](https://zero123.cs.columbia.edu/) | [code](https://github.com/cvlab-columbia/zero123)
 
-- [ATT3D: Amortized Text-to-3D Object Synthesis](https://research.nvidia.com/labs/toronto-ai/ATT3D/), Jonathan Lorraine  et al., ICCV 2023 | [citation](./references/citations.bib#L288-L293) | [site]() | [code]()
+- [ATT3D: Amortized Text-to-3D Object Synthesis](https://research.nvidia.com/labs/toronto-ai/ATT3D/), Jonathan Lorraine  et al., ICCV 2023 | [citation](./references/citations.bib#L288-L293) | [site](https://research.nvidia.com/labs/toronto-ai/ATT3D/) | [code]()
 
-- [Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation](https://neuralcarver.github.io/michelangelo/), Zibo Zhao  et al., Arxiv 2023 | [citation](./references/citations.bib#L295-L300) | [site]() | [code]()
+- [Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation](https://neuralcarver.github.io/michelangelo/), Zibo Zhao  et al., Arxiv 2023 | [citation](./references/citations.bib#L295-L300) | [site](https://neuralcarver.github.io/michelangelo/) | [code]()
 
-- [Diffusion-SDF: Conditional Generative Modeling of Signed Distance Functions](https://light.princeton.edu/publication/diffusion-sdf/), Gene Chou  et al., Arxiv 2023 | [citation](./references/citations.bib#L302-L307) | [site]() | [code]()
+- [Diffusion-SDF: Conditional Generative Modeling of Signed Distance Functions](https://light.princeton.edu/publication/diffusion-sdf/), Gene Chou  et al., Arxiv 2023 | [citation](./references/citations.bib#L302-L307) | [site](https://light.princeton.edu/publication/diffusion-sdf/) | [code]()
 
-- [HiFA: High-fidelity Text-to-3D with Advanced Diffusion Guidance](https://hifa-team.github.io/HiFA-site/), Junzhe Zhu et al., Arxiv 2023 | [citation](./references/citations.bib#L309-L314) | [site]() | [code]()
+- [HiFA: High-fidelity Text-to-3D with Advanced Diffusion Guidance](https://hifa-team.github.io/HiFA-site/), Junzhe Zhu et al., Arxiv 2023 | [citation](./references/citations.bib#L309-L314) | [site](https://hifa-team.github.io/HiFA-site/) | [code]()
 
-- [LERF: Language Embedded Radiance Fields](https://www.lerf.io/), Justin Kerr et al., Arxiv 2023 | [citation](./references/citations.bib#L316-L321) | [site]() | [code]()
+- [LERF: Language Embedded Radiance Fields](https://www.lerf.io/), Justin Kerr et al., Arxiv 2023 | [citation](./references/citations.bib#L316-L321) | [site](https://www.lerf.io/) | [code](https://github.com/kerrj/lerf)
 
-- [3DFuse: Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Junyoung Seo et al., Arxiv 2023 | [citation](./references/citations.bib#L330-L335) | [site]() | [code]()
+- [3DFuse: Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Junyoung Seo et al., Arxiv 2023 | [citation](./references/citations.bib#L330-L335) | [site](https://ku-cvlab.github.io/3DFuse/) | [code]()
 
-- [MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion](https://mvdiffusion.github.io/), Shitao Tang et al., Arxiv 2023 | [citation](./references/citations.bib#L337-L342) | [site]() | [code]()
+- [MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion](https://mvdiffusion.github.io/), Shitao Tang et al., Arxiv 2023 | [citation](./references/citations.bib#L337-L342) | [site](https://mvdiffusion.github.io/) | [code](https://github.com/Tangshitao/MVDiffusion)
 
-- [One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization](https://one-2-3-45.github.io/), Minghua Liu et al., Arxiv 2023 | [citation](./references/citations.bib#L344-L349) | [site]() | [code]()
+- [One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization](https://one-2-3-45.github.io/), Minghua Liu et al., Arxiv 2023 | [citation](./references/citations.bib#L344-L349) | [site](https://one-2-3-45.github.io/) | [code](https://github.com/One-2-3-45/One-2-3-45)
 
 - [TextMesh: Generation of Realistic 3D Meshes From Text Prompts](https://arxiv.org/abs/2304.12439), Christina Tsalicoglou Liu et al., Arxiv 2023 | [citation](./references/citations.bib#L351-L356) | [site]() | [code]()
 
 - [Prompt-Free Diffusion: Taking "Text" out of Text-to-Image Diffusion Models](https://arxiv.org/abs/2305.16223), Xingqian Xu et al., Arxiv 2023 | [citation](./references/citations.bib#L358-L363) | [site]() | [code]()
 
-- [SceneScape: Text-Driven Consistent Scene Generation](https://scenescape.github.io/), Rafail Fridman et al., Arxiv 2023 | [citation](./references/citations.bib#L365-L370) | [site]() | [code]()
+- [SceneScape: Text-Driven Consistent Scene Generation](https://scenescape.github.io/), Rafail Fridman et al., Arxiv 2023 | [citation](./references/citations.bib#L365-L370) | [site](https://scenescape.github.io/) | [code]()
 
 - [CLIP-Mesh: Generating textured meshes from text using pretrained image-text models](https://www.nasir.lol/clipmesh), Nasir Khalid et al., Arxiv 2023 | [citation](./references/citations.bib#L379-L384) | [site]() | [code]()
 
-- [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://lukashoel.github.io/text-to-room/), Lukas Höllein et al., Arxiv 2023 | [citation](./references/citations.bib#L386-L391) | [site]() | [code]()
+- [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://lukashoel.github.io/text-to-room/), Lukas Höllein et al., Arxiv 2023 | [citation](./references/citations.bib#L386-L391) | [site](https://lukashoel.github.io/text-to-room/) | [code](https://github.com/lukasHoel/text2room)
 
 - [Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction](https://arxiv.org/abs/2304.06714), Hansheng Chen et al., Arxiv 2023 | [citation](./references/citations.bib#L393-L398) | [site]() | [code]()
 
