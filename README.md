@@ -30,7 +30,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [NeuralLift-360: Lifting An In-the-wild 2D Photo to A 3D Object with 360° Views](https://arxiv.org/abs/2211.16431), Dejia Xu et al., Arxiv 2022 | [citation](./references/citations.bib#L85-L90) | [site](https://vita-group.github.io/NeuralLift-360/) | [code](https://github.com/VITA-Group/NeuralLift-360)
 
-- [Point-E: A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/abs/2212.08751), Alex Nichol et al., Arxiv 2022 | [citation](./references/citations.bib#L92-L97) | [site]() | [code](https://github.com/openai/point-e)
+- [Point-E: A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/abs/2212.08751), Alex Nichol et al., Arxiv 2022 | [citation](./references/citations.bib#L92-L97) | [site](https://openai.com/index/point-e/) | [code](https://github.com/openai/point-e)
 
 - [Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures](https://arxiv.org/abs/2211.07600), Gal Metzer et al., Arxiv 2023 | [citation](./references/citations.bib#L99-L104) | [site]() | [code](https://github.com/eladrich/latent-nerf)
 
@@ -60,7 +60,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Novel View Synthesis with Diffusion Models](https://arxiv.org/abs/2210.04628), Daniel Watson et al., ICLR 2023 | [citation](./references/citations.bib#L183-L188) | [site]() | [code]()
 
-- [ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation](https://ml.cs.tsinghua.edu.cn/prolificdreamer/), Zhengyi Wang et al., Arxiv 2023 | [citation](./references/citations.bib#L190-L195) | [site]() | [code]()
+- [ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation](https://ml.cs.tsinghua.edu.cn/prolificdreamer/), Zhengyi Wang et al., Arxiv 2023 | [citation](./references/citations.bib#L190-L195) | [site](https://ml.cs.tsinghua.edu.cn/prolificdreamer/) | [code](https://github.com/thu-ml/prolificdreamer)
 
 - [3D-aware Image Generation using 2D Diffusion Models](https://arxiv.org/abs/2303.17905), Jianfeng Xiang et al., Arxiv 2023 | [citation](./references/citations.bib#L204-L209) | [site]() | [code]()
 
@@ -86,11 +86,11 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Diffusion-SDF: Conditional Generative Modeling of Signed Distance Functions](https://light.princeton.edu/publication/diffusion-sdf/), Gene Chou  et al., Arxiv 2023 | [citation](./references/citations.bib#L302-L307) | [site](https://light.princeton.edu/publication/diffusion-sdf/) | [code]()
 
-- [HiFA: High-fidelity Text-to-3D with Advanced Diffusion Guidance](https://hifa-team.github.io/HiFA-site/), Junzhe Zhu et al., Arxiv 2023 | [citation](./references/citations.bib#L309-L314) | [site](https://hifa-team.github.io/HiFA-site/) | [code]()
+- [HiFA: High-fidelity Text-to-3D with Advanced Diffusion Guidance](https://hifa-team.github.io/HiFA-site/), Junzhe Zhu et al., Arxiv 2023 | [citation](./references/citations.bib#L309-L314) | [site](https://hifa-team.github.io/HiFA-site/) | [code](https://github.com/HiFA-team/HiFA)
 
 - [LERF: Language Embedded Radiance Fields](https://www.lerf.io/), Justin Kerr et al., Arxiv 2023 | [citation](./references/citations.bib#L316-L321) | [site](https://www.lerf.io/) | [code](https://github.com/kerrj/lerf)
 
-- [3DFuse: Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Junyoung Seo et al., Arxiv 2023 | [citation](./references/citations.bib#L330-L335) | [site](https://ku-cvlab.github.io/3DFuse/) | [code]()
+- [3DFuse: Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Junyoung Seo et al., Arxiv 2023 | [citation](./references/citations.bib#L330-L335) | [site](https://ku-cvlab.github.io/3DFuse/) | [code](https://github.com/cvlab-kaist/3DFuse)
 
 - [MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion](https://mvdiffusion.github.io/), Shitao Tang et al., Arxiv 2023 | [citation](./references/citations.bib#L337-L342) | [site](https://mvdiffusion.github.io/) | [code](https://github.com/Tangshitao/MVDiffusion)
 
@@ -102,7 +102,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [SceneScape: Text-Driven Consistent Scene Generation](https://scenescape.github.io/), Rafail Fridman et al., Arxiv 2023 | [citation](./references/citations.bib#L365-L370) | [site](https://scenescape.github.io/) | [code]()
 
-- [CLIP-Mesh: Generating textured meshes from text using pretrained image-text models](https://www.nasir.lol/clipmesh), Nasir Khalid et al., Arxiv 2023 | [citation](./references/citations.bib#L379-L384) | [site]() | [code]()
+- [CLIP-Mesh: Generating textured meshes from text using pretrained image-text models](https://www.nasir.lol/clipmesh), Nasir Khalid et al., Arxiv 2023 | [citation](./references/citations.bib#L379-L384) | [site](https://www.nasir.lol/clipmesh) | [code]()
 
 - [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://lukashoel.github.io/text-to-room/), Lukas Höllein et al., Arxiv 2023 | [citation](./references/citations.bib#L386-L391) | [site](https://lukashoel.github.io/text-to-room/) | [code](https://github.com/lukasHoel/text2room)
 
@@ -110,11 +110,11 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion](https://arxiv.org/abs/2304.01900), Gwanghyun Kim et al., ICCV 2023 | [citation](./references/citations.bib#L561-L566) | [site]() | [code]()
 
-- [Shap-E: Generating Conditional 3D Implicit Functions](https://arxiv.org/abs/2305.02463), Heewoo Jun et al., Arxiv 2023 | [citation](./references/citations.bib#L400-L405) | [site]() | [code]()
+- [Shap-E: Generating Conditional 3D Implicit Functions](https://arxiv.org/abs/2305.02463), Heewoo Jun et al., Arxiv 2023 | [citation](./references/citations.bib#L400-L405) | [site]() | [code](https://github.com/openai/shap-e)
 
 - [Sketch-A-Shape: Zero-Shot Sketch-to-3D Shape Generation](https://arxiv.org/abs/2307.03869), Aditya Sanghi et al., Arxiv 2023 | [citation](./references/citations.bib#L407-L412) | [site]() | [code]()
 
-- [3D VADER - AutoDecoding Latent 3D Diffusion Models](https://snap-research.github.io/3DVADER/), Evangelos Ntavelis et al., Arxiv 2023 | [citation](./references/citations.bib#L428-L433) | [site]() | [code]()
+- [3D VADER - AutoDecoding Latent 3D Diffusion Models](https://snap-research.github.io/3DVADER/), Evangelos Ntavelis et al., Arxiv 2023 | [citation](./references/citations.bib#L428-L433) | [site](https://snap-research.github.io/3DVADER/) | [code]()
 
 - [DreamSparse: Escaping from Plato's Cave with 2D Frozen Diffusion Model Given Sparse Views](https://arxiv.org/abs/2306.03414), Paul Yoo et al., Arxiv 2023 | [citation](./references/citations.bib#L42-L447) | [site]() | [code]()
 
@@ -130,29 +130,29 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [IT3D: Improved Text-to-3D Generation with Explicit View Synthesis](https://arxiv.org/abs/2308.11473), Yiwen Chen et al., Arxiv 2023 | [citation](./references/citations.bib#L603-L608) | [site]() | [code]()
 
-- [MVDream: Multi-view Diffusion for 3D Generation](https://arxiv.org/abs/2308.16512), Yichun Shi et al., Arxiv 2023 | [citation](./references/citations.bib#L624-L629) | [site]() | [code]()
+- [MVDream: Multi-view Diffusion for 3D Generation](https://arxiv.org/abs/2308.16512), Yichun Shi et al., Arxiv 2023 | [citation](./references/citations.bib#L624-L629) | [site](https://mv-dream.github.io/) | [code](https://github.com/bytedance/MVDream)
 
-- [PointLLM: Empowering Large Language Models to Understand Point Clouds](https://arxiv.org/abs/2308.16911), Xu Runsen et al., Arxiv 2023 | [citation](./references/citations.bib#L631-L636) | [site]() | [code]()
+- [PointLLM: Empowering Large Language Models to Understand Point Clouds](https://arxiv.org/abs/2308.16911), Xu Runsen et al., Arxiv 2023 | [citation](./references/citations.bib#L631-L636) | [site](https://runsenxu.com/projects/PointLLM/) | [code](https://github.com/InternRobotics/PointLLM)
 
-- [SyncDreamer: Generating Multiview-consistent Images from a Single-view Image](https://arxiv.org/abs/2309.03453), Yuan Liu et al., Arxiv 2023 | [citation](./references/citations.bib#L645-L650) | [site]() | [code]()
+- [SyncDreamer: Generating Multiview-consistent Images from a Single-view Image](https://arxiv.org/abs/2309.03453), Yuan Liu et al., Arxiv 2023 | [citation](./references/citations.bib#L645-L650) | [site](https://liuyuan-pal.github.io/SyncDreamer/) | [code](https://github.com/liuyuan-pal/SyncDreamer)
 
 - [Large-Vocabulary 3D Diffusion Model with Transformer](https://arxiv.org/abs/2309.07920), Ziang Cao et al., Arxiv 2023 | [citation](./references/citations.bib#L673-L678) | [site]() | [code]()
 
 - [Progressive Text-to-3D Generation for Automatic 3D Prototyping](https://arxiv.org/abs/2309.14600), Han Yi et al., Arxiv 2023 | [citation](./references/citations.bib#L680-L685) | [site]() | [code]()
 
-- [DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation](https://arxiv.org/abs/2309.16653), Jiaxiang Tang et al., Arxiv 2023 | [citation](./references/citations.bib#L687-L692) | [site]() | [code]()
+- [DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation](https://arxiv.org/abs/2309.16653), Jiaxiang Tang et al., Arxiv 2023 | [citation](./references/citations.bib#L687-L692) | [site](https://dreamgaussian.github.io/) | [code](https://github.com/dreamgaussian/dreamgaussian)
 
 - [SweetDreamer: Aligning Geometric Priors in 2D Diffusion for Consistent Text-to-3D](https://arxiv.org/abs/2310.02596), Weiyu Li et al., Arxiv 2023 | [citation](./references/citations.bib#L701-L706) | [site]() | [code]()
 
-- [Consistent123: One Image to Highly Consistent 3D Asset Using Case-Aware Diffusion Priors](https://arxiv.org/abs/2309.17261), Yukang Lin et al., Arxiv 2023 | [citation](./references/citations.bib#L715-L720) | [site]() | [code]()
+- [Consistent123: One Image to Highly Consistent 3D Asset Using Case-Aware Diffusion Priors](https://arxiv.org/abs/2309.17261), Yukang Lin et al., Arxiv 2023 | [citation](./references/citations.bib#L715-L720) | [site](https://consistent123.github.io/) | [code](https://github.com/lyk412/Consistent123)
 
 - [GaussianDreamer: Fast Generation from Text to 3D Gaussian Splatting with Point Cloud Priors](https://arxiv.org/abs/2310.08529),Taoran Yi et al., Arxiv 2023 | [citation](./references/citations.bib#L722-L727) | [site]() | [code]()
 
 - [Text-to-3D using Gaussian Splatting](https://arxiv.org/abs/2309.16585), Zilong Chen et al., Arxiv 2023 | [citation](./references/citations.bib#L729-L734) | [site]() | [code]()
 
-- [Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model](https://arxiv.org/abs/2310.15110), Ruoxi Shi et al., Arxiv 2023 | [citation](./references/citations.bib#L750-L755) | [site]() | [code]()
+- [Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model](https://arxiv.org/abs/2310.15110), Ruoxi Shi et al., Arxiv 2023 | [citation](./references/citations.bib#L750-L755) | [site]() | [code](https://github.com/SUDO-AI-3D/zero123plus)
 
-- [DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior](https://arxiv.org/abs/2310.16818), Jingxiang Sun et al., Arxiv 2023 | [citation](./references/citations.bib#L757-L762) | [site]() | [code]()
+- [DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior](https://arxiv.org/abs/2310.16818), Jingxiang Sun et al., Arxiv 2023 | [citation](./references/citations.bib#L757-L762) | [site](https://mrtornado24.github.io/DreamCraft3D/) | [code](https://github.com/deepseek-ai/DreamCraft3D)
 
 - [HyperFields: Towards Zero-Shot Generation of NeRFs from Text](https://arxiv.org/abs/2310.17075), Sudarshan Babu et al., Arxiv 2023 | [citation](./references/citations.bib#L764-L769) | [site]() | [code]()
 
@@ -162,7 +162,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Noise-Free Score Distillation](https://arxiv.org/abs/2310.17590), Oren Katzir et al., Arxiv 2023 | [citation](./references/citations.bib#L785-L790) | [site]() | [code]()
 
-- [LRM: Large Reconstruction Model for Single Image to 3D](https://arxiv.org/abs/2311.04400), Yicong Hong et al., Arxiv 2023 | [citation](./references/citations.bib#L806-L811) | [site]() | [code]()
+- [LRM: Large Reconstruction Model for Single Image to 3D](https://arxiv.org/abs/2311.04400), Yicong Hong et al., Arxiv 2023 | [citation](./references/citations.bib#L806-L811) | [site](https://yiconghong.me/LRM/) | [code](https://github.com/3DTopia/OpenLRM)
 
 - [One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion](https://arxiv.org/abs/2311.07885), Minghua Liu et al., Arxiv 2023 | [citation](./references/citations.bib#L813-L818) | [site]() | [code]()
 
@@ -194,7 +194,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Hyper-VolTran: Fast and Generalizable One-Shot Image to 3D Object Structure via HyperNetworks](https://arxiv.org/abs/2312.16218), Christian Simon et al., Arxv 2023 | [citation](./references/citations.bib#L982-L987) | [site]() | [code]()
 
-- [HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D](https://arxiv.org/abs/2312.15980), Sangmin Woo et al., Arxv 2023 | [citation](./references/citations.bib#L989-L994) | [site]() | [code]()
+- [HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D](https://arxiv.org/abs/2312.15980), Sangmin Woo et al., Arxv 2023 | [citation](./references/citations.bib#L989-L994) | [site](https://byeongjun-park.github.io/HarmonyView/) | [code](https://github.com/byeongjun-park/HarmonyView)
 
 - [SteinDreamer: Variance Reduction for Text-to-3D Score Distillation via Stein Identity](https://arxiv.org/abs/2401.00604), Peihao Wang et al., Arxiv 2024 | [citation](./references/citations.bib#L1017-L1022) | [site]() | [code]()
 
@@ -216,11 +216,11 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [SceneWiz3D: Towards Text-guided 3D Scene Composition](https://arxiv.org/abs/2312.08885), Qihang Zhang et al., CVPR 2024 | [citation](./references/citations.bib#L1136-L1141) | [site]() | [code]()
 
-- [TripoSR: Fast 3D Object Reconstruction from a Single Image](https://arxiv.org/abs/2403.02151) Dmitry Tochilkin et al., Arxiv 2024 | [citation](./references/citations.bib#L1150-L1155) | [site]() | [code]()
+- [TripoSR: Fast 3D Object Reconstruction from a Single Image](https://arxiv.org/abs/2403.02151) Dmitry Tochilkin et al., Arxiv 2024 | [citation](./references/citations.bib#L1150-L1155) | [site]() | [code](https://github.com/VAST-AI-Research/TripoSR)
 
 - [V3D: Video Diffusion Models are Effective 3D Generators](https://arxiv.org/abs/2403.06738) Zilong Chen et al., Arxiv 2024 | [citation](./references/citations.bib#L1164-L1169) | [site]() | [code]()
 
-- [CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction Model](https://arxiv.org/abs/2403.05034) Zhengyi Wang et al., Arxiv 2024 | [citation](./references/citations.bib#L1174-L1176) | [site]() | [code]()
+- [CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction Model](https://arxiv.org/abs/2403.05034) Zhengyi Wang et al., Arxiv 2024 | [citation](./references/citations.bib#L1174-L1176) | [site](https://ml.cs.tsinghua.edu.cn/~zhengyi/CRM/) | [code](https://github.com/thu-ml/CRM)
 
 - [Make-Your-3D: Fast and Consistent Subject-Driven 3D Content Generation](https://arxiv.org/abs/2403.09625) Fangfu Liu et al., Arxiv 2024 | [citation](./references/citations.bib#L1178-L1183) | [site]() | [code]()
 
@@ -234,7 +234,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [BrightDreamer: Generic 3D Gaussian Generative Framework for Fast Text-to-3D Synthesis](https://arxiv.org/abs/2403.11273), Lutao Jiang et al., Arxiv 2024 | [citation](./references/citations.bib#L1213-L1218) | [site]() | [code]()
 
-- [LATTE3D: Large-scale Amortized Text-To-Enhanced3D Synthesis](https://research.nvidia.com/labs/toronto-ai/LATTE3D), Kevin Xie et al., Arxiv 2024 | [citation](./references/citations.bib#L1234-L1239) | [site]() | [code]()
+- [LATTE3D: Large-scale Amortized Text-To-Enhanced3D Synthesis](https://research.nvidia.com/labs/toronto-ai/LATTE3D), Kevin Xie et al., Arxiv 2024 | [citation](./references/citations.bib#L1234-L1239) | [site](https://research.nvidia.com/labs/toronto-ai/LATTE3D) | [code]()
 
 - [Make-Your-3D: Fast and Consistent Subject-Driven 3D Content Generation](https://arxiv.org/abs/2403.09625), Fangfu Liu et al., Arxiv 2024 | [citation](./references/citations.bib#L1241-L1246) | [site]() | [code]()
 
@@ -246,13 +246,13 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [PointInfinity: Resolution-Invariant Point Diffusion Models](https://arxiv.org/abs/2404.03566), Zixuan Huang et al., Arxiv 2024 | [citation](./references/citations.bib#L1269-L1274) | [site](https://zixuanh.com/projects/pointinfinity.html) | [code]()
 
-- [The More You See in 2D, the More You Perceive in 3D](https://arxiv.org/abs/2404.03652), Xinyang Han et al., Arxiv 2024 | [citation](./references/citations.bib#L1290-L1295) | [site](https://sap3d.github.io/) | [code]()
+- [The More You See in 2D, the More You Perceive in 3D](https://arxiv.org/abs/2404.03652), Xinyang Han et al., Arxiv 2024 | [citation](./references/citations.bib#L1290-L1295) | [site](https://sap3d.github.io/) | [code](https://github.com/sap3d/sap3d)
 
 - [Hash3D: Training-free Acceleration for 3D Generation](https://arxiv.org/abs/2404.06091), Xingyi Yang et al., Arxiv 2024 | [citation](./references/citations.bib#L1297-L1302) | [site](https://adamdad.github.io/hash3D/) | [code](https://github.com/Adamdad/hash3D)
 
-- [RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion](https://arxiv.org/abs/2404.07199), Jaidev Shriram et al., Arxiv 2024 | [citation](./references/citations.bib#L1304-L1309) | [site](https://realmdreamer.github.io/) | [code]()
+- [RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion](https://arxiv.org/abs/2404.07199), Jaidev Shriram et al., Arxiv 2024 | [citation](./references/citations.bib#L1304-L1309) | [site](https://realmdreamer.github.io/) | [code](https://github.com/jaidevshriram/realmdreamer)
 
-- [TC4D: Trajectory-Conditioned Text-to-4D Generation](https://arxiv.org/abs/2403.17920), Sherwin Bahmani et al., Arxiv 2024 | [citation](./references/citations.bib#L1311-L1316) | [site](https://sherwinbahmani.github.io/tc4d/) | [code]()
+- [TC4D: Trajectory-Conditioned Text-to-4D Generation](https://arxiv.org/abs/2403.17920), Sherwin Bahmani et al., Arxiv 2024 | [citation](./references/citations.bib#L1311-L1316) | [site](https://sherwinbahmani.github.io/tc4d/) | [code](https://github.com/sherwinbahmani/tc4d)
 
 - [Zero-shot Point Cloud Completion Via 2D Priors](https://arxiv.org/abs/2404.06814), Tianxin Huang et al., Arxiv 2024 | [citation](./references/citations.bib#L1318-L1323) | [site]() | [code]()
 
@@ -342,7 +342,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
   
 - [WonderWorld: Interactive 3D Scene Generation from a Single Image](https://arxiv.org/abs/2406.09394), Hong-Xing Yu et al., Arxiv 2024 | [citation](./references/citations.bib#L1802-L1807) | [site](https://kovenyu.com/wonderworld/) | [code](https://github.com/KovenYu/WonderWorld)
 
-- [Wonderland: Navigating 3D Scenes from a Single Image](https://arxiv.org/abs/2412.12091), Hanwen Liang Yu et al., Arxiv 2024 | [citation](./references/citations.bib#L1809-L1814) | [site](https://snap-research.github.io/wonderland/) | [code]()
+- [Wonderland: Navigating 3D Scenes from a Single Image](https://arxiv.org/abs/2412.12091), Hanwen Liang Yu et al., Arxiv 2024 | [citation](./references/citations.bib#L1809-L1814) | [site](https://snap-research.github.io/wonderland/) | [code](https://github.com/snap-research/wonderland)
 
 - [SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single Images](https://arxiv.org/abs/2501.04689), Zixuan Huang et al., Arxiv 2024 | [citation](./references/citations.bib#L1823-L1828) | [site](https://spar3d.github.io) | [code](https://github.com/Stability-AI/stable-point-aware-3d)
 
@@ -489,11 +489,11 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Text2Tex: Text-driven Texture Synthesis via Diffusion Models](https://daveredrum.github.io/Text2Tex/), Dave Zhenyu Chen et al., Arxiv 2023 | [citation](./references/citations.bib#L421-L426) | [site](https://daveredrum.github.io/Text2Tex/) | [code](https://github.com/daveredrum/Text2Tex)
 
-- [Control4D: Dynamic Portrait Editing by Learning 4D GAN from 2D Diffusion-based Editor](https://control4darxiv.github.io/), Ruizhi Shao et al., Arxiv 2023 | [citation](./references/citations.bib#L435-L440) | [site](https://fantasia3d.github.io/) | [code](https://github.com/Gorilla-Lab-SCUT/Fantasia3D)
+- [Control4D: Dynamic Portrait Editing by Learning 4D GAN from 2D Diffusion-based Editor](https://control4darxiv.github.io/), Ruizhi Shao et al., Arxiv 2023 | [citation](./references/citations.bib#L435-L440) | [site](https://control4darxiv.github.io/) | [code]()
 
-- [Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation](https://fantasia3d.github.io/), Rui Chen et al., Arxiv 2023 | [citation](./references/citations.bib#L449-L454) | [site]() | [code]()
+- [Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation](https://fantasia3d.github.io/), Rui Chen et al., Arxiv 2023 | [citation](./references/citations.bib#L449-L454) | [site](https://fantasia3d.github.io/) | [code](https://github.com/Gorilla-Lab-SCUT/Fantasia3D)
 
-- [Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes](https://arxiv.org/abs/2303.13450), Dana Cohen-Bar et al., Arxiv 2023 | [citation](./references/citations.bib#L463-L468) | [site](https://control4darxiv.github.io/) | [code]()
+- [Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes](https://arxiv.org/abs/2303.13450), Dana Cohen-Bar et al., Arxiv 2023 | [citation](./references/citations.bib#L463-L468) | [site](https://danacohen95.github.io/Set-the-Scene/) | [code]()
 
 - [MATLABER: Material-Aware Text-to-3D via LAtent BRDF auto-EncodeR](https://arxiv.org/abs/2308.09278), Xudong Xu et al., Arxiv 2023 | [citation](./references/citations.bib#L596-L601) | [site](https://sheldontsui.github.io/projects/Matlaber) | [code](https://github.com/SheldonTsui/Matlaber)
 
@@ -503,7 +503,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts](https://arxiv.org/abs/2310.11784), Xinhua Cheng et al., Arxiv 2023 | [citation](./references/citations.bib#L736-L741) | [site](https://cxh0519.github.io/projects/Progressive3D/) | [code](https://github.com/cxh0519/Progressive3D)
 
-- [3D-GPT: Procedural 3D Modeling with Large Language Models](https://arxiv.org/abs/2310.12945), Chunyi Sun et al., Arxiv 2023 | [citation](./references/citations.bib#L743-L748) | [site](https://chuny1.github.io/3DGPT/3dgpt.html) | [code]()
+- [3D-GPT: Procedural 3D Modeling with Large Language Models](https://arxiv.org/abs/2310.12945), Chunyi Sun et al., Arxiv 2023 | [citation](./references/citations.bib#L743-L748) | [site](https://chuny1.github.io/3DGPT/3dgpt.html) | [code](https://github.com/Chuny1/3DGPT)
 
 - [CustomNet: Zero-shot Object Customization with Variable-Viewpoints in Text-to-Image Diffusion Models](https://arxiv.org/abs/2310.19784), Ziyang Yuan et al., Arxiv 2023 | [citation](./references/citations.bib#L792-L797) | [site]() | [code]()
 
@@ -531,7 +531,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [InTeX: Interactive Text-to-texture Synthesis via Unified Depth-aware Inpainting](https://arxiv.org/abs/2403.11878), Jiaxiang Tang et al., Arxiv 2024 | [citation](./references/citations.bib#L1227-L1232) | [site](https://me.kiui.moe/intex/) | [code](https://github.com/ashawkey/InTeX)
 
-- [SC4D: Sparse-Controlled Video-to-4D Generation and Motion Transfer](https://arxiv.org/abs/2404.03736), Zijie Wu et al., Arxiv 2024 | [citation](./references/citations.bib#L1283-L1288) | [site](https://sc4d.github.io/) | [code]()
+- [SC4D: Sparse-Controlled Video-to-4D Generation and Motion Transfer](https://arxiv.org/abs/2404.03736), Zijie Wu et al., Arxiv 2024 | [citation](./references/citations.bib#L1283-L1288) | [site](https://sc4d.github.io/) | [code](https://github.com/JarrentWu1031/SC4D)
 
 - [TELA: Text to Layer-wise 3D Clothed Human Generation](https://arxiv.org/abs/2404.16748), Junting Dong et al., Arxiv 2024 | [citation](./references/citations.bib#L1339-L1344) | [site](http://jtdong.com/tela_layer/) | [code]()
 
@@ -587,7 +587,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [ZeroScene: A Zero-Shot Framework for 3D Scene Generation from a Single Image and Controllable Texture Editing](https://arxiv.org/abs/2509.23607), Xiang Tang et al., Arxiv 2025 | [citation](./references/citations.bib#L2264-L2269) | [site](https://xdlbw.github.io/ZeroScene/) | [code]()
 
-- [HoloScene: Simulation-Ready Interactive 3D Worlds from a Single Video](https://arxiv.org/abs/2510.05560), Hongchi Xia et al., Arxiv 2025 | [citation](./references/citations.bib#L2271-L2276) | [site]() | [code]()
+- [HoloScene: Simulation-Ready Interactive 3D Worlds from a Single Video](https://arxiv.org/abs/2510.05560), Hongchi Xia et al., Arxiv 2025 | [citation](./references/citations.bib#L2271-L2276) | [site]() | [code](https://github.com/xiahongchi/HoloScene)
 
 - [NANO3D: A Training-Free Approach for Efficient 3D Editing Without Masks](https://arxiv.org/abs/2510.15019), Junliang Ye et al., Arxiv 2025 | [citation](./references/citations.bib#L2278-L2283) | [site](https://jamesyjl.github.io/Nano3D/) | [code](https://github.com/JAMESYJL/Nano3D)
 
@@ -671,7 +671,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting](https://arxiv.org/abs/2311.17061), Xian Liu et al., Arxiv 2023 | [citation](./references/citations.bib#L856-L861)  | [site](https://alvinliu0.github.io/projects/HumanGaussian) | [code](https://github.com/alvinliu0/HumanGaussian)
 
-- [Text-Guided 3D Face Synthesis: From Generation to Editing](https://arxiv.org/abs/2312.00375), Yunjie Wu wt al., Arxiv 2023 | [citation](./references/citations.bib#L891-L896)  | [site](https://faceg2e.github.io/) | [code]()
+- [Text-Guided 3D Face Synthesis: From Generation to Editing](https://arxiv.org/abs/2312.00375), Yunjie Wu wt al., Arxiv 2023 | [citation](./references/citations.bib#L891-L896)  | [site](https://faceg2e.github.io/) | [code](https://github.com/JiejiangWu/FaceG2E)
 
 - [SEEAvatar: Photorealistic Text-to-3D Avatar Generation with Constrained Geometry and Appearance](https://arxiv.org/abs/2312.08889), Yuanyou Xu et al., Arxiv 2023 | [citation](./references/citations.bib#L933-L938)  | [site](https://yoxu515.github.io/SEEAvatar/) | [code](https://github.com/yoxu515/SEEAvatar)
 
@@ -747,7 +747,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [4D-fy:Text-to-4D Generation Using Hybrid Score Distillation Sampling](https://arxiv.org/abs/2311.17984), Lincong Feng et al., Arxiv 2023 | [citation](./references/citations.bib#L842-L847) | [site](https://sherwinbahmani.github.io/4dfy/) | [code](https://github.com/sherwinbahmani/4dfy)
 
-- [GeoDiff4D: Geometry-Aware Diffusion for 4D Head Avatar Reconstruction](https://arxiv.org/abs/2602.24161), Chao Xu et al., Arxiv 2026 | [citation](./references/citations.bib#L2523-L2528) | [site](https://lyxcc127.github.io/geodiff4d/) | [code]()
+- [GeoDiff4D: Geometry-Aware Diffusion for 4D Head Avatar Reconstruction](https://arxiv.org/abs/2602.24161), Chao Xu et al., Arxiv 2026 | [citation](./references/citations.bib#L2523-L2528) | [site](https://lyxcc127.github.io/geodiff4d/) | [code](https://github.com/lyxcc127/GeoDiff4D)
 
 
 
