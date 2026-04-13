@@ -648,6 +648,8 @@ This README is intended to work as a fast research index:
 - [MV2UV: Generating High-quality UV Texture Maps with Multiview Prompts](https://arxiv.org/abs/2603.15436), Zheng Zhang et al., Arxiv 2026 | [citation](./references/citations.bib#L2571-L2576) | [site]() | [code]()
 
 - [GaussianGrow: Geometry-aware Gaussian Growing from 3D Point Clouds with Text Guidance](https://arxiv.org/abs/2604.05721), Weiqi Zhang et al., CVPR 2026 | [citation](./references/citations.bib#L2599-L2604) | [site](https://weiqi-zhang.github.io/GaussianGrow/) | [code]()
+
+- [Image-Guided Geometric Stylization of 3D Meshes](https://arxiv.org/abs/2604.07795), Changwoon Choi et al., CVPR 2026 | [citation](./references/citations.bib#L2620-L2625) | [site](https://changwoonchoi.github.io/GeoStyle) | [code]()
  
 </details>
 
@@ -811,6 +813,8 @@ This README is intended to work as a fast research index:
 - [Mosaic3D: Foundation Dataset and Model for Open-Vocabulary 3D Segmentation](https://arxiv.org/abs/2502.02548), Junha Lee et al., Arxiv 2025 | [citation](./references/citations.bib#L2229-L2230) | [site](https://nvlabs.github.io/Mosaic3D/) | [code](https://github.com/NVlabs/Mosaic3D)
 
 - [VideoFrom3D: 3D Scene Video Generation via Complementary Image and Video Diffusion Models](https://arxiv.org/abs/2509.17985), Geonung Kim et al., Arxiv 2025 | [citation](./references/citations.bib#L2250-L2255) | [site](https://kimgeonung.github.io/VideoFrom3D/) | [code](https://github.com/KIMGEONUNG/VideoFrom3D)
+
+- [SceneScribe-1M: A Large-Scale Video Dataset with Comprehensive Geometric and Semantic Annotations](https://arxiv.org/abs/2604.07990), Yunnan Wang et al., CVPR 2026 | [citation](./references/citations.bib#L2627-L2632) | [site]() | [code]()
 
 - [ReWeaver: Towards Simulation-Ready and Topology-Accurate Garment Reconstruction](https://arxiv.org/abs/2601.16672), Ming Li et al., Arxiv 2026 | [citation](./references/citations.bib#L2453-L2458) | [site](https://gr3en-relight.github.io) | [code]()
 
