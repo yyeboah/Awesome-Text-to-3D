@@ -26,6 +26,7 @@ This README is intended to work as a fast research index:
 - ✅ [TODO](#todo)
 
 ## Recent Updates :newspaper:
+* `17.04.2026` - Added Lyra 2.0 under world models
 * `06.04.2026` - Began tracking world models as an independent category
 * `02.04.2024` - Begin linking to project pages and codes
 * `09.02.2024` - Level One Categorization
@@ -776,6 +777,8 @@ This README is intended to work as a fast research index:
 <a id="world-models"></a>
 <details close>
 <summary>World Models</summary>
+
+- [Lyra 2.0: Explorable Generative 3D Worlds](https://arxiv.org/abs/2604.13036), Tianchang Shen et al., Arxiv 2026 | [citation](./references/citations.bib#L2599-L2604) | [site](https://research.nvidia.com/labs/sil/projects/lyra2/) | [code](https://github.com/nv-tlabs/lyra)
 
 - [Generative World Renderer](https://arxiv.org/abs/2604.02329), Zheng-Hui Huang et al., Arxiv 2026 | [citation](./references/citations.bib#L2578-L2583) | [site](https://alaya-studio.github.io/renderer/) | [code](https://github.com/ShandaAI/AlayaRenderer)
 
