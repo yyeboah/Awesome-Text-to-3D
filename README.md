@@ -651,6 +651,8 @@ This README is intended to work as a fast research index:
 - [GaussianGrow: Geometry-aware Gaussian Growing from 3D Point Clouds with Text Guidance](https://arxiv.org/abs/2604.05721), Weiqi Zhang et al., CVPR 2026 | [citation](./references/citations.bib#L2599-L2604) | [site](https://weiqi-zhang.github.io/GaussianGrow/) | [code]()
 
 - [Image-Guided Geometric Stylization of 3D Meshes](https://arxiv.org/abs/2604.07795), Changwoon Choi et al., CVPR 2026 | [citation](./references/citations.bib#L2620-L2625) | [site](https://changwoonchoi.github.io/GeoStyle) | [code]()
+
+- [Repurposing 3D Generative Model for Autoregressive Layout Generation](https://arxiv.org/abs/2604.16299), Haoran Feng et al., Arxiv 2026 | [citation](./references/citations.bib#L2641-L2646) | [site](https://fenghora.github.io/LaviGen-Page/) | [code](https://github.com/fenghora/LaviGen)
  
 </details>
 
