@@ -653,6 +653,8 @@ This README is intended to work as a fast research index:
 - [Image-Guided Geometric Stylization of 3D Meshes](https://arxiv.org/abs/2604.07795), Changwoon Choi et al., CVPR 2026 | [citation](./references/citations.bib#L2620-L2625) | [site](https://changwoonchoi.github.io/GeoStyle) | [code]()
 
 - [Repurposing 3D Generative Model for Autoregressive Layout Generation](https://arxiv.org/abs/2604.16299), Haoran Feng et al., Arxiv 2026 | [citation](./references/citations.bib#L2641-L2646) | [site](https://fenghora.github.io/LaviGen-Page/) | [code](https://github.com/fenghora/LaviGen)
+
+- [SS3D: End2End Self-Supervised 3D from Web Videos](https://arxiv.org/abs/2604.22686), Marwane Hariat et al., Arxiv 2026 | [citation](./references/citations.bib#L2655-L2660) | [site]() | [code]()
  
 </details>
 
@@ -753,6 +755,8 @@ This README is intended to work as a fast research index:
 - [DogWeave: High-Fidelity 3D Canine Reconstruction from a Single Image via Normal Fusion and Conditional Inpainting](https://arxiv.org/abs/2603.07441), Shufan Sun et al., Arxiv 2026 | [citation](./references/citations.bib#L2537-L2542) | [site]() | [code]()
 
 - [Human Interaction-Aware 3D Reconstruction from a Single Image](https://arxiv.org/abs/2604.05436), Gwanghyun Kim et al., CVPR 2026 | [citation](./references/citations.bib#L2606-L2611) | [site]() | [code]()
+
+- [MeshLAM: Feed-Forward One-Shot Animatable Textured Mesh Avatar Reconstruction](https://arxiv.org/abs/2604.22865), Yisheng He et al., CVPR 2026 | [citation](./references/citations.bib#L2648-L2653) | [site](https://meshlam.github.io/) | [code](https://github.com/aigc3d/LAM)
 
 
 
