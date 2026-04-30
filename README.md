@@ -839,6 +839,10 @@ This README is intended to work as a fast research index:
 
 - [WorldGen - Generate Any 3D Scene in Seconds](https://worldgen.github.io), Ziyang et al., Github 2026 | [code](https://github.com/ZiYang-xie/WorldGen)
 
+- [ThreeDee AI 3D Generator - Generate 3D Models from Text or Image](https://www.threedee.design/products/ai-3d-generator/), ThreeDee, Product 2026
+
+- [ThreeDee AI 3D Bust Maker - Generate 3D busts from single photo](https://www.threedee.design/products/3d-bust-maker/), ThreeDee, Product 2026
+
 
 ## Tutorial Videos :tv:
 
