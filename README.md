@@ -655,6 +655,10 @@ This README is intended to work as a fast research index:
 - [Repurposing 3D Generative Model for Autoregressive Layout Generation](https://arxiv.org/abs/2604.16299), Haoran Feng et al., Arxiv 2026 | [citation](./references/citations.bib#L2641-L2646) | [site](https://fenghora.github.io/LaviGen-Page/) | [code](https://github.com/fenghora/LaviGen)
 
 - [SS3D: End2End Self-Supervised 3D from Web Videos](https://arxiv.org/abs/2604.22686), Marwane Hariat et al., Arxiv 2026 | [citation](./references/citations.bib#L2655-L2660) | [site]() | [code]()
+
+- [PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World](https://arxiv.org/abs/2605.05163), Yunhan Yang et al., ICML 2026 | [citation](./references/citations.bib#L2662-L2667) | [site](https://hku-mmlab.github.io/PhysForge/) | [code](https://github.com/HKU-MMLab/PhysForge)
+
+- [Structured 3D Latents Are Surprisingly Powerful: Unleashing Generalizable Style with 2D Diffusion](https://arxiv.org/abs/2605.04412), Yiran Qiao et al., Arxiv 2026 | [citation](./references/citations.bib#L2669-L2674) | [site]() | [code]()
  
 </details>
 
