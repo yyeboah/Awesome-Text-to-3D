@@ -659,6 +659,8 @@ This README is intended to work as a fast research index:
 - [PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World](https://arxiv.org/abs/2605.05163), Yunhan Yang et al., ICML 2026 | [citation](./references/citations.bib#L2662-L2667) | [site](https://hku-mmlab.github.io/PhysForge/) | [code](https://github.com/HKU-MMLab/PhysForge)
 
 - [Structured 3D Latents Are Surprisingly Powerful: Unleashing Generalizable Style with 2D Diffusion](https://arxiv.org/abs/2605.04412), Yiran Qiao et al., Arxiv 2026 | [citation](./references/citations.bib#L2669-L2674) | [site]() | [code]()
+
+- [Pixal3D: Pixel-Aligned 3D Generation from Images](https://arxiv.org/abs/2605.10922), Dong-Yang Li et al., SIGGRAPH 2026 | [citation](./references/citations.bib#L2676-L2681) | [site](https://ldyang694.github.io/projects/pixal3d/) | [code](https://github.com/TencentARC/Pixal3D)
  
 </details>
 
