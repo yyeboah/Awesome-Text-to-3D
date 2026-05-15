@@ -659,7 +659,13 @@ This README is intended to work as a fast research index:
 - [PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World](https://arxiv.org/abs/2605.05163), Yunhan Yang et al., ICML 2026 | [citation](./references/citations.bib#L2662-L2667) | [site](https://hku-mmlab.github.io/PhysForge/) | [code](https://github.com/HKU-MMLab/PhysForge)
 
 - [Structured 3D Latents Are Surprisingly Powerful: Unleashing Generalizable Style with 2D Diffusion](https://arxiv.org/abs/2605.04412), Yiran Qiao et al., Arxiv 2026 | [citation](./references/citations.bib#L2669-L2674) | [site]() | [code]()
- 
+
+- [Reconstruction or Semantics? What Makes a Latent Space Useful for Robotic World Models](https://arxiv.org/abs/2605.06388), Nilaksh et al., Arxiv 2026 | [citation](./references/citations.bib#L2704-L2709) | [site](https://hskalin.github.io/semantic-wm/) | [code](https://github.com/chandar-lab/semantic-wm)
+
+- [Pixal3D: Pixel-Aligned 3D Generation from Images](https://arxiv.org/abs/2605.10922), Dong-Yang Li et al., SIGGRAPH 2026 | [citation](./references/citations.bib#L2676-L2681) | [site](https://ldyang694.github.io/projects/pixal3d/) | [code](https://github.com/TencentARC/Pixal3D)
+
+- [VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction](https://arxiv.org/abs/2605.15186), Kaixin Zhu et al., Arxiv 2026 | [citation](./references/citations.bib#L2690-L2695) | [site]() | [code]()
+
 </details>
 
 <a id="avatar-generation-and-manupilation"></a>
@@ -795,6 +801,10 @@ This README is intended to work as a fast research index:
 - [LivingWorld: Interactive 4D World Generation with Environmental Dynamics](https://arxiv.org/abs/2604.01641), Hyeongju Mun et al., Arxiv 2026 | [citation](./references/citations.bib#L2585-L2590) | [site](https://cvsp-lab.github.io/LivingWorld/) | [code]()
 
 - [NavCrafter: Exploring 3D Scenes from a Single Image](https://arxiv.org/abs/2604.02828), Hongbo Duan et al., Arxiv 2026 | [citation](./references/citations.bib#L2592-L2597) | [site]() | [code]()
+
+- [GTA: Advancing Image-to-3D World Generation via Geometry Then Appearance Video Diffusion](https://arxiv.org/abs/2605.12957), Hanxin Zhu et al., Arxiv 2026 | [citation](./references/citations.bib#L2697-L2702) | [site](https://hanxinzhu-lab.github.io/GTA/) | [code]()
+
+- [SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer](https://arxiv.org/abs/2605.15178), Haoyi Zhu et al., Arxiv 2026 | [citation](./references/citations.bib#L2683-L2688) | [site](https://nvlabs.github.io/Sana/WM/) | [code](https://github.com/NVlabs/Sana/)
 
 </details>
 
