@@ -487,6 +487,8 @@ This README is intended to work as a fast research index:
 
 - [MV-SAM3D: Adaptive Multi-View Fusion for Layout-Aware 3D Generation](https://arxiv.org/abs/2603.11633), Baicheng Li et al., Arxiv 2026 | [citation](./references/citations.bib#L2551-L2556) | [site]() | [code]()
 
+- [Articraft: An Agentic System for Scalable Articulated 3D Asset Generation](https://arxiv.org/abs/2605.15187), Matt Zhou et al., Arxiv 2026 | [citation](./references/citations.bib#L2711-L2716) | [site](https://articraft3d.github.io/) | [code]()
+
 
 </details>
 
