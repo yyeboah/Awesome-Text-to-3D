@@ -487,6 +487,12 @@ This README is intended to work as a fast research index:
 
 - [MV-SAM3D: Adaptive Multi-View Fusion for Layout-Aware 3D Generation](https://arxiv.org/abs/2603.11633), Baicheng Li et al., Arxiv 2026 | [citation](./references/citations.bib#L2551-L2556) | [site]() | [code]()
 
+- [Articraft: An Agentic System for Scalable Articulated 3D Asset Generation](https://arxiv.org/abs/2605.15187), Matt Zhou et al., Arxiv 2026 | [citation](./references/citations.bib#L2711-L2716) | [site](https://articraft3d.github.io/) | [code]()
+
+- [ROAR-3D: Routing Arbitrary Views for High-Fidelity 3D Generation](https://arxiv.org/abs/2605.21121), Hanxiao Sun et al., Arxiv 2026 | [citation](./references/citations.bib#L2725-L2730) | [site]() | [code]()
+
+- [DecoRec: Decomposed 3D Scene Reconstruction from Single-View Images via Object-Level Diffusion](https://arxiv.org/abs/2605.16807), Yuhan Ping et al., Arxiv 2026 | [citation](./references/citations.bib#L2732-L2737) | [site]() | [code]()
+
 
 </details>
 
@@ -805,6 +811,10 @@ This README is intended to work as a fast research index:
 - [GTA: Advancing Image-to-3D World Generation via Geometry Then Appearance Video Diffusion](https://arxiv.org/abs/2605.12957), Hanxin Zhu et al., Arxiv 2026 | [citation](./references/citations.bib#L2697-L2702) | [site](https://hanxinzhu-lab.github.io/GTA/) | [code]()
 
 - [SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer](https://arxiv.org/abs/2605.15178), Haoyi Zhu et al., Arxiv 2026 | [citation](./references/citations.bib#L2683-L2688) | [site](https://nvlabs.github.io/Sana/WM/) | [code](https://github.com/NVlabs/Sana/)
+
+- [TelePhysics: Physics-Grounded Multi-Object Scene Generation from a Single Image with Real-Time Interaction](https://arxiv.org/abs/2605.20290), Xin Zhang et al., Arxiv 2026 | [citation](./references/citations.bib#L2718-L2723) | [site]() | [code](https://github.com/xinzhang007/TelePhysics)
+
+- [SimWorld Studio: Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning](https://arxiv.org/abs/2605.09423), Haoqiang Kang et al., Arxiv 2026 | [citation](./references/citations.bib#L2739-L2744) | [site](https://simworld.org/simworld-studio/) | [code]()
 
 </details>
 
