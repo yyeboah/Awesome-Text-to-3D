@@ -814,6 +814,8 @@ This README is intended to work as a fast research index:
 
 - [TelePhysics: Physics-Grounded Multi-Object Scene Generation from a Single Image with Real-Time Interaction](https://arxiv.org/abs/2605.20290), Xin Zhang et al., Arxiv 2026 | [citation](./references/citations.bib#L2718-L2723) | [site]() | [code](https://github.com/xinzhang007/TelePhysics)
 
+- [Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration](https://arxiv.org/abs/2605.22814), Lily Goli et al., Arxiv 2026 | [citation](./references/citations.bib#L2746-L2751) | [site](https://recuriosity.github.io/) | [code](https://github.com/recuriosity/recuriosity)
+
 - [SimWorld Studio: Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning](https://arxiv.org/abs/2605.09423), Haoqiang Kang et al., Arxiv 2026 | [citation](./references/citations.bib#L2739-L2744) | [site](https://simworld.org/simworld-studio/) | [code]()
 
 </details>
