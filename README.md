@@ -493,6 +493,8 @@ This README is intended to work as a fast research index:
 
 - [PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects](https://arxiv.org/abs/2605.21572), Ziang Cao et al., Arxiv 2026 | [citation](./references/citations.bib#L2753-L2758) | [site](https://physx-omni.github.io/) | [code](https://github.com/physx-omni/PhysX-Omni)
 
+- [GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction](https://arxiv.org/abs/2605.23888), Katharina Schmid et al., Arxiv 2026 | [citation](./references/citations.bib#L2767-L2772) | [site](https://kasothaphie.github.io/GenRecon/) | [code](https://github.com/kasothaphie/GenRecon)
+
 - [DecoRec: Decomposed 3D Scene Reconstruction from Single-View Images via Object-Level Diffusion](https://arxiv.org/abs/2605.16807), Yuhan Ping et al., Arxiv 2026 | [citation](./references/citations.bib#L2732-L2737) | [site]() | [code]()
 
 
@@ -673,6 +675,8 @@ This README is intended to work as a fast research index:
 - [Pixal3D: Pixel-Aligned 3D Generation from Images](https://arxiv.org/abs/2605.10922), Dong-Yang Li et al., SIGGRAPH 2026 | [citation](./references/citations.bib#L2676-L2681) | [site](https://ldyang694.github.io/projects/pixal3d/) | [code](https://github.com/TencentARC/Pixal3D)
 
 - [VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction](https://arxiv.org/abs/2605.15186), Kaixin Zhu et al., Arxiv 2026 | [citation](./references/citations.bib#L2690-L2695) | [site]() | [code]()
+
+- [LangFlash: Feed-forward 3D Language Gaussian Splatting from Sparse Unposed Images](https://arxiv.org/abs/2605.23287), Yilong Liu et al., Arxiv 2026 | [citation](./references/citations.bib#L2760-L2765) | [site](https://liylo.github.io/langflash.github.io/) | [code](https://github.com/liylo/LangFlash)
 
 </details>
 
