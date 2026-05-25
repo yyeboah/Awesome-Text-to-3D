@@ -491,6 +491,8 @@ This README is intended to work as a fast research index:
 
 - [ROAR-3D: Routing Arbitrary Views for High-Fidelity 3D Generation](https://arxiv.org/abs/2605.21121), Hanxiao Sun et al., Arxiv 2026 | [citation](./references/citations.bib#L2725-L2730) | [site]() | [code]()
 
+- [PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects](https://arxiv.org/abs/2605.21572), Ziang Cao et al., Arxiv 2026 | [citation](./references/citations.bib#L2753-L2758) | [site](https://physx-omni.github.io/) | [code](https://github.com/physx-omni/PhysX-Omni)
+
 - [DecoRec: Decomposed 3D Scene Reconstruction from Single-View Images via Object-Level Diffusion](https://arxiv.org/abs/2605.16807), Yuhan Ping et al., Arxiv 2026 | [citation](./references/citations.bib#L2732-L2737) | [site]() | [code]()
 
 
