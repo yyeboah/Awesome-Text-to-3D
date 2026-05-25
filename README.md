@@ -491,6 +491,10 @@ This README is intended to work as a fast research index:
 
 - [ROAR-3D: Routing Arbitrary Views for High-Fidelity 3D Generation](https://arxiv.org/abs/2605.21121), Hanxiao Sun et al., Arxiv 2026 | [citation](./references/citations.bib#L2725-L2730) | [site]() | [code]()
 
+- [PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects](https://arxiv.org/abs/2605.21572), Ziang Cao et al., Arxiv 2026 | [citation](./references/citations.bib#L2753-L2758) | [site](https://physx-omni.github.io/) | [code](https://github.com/physx-omni/PhysX-Omni)
+
+- [GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction](https://arxiv.org/abs/2605.23888), Katharina Schmid et al., Arxiv 2026 | [citation](./references/citations.bib#L2767-L2772) | [site](https://kasothaphie.github.io/GenRecon/) | [code](https://github.com/kasothaphie/GenRecon)
+
 - [DecoRec: Decomposed 3D Scene Reconstruction from Single-View Images via Object-Level Diffusion](https://arxiv.org/abs/2605.16807), Yuhan Ping et al., Arxiv 2026 | [citation](./references/citations.bib#L2732-L2737) | [site]() | [code]()
 
 
@@ -672,6 +676,8 @@ This README is intended to work as a fast research index:
 
 - [VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction](https://arxiv.org/abs/2605.15186), Kaixin Zhu et al., Arxiv 2026 | [citation](./references/citations.bib#L2690-L2695) | [site]() | [code]()
 
+- [LangFlash: Feed-forward 3D Language Gaussian Splatting from Sparse Unposed Images](https://arxiv.org/abs/2605.23287), Yilong Liu et al., Arxiv 2026 | [citation](./references/citations.bib#L2760-L2765) | [site](https://liylo.github.io/langflash.github.io/) | [code](https://github.com/liylo/LangFlash)
+
 </details>
 
 <a id="avatar-generation-and-manupilation"></a>
@@ -813,6 +819,8 @@ This README is intended to work as a fast research index:
 - [SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer](https://arxiv.org/abs/2605.15178), Haoyi Zhu et al., Arxiv 2026 | [citation](./references/citations.bib#L2683-L2688) | [site](https://nvlabs.github.io/Sana/WM/) | [code](https://github.com/NVlabs/Sana/)
 
 - [TelePhysics: Physics-Grounded Multi-Object Scene Generation from a Single Image with Real-Time Interaction](https://arxiv.org/abs/2605.20290), Xin Zhang et al., Arxiv 2026 | [citation](./references/citations.bib#L2718-L2723) | [site]() | [code](https://github.com/xinzhang007/TelePhysics)
+
+- [Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration](https://arxiv.org/abs/2605.22814), Lily Goli et al., Arxiv 2026 | [citation](./references/citations.bib#L2746-L2751) | [site](https://recuriosity.github.io/) | [code](https://github.com/recuriosity/recuriosity)
 
 - [SimWorld Studio: Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning](https://arxiv.org/abs/2605.09423), Haoqiang Kang et al., Arxiv 2026 | [citation](./references/citations.bib#L2739-L2744) | [site](https://simworld.org/simworld-studio/) | [code]()
 
