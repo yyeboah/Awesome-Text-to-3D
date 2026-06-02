@@ -26,6 +26,8 @@ This README is intended to work as a fast research index:
 - ✅ [TODO](#todo)
 
 ## Recent Updates :newspaper:
+* `02.06.2026` - Added S2MDF under X-to-3D
+* `02.06.2026` - Added VolFill under X-to-3D
 * `17.04.2026` - Added Lyra 2.0 under world models
 * `06.04.2026` - Began tracking world models as an independent category
 * `02.04.2024` - Begin linking to project pages and codes
@@ -493,7 +495,11 @@ This README is intended to work as a fast research index:
 
 - [PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects](https://arxiv.org/abs/2605.21572), Ziang Cao et al., Arxiv 2026 | [citation](./references/citations.bib#L2753-L2758) | [site](https://physx-omni.github.io/) | [code](https://github.com/physx-omni/PhysX-Omni)
 
+- [S2MDF: A Plug-And-Play Layer for Intersection-Free Multi-Object Signed Distance Fields](https://arxiv.org/abs/2605.29761), Deniz Sayin Mercadier et al., Arxiv 2026 | [citation](./references/citations.bib#L2781-L2786) | [site]() | [code]()
+
 - [GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction](https://arxiv.org/abs/2605.23888), Katharina Schmid et al., Arxiv 2026 | [citation](./references/citations.bib#L2767-L2772) | [site](https://kasothaphie.github.io/GenRecon/) | [code](https://github.com/kasothaphie/GenRecon)
+
+- [VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching](https://arxiv.org/abs/2605.31466), Tuan Duc Ngo et al., Arxiv 2026 | [citation](./references/citations.bib#L2774-L2779) | [site]() | [code]()
 
 - [DecoRec: Decomposed 3D Scene Reconstruction from Single-View Images via Object-Level Diffusion](https://arxiv.org/abs/2605.16807), Yuhan Ping et al., Arxiv 2026 | [citation](./references/citations.bib#L2732-L2737) | [site]() | [code]()
 
