@@ -26,6 +26,8 @@ This README is intended to work as a fast research index:
 - ✅ [TODO](#todo)
 
 ## Recent Updates :newspaper:
+* `05.06.2026` - Added Native3D under X-to-3D
+* `05.06.2026` - Added Recent Advances and Trends in Learning-based 3D Representations under X-to-3D
 * `02.06.2026` - Added S2MDF under X-to-3D
 * `02.06.2026` - Added VolFill under X-to-3D
 * `17.04.2026` - Added Lyra 2.0 under world models
@@ -683,6 +685,10 @@ This README is intended to work as a fast research index:
 - [VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction](https://arxiv.org/abs/2605.15186), Kaixin Zhu et al., Arxiv 2026 | [citation](./references/citations.bib#L2690-L2695) | [site]() | [code]()
 
 - [LangFlash: Feed-forward 3D Language Gaussian Splatting from Sparse Unposed Images](https://arxiv.org/abs/2605.23287), Yilong Liu et al., Arxiv 2026 | [citation](./references/citations.bib#L2760-L2765) | [site](https://liylo.github.io/langflash.github.io/) | [code](https://github.com/liylo/LangFlash)
+
+- [Native3D: End-to-End 3D Scene Generation via Unified Mesh-Texture Modeling and Semantic Alignment](https://www.scholar-inbox.com/login?sha_key=1a6cb9f3f20192e91c9ee15fca93f1a4eaae7780&date=06-03-2026&paper_id=2026CVPR_Findings_Native3D_End_to_End.pdf), Yibo Liu et al., CVPR 2026 | [citation](./references/citations.bib#L2788-L2793) | [site]() | [code]()
+
+- [Recent Advances and Trends in Learning-based 3D Representations](https://arxiv.org/abs/2606.04871), Adrien Schockaert et al., Arxiv 2026 | [citation](./references/citations.bib#L2795-L2800) | [site]() | [code]()
 
 </details>
 
