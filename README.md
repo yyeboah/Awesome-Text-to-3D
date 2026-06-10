@@ -26,6 +26,8 @@ This README is intended to work as a fast research index:
 - ✅ [TODO](#todo)
 
 ## Recent Updates :newspaper:
+* `10.06.2026` - Added FreeAnimate under Avatar Generation and Manupilation
+* `10.06.2026` - Added 3DMorph under 3D Editing
 * `05.06.2026` - Added Native3D under X-to-3D
 * `05.06.2026` - Added Recent Advances and Trends in Learning-based 3D Representations under X-to-3D
 * `02.06.2026` - Added S2MDF under X-to-3D
@@ -690,6 +692,8 @@ This README is intended to work as a fast research index:
 
 - [Recent Advances and Trends in Learning-based 3D Representations](https://arxiv.org/abs/2606.04871), Adrien Schockaert et al., Arxiv 2026 | [citation](./references/citations.bib#L2795-L2800) | [site]() | [code]()
 
+- [3DMorph: Single-Image-Guided Local 3D Shape Editing and Morphing](https://arxiv.org/abs/2606.07115), Tobias Preintner et al., IJCNN 2026 | [citation](./references/citations.bib#L2802-L2807) | [site]() | [code]()
+
 </details>
 
 <a id="avatar-generation-and-manupilation"></a>
@@ -792,7 +796,7 @@ This README is intended to work as a fast research index:
 
 - [MeshLAM: Feed-Forward One-Shot Animatable Textured Mesh Avatar Reconstruction](https://arxiv.org/abs/2604.22865), Yisheng He et al., CVPR 2026 | [citation](./references/citations.bib#L2648-L2653) | [site](https://meshlam.github.io/) | [code](https://github.com/aigc3d/LAM)
 
-
+- [FreeAnimate: Training-Free Human Image Animation with Preview-Guided Denoising](https://arxiv.org/abs/2606.06885), Yuan Zeng et al., Arxiv 2026 | [citation](./references/citations.bib#L2809-L2814) | [site](https://freeani.github.io/) | [code]()
 
 </details>
 
