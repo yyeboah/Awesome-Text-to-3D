@@ -26,6 +26,9 @@ This README is intended to work as a fast research index:
 - ✅ [TODO](#todo)
 
 ## Recent Updates :newspaper:
+* `13.06.2026` - Added World Tracing under World Models
+* `13.06.2026` - Added JointEdit3D under 3D Editing
+* `13.06.2026` - Added ABot-Earth 0.5 under World Models
 * `10.06.2026` - Added FreeAnimate under Avatar Generation and Manupilation
 * `10.06.2026` - Added 3DMorph under 3D Editing
 * `05.06.2026` - Added Native3D under X-to-3D
@@ -694,6 +697,8 @@ This README is intended to work as a fast research index:
 
 - [3DMorph: Single-Image-Guided Local 3D Shape Editing and Morphing](https://arxiv.org/abs/2606.07115), Tobias Preintner et al., IJCNN 2026 | [citation](./references/citations.bib#L2802-L2807) | [site]() | [code]()
 
+- [JointEdit3D: Feed-Forward 3D Scene Editing in a Unified Latent Space](https://arxiv.org/abs/2606.13345), Xinnan Zhu et al., Arxiv 2026 | [citation](./references/citations.bib#L2823-L2828) | [site](https://xinnan-zhu.github.io/JointEdit3D-Page/) | [code]()
+
 </details>
 
 <a id="avatar-generation-and-manupilation"></a>
@@ -839,6 +844,10 @@ This README is intended to work as a fast research index:
 - [Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration](https://arxiv.org/abs/2605.22814), Lily Goli et al., Arxiv 2026 | [citation](./references/citations.bib#L2746-L2751) | [site](https://recuriosity.github.io/) | [code](https://github.com/recuriosity/recuriosity)
 
 - [SimWorld Studio: Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning](https://arxiv.org/abs/2605.09423), Haoqiang Kang et al., Arxiv 2026 | [citation](./references/citations.bib#L2739-L2744) | [site](https://simworld.org/simworld-studio/) | [code]()
+
+- [ABot-Earth 0.5: Generative 3D Earth Model](https://arxiv.org/abs/2606.09967), Ming Qian et al., Arxiv 2026 | [citation](./references/citations.bib#L2830-L2835) | [site](https://abot-earth.amap.com/) | [code]()
+
+- [World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible](https://arxiv.org/abs/2606.13652), Hao Zhang et al., Arxiv 2026 | [citation](./references/citations.bib#L2816-L2821) | [site](https://haoz19.github.io/world-tracing-page/) | [code](https://github.com/haoz19/world-tracing)
 
 </details>
 
