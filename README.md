@@ -26,6 +26,8 @@ This README is intended to work as a fast research index:
 - ✅ [TODO](#todo)
 
 ## Recent Updates :newspaper:
+* `18.06.2026` - Added Future Dynamic 3D Reconstruction under World Models
+* `18.06.2026` - Added DreamX-World 1.0 under World Models
 * `13.06.2026` - Added World Tracing under World Models
 * `13.06.2026` - Added JointEdit3D under 3D Editing
 * `13.06.2026` - Added ABot-Earth 0.5 under World Models
@@ -848,6 +850,10 @@ This README is intended to work as a fast research index:
 - [ABot-Earth 0.5: Generative 3D Earth Model](https://arxiv.org/abs/2606.09967), Ming Qian et al., Arxiv 2026 | [citation](./references/citations.bib#L2830-L2835) | [site](https://abot-earth.amap.com/) | [code]()
 
 - [World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible](https://arxiv.org/abs/2606.13652), Hao Zhang et al., Arxiv 2026 | [citation](./references/citations.bib#L2816-L2821) | [site](https://haoz19.github.io/world-tracing-page/) | [code](https://github.com/haoz19/world-tracing)
+
+- [DreamX-World 1.0: A General-Purpose Interactive World Model](https://arxiv.org/abs/2606.16993), DreamX Team et al., Arxiv 2026 | [citation](./references/citations.bib#L2837-L2842) | [site](https://amap-ml.github.io/DreamX_World) | [code](https://github.com/AMAP-ML/DreamX-World)
+
+- [Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion](https://arxiv.org/abs/2606.18250), Nils Morbitzer et al., ICML 2026 | [citation](./references/citations.bib#L2844-L2849) | [site](https://fr3d-wm.github.io) | [code]()
 
 </details>
 
