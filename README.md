@@ -13,7 +13,6 @@ This README is intended to work as a fast research index:
 - Link legend: `citation` points to BibTeX, `site` points to the project page, `code` points to the implementation when public
 
 ## Navigation
-- 📰 [Recent Updates](#recent-updates-newspaper)
 - 📚 [Papers](#papers-scroll)
 - 🧊 [X-to-3D](#x-to-3d)
 - ✏️ [3D Editing, Decomposition & Stylization](#3d-editing-decomposition--stylization)
@@ -24,26 +23,6 @@ This README is intended to work as a fast research index:
 - 🛠️ [Frameworks & Projects](#frameworks--projects-desktop_computer)
 - 📺 [Tutorial Videos](#tutorial-videos-tv)
 - ✅ [TODO](#todo)
-
-## Recent Updates :newspaper:
-* `18.06.2026` - Added Future Dynamic 3D Reconstruction under World Models
-* `18.06.2026` - Added DreamX-World 1.0 under World Models
-* `13.06.2026` - Added World Tracing under World Models
-* `13.06.2026` - Added JointEdit3D under 3D Editing
-* `13.06.2026` - Added ABot-Earth 0.5 under World Models
-* `10.06.2026` - Added FreeAnimate under Avatar Generation and Manupilation
-* `10.06.2026` - Added 3DMorph under 3D Editing
-* `05.06.2026` - Added Native3D under X-to-3D
-* `05.06.2026` - Added Recent Advances and Trends in Learning-based 3D Representations under X-to-3D
-* `02.06.2026` - Added S2MDF under X-to-3D
-* `02.06.2026` - Added VolFill under X-to-3D
-* `17.04.2026` - Added Lyra 2.0 under world models
-* `06.04.2026` - Began tracking world models as an independent category
-* `02.04.2024` - Begin linking to project pages and codes
-* `09.02.2024` - Level One Categorization
-* `11.11.2023` - Added Tutorial Videos
-* `05.08.2023` - Provided citations in BibTeX
-* `06.07.2023` - Created initial list
 
 ## Papers :scroll:	
 <a id="x-to-3d"></a>
@@ -700,6 +679,8 @@ This README is intended to work as a fast research index:
 - [3DMorph: Single-Image-Guided Local 3D Shape Editing and Morphing](https://arxiv.org/abs/2606.07115), Tobias Preintner et al., IJCNN 2026 | [citation](./references/citations.bib#L2802-L2807) | [site]() | [code]()
 
 - [JointEdit3D: Feed-Forward 3D Scene Editing in a Unified Latent Space](https://arxiv.org/abs/2606.13345), Xinnan Zhu et al., Arxiv 2026 | [citation](./references/citations.bib#L2823-L2828) | [site](https://xinnan-zhu.github.io/JointEdit3D-Page/) | [code]()
+
+- [NeuMesh++: Towards Versatile and Efficient Volumetric Editing with Disentangled Neural Mesh-based Implicit Field](https://www.scholar-inbox.com/login?sha_key=1a6cb9f3f20192e91c9ee15fca93f1a4eaae7780&date=06-18-2026&paper_id=Bao2026ARXIV_NeuMesh_Towards_Versatile_and.pdf), Chong Bao et al., Arxiv 2026 | [citation](./references/citations.bib#L2851-L2856) | [site](https://zju3dv.github.io/neumeshplusplus/) | [code]()
 
 </details>
 
