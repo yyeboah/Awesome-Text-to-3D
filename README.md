@@ -680,6 +680,8 @@ This README is intended to work as a fast research index:
 
 - [JointEdit3D: Feed-Forward 3D Scene Editing in a Unified Latent Space](https://arxiv.org/abs/2606.13345), Xinnan Zhu et al., Arxiv 2026 | [citation](./references/citations.bib#L2823-L2828) | [site](https://xinnan-zhu.github.io/JointEdit3D-Page/) | [code]()
 
+- [NeuMesh++: Towards Versatile and Efficient Volumetric Editing with Disentangled Neural Mesh-based Implicit Field](https://www.scholar-inbox.com/login?sha_key=1a6cb9f3f20192e91c9ee15fca93f1a4eaae7780&date=06-18-2026&paper_id=Bao2026ARXIV_NeuMesh_Towards_Versatile_and.pdf), Chong Bao et al., Arxiv 2026 | [citation](./references/citations.bib#L2851-L2856) | [site](https://zju3dv.github.io/neumeshplusplus/) | [code]()
+
 </details>
 
 <a id="avatar-generation-and-manupilation"></a>
