@@ -491,6 +491,8 @@ This README is intended to work as a fast research index:
 
 - [DecoRec: Decomposed 3D Scene Reconstruction from Single-View Images via Object-Level Diffusion](https://arxiv.org/abs/2605.16807), Yuhan Ping et al., Arxiv 2026 | [citation](./references/citations.bib#L2732-L2737) | [site]() | [code]()
 
+- [PRISM: Feed-Forward Single-Image 3D Reconstruction via Geometric Warp-Residual Modeling](https://www.scholar-inbox.com/paper/Zheng2026ARXIV_PRISM_Feed_Forward_Single), Zhijie Zheng et al., Arxiv 2026 | [citation](./references/citations.bib#L2865-L2870) | [site]() | [code]()
+
 
 </details>
 
