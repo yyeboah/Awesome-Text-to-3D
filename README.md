@@ -786,6 +786,8 @@ This README is intended to work as a fast research index:
 
 - [FreeAnimate: Training-Free Human Image Animation with Preview-Guided Denoising](https://arxiv.org/abs/2606.06885), Yuan Zeng et al., Arxiv 2026 | [citation](./references/citations.bib#L2809-L2814) | [site](https://freeani.github.io/) | [code]()
 
+- [3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis](https://www.scholar-inbox.com/login?sha_key=1a6cb9f3f20192e91c9ee15fca93f1a4eaae7780&date=06-24-2026&paper_id=Xiao2026ARXIV_3DCarGen_Scalable_3D_Car.pdf), Hongli Xiao et al., Arxiv 2026 | [citation](./references/citations.bib#L2858-L2863) | [site]() | [code]()
+
 </details>
 
 <a id="dynamic-content-generation"></a>
