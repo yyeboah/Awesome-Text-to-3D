@@ -804,6 +804,8 @@ This README is intended to work as a fast research index:
 
 - [3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis](https://www.scholar-inbox.com/login?sha_key=1a6cb9f3f20192e91c9ee15fca93f1a4eaae7780&date=06-24-2026&paper_id=Xiao2026ARXIV_3DCarGen_Scalable_3D_Car.pdf), Hongli Xiao et al., Arxiv 2026 | [citation](./references/citations.bib#L2858-L2863) | [site]() | [code]()
 
+- [Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models](https://arxiv.org/abs/2607.01222), Yue Han et al., ECCV 2026 | [citation](./references/citations.bib#L2921-L2926) | [site](https://yuehan99.github.io/Ink3D-TextureGen/) | [code](https://github.com/YueHan99/Ink3D.TextureGen)
+
 </details>
 
 <a id="dynamic-content-generation"></a>
