@@ -856,6 +856,8 @@ This README is intended to work as a fast research index:
 
 - [Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion](https://arxiv.org/abs/2606.18250), Nils Morbitzer et al., ICML 2026 | [citation](./references/citations.bib#L2844-L2849) | [site](https://fr3d-wm.github.io) | [code]()
 
+- [World from Motion: Generative Dynamic Gaussian Reconstruction from Monocular Video](https://arxiv.org/abs/2607.01202), Liyuan Zhu et al., Arxiv 2026 | [citation](./references/citations.bib#L2928-L2933) | [site](https://research.nvidia.com/labs/amri/projects/world-from-motion/) | [code]()
+
 </details>
 
 
