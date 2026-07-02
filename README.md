@@ -489,11 +489,17 @@ This README is intended to work as a fast research index:
 
 - [VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching](https://arxiv.org/abs/2605.31466), Tuan Duc Ngo et al., Arxiv 2026 | [citation](./references/citations.bib#L2774-L2779) | [site]() | [code]()
 
+- [REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image](https://arxiv.org/abs/2605.30338), Xiaoxuan Ma et al., Arxiv 2026 | [citation](./references/citations.bib#L2900-L2905) | [site](https://shirleymaxx.github.io/REST3D/) | [code](https://github.com/ShirleyMaxx/REST3D)
+
 - [DecoRec: Decomposed 3D Scene Reconstruction from Single-View Images via Object-Level Diffusion](https://arxiv.org/abs/2605.16807), Yuhan Ping et al., Arxiv 2026 | [citation](./references/citations.bib#L2732-L2737) | [site]() | [code]()
 
 - [PRISM: Feed-Forward Single-Image 3D Reconstruction via Geometric Warp-Residual Modeling](https://www.scholar-inbox.com/paper/Zheng2026ARXIV_PRISM_Feed_Forward_Single), Zhijie Zheng et al., Arxiv 2026 | [citation](./references/citations.bib#L2865-L2870) | [site]() | [code]()
 
 - [Home3D 1.0: A High-Fidelity Image-to-3D Asset Generation System for Interior Design](https://www.scholar-inbox.com/login?sha_key=1a6cb9f3f20192e91c9ee15fca93f1a4eaae7780&date=06-29-2026&paper_id=Fei2026ARXIV_Home3D_1_0_A.pdf), Yiyun Fei et al., Arxiv 2026 | [citation](./references/citations.bib#L2886-L2891) | [site]() | [code]()
+
+- [Scenes as Objects, Not Primitives: Instance-Structured 3D Tokenization from Unposed Views](https://arxiv.org/abs/2606.29513), Mijin Yoo et al., Arxiv 2026 | [citation](./references/citations.bib#L2907-L2912) | [site](https://yoomimi.github.io/instok3d/) | [code]()
+
+- [UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image](https://arxiv.org/abs/2606.30608), Mohamed El Amine Boudjoghra et al., Arxiv 2026 | [citation](./references/citations.bib#L2914-L2919) | [site](https://aminebdj.github.io/unfoldart/) | [code](https://github.com/aminebdj/UnfoldArt)
 
 
 </details>
