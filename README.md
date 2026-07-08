@@ -808,6 +808,8 @@ This README is intended to work as a fast research index:
 
 - [Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models](https://arxiv.org/abs/2607.01222), Yue Han et al., ECCV 2026 | [citation](./references/citations.bib#L2921-L2926) | [site](https://yuehan99.github.io/Ink3D-TextureGen/) | [code](https://github.com/YueHan99/Ink3D.TextureGen)
 
+- [AHOY! Animatable Humans under Occlusion from YouTube Videos with Gaussian Splatting and Video Diffusion Priors](https://arxiv.org/abs/2603.17975), Aymen Mir et al., ECCV 2026 | [citation](./references/citations.bib#L2949-L2954) | [site](https://miraymen.github.io/ahoy/) | [code]()
+
 </details>
 
 <a id="dynamic-content-generation"></a>
