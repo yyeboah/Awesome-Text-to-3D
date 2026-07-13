@@ -503,6 +503,10 @@ This README is intended to work as a fast research index:
 
 - [PixGS: Pixel-Space Diffusion for Direct 3D Gaussian Splat Generation](https://arxiv.org/abs/2607.01803), Duy Cao et al., ECCV 2026 | [citation](./references/citations.bib#L2935-L2940) | [site]() | [code]()
 
+- [StereoSplat+: Feed-Forward Stereo Gaussian Splatting with Diffusion-Assisted Progressive Inference](https://www.scholar-inbox.com/paper/Liu2026ARXIV_StereoSplat_Feed_Forward_Stereo), Zihua Liu et al., IROS 2026 | [citation](./references/citations.bib#L2963-L2968) | [site]() | [code]()
+
+- [Glob3R: Global Structure-from-Motion with 3D Foundation Models](https://www.scholar-inbox.com/paper/Deng2026ARXIV_Glob3R_Global_Structure_from), Junyuan Deng et al., Arxiv 2026 | [citation](./references/citations.bib#L2956-L2961) | [site](https://junyuandeng.github.io/Glob3r/) | [code]()
+
 
 </details>
 
@@ -697,6 +701,8 @@ This README is intended to work as a fast research index:
 - [Extracting Neural Materials from Multi-view Images](https://www.scholar-inbox.com/login?sha_key=1a6cb9f3f20192e91c9ee15fca93f1a4eaae7780&date=06-26-2026&paper_id=Youwang2026ARXIV_Extracting_Neural_Materials_from.pdf), Kim Youwang et al., Arxiv 2026 | [citation](./references/citations.bib#L2872-L2877) | [site]() | [code]()
 
 - [Appearance-Preserving Refinement of Generated 3D Assets for Monochromatic Fabrication](https://www.scholar-inbox.com/login?sha_key=1a6cb9f3f20192e91c9ee15fca93f1a4eaae7780&date=06-26-2026&paper_id=Shen2026ARXIV_Appearance_Preserving_Refinement_of.pdf), Chentao Shen et al., Arxiv 2026 | [citation](./references/citations.bib#L2879-L2884) | [site]() | [code]()
+
+- [Dynamic Inverse Rendering for Enhanced Material-Lighting Decomposition](https://www.scholar-inbox.com/paper/Yunus2026ARXIV_Dynamic_Inverse_Rendering_for), Raza Yunus et al., ECCV 2026 | [citation](./references/citations.bib#L2970-L2975) | [site](https://razayunus.github.io/DIR) | [code]()
 
 </details>
 
