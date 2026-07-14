@@ -927,6 +927,8 @@ This README is intended to work as a fast research index:
 
 - [ThreeDee AI 3D Bust Maker - Generate 3D busts from single photo](https://www.threedee.design/products/3d-bust-maker/), ThreeDee, Product 2026
 
+- [Image3D - Generate downloadable 3D models from a single image](https://image3d.io/), Image3D, Product 2026
+
 
 ## Tutorial Videos :tv:
 
