@@ -503,6 +503,10 @@ This README is intended to work as a fast research index:
 
 - [PixGS: Pixel-Space Diffusion for Direct 3D Gaussian Splat Generation](https://arxiv.org/abs/2607.01803), Duy Cao et al., ECCV 2026 | [citation](./references/citations.bib#L2935-L2940) | [site]() | [code]()
 
+- [StereoSplat+: Feed-Forward Stereo Gaussian Splatting with Diffusion-Assisted Progressive Inference](https://www.scholar-inbox.com/paper/Liu2026ARXIV_StereoSplat_Feed_Forward_Stereo), Zihua Liu et al., IROS 2026 | [citation](./references/citations.bib#L2963-L2968) | [site]() | [code]()
+
+- [Glob3R: Global Structure-from-Motion with 3D Foundation Models](https://www.scholar-inbox.com/paper/Deng2026ARXIV_Glob3R_Global_Structure_from), Junyuan Deng et al., Arxiv 2026 | [citation](./references/citations.bib#L2956-L2961) | [site](https://junyuandeng.github.io/Glob3r/) | [code]()
+
 
 </details>
 
@@ -698,6 +702,8 @@ This README is intended to work as a fast research index:
 
 - [Appearance-Preserving Refinement of Generated 3D Assets for Monochromatic Fabrication](https://www.scholar-inbox.com/login?sha_key=1a6cb9f3f20192e91c9ee15fca93f1a4eaae7780&date=06-26-2026&paper_id=Shen2026ARXIV_Appearance_Preserving_Refinement_of.pdf), Chentao Shen et al., Arxiv 2026 | [citation](./references/citations.bib#L2879-L2884) | [site]() | [code]()
 
+- [Dynamic Inverse Rendering for Enhanced Material-Lighting Decomposition](https://www.scholar-inbox.com/paper/Yunus2026ARXIV_Dynamic_Inverse_Rendering_for), Raza Yunus et al., ECCV 2026 | [citation](./references/citations.bib#L2970-L2975) | [site](https://razayunus.github.io/DIR) | [code]()
+
 </details>
 
 <a id="avatar-generation-and-manupilation"></a>
@@ -828,6 +834,8 @@ This README is intended to work as a fast research index:
 
 - [Alignment Is All You Need For X-to-4D Generation](https://arxiv.org/abs/2607.02516), Qiaowei Miao et al., Arxiv 2026 | [citation](./references/citations.bib#L2942-L2947) | [site](https://miaoqiaowei.github.io/Align4D/) | [code]()
 
+- [OmniX: Any-view and Any-time 4D Reconstruction via Feed-forward Trajectory Fields](https://arxiv.org/abs/2607.10840), Yanqin Jiang et al., ECCV 2026 | [citation](./references/citations.bib#L2991-L2996) | [site](https://omnix4d.github.io/) | [code](https://github.com/yanqinJiang/OmniX)
+
 
 
 </details>
@@ -863,6 +871,8 @@ This README is intended to work as a fast research index:
 - [Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion](https://arxiv.org/abs/2606.18250), Nils Morbitzer et al., ICML 2026 | [citation](./references/citations.bib#L2844-L2849) | [site](https://fr3d-wm.github.io) | [code]()
 
 - [World from Motion: Generative Dynamic Gaussian Reconstruction from Monocular Video](https://arxiv.org/abs/2607.01202), Liyuan Zhu et al., Arxiv 2026 | [citation](./references/citations.bib#L2928-L2933) | [site](https://research.nvidia.com/labs/amri/projects/world-from-motion/) | [code]()
+
+- [ABot-3DWorld 0: A Universal World Model to Explore Any 3D Space](https://arxiv.org/abs/2607.11673), Mingchao Sun et al., Arxiv 2026 | [citation](./references/citations.bib#L2984-L2989) | [site](https://abot-world.amap.com/) | [code]()
 
 </details>
 
@@ -910,6 +920,8 @@ This README is intended to work as a fast research index:
 - [Mirage3D: Open-Source Implementations of 3D Diffusion Models Optimized for GLB Output](https://github.com/MirageML/Mirage3D), Mirageml et al., Github 2023
 
 - [WorldGen - Generate Any 3D Scene in Seconds](https://worldgen.github.io), Ziyang et al., Github 2026 | [code](https://github.com/ZiYang-xie/WorldGen)
+
+- [Xiaomi-Robotics-0: An Open-Sourced Vision-Language-Action Model with Real-Time Execution](https://arxiv.org/abs/2602.12684), Rui Cai et al., Arxiv 2026 | [citation](./references/citations.bib#L2977-L2982) | [site](https://xiaomi-robotics-0.github.io/) | [code](https://github.com/XiaomiRobotics/Xiaomi-Robotics-0)
 
 - [ThreeDee AI 3D Generator - Generate 3D Models from Text or Image](https://www.threedee.design/products/ai-3d-generator/), ThreeDee, Product 2026
 
