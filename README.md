@@ -836,6 +836,8 @@ This README is intended to work as a fast research index:
 
 - [OmniX: Any-view and Any-time 4D Reconstruction via Feed-forward Trajectory Fields](https://arxiv.org/abs/2607.10840), Yanqin Jiang et al., ECCV 2026 | [citation](./references/citations.bib#L2991-L2996) | [site](https://omnix4d.github.io/) | [code](https://github.com/yanqinJiang/OmniX)
 
+- [Hallo4D: Multi-Modal Hallucination Mitigation for Consistent Spatio-Temporal Generation](https://arxiv.org/abs/2607.12752), Hongbo Wang et al., Arxiv 2026 | [citation](./references/citations.bib#L3005-L3010) | [site](https://wafer-bob.github.io/Hallo3D-4D/) | [code]()
+
 
 
 </details>
@@ -873,6 +875,8 @@ This README is intended to work as a fast research index:
 - [World from Motion: Generative Dynamic Gaussian Reconstruction from Monocular Video](https://arxiv.org/abs/2607.01202), Liyuan Zhu et al., Arxiv 2026 | [citation](./references/citations.bib#L2928-L2933) | [site](https://research.nvidia.com/labs/amri/projects/world-from-motion/) | [code]()
 
 - [ABot-3DWorld 0: A Universal World Model to Explore Any 3D Space](https://arxiv.org/abs/2607.11673), Mingchao Sun et al., Arxiv 2026 | [citation](./references/citations.bib#L2984-L2989) | [site](https://abot-world.amap.com/) | [code]()
+
+- [WanToFight: Real-Time Generative Game Engine for Multi-Player Combat Interaction](https://arxiv.org/abs/2607.12592), Li Hu et al., Arxiv 2026 | [citation](./references/citations.bib#L2998-L3003) | [site](https://humanaigc.github.io/wantofight/) | [code]()
 
 </details>
 
