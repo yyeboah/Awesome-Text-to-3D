@@ -507,6 +507,16 @@ This README is intended to work as a fast research index:
 
 - [Glob3R: Global Structure-from-Motion with 3D Foundation Models](https://www.scholar-inbox.com/paper/Deng2026ARXIV_Glob3R_Global_Structure_from), Junyuan Deng et al., Arxiv 2026 | [citation](./references/citations.bib#L2956-L2961) | [site](https://junyuandeng.github.io/Glob3r/) | [code]()
 
+- [Nexus: Native Mesh Generation with Diffusion](https://arxiv.org/abs/2607.13563), Hanxiao Wang et al., Arxiv 2026 | [citation](./references/citations.bib#L3012-L3017) | [site]() | [code]()
+
+- [DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation](https://arxiv.org/abs/2607.13365), Eungjune Shim et al., Arxiv 2026 | [citation](./references/citations.bib#L3019-L3024) | [site](https://ejshim.github.io/diffgi/) | [code](https://github.com/ejshim/diffgi)
+
+- [TreeSRNF: Square-Root Normal Fields for Generative Modelling of the Geometric and Structural Variability in Tree-like 3D Objects](https://arxiv.org/abs/2607.13456), Tahmina Khanam et al., Arxiv 2026 | [citation](./references/citations.bib#L3026-L3031) | [site]() | [code]()
+
+- [ThinkBLOX: 3D Indoor Scene Generation with Progressive Reasoning](https://arxiv.org/abs/2607.13539), Yuan Xiao et al., Arxiv 2026 | [citation](./references/citations.bib#L3033-L3038) | [site]() | [code]()
+
+- [UniPhysGen: Unified Physical Grounding for Simulation-Ready 3D Assets](https://arxiv.org/abs/2607.13586), Xian Li et al., Arxiv 2026 | [citation](./references/citations.bib#L3040-L3045) | [site]() | [code](https://github.com/breezexian/UniPhysGen)
+
 
 </details>
 
@@ -816,6 +826,8 @@ This README is intended to work as a fast research index:
 
 - [AHOY! Animatable Humans under Occlusion from YouTube Videos with Gaussian Splatting and Video Diffusion Priors](https://arxiv.org/abs/2603.17975), Aymen Mir et al., ECCV 2026 | [citation](./references/citations.bib#L2949-L2954) | [site](https://miraymen.github.io/ahoy/) | [code]()
 
+- [T3HG-Editor: Text-driven 3D Human Garment Editing with Body Priors Embedded in SMPL-X](https://arxiv.org/abs/2607.13654), Shaoru Sun et al., Arxiv 2026 | [citation](./references/citations.bib#L3047-L3052) | [site]() | [code]()
+
 </details>
 
 <a id="dynamic-content-generation"></a>
@@ -878,6 +890,10 @@ This README is intended to work as a fast research index:
 
 - [WanToFight: Real-Time Generative Game Engine for Multi-Player Combat Interaction](https://arxiv.org/abs/2607.12592), Li Hu et al., Arxiv 2026 | [citation](./references/citations.bib#L2998-L3003) | [site](https://humanaigc.github.io/wantofight/) | [code]()
 
+- [M4World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming](https://arxiv.org/abs/2607.14005), Ke Cheng et al., Arxiv 2026 | [citation](./references/citations.bib#L3054-L3059) | [site]() | [code]()
+
+- [From Pixels to States: Rethinking Interactive World Models as Game Engines](https://arxiv.org/abs/2607.14076), Zhen Li et al., Arxiv 2026 | [citation](./references/citations.bib#L3061-L3066) | [site]() | [code](https://github.com/BlackMythWukong)
+
 </details>
 
 
@@ -912,6 +928,8 @@ This README is intended to work as a fast research index:
 - [SceneScribe-1M: A Large-Scale Video Dataset with Comprehensive Geometric and Semantic Annotations](https://arxiv.org/abs/2604.07990), Yunnan Wang et al., CVPR 2026 | [citation](./references/citations.bib#L2627-L2632) | [site]() | [code]()
 
 - [ReWeaver: Towards Simulation-Ready and Topology-Accurate Garment Reconstruction](https://arxiv.org/abs/2601.16672), Ming Li et al., Arxiv 2026 | [citation](./references/citations.bib#L2453-L2458) | [site](https://gr3en-relight.github.io) | [code]()
+
+- [Human4K: A Large-Scale 4K Multi-View Mocap Dataset for Whole-Body 3D Human Reconstruction](https://arxiv.org/abs/2607.13646), Tianshun Han et al., Arxiv 2026 | [citation](./references/citations.bib#L3068-L3073) | [site](https://www.vicon.com/) | [code]()
 
 
 
