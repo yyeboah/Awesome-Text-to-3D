@@ -517,6 +517,12 @@ This README is intended to work as a fast research index:
 
 - [UniPhysGen: Unified Physical Grounding for Simulation-Ready 3D Assets](https://arxiv.org/abs/2607.13586), Xian Li et al., Arxiv 2026 | [citation](./references/citations.bib#L3040-L3045) | [site]() | [code](https://github.com/breezexian/UniPhysGen)
 
+- [G$^2$SR: Geometric Methods for Fast and Memory-Efficient Gaussian-based Surface Reconstruction](https://arxiv.org/abs/2607.14470), Dasong Gao et al., Arxiv 2026 | [citation](./references/citations.bib#L3075-L3080) | [site]() | [code]()
+
+- [Immediate 3D Gaussian Splat Reconstruction of Unordered Input with Global Consistency](https://arxiv.org/abs/2607.14481), Andreas Meuleman et al., Arxiv 2026 | [citation](./references/citations.bib#L3082-L3087) | [site]() | [code]()
+
+- [MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos](https://arxiv.org/abs/2607.15211), Ziren Gong et al., Arxiv 2026 | [citation](./references/citations.bib#L3103-L3108) | [site](https://zorangong.github.io/magist3r_page/) | [code]()
+
 
 </details>
 
@@ -714,6 +720,8 @@ This README is intended to work as a fast research index:
 
 - [Dynamic Inverse Rendering for Enhanced Material-Lighting Decomposition](https://www.scholar-inbox.com/paper/Yunus2026ARXIV_Dynamic_Inverse_Rendering_for), Raza Yunus et al., ECCV 2026 | [citation](./references/citations.bib#L2970-L2975) | [site](https://razayunus.github.io/DIR) | [code]()
 
+- [TanGO: Training-Free 3D Editing via Tangent-Space Guidance and Optimization](https://arxiv.org/abs/2607.14927), Siwoo Lim et al., Arxiv 2026 | [citation](./references/citations.bib#L3096-L3101) | [site]() | [code](https://github.com/siw00-lim/TanGO)
+
 </details>
 
 <a id="avatar-generation-and-manupilation"></a>
@@ -850,6 +858,8 @@ This README is intended to work as a fast research index:
 
 - [Hallo4D: Multi-Modal Hallucination Mitigation for Consistent Spatio-Temporal Generation](https://arxiv.org/abs/2607.12752), Hongbo Wang et al., Arxiv 2026 | [citation](./references/citations.bib#L3005-L3010) | [site](https://wafer-bob.github.io/Hallo3D-4D/) | [code]()
 
+- [Online Neural Space Time Memory for Dynamic Novel View Synthesis](https://arxiv.org/abs/2607.15271), Baback Elmieh et al., Arxiv 2026 | [citation](./references/citations.bib#L3110-L3115) | [site](https://nst-mem.github.io) | [code]()
+
 
 
 </details>
@@ -893,6 +903,8 @@ This README is intended to work as a fast research index:
 - [M4World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming](https://arxiv.org/abs/2607.14005), Ke Cheng et al., Arxiv 2026 | [citation](./references/citations.bib#L3054-L3059) | [site]() | [code]()
 
 - [From Pixels to States: Rethinking Interactive World Models as Game Engines](https://arxiv.org/abs/2607.14076), Zhen Li et al., Arxiv 2026 | [citation](./references/citations.bib#L3061-L3066) | [site]() | [code](https://github.com/BlackMythWukong)
+
+- [Instant NuRec: Feed-Forward 3D Gaussian Reconstruction for Driving Scene Simulation](https://arxiv.org/abs/2607.14203), Jiahui Huang et al., Arxiv 2026 | [citation](./references/citations.bib#L3089-L3094) | [site](https://research.nvidia.com/labs/sil/projects/instant-nurec) | [code](https://github.com/nvidia/instant-nurec)
 
 </details>
 
