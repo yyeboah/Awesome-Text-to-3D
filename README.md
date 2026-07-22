@@ -523,6 +523,8 @@ This README is intended to work as a fast research index:
 
 - [MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos](https://arxiv.org/abs/2607.15211), Ziren Gong et al., Arxiv 2026 | [citation](./references/citations.bib#L3103-L3108) | [site](https://zorangong.github.io/magist3r_page/) | [code]()
 
+- [Event3R: Asynchronous-to-Global 3D Reconstruction from Event Camera via Spatial-Temporal Feature Aggregation](https://arxiv.org/abs/2607.15727), Jian Huang et al., IROS 2026 | [citation](./references/citations.bib#L3117-L3122) | [site]() | [code]()
+
 
 </details>
 
