@@ -908,6 +908,8 @@ This README is intended to work as a fast research index:
 
 - [Instant NuRec: Feed-Forward 3D Gaussian Reconstruction for Driving Scene Simulation](https://arxiv.org/abs/2607.14203), Jiahui Huang et al., Arxiv 2026 | [citation](./references/citations.bib#L3089-L3094) | [site](https://research.nvidia.com/labs/sil/projects/instant-nurec) | [code](https://github.com/nvidia/instant-nurec)
 
+- [Genie Sim PanoWorld: An Infinite Indoor 3D World Generation Pipeline via Panoramic Scene Modeling and Simulation](https://arxiv.org/abs/2607.26646), Yongxin Su et al., Arxiv 2026 | [citation](./references/citations.bib#L3124-L3129) | [site]() | [code]()
+
 </details>
 
 
