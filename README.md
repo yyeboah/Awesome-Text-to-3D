@@ -525,6 +525,8 @@ This README is intended to work as a fast research index:
 
 - [Event3R: Asynchronous-to-Global 3D Reconstruction from Event Camera via Spatial-Temporal Feature Aggregation](https://arxiv.org/abs/2607.15727), Jian Huang et al., IROS 2026 | [citation](./references/citations.bib#L3117-L3122) | [site]() | [code]()
 
+- [Convolutional Neural Shading for High-Quality 3D Reconstruction from Multi-View Images](https://arxiv.org/abs/2607.28132), Juheon Hwang et al., Multimedia Systems 2025 | [citation](./references/citations.bib#L3152-L3157) | [site]() | [code]()
+
 
 </details>
 
@@ -842,6 +844,12 @@ This README is intended to work as a fast research index:
 
 - [FlexiAvatar: Unified 3D Gaussian Human Avatars Under Arbitrary Body Visibility](https://arxiv.org/abs/2607.19100), Yihalem Yimolal Tiruneh et al., ECCV 2026 | [citation](./references/citations.bib#L3138-L3143) | [site]() | [code]()
 
+- [S-Avatar: Diffusion-Guided Gaussian Head Avatars from a Single Image](https://arxiv.org/abs/2607.28164), Hail Song et al., Arxiv 2026 | [citation](./references/citations.bib#L3159-L3164) | [site](https://github.com/hailsong/savatar) | [code](https://github.com/hailsong/savatar)
+
+- [Bunraku: Turning a Single Illustration into an Editable Live2D Character](https://arxiv.org/abs/2607.27348), Junhao Chen et al., Arxiv 2026 | [citation](./references/citations.bib#L3166-L3171) | [site](https://bunraku-live2d.github.io/) | [code]()
+
+- [EgoGVAE: Ego-body Mesh Reconstruction via Guided Variational Autoencoder](https://arxiv.org/abs/2607.27755), Jaehun Jung et al., ECCV 2026 | [citation](./references/citations.bib#L3180-L3185) | [site]() | [code]()
+
 </details>
 
 <a id="dynamic-content-generation"></a>
@@ -867,6 +875,8 @@ This README is intended to work as a fast research index:
 - [Online Neural Space Time Memory for Dynamic Novel View Synthesis](https://arxiv.org/abs/2607.15271), Baback Elmieh et al., Arxiv 2026 | [citation](./references/citations.bib#L3110-L3115) | [site](https://nst-mem.github.io) | [code]()
 
 - [AniGS: Bridging Rendering and Diffusion Prior for 3D Scene Animation](https://arxiv.org/abs/2607.18539), Yen-Chi Cheng et al., Arxiv 2026 | [citation](./references/citations.bib#L3124-L3129) | [site](https://yccyenchicheng.github.io/AniGS/) | [code]()
+
+- [4DHumanDiff: Direct Text-to-4DGS Generation for Consistent 360-Degree Dynamic Humans](https://arxiv.org/abs/2607.27634), Renlong Wu et al., Arxiv 2026 | [citation](./references/citations.bib#L3173-L3178) | [site]() | [code]()
 
 
 
