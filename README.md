@@ -527,6 +527,8 @@ This README is intended to work as a fast research index:
 
 - [Convolutional Neural Shading for High-Quality 3D Reconstruction from Multi-View Images](https://arxiv.org/abs/2607.28132), Juheon Hwang et al., Multimedia Systems 2025 | [citation](./references/citations.bib#L3152-L3157) | [site]() | [code]()
 
+- [Meshy T2: Fast Native Mesh Generation with Flow Matching](https://arxiv.org/abs/2607.28675), Jiale Xu et al., Arxiv 2026 | [citation](./references/citations.bib#L3194-L3199) | [site]() | [code](https://github.com/meshy-dev/meshy-t2)
+
 
 </details>
 
@@ -849,6 +851,10 @@ This README is intended to work as a fast research index:
 - [Bunraku: Turning a Single Illustration into an Editable Live2D Character](https://arxiv.org/abs/2607.27348), Junhao Chen et al., Arxiv 2026 | [citation](./references/citations.bib#L3166-L3171) | [site](https://bunraku-live2d.github.io/) | [code]()
 
 - [EgoGVAE: Ego-body Mesh Reconstruction via Guided Variational Autoencoder](https://arxiv.org/abs/2607.27755), Jaehun Jung et al., ECCV 2026 | [citation](./references/citations.bib#L3180-L3185) | [site]() | [code]()
+
+- [OASIS: Occlusion-aware Single-image Hand Avatar Reconstruction via 3D Gaussian Splatting](https://arxiv.org/abs/2607.29633), Zhisheng Han et al., ACM MM 2026 | [citation](./references/citations.bib#L3187-L3192) | [site](https://mova-hand.github.io/MOVA/) | [code](https://github.com/ivyyy77/OASIS)
+
+- [Forwardrobe: Garment-Aware Gaussian Avatars from a Single Image](https://arxiv.org/abs/2607.29106), Daisheng Jin et al., Arxiv 2026 | [citation](./references/citations.bib#L3201-L3206) | [site]() | [code]()
 
 </details>
 
