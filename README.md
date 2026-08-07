@@ -529,6 +529,8 @@ This README is intended to work as a fast research index:
 
 - [Meshy T2: Fast Native Mesh Generation with Flow Matching](https://arxiv.org/abs/2607.28675), Jiale Xu et al., Arxiv 2026 | [citation](./references/citations.bib#L3194-L3199) | [site]() | [code](https://github.com/meshy-dev/meshy-t2)
 
+- [Qwen-3D: A Generalist 3D Vision-Language Model for Spatial Understanding](https://arxiv.org/abs/2608.02980), Lucy Lin et al., ECCV 2026 | [citation](./references/citations.bib#L3208-L3213) | [site](https://qwen-3d.github.io/) | [code](https://github.com/ll220/qwen3d)
+
 
 </details>
 
