@@ -529,6 +529,10 @@ This README is intended to work as a fast research index:
 
 - [Meshy T2: Fast Native Mesh Generation with Flow Matching](https://arxiv.org/abs/2607.28675), Jiale Xu et al., Arxiv 2026 | [citation](./references/citations.bib#L3194-L3199) | [site]() | [code](https://github.com/meshy-dev/meshy-t2)
 
+- [Qwen-3D: A Generalist 3D Vision-Language Model for Spatial Understanding](https://arxiv.org/abs/2608.02980), Lucy Lin et al., ECCV 2026 | [citation](./references/citations.bib#L3208-L3213) | [site](https://qwen-3d.github.io/) | [code](https://github.com/ll220/qwen3d)
+
+- [Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing](https://arxiv.org/abs/2608.02711), Junliang Ye et al., Arxiv 2026 | [citation](./references/citations.bib#L3215-L3220) | [site](https://tencent-hunyuan.github.io/Hunyuan3D-Buffalo1.0/) | [code](https://github.com/Tencent-Hunyuan/Hunyuan3D-Buffalo1.0)
+
 
 </details>
 
@@ -883,6 +887,8 @@ This README is intended to work as a fast research index:
 - [AniGS: Bridging Rendering and Diffusion Prior for 3D Scene Animation](https://arxiv.org/abs/2607.18539), Yen-Chi Cheng et al., Arxiv 2026 | [citation](./references/citations.bib#L3124-L3129) | [site](https://yccyenchicheng.github.io/AniGS/) | [code]()
 
 - [4DHumanDiff: Direct Text-to-4DGS Generation for Consistent 360-Degree Dynamic Humans](https://arxiv.org/abs/2607.27634), Renlong Wu et al., Arxiv 2026 | [citation](./references/citations.bib#L3173-L3178) | [site]() | [code]()
+
+- [Video Models as Native 4D Renderers: World-Grounded Conditioning from Animated Mesh](https://arxiv.org/abs/2608.00094), Junhao Chen et al., Arxiv 2026 | [citation](./references/citations.bib#L3222-L3227) | [site]() | [code]()
 
 
 
