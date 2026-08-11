@@ -533,6 +533,10 @@ This README is intended to work as a fast research index:
 
 - [Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing](https://arxiv.org/abs/2608.02711), Junliang Ye et al., Arxiv 2026 | [citation](./references/citations.bib#L3215-L3220) | [site](https://tencent-hunyuan.github.io/Hunyuan3D-Buffalo1.0/) | [code](https://github.com/Tencent-Hunyuan/Hunyuan3D-Buffalo1.0)
 
+- [View-Adaptive Renderer for View-Consistent 2D-to-3D Generation](https://arxiv.org/abs/2608.09110), U-Chae Jun et al., Multimedia Systems 2026 | [citation](./references/citations.bib#L3229-L3234) | [site]() | [code]()
+
+- [FlexSplat: Flexible Feed-Forward 3D Gaussian Splatting without Point Cloud Correspondence](https://arxiv.org/abs/2608.07937), Amir Sabbaghziarani et al., BMVC 2026 | [citation](./references/citations.bib#L3236-L3241) | [site](https://amir-sbg.github.io/FlexSplat/) | [code](https://github.com/amir-sbg/FlexSplat)
+
 
 </details>
 
@@ -859,6 +863,8 @@ This README is intended to work as a fast research index:
 - [OASIS: Occlusion-aware Single-image Hand Avatar Reconstruction via 3D Gaussian Splatting](https://arxiv.org/abs/2607.29633), Zhisheng Han et al., ACM MM 2026 | [citation](./references/citations.bib#L3187-L3192) | [site](https://mova-hand.github.io/MOVA/) | [code](https://github.com/ivyyy77/OASIS)
 
 - [Forwardrobe: Garment-Aware Gaussian Avatars from a Single Image](https://arxiv.org/abs/2607.29106), Daisheng Jin et al., Arxiv 2026 | [citation](./references/citations.bib#L3201-L3206) | [site]() | [code]()
+
+- [RealDenseFace: Real-time Monocular 3D Face Reconstruction from Dense UV-space Priors](https://arxiv.org/abs/2608.09238), Linzhou Li et al., Arxiv 2026 | [citation](./references/citations.bib#L3243-L3248) | [site](https://gapszju.github.io/RealDenseFace/) | [code]()
 
 </details>
 
