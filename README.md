@@ -944,6 +944,8 @@ This README is intended to work as a fast research index:
 
 - [Genie Sim PanoWorld: An Infinite Indoor 3D World Generation Pipeline via Panoramic Scene Modeling and Simulation](https://arxiv.org/abs/2607.26646), Yongxin Su et al., Arxiv 2026 | [citation](./references/citations.bib#L3145-L3150) | [site]() | [code]()
 
+- [WorldClaw: Agentic 3D Open-World Generation at Scale](https://arxiv.org/abs/2608.05248), Chunchao Guo et al., Arxiv 2026 | [citation](./references/citations.bib#L3250-L3255) | [site](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/) | [code](https://github.com/Tencent-Hunyuan/Hunyuan3D-WorldClaw)
+
 </details>
 
 
