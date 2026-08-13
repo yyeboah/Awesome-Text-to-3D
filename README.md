@@ -866,6 +866,10 @@ This README is intended to work as a fast research index:
 
 - [RealDenseFace: Real-time Monocular 3D Face Reconstruction from Dense UV-space Priors](https://arxiv.org/abs/2608.09238), Linzhou Li et al., Arxiv 2026 | [citation](./references/citations.bib#L3243-L3248) | [site](https://gapszju.github.io/RealDenseFace/) | [code]()
 
+- [LiveAnimate: Stable Long-Form Streaming Human Animation in Real-Time](https://arxiv.org/abs/2608.11745), Yuxuan Zhang et al., Arxiv 2026 | [citation](./references/citations.bib#L3257-L3262) | [site](https://liveanimate.github.io/) | [code]()
+
+- [TGRHuman: Text-Guided Realistic 3D Human Generation via Diffusion Renderer](https://arxiv.org/abs/2608.12175), Muxin Zhang et al., Fundamental Research 2026 | [citation](./references/citations.bib#L3264-L3269) | [site]() | [code]()
+
 </details>
 
 <a id="dynamic-content-generation"></a>
@@ -945,6 +949,8 @@ This README is intended to work as a fast research index:
 - [Genie Sim PanoWorld: An Infinite Indoor 3D World Generation Pipeline via Panoramic Scene Modeling and Simulation](https://arxiv.org/abs/2607.26646), Yongxin Su et al., Arxiv 2026 | [citation](./references/citations.bib#L3145-L3150) | [site]() | [code]()
 
 - [WorldClaw: Agentic 3D Open-World Generation at Scale](https://arxiv.org/abs/2608.05248), Chunchao Guo et al., Arxiv 2026 | [citation](./references/citations.bib#L3250-L3255) | [site](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/) | [code](https://github.com/Tencent-Hunyuan/Hunyuan3D-WorldClaw)
+
+- [StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization](https://arxiv.org/abs/2608.12314), Yuyang Yin et al., Arxiv 2026 | [citation](./references/citations.bib#L3271-L3276) | [site](https://yuyangyin.github.io/StateFlow/) | [code]()
 
 </details>
 
