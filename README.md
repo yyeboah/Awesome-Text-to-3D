@@ -736,6 +736,8 @@ This README is intended to work as a fast research index:
 
 - [TanGO: Training-Free 3D Editing via Tangent-Space Guidance and Optimization](https://arxiv.org/abs/2607.14927), Siwoo Lim et al., Arxiv 2026 | [citation](./references/citations.bib#L3096-L3101) | [site]() | [code](https://github.com/siw00-lim/TanGO)
 
+- [GeoCache: Training-Free Acceleration of Multi-View Texture Diffusion via Geometric Delta Transport](https://arxiv.org/abs/2608.13255), Haotang Li et al., Arxiv 2026 | [citation](./references/citations.bib#L3278-L3283) | [site]() | [code]()
+
 </details>
 
 <a id="avatar-generation-and-manupilation"></a>
