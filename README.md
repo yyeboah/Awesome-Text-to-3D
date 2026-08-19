@@ -738,6 +738,8 @@ This README is intended to work as a fast research index:
 
 - [GeoCache: Training-Free Acceleration of Multi-View Texture Diffusion via Geometric Delta Transport](https://arxiv.org/abs/2608.13255), Haotang Li et al., Arxiv 2026 | [citation](./references/citations.bib#L3278-L3283) | [site]() | [code]()
 
+- [PoseAdapter: Dual-Stream 2.5D Controllable Image Generation for Complex Multi-Object Scenes](https://arxiv.org/abs/2608.15583), Yufeng Chi et al., ACM MM 2026 | [citation](./references/citations.bib#L3285-L3290) | [site]() | [code](https://github.com/cyf23/PoseAdapter)
+
 </details>
 
 <a id="avatar-generation-and-manupilation"></a>
