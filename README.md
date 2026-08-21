@@ -537,6 +537,7 @@ This README is intended to work as a fast research index:
 
 - [FlexSplat: Flexible Feed-Forward 3D Gaussian Splatting without Point Cloud Correspondence](https://arxiv.org/abs/2608.07937), Amir Sabbaghziarani et al., BMVC 2026 | [citation](./references/citations.bib#L3236-L3241) | [site](https://amir-sbg.github.io/FlexSplat/) | [code](https://github.com/amir-sbg/FlexSplat)
 
+- [Block3D: Efficient Text-to-3D Generation via Block-Wise Diffusion](https://arxiv.org/abs/2608.19567), Bowen Cui et al., Arxiv 2026 | [citation](./references/citations.bib#L3292-L3297) | [site](https://alexandertsui.github.io/block3d/) | [code]()
 
 </details>
 
@@ -874,6 +875,10 @@ This README is intended to work as a fast research index:
 
 - [TGRHuman: Text-Guided Realistic 3D Human Generation via Diffusion Renderer](https://arxiv.org/abs/2608.12175), Muxin Zhang et al., Fundamental Research 2026 | [citation](./references/citations.bib#L3264-L3269) | [site]() | [code]()
 
+- [AvatarDynamizer: From Static to Dynamic Human Avatars via Generative Dynamic Textures](https://arxiv.org/abs/2608.19900), Guoxing Sun et al., Arxiv 2026 | [citation](./references/citations.bib#L3306-L3311) | [site](https://vcai.mpi-inf.mpg.de/projects/AvatarDynamizer/) | [code]()
+
+- [DreamHand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery](https://arxiv.org/abs/2608.20308), Yufei Liu et al., Arxiv 2026 | [citation](./references/citations.bib#L3299-L3304) | [site](https://ggxxii.github.io/dreamhand/) | [code](https://github.com/ggxxii/dreamhand)
+
 </details>
 
 <a id="dynamic-content-generation"></a>
@@ -904,6 +909,7 @@ This README is intended to work as a fast research index:
 
 - [Video Models as Native 4D Renderers: World-Grounded Conditioning from Animated Mesh](https://arxiv.org/abs/2608.00094), Junhao Chen et al., Arxiv 2026 | [citation](./references/citations.bib#L3222-L3227) | [site]() | [code]()
 
+- [4DAnyone: Create Anyone in 4D from a Casual Monocular Video](https://arxiv.org/abs/2608.20335), Yudong Jin et al., SIGGRAPH Asia 2026 | [citation](./references/citations.bib#L3313-L3318) | [site](https://4danyone.github.io/) | [code](https://github.com/ant-research/4DAnyone)
 
 
 </details>
