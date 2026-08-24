@@ -539,6 +539,10 @@ This README is intended to work as a fast research index:
 
 - [Block3D: Efficient Text-to-3D Generation via Block-Wise Diffusion](https://arxiv.org/abs/2608.19567), Bowen Cui et al., Arxiv 2026 | [citation](./references/citations.bib#L3292-L3297) | [site](https://alexandertsui.github.io/block3d/) | [code]()
 
+- [MultiCube: Compositional 3D Generation With Part-Level Semantic and Spatial Control](https://arxiv.org/abs/2608.20448), Ava Pun et al., Arxiv 2026 | [citation](./references/citations.bib#L3320-L3325) | [site](https://multi-cube.github.io) | [code]()
+
+- [TopoSurfel: Closing the Loop between Gaussian Surfels and Meshes for Surface Reconstruction](https://arxiv.org/abs/2608.20687), Chuanjin Fan et al., Arxiv 2026 | [citation](./references/citations.bib#L3327-L3332) | [site]() | [code](https://github.com/Fan-Treasure/TopoSurfel)
+
 </details>
 
 <a id="3d-editing-decomposition--stylization"></a>
@@ -878,6 +882,8 @@ This README is intended to work as a fast research index:
 - [AvatarDynamizer: From Static to Dynamic Human Avatars via Generative Dynamic Textures](https://arxiv.org/abs/2608.19900), Guoxing Sun et al., Arxiv 2026 | [citation](./references/citations.bib#L3306-L3311) | [site](https://vcai.mpi-inf.mpg.de/projects/AvatarDynamizer/) | [code]()
 
 - [DreamHand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery](https://arxiv.org/abs/2608.20308), Yufei Liu et al., Arxiv 2026 | [citation](./references/citations.bib#L3299-L3304) | [site](https://ggxxii.github.io/dreamhand/) | [code](https://github.com/ggxxii/dreamhand)
+
+- [DiGS-Avatar: Single-Image Animatable 3D Human Reconstruction via UV-Space Diffusion](https://arxiv.org/abs/2608.20759), Jiakun Li et al., ECCV 2026 | [citation](./references/citations.bib#L3334-L3339) | [site]() | [code](https://github.com/KLMAV-CUC/DiGS-Avatar)
 
 </details>
 
