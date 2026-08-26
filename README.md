@@ -545,6 +545,14 @@ This README is intended to work as a fast research index:
 
 - [FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors](https://arxiv.org/abs/2608.23549), Khiem Vuong et al., ECCV 2026 | [citation](./references/citations.bib#L3341-L3346) | [site](https://fix-anything.github.io/) | [code](https://github.com/kvuong2711/fix-anything)
 
+- [Luce: Relightable Gaussians for 3D Asset Generation](https://arxiv.org/abs/2608.23943), Mayank Singh et al., Arxiv 2026 | [citation](./references/citations.bib#L3355-L3360) | [site]() | [code]()
+
+- [SceneReGen: Generative Reconstruction of 3D Scenes from a Single Image](https://arxiv.org/abs/2608.23930), Zefan Tian et al., Arxiv 2026 | [citation](./references/citations.bib#L3362-L3367) | [site]() | [code]()
+
+- [NeoWorld-Pro: Programming Interactive Scenes from Monocular Images for Embodied Simulation](https://arxiv.org/abs/2608.24212), Yumeng He et al., Arxiv 2026 | [citation](./references/citations.bib#L3369-L3374) | [site](https://raynehe.github.io/PRISM/) | [code]()
+
+- [ExMesh++: From Multi-View Images to Relightable UV-PBR Mesh Assets via Topology-Adaptive Reconstruction and Decomposition](https://arxiv.org/abs/2608.24109), Chuanjin Fan et al., Arxiv 2026 | [citation](./references/citations.bib#L3376-L3381) | [site]() | [code]()
+
 </details>
 
 <a id="3d-editing-decomposition--stylization"></a>
