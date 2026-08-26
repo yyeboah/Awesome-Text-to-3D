@@ -543,6 +543,8 @@ This README is intended to work as a fast research index:
 
 - [TopoSurfel: Closing the Loop between Gaussian Surfels and Meshes for Surface Reconstruction](https://arxiv.org/abs/2608.20687), Chuanjin Fan et al., Arxiv 2026 | [citation](./references/citations.bib#L3327-L3332) | [site]() | [code](https://github.com/Fan-Treasure/TopoSurfel)
 
+- [FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors](https://arxiv.org/abs/2608.23549), Khiem Vuong et al., ECCV 2026 | [citation](./references/citations.bib#L3341-L3346) | [site](https://fix-anything.github.io/) | [code](https://github.com/kvuong2711/fix-anything)
+
 </details>
 
 <a id="3d-editing-decomposition--stylization"></a>
@@ -916,6 +918,8 @@ This README is intended to work as a fast research index:
 - [Video Models as Native 4D Renderers: World-Grounded Conditioning from Animated Mesh](https://arxiv.org/abs/2608.00094), Junhao Chen et al., Arxiv 2026 | [citation](./references/citations.bib#L3222-L3227) | [site]() | [code]()
 
 - [4DAnyone: Create Anyone in 4D from a Casual Monocular Video](https://arxiv.org/abs/2608.20335), Yudong Jin et al., SIGGRAPH Asia 2026 | [citation](./references/citations.bib#L3313-L3318) | [site](https://4danyone.github.io/) | [code](https://github.com/ant-research/4DAnyone)
+
+- [Towards Alias-Free 4D Gaussian Representations with Motion-Aware Filtering](https://arxiv.org/abs/2608.21828), Ankit Dhiman et al., ECCV 2026 | [citation](./references/citations.bib#L3348-L3353) | [site](https://maaf-4dgs.github.io/) | [code](https://github.com/val-iisc/MAAF-4DGS)
 
 
 </details>
