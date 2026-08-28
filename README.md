@@ -553,6 +553,8 @@ This README is intended to work as a fast research index:
 
 - [ExMesh++: From Multi-View Images to Relightable UV-PBR Mesh Assets via Topology-Adaptive Reconstruction and Decomposition](https://arxiv.org/abs/2608.24109), Chuanjin Fan et al., Arxiv 2026 | [citation](./references/citations.bib#L3376-L3381) | [site]() | [code]()
 
+- [Cross-Platform Benchmark of Neural 3D Reconstruction for Autonomous Laboratory Robots](https://arxiv.org/abs/2608.26383), Yongho Kim et al., Arxiv 2026 | [citation](./references/citations.bib#L3383-L3388) | [site]() | [code]()
+
 </details>
 
 <a id="3d-editing-decomposition--stylization"></a>
@@ -979,6 +981,10 @@ This README is intended to work as a fast research index:
 - [WorldClaw: Agentic 3D Open-World Generation at Scale](https://arxiv.org/abs/2608.05248), Chunchao Guo et al., Arxiv 2026 | [citation](./references/citations.bib#L3250-L3255) | [site](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/) | [code](https://github.com/Tencent-Hunyuan/Hunyuan3D-WorldClaw)
 
 - [StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization](https://arxiv.org/abs/2608.12314), Yuyang Yin et al., Arxiv 2026 | [citation](./references/citations.bib#L3271-L3276) | [site](https://yuyangyin.github.io/StateFlow/) | [code]()
+
+- [4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation](https://arxiv.org/abs/2608.26947), Zehao Qi et al., Arxiv 2026 | [citation](./references/citations.bib#L3390-L3395) | [site]() | [code]()
+
+- [SpatialCrafter: Single Image World Modeling with Generative 3D Proxies](https://arxiv.org/abs/2608.27073), Chuan Fang et al., SIGGRAPH Asia 2026 | [citation](./references/citations.bib#L3397-L3402) | [site](https://fangchuan.github.io/SpatialCrafter/) | [code]()
 
 </details>
 
