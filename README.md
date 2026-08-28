@@ -1041,6 +1041,8 @@ This README is intended to work as a fast research index:
 
 - [ThreeDee AI 3D Bust Maker - Generate 3D busts from single photo](https://www.threedee.design/products/3d-bust-maker/), ThreeDee, Product 2026
 
+- [Luphra - Prompt-to-Matter AI for Editable 3D and Manufactured Products](https://www.luphra.com), Luphra, Product 2026
+
 
 ## Tutorial Videos :tv:
 
