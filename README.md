@@ -555,6 +555,14 @@ This README is intended to work as a fast research index:
 
 - [Cross-Platform Benchmark of Neural 3D Reconstruction for Autonomous Laboratory Robots](https://arxiv.org/abs/2608.26383), Yongho Kim et al., Arxiv 2026 | [citation](./references/citations.bib#L3383-L3388) | [site]() | [code]()
 
+- [ReconSplat: Generalizable 3D Scene Reconstruction Beyond Observed Views](https://arxiv.org/abs/2608.28895), Giuseppe Stracquadanio et al., ECCV 2026 | [citation](./references/citations.bib#L3404-L3409) | [site](https://visinf.github.io/reconsplat/) | [code]()
+
+- [Dynamic-Robust Photometric-Semantic Reconstruction for Open-Vocabulary 3D Scene Understanding](https://arxiv.org/abs/2608.29177), Boyu Cai et al., ECCV 2026 | [citation](./references/citations.bib#L3411-L3416) | [site]() | [code](https://github.com/dmucby/SPAR)
+
+- [LightFuse: Relightable Interactive Gaussian Scene Reconstruction via Multi-Scan Fusion and 2D Gaussian Ray Tracing](https://arxiv.org/abs/2608.29269), Haonan Zhou et al., Arxiv 2026 | [citation](./references/citations.bib#L3418-L3423) | [site](https://zhn202.github.io/LightFuse/) | [code]()
+
+- [GridFlow: Structured Latent Flow for Seamless City-Scale 3D Point Cloud Generation](https://arxiv.org/abs/2608.29793), Xinyu Wang et al., Arxiv 2026 | [citation](./references/citations.bib#L3425-L3430) | [site](https://huggingface.co/datasets/e32/City3D-MultiGen) | [code]()
+
 </details>
 
 <a id="3d-editing-decomposition--stylization"></a>
