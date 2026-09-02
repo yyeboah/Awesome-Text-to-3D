@@ -563,6 +563,8 @@ This README is intended to work as a fast research index:
 
 - [GridFlow: Structured Latent Flow for Seamless City-Scale 3D Point Cloud Generation](https://arxiv.org/abs/2608.29793), Xinyu Wang et al., Arxiv 2026 | [citation](./references/citations.bib#L3425-L3430) | [site](https://huggingface.co/datasets/e32/City3D-MultiGen) | [code]()
 
+- [DualDiff3D: Dual Structure-Appearance Diffusion Priors for Reliability-Enhanced 3D Gaussian Splatting](https://arxiv.org/abs/2609.01516), Qian Wang et al., ECCV 2026 | [citation](./references/citations.bib#L3446-L3451) | [site](https://akaneqwq.github.io/dualdiff3d/) | [code](https://github.com/Akaneqwq/DualDiff3D)
+
 </details>
 
 <a id="3d-editing-decomposition--stylization"></a>
@@ -905,6 +907,8 @@ This README is intended to work as a fast research index:
 
 - [DiGS-Avatar: Single-Image Animatable 3D Human Reconstruction via UV-Space Diffusion](https://arxiv.org/abs/2608.20759), Jiakun Li et al., ECCV 2026 | [citation](./references/citations.bib#L3334-L3339) | [site]() | [code](https://github.com/KLMAV-CUC/DiGS-Avatar)
 
+- [Seeing the World and the Self from Egocentric Video](https://arxiv.org/abs/2609.01276), Kai Guan et al., Arxiv 2026 | [citation](./references/citations.bib#L3439-L3444) | [site](https://ka1guan.github.io/RESELF/) | [code](https://github.com/Ka1Guan/RESELF)
+
 </details>
 
 <a id="dynamic-content-generation"></a>
@@ -993,6 +997,8 @@ This README is intended to work as a fast research index:
 - [4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation](https://arxiv.org/abs/2608.26947), Zehao Qi et al., Arxiv 2026 | [citation](./references/citations.bib#L3390-L3395) | [site]() | [code]()
 
 - [SpatialCrafter: Single Image World Modeling with Generative 3D Proxies](https://arxiv.org/abs/2608.27073), Chuan Fang et al., SIGGRAPH Asia 2026 | [citation](./references/citations.bib#L3397-L3402) | [site](https://fangchuan.github.io/SpatialCrafter/) | [code]()
+
+- [Streaming4D: Accelerate 4D World Models via Block-wise Video Generation and Incremental Reconstruction](https://arxiv.org/abs/2609.00610), Xiaoyan Liu et al., Arxiv 2026 | [citation](./references/citations.bib#L3432-L3437) | [site]() | [code]()
 
 </details>
 
