@@ -767,6 +767,8 @@ This README is intended to work as a fast research index:
 
 - [PoseAdapter: Dual-Stream 2.5D Controllable Image Generation for Complex Multi-Object Scenes](https://arxiv.org/abs/2608.15583), Yufeng Chi et al., ACM MM 2026 | [citation](./references/citations.bib#L3285-L3290) | [site]() | [code](https://github.com/cyf23/PoseAdapter)
 
+- [PointGT: Simultaneous Geometry and Texture Editing for Point-Based Representations](https://zvict.github.io/pointgt/), Yanshu Zhang et al., ECCV 2026 | [citation](./references/citations.bib#L3453-L3458) | [site](https://zvict.github.io/pointgt/) | [code]()
+
 </details>
 
 <a id="avatar-generation-and-manupilation"></a>
