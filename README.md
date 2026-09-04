@@ -565,6 +565,8 @@ This README is intended to work as a fast research index:
 
 - [DualDiff3D: Dual Structure-Appearance Diffusion Priors for Reliability-Enhanced 3D Gaussian Splatting](https://arxiv.org/abs/2609.01516), Qian Wang et al., ECCV 2026 | [citation](./references/citations.bib#L3446-L3451) | [site](https://akaneqwq.github.io/dualdiff3d/) | [code](https://github.com/Akaneqwq/DualDiff3D)
 
+- [Zero-Shot Novel Depth Synthesis Using 3D Foundation Models Scene Representations](https://arxiv.org/abs/2609.04174), Denis M. Akola et al., ECCV 2026 | [citation](./references/citations.bib#L3467-L3472) | [site](https://akola-mbey-denis.github.io/Z3D-page/) | [code](https://github.com/Akola-Mbey-Denis/Z3D)
+
 </details>
 
 <a id="3d-editing-decomposition--stylization"></a>
@@ -944,6 +946,10 @@ This README is intended to work as a fast research index:
 - [4DAnyone: Create Anyone in 4D from a Casual Monocular Video](https://arxiv.org/abs/2608.20335), Yudong Jin et al., SIGGRAPH Asia 2026 | [citation](./references/citations.bib#L3313-L3318) | [site](https://4danyone.github.io/) | [code](https://github.com/ant-research/4DAnyone)
 
 - [Towards Alias-Free 4D Gaussian Representations with Motion-Aware Filtering](https://arxiv.org/abs/2608.21828), Ankit Dhiman et al., ECCV 2026 | [citation](./references/citations.bib#L3348-L3353) | [site](https://maaf-4dgs.github.io/) | [code](https://github.com/val-iisc/MAAF-4DGS)
+
+- [Stabilizing Camera-Controlled Novel View Synthesis at Inference Time](https://arxiv.org/abs/2609.03639), Prajwal Singh et al., Arxiv 2026 | [citation](./references/citations.bib#L3460-L3465) | [site]() | [code]()
+
+- [FlashRender: Few-Step Generative Rendering via Camera-Controlled Video MeanFlow](https://arxiv.org/abs/2609.03563), Byeongjun Park et al., Arxiv 2026 | [citation](./references/citations.bib#L3474-L3479) | [site](https://byeongjun-park.github.io/FlashRender/) | [code](https://github.com/byeongjun-park/FlashRender)
 
 
 </details>
