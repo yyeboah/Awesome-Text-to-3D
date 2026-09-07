@@ -2,13 +2,18 @@
 
 import fs from "node:fs/promises";
 import path from "node:path";
+import { buildCitationGraph } from "./citation-graph.mjs";
 
 const root = process.cwd();
 const readmePath = path.join(root, "README.md");
 const bibPath = path.join(root, "references", "citations.bib");
 const reportPath = path.join(root, "references", "internal-citations.json");
 const reportMarkdownPath = path.join(root, "references", "internal-citations.md");
-const cachePath = "/private/tmp/awesome-text-to-3d-semantic-scholar-cache.json";
+const cachePath = path.join(root, "references", "citation-cache.json");
+const graphPath = path.join(root, "references", "citation-graph.json");
+const offline = process.argv.includes("--offline");
+const refresh = process.argv.includes("--refresh");
+if (offline && refresh) throw new Error("--offline and --refresh cannot be combined");
 const apiBase = "https://api.semanticscholar.org/graph/v1";
 const targetSections = new Set([
   "X-to-3D",
@@ -106,6 +111,7 @@ function parseRows(readme, bib) {
 }
 
 async function apiRequest(url, options = {}, attempts = 9) {
+  if (offline) throw new Error(`Offline cache miss: ${url}`);
   for (let attempt = 0; attempt < attempts; attempt += 1) {
     const response = await fetch(url, options);
     if (response.ok) return response.json();
@@ -119,7 +125,22 @@ async function apiRequest(url, options = {}, attempts = 9) {
 }
 
 async function saveCache(cache) {
-  await fs.writeFile(cachePath, JSON.stringify(Object.fromEntries(cache)));
+  const papers = {};
+  const lookups = {};
+  for (const [key, paper] of [...cache].sort(([a], [b]) => a.localeCompare(b))) {
+    lookups[key] = paper?.paperId || null;
+    if (paper?.paperId) {
+      const prior = papers[paper.paperId];
+      papers[paper.paperId] = { ...paper };
+      if (prior?.citations && !paper.citations) {
+        papers[paper.paperId].citations = prior.citations;
+        papers[paper.paperId].citationsFetchedAt = prior.citationsFetchedAt;
+      }
+      lookups[`id:${paper.paperId}`] = paper.paperId;
+    }
+  }
+  await fs.writeFile(`${cachePath}.tmp`, `${JSON.stringify({ schemaVersion: 1, lookups, papers }, null, 2)}\n`);
+  await fs.rename(`${cachePath}.tmp`, cachePath);
 }
 
 async function resolveBatch(identifiers, cache) {
@@ -137,7 +158,7 @@ async function resolveBatch(identifiers, cache) {
       body: JSON.stringify({ ids }),
     });
     ids.forEach((id, offset) => {
-      const paper = data[offset] || null;
+      const paper = data[offset] ? { ...data[offset], fetchedAt: new Date().toISOString() } : null;
       results.set(id, paper);
       cache.set(`id:${id}`, paper);
     });
@@ -163,6 +184,7 @@ async function resolveByTitle(rows, cache) {
       );
       const candidate = data.data?.[0] || data;
       const paper = candidate && titleSimilarity(row.title, candidate.title || "") >= 0.82 ? candidate : null;
+      if (paper) paper.fetchedAt = new Date().toISOString();
       results.set(row.title, paper);
       cache.set(cacheKey, paper);
     } catch (error) {
@@ -238,10 +260,14 @@ async function main() {
   );
   let cache = new Map();
   try {
-    cache = new Map(Object.entries(JSON.parse(await fs.readFile(cachePath, "utf8"))));
-  } catch {}
+    const stored = JSON.parse(await fs.readFile(cachePath, "utf8"));
+    cache = new Map(Object.entries(stored.lookups).map(([key, id]) => [key, id ? stored.papers[id] : null]));
+  } catch (error) { if (error.code !== "ENOENT") throw error; }
+  if (refresh) cache.clear();
+  // Retry unresolved papers on future online runs; never freeze a negative lookup forever.
+  if (!offline) for (const [key, value] of cache) if (!value) cache.delete(key);
   for (const row of citationRows) {
-    row.lookupIdentifier = row.identifier || priorIds.get(normalizeTitle(row.title)) || null;
+    row.lookupIdentifier = priorIds.get(normalizeTitle(row.title)) || row.identifier || null;
   }
   const identifiers = [...new Set(citationRows.map((row) => row.lookupIdentifier).filter(Boolean))];
   const byIdentifier = await resolveBatch(identifiers, cache);
@@ -261,22 +287,44 @@ async function main() {
   for (const row of citationRows) {
     if (row.paper?.paperId && !papersById.has(row.paper.paperId)) papersById.set(row.paper.paperId, row.paper);
   }
-  const citingTitlesByTarget = new Map([...papersById.keys()].map((id) => [id, new Set()]));
+  // Only new works need incoming lookups. Existing reference snapshots already cover
+  // most edges; incoming pages catch citations added after those snapshots.
+  const previousPaperIds = new Set(priorIds.values());
   for (const paper of papersById.values()) {
-    for (const reference of paper.references || []) {
-      if (reference?.paperId && citingTitlesByTarget.has(reference.paperId) && reference.paperId !== paper.paperId) {
-        citingTitlesByTarget.get(reference.paperId).add(paper.title);
-      }
-    }
+    if (!refresh && previousPaperIds.has(paper.paperId)) continue;
+    const key = `incoming:${paper.paperId}`;
+    if (cache.has(key)) { paper.citations = cache.get(key).citations; continue; }
+    const citations = [];
+    let offset = 0;
+    do {
+      const page = await apiRequest(`${apiBase}/paper/${paper.paperId}/citations?fields=paperId&limit=1000&offset=${offset}`);
+      citations.push(...page.data.map(item => item.citingPaper).filter(Boolean));
+      offset = page.next;
+    } while (offset !== undefined && offset !== null);
+    paper.citations = citations;
+    paper.citationsFetchedAt = new Date().toISOString();
+    cache.set(key, paper);
+    await saveCache(cache);
   }
+  const graph = buildCitationGraph([...papersById.values()]);
+  const citingIdsByTarget = graph.incoming;
+  const citingTitlesByTarget = new Map([...graph.incoming].map(([id, sources]) =>
+    [id, [...sources].map(source => papersById.get(source).title).sort()]));
 
   for (const row of rows) {
     row.date = row.paper?.publicationDate || row.fallbackDate;
-    row.internalCitations = row.paper?.paperId ? citingTitlesByTarget.get(row.paper.paperId)?.size ?? 0 : null;
+    row.internalCitations = row.paper?.paperId ? citingIdsByTarget.get(row.paper.paperId)?.size ?? 0 : null;
     row.citedBy = row.paper?.paperId ? [...(citingTitlesByTarget.get(row.paper.paperId) || [])].sort() : [];
   }
 
   const generatedAt = new Date().toISOString();
+  await saveCache(cache);
+  await fs.writeFile(graphPath, `${JSON.stringify({
+    schemaVersion: 1, generatedAt,
+    source: "Semantic Scholar Academic Graph API",
+    direction: "source cites target",
+    nodes: graph.nodes, edges: graph.edges,
+  }, null, 2)}\n`);
   const resolvedRows = citationRows.filter((row) => row.paper?.paperId).length;
   const methodology = `- Citation count measures distinct papers elsewhere in this index that [Semantic Scholar](https://api.semanticscholar.org/api-docs/graphs) reports as citing an entry (refreshed ${generatedAt.slice(0, 10)}; ${papersById.size} distinct works, ${resolvedRows}/${citationRows.length} citation-backed rows resolved).`;
   const oldMethodology = lines.findIndex((line) =>
@@ -302,6 +350,7 @@ async function main() {
     publicationDate: row.date,
     internalCitationCount: row.internalCitations,
     citedBy: row.citedBy,
+    citedByIds: [...(citingIdsByTarget.get(row.paper?.paperId) || [])].sort(),
   }));
   await fs.writeFile(
     reportPath,

@@ -15,6 +15,7 @@ This README is intended to work as a fast research index:
 
 ## Navigation
 - 📚 [Papers](#papers-scroll)
+- 🔗 [Citation graph](./references/CITATION-GRAPH.md)
 - 🧊 [X-to-3D](#x-to-3d)
 - ✏️ [3D Editing, Decomposition & Stylization](#3d-editing-decomposition--stylization)
 - 🧍 [Avatar Generation and Manupilation](#avatar-generation-and-manupilation)
