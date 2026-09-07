@@ -1,12 +1,32 @@
 {
   "source": "Semantic Scholar Academic Graph API",
   "sourceUrl": "https://api.semanticscholar.org/api-docs/graphs",
-  "generatedAt": "2026-09-05T16:01:15.322Z",
+  "generatedAt": "2026-09-07T14:38:43.420Z",
   "definition": "Distinct resolved papers in this README whose Semantic Scholar reference lists include the target paper.",
-  "resolvedRows": 494,
-  "citationBackedRows": 494,
-  "distinctResolvedWorks": 489,
+  "resolvedRows": 497,
+  "citationBackedRows": 497,
+  "distinctResolvedWorks": 492,
   "entries": [
+    {
+      "title": "Reflection-aware Generative Novel View Synthesis",
+      "section": "X-to-3D",
+      "identifier": "ARXIV:2609.05382",
+      "semanticScholarPaperId": "947c251fd63fced3cbb07818b0716d8e9c907ccd",
+      "semanticScholarTitle": "Reflection-aware Generative Novel View Synthesis",
+      "publicationDate": "2026-09-04",
+      "internalCitationCount": 0,
+      "citedBy": []
+    },
+    {
+      "title": "Compact Neural Appearance Models for Efficient Gaussian Splatting",
+      "section": "X-to-3D",
+      "identifier": "ARXIV:2609.05255",
+      "semanticScholarPaperId": "8af141fa1bf13a6a4031f0a59c0c4c7aaa3cbaa8",
+      "semanticScholarTitle": "Compact Neural Appearance Models for Efficient Gaussian Splatting",
+      "publicationDate": "2026-09-04",
+      "internalCitationCount": 0,
+      "citedBy": []
+    },
     {
       "title": "Zero-Shot Novel Depth Synthesis Using 3D Foundation Models Scene Representations",
       "section": "X-to-3D",
@@ -222,7 +242,7 @@
       "section": "X-to-3D",
       "identifier": "ARXIV:2607.14470",
       "semanticScholarPaperId": "94641ea93bca91d53a2c20834a7e75c220c5c748",
-      "semanticScholarTitle": "G$^2$SR: Geometric Methods for Fast and Memory-Efficient Gaussian-based Surface Reconstruction",
+      "semanticScholarTitle": "G2SR: Geometric Methods for Fast and Memory-Efficient Gaussian-based Surface Reconstruction",
       "publicationDate": "2026-07-16",
       "internalCitationCount": 0,
       "citedBy": []
@@ -406,8 +426,10 @@
       "semanticScholarPaperId": "957304867a36e15ec6181d67e37a7b40058bd5a4",
       "semanticScholarTitle": "GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction",
       "publicationDate": "2026-05-22",
-      "internalCitationCount": 0,
-      "citedBy": []
+      "internalCitationCount": 1,
+      "citedBy": [
+        "WorldSculpt: Generating Compositional Worlds from Grounded Videos"
+      ]
     },
     {
       "title": "ROAR-3D: Routing Arbitrary Views for High-Fidelity 3D Generation",
@@ -549,7 +571,7 @@
       "semanticScholarPaperId": "ecd0d6c7e8093bd69655edc511e408216d52c7fb",
       "semanticScholarTitle": "Native and Compact Structured Latents for 3D Generation",
       "publicationDate": "2025-12-16",
-      "internalCitationCount": 21,
+      "internalCitationCount": 22,
       "citedBy": [
         "3DMorph: Single-Image-Guided Local 3D Shape Editing and Morphing",
         "ABot-Earth 0.5: Generative 3D Earth Model",
@@ -571,7 +593,8 @@
         "UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image",
         "UniPhysGen: Unified Physical Grounding for Simulation-Ready 3D Assets",
         "VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching",
-        "World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible"
+        "World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible",
+        "WorldSculpt: Generating Compositional Worlds from Grounded Videos"
       ]
     },
     {
@@ -606,7 +629,7 @@
       "semanticScholarPaperId": "ef19e75521087bda065b33ed78c3b358285ce18e",
       "semanticScholarTitle": "SAM 3D: 3Dfy Anything in Images",
       "publicationDate": "2025-11-20",
-      "internalCitationCount": 12,
+      "internalCitationCount": 13,
       "citedBy": [
         "4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation",
         "Cross-Platform Benchmark of Neural 3D Reconstruction for Autonomous Laboratory Robots",
@@ -619,7 +642,8 @@
         "SceneReGen: Generative Reconstruction of 3D Scenes from a Single Image",
         "SpaceControl: Introducing Test-Time Spatial Control to 3D Generative Modeling",
         "World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible",
-        "WorldClaw: Agentic 3D Open-World Generation at Scale"
+        "WorldClaw: Agentic 3D Open-World Generation at Scale",
+        "WorldSculpt: Generating Compositional Worlds from Grounded Videos"
       ]
     },
     {
@@ -1041,12 +1065,13 @@
       "semanticScholarPaperId": "6c6e7588391dd6d4bc5459e56634f3eac105011a",
       "semanticScholarTitle": "Stable Virtual Camera: Generative View Synthesis with Diffusion Models",
       "publicationDate": "2025-03-18",
-      "internalCitationCount": 8,
+      "internalCitationCount": 9,
       "citedBy": [
         "Bolt3D: Generating 3D Scenes in Seconds",
         "GeoFace: Consistent Multi-View Face Generation with Geometry-Constrained Diffusion",
         "HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Models",
         "JointEdit3D: Feed-Forward 3D Scene Editing in a Unified Latent Space",
+        "Reflection-aware Generative Novel View Synthesis",
         "SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer",
         "Stabilizing Camera-Controlled Novel View Synthesis at Inference Time",
         "VideoFrom3D: 3D Scene Video Generation via Complementary Image and Video Diffusion Models",
@@ -1081,14 +1106,15 @@
       "semanticScholarPaperId": "4f7af27daff614eb4e7c58461743f6405f7c265f",
       "semanticScholarTitle": "Amodal3R: Amodal 3D Reconstruction from Occluded 2D Images",
       "publicationDate": "2025-03-17",
-      "internalCitationCount": 6,
+      "internalCitationCount": 7,
       "citedBy": [
         "3D-RE-GEN: 3D Reconstruction of Indoor Scenes with a Generative Framework",
         "3DMorph: Single-Image-Guided Local 3D Shape Editing and Morphing",
         "HoloScene: Simulation-Ready Interactive 3D Worlds from a Single Video",
         "RelaxFlow: Text-Driven Amodal 3D Generation",
         "SAM 3D: 3Dfy Anything in Images",
-        "SpaceControl: Introducing Test-Time Spatial Control to 3D Generative Modeling"
+        "SpaceControl: Introducing Test-Time Spatial Control to 3D Generative Modeling",
+        "WorldSculpt: Generating Compositional Worlds from Grounded Videos"
       ]
     },
     {
@@ -1308,7 +1334,7 @@
       "semanticScholarPaperId": "1fcce9c865a5969f97eb268f858d6943e1e47c8d",
       "semanticScholarTitle": "DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion",
       "publicationDate": "2024-11-07",
-      "internalCitationCount": 13,
+      "internalCitationCount": 14,
       "citedBy": [
         "4DHumanDiff: Direct Text-to-4DGS Generation for Consistent 360-Degree Dynamic Humans",
         "Bolt3D: Generating 3D Scenes in Seconds",
@@ -1319,6 +1345,7 @@
         "LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion",
         "Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation",
         "NavCrafter: Exploring 3D Scenes from a Single Image",
+        "Reflection-aware Generative Novel View Synthesis",
         "Stabilizing Camera-Controlled Novel View Synthesis at Inference Time",
         "StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization",
         "Wonderland: Navigating 3D Scenes From a Single Image",
@@ -1776,7 +1803,7 @@
       "semanticScholarPaperId": "4987a76781f299be64ac43419c8b489ca1f4515b",
       "semanticScholarTitle": "CAT3D: Create Anything in 3D with Multi-View Diffusion Models",
       "publicationDate": "2024-05-16",
-      "internalCitationCount": 35,
+      "internalCitationCount": 36,
       "citedBy": [
         "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
         "ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion",
@@ -1806,6 +1833,7 @@
         "PRISM: Feed-Forward Single-Image 3D Reconstruction via Geometric Warp-Residual Modeling",
         "RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion",
         "ReconSplat: Generalizable 3D Scene Reconstruction Beyond Observed Views",
+        "Reflection-aware Generative Novel View Synthesis",
         "SF3D: Stable Fast 3D Mesh Reconstruction with UV-unwrapping and Illumination Disentanglement",
         "SPATIALGEN: Layout-Guided 3D Indoor Scene Generation",
         "Stable Virtual Camera: Generative View Synthesis with Diffusion Models",
@@ -1870,7 +1898,7 @@
       "semanticScholarPaperId": "34276d30da30285f4ad348848ec746457730899a",
       "semanticScholarTitle": "InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models",
       "publicationDate": "2024-04-10",
-      "internalCitationCount": 47,
+      "internalCitationCount": 48,
       "citedBy": [
         "3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis",
         "3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion",
@@ -1918,7 +1946,8 @@
         "UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement",
         "View-adaptive renderer for view-consistent 2D-to-3D generation",
         "Wonder3D++: Cross-Domain Diffusion for High-Fidelity 3D Generation From a Single Image",
-        "World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible"
+        "World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible",
+        "WorldSculpt: Generating Compositional Worlds from Grounded Videos"
       ]
     },
     {
@@ -2094,7 +2123,7 @@
       "semanticScholarPaperId": "e6cb30effd90d563bc680430ecc1317842d33b6e",
       "semanticScholarTitle": "GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation",
       "publicationDate": "2024-03-21",
-      "internalCitationCount": 32,
+      "internalCitationCount": 33,
       "citedBy": [
         "3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion",
         "Bolt3D: Generating 3D Scenes in Seconds",
@@ -2127,7 +2156,8 @@
         "VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching",
         "Wonder3D++: Cross-Domain Diffusion for High-Fidelity 3D Generation From a Single Image",
         "WonderWorld: Interactive 3D Scene Generation from a Single Image",
-        "Wonderland: Navigating 3D Scenes From a Single Image"
+        "Wonderland: Navigating 3D Scenes From a Single Image",
+        "WorldSculpt: Generating Compositional Worlds from Grounded Videos"
       ]
     },
     {
@@ -2331,7 +2361,7 @@
       "semanticScholarPaperId": "2177967931f395f88faa630019e3cd9b1831ffc1",
       "semanticScholarTitle": "CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction Model",
       "publicationDate": "2024-03-08",
-      "internalCitationCount": 39,
+      "internalCitationCount": 40,
       "citedBy": [
         "3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion",
         "Alignment Is All You Need For X-to-4D Generation",
@@ -2371,7 +2401,8 @@
         "ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding",
         "Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets",
         "VecSet-Edit: Unleashing Pre-trained LRM for Mesh Editing from Single Image",
-        "Wonder3D++: Cross-Domain Diffusion for High-Fidelity 3D Generation From a Single Image"
+        "Wonder3D++: Cross-Domain Diffusion for High-Fidelity 3D Generation From a Single Image",
+        "WorldSculpt: Generating Compositional Worlds from Grounded Videos"
       ]
     },
     {
@@ -2381,7 +2412,7 @@
       "semanticScholarPaperId": "4299b79ef41601cf6e3e0603f7216d72b6d1315f",
       "semanticScholarTitle": "TripoSR: Fast 3D Object Reconstruction from a Single Image",
       "publicationDate": "2024-03-04",
-      "internalCitationCount": 24,
+      "internalCitationCount": 25,
       "citedBy": [
         "CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction Model",
         "ConsistentDreamer: View-Consistent Meshes Through Balanced Multi-View Gaussian Optimization",
@@ -2406,7 +2437,8 @@
         "TC4D: Trajectory-Conditioned Text-to-4D Generation",
         "Turbo3D: Ultra-fast Text-to-3D Generation",
         "View-adaptive renderer for view-consistent 2D-to-3D generation",
-        "Wonderland: Navigating 3D Scenes From a Single Image"
+        "Wonderland: Navigating 3D Scenes From a Single Image",
+        "WorldSculpt: Generating Compositional Worlds from Grounded Videos"
       ]
     },
     {
@@ -2478,7 +2510,7 @@
       "semanticScholarPaperId": "11665dbecb17ef4d3d71b75b8666ce0e61bd43fa",
       "semanticScholarTitle": "LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation",
       "publicationDate": "2024-02-07",
-      "internalCitationCount": 81,
+      "internalCitationCount": 82,
       "citedBy": [
         "3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis",
         "3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion",
@@ -2560,7 +2592,8 @@
         "VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching",
         "Wonder3D++: Cross-Domain Diffusion for High-Fidelity 3D Generation From a Single Image",
         "Wonderland: Navigating 3D Scenes From a Single Image",
-        "World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible"
+        "World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible",
+        "WorldSculpt: Generating Compositional Worlds from Grounded Videos"
       ]
     },
     {
@@ -3010,7 +3043,7 @@
       "semanticScholarPaperId": "eb2cbd12f749f14716296f7f415e921562c9079b",
       "semanticScholarTitle": "LRM: Large Reconstruction Model for Single Image to 3D",
       "publicationDate": "2023-11-08",
-      "internalCitationCount": 87,
+      "internalCitationCount": 88,
       "citedBy": [
         "3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion",
         "4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling",
@@ -3098,7 +3131,8 @@
         "VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching",
         "Wonder3D++: Cross-Domain Diffusion for High-Fidelity 3D Generation From a Single Image",
         "Wonderland: Navigating 3D Scenes From a Single Image",
-        "World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible"
+        "World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible",
+        "WorldSculpt: Generating Compositional Worlds from Grounded Videos"
       ]
     },
     {
@@ -3618,7 +3652,7 @@
       "semanticScholarPaperId": "fcd0de4066d93fa3822a14898008fa2dd99f7be6",
       "semanticScholarTitle": "SyncDreamer: Generating Multiview-consistent Images from a Single-view Image",
       "publicationDate": "2023-09-07",
-      "internalCitationCount": 79,
+      "internalCitationCount": 80,
       "citedBy": [
         "2L3: Lifting Imperfect Generated 2D Images into Accurate 3D",
         "4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling",
@@ -3698,6 +3732,7 @@
         "VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching",
         "Wonder3D++: Cross-Domain Diffusion for High-Fidelity 3D Generation From a Single Image",
         "World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible",
+        "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
         "Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model"
       ]
     },
@@ -3708,7 +3743,7 @@
       "semanticScholarPaperId": "9aa01997226b5c4d705ae2e2f52c32681006654b",
       "semanticScholarTitle": "MVDream: Multi-view Diffusion for 3D Generation",
       "publicationDate": "2023-08-31",
-      "internalCitationCount": 126,
+      "internalCitationCount": 127,
       "citedBy": [
         "3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis",
         "3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion",
@@ -3803,6 +3838,7 @@
         "Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts",
         "RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion",
         "ReconSplat: Generalizable 3D Scene Reconstruction Beyond Observed Views",
+        "Reflection-aware Generative Novel View Synthesis",
         "RelaxFlow: Text-Driven Amodal 3D Generation",
         "ReplaceAnything3D: Text-Guided 3D Scene Editing with Compositional Neural Radiance Fields",
         "RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D",
@@ -4104,7 +4140,7 @@
       "semanticScholarPaperId": "830ed65d226a337088d6d97c3c3b068155bf10ec",
       "semanticScholarTitle": "Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation",
       "publicationDate": "2023-06-29",
-      "internalCitationCount": 24,
+      "internalCitationCount": 25,
       "citedBy": [
         "3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion",
         "Bridging Geometry-Coherent Text-to-3D Generation with Multi-View Diffusion Priors and Gaussian Splatting",
@@ -4129,6 +4165,7 @@
         "ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding",
         "SpatialCrafter: Single Image World Modeling with Generative 3D Proxies",
         "Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets",
+        "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
         "X-Part: high fidelity and structure coherent shape decomposition"
       ]
     },
@@ -4139,7 +4176,7 @@
       "semanticScholarPaperId": "c22ef963b2388cdbbfcc7a00b24f68710a7febd2",
       "semanticScholarTitle": "One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization",
       "publicationDate": "2023-06-29",
-      "internalCitationCount": 86,
+      "internalCitationCount": 87,
       "citedBy": [
         "2L3: Lifting Imperfect Generated 2D Images into Accurate 3D",
         "3D-GPT: Procedural 3D Modeling with Large Language Models",
@@ -4226,6 +4263,7 @@
         "V3D: Video Diffusion Models are Effective 3D Generators",
         "VP3D: Unleashing 2D Visual Prompt for Text-to-3D Generation",
         "Wonder3D++: Cross-Domain Diffusion for High-Fidelity 3D Generation From a Single Image",
+        "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
         "Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model"
       ]
     },
@@ -4550,7 +4588,7 @@
       "semanticScholarPaperId": "213a14d426acebf2f04709eea722a887a1f5f051",
       "semanticScholarTitle": "Text2NeRF: Text-Driven 3D Scene Generation With Neural Radiance Fields",
       "publicationDate": "2023-05-19",
-      "internalCitationCount": 20,
+      "internalCitationCount": 21,
       "citedBy": [
         "AnchoredDream: Zero-Shot 360° Indoor Scene Generation from a Single View via Geometric Grounding",
         "CAD : Photorealistic 3D Generation via Adversarial Distillation",
@@ -4565,6 +4603,7 @@
         "Native3D: End-to-End 3D Scene Generation via Unified Mesh-Texture Modeling and Semantic Alignment",
         "ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation",
         "RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion",
+        "Reflection-aware Generative Novel View Synthesis",
         "RoamScene3D: Immersive Text-to-3D Scene Generation via Adaptive Object-aware Roaming",
         "SceneCraft: Layout-Guided 3D Scene Generation",
         "SyncDreamer: Generating Multiview-consistent Images from a Single-view Image",
@@ -4789,7 +4828,7 @@
       "semanticScholarPaperId": "cf923fb70bbad20c485cef355444a08096747f68",
       "semanticScholarTitle": "Generative Novel View Synthesis with 3D-Aware Diffusion Models",
       "publicationDate": "2023-04-05",
-      "internalCitationCount": 37,
+      "internalCitationCount": 38,
       "citedBy": [
         "2L3: Lifting Imperfect Generated 2D Images into Accurate 3D",
         "3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis",
@@ -4815,6 +4854,7 @@
         "Part123: Part-aware 3D Reconstruction from a Single-view Image",
         "RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion",
         "ReconSplat: Generalizable 3D Scene Reconstruction Beyond Observed Views",
+        "Reflection-aware Generative Novel View Synthesis",
         "RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D",
         "SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion",
         "SceneCraft: Layout-Guided 3D Scene Generation",
@@ -5049,7 +5089,7 @@
       "semanticScholarPaperId": "2c70684973bc4d7b6f8404a647b8031c4d3c8383",
       "semanticScholarTitle": "Zero-1-to-3: Zero-shot One Image to 3D Object",
       "publicationDate": "2023-03-20",
-      "internalCitationCount": 163,
+      "internalCitationCount": 165,
       "citedBy": [
         "2L3: Lifting Imperfect Generated 2D Images into Accurate 3D",
         "3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis",
@@ -5166,6 +5206,7 @@
         "Pushing Auto-regressive Models for 3D Shape Generation at Capacity and Scalability",
         "Re-imagine the Negative Prompt Algorithm: Transform 2D Diffusion into 3D, alleviate Janus problem and Beyond",
         "RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion",
+        "Reflection-aware Generative Novel View Synthesis",
         "RelaxFlow: Text-Driven Amodal 3D Generation",
         "Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting",
         "ReplaceAnything3D: Text-Guided 3D Scene Editing with Compositional Neural Radiance Fields",
@@ -5210,6 +5251,7 @@
         "WonderHuman: Hallucinating Unseen Parts in Dynamic 3D Human Reconstruction",
         "Wonderland: Navigating 3D Scenes From a Single Image",
         "World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible",
+        "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
         "X-Dreamer: Creating High-quality 3D Content by Bridging the Domain Gap Between Text-to-2D and Text-to-3D Generation",
         "YouDream: Generating Anatomically Controllable Consistent Text-to-3D Animals",
         "Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model",
@@ -5586,7 +5628,7 @@
       "semanticScholarPaperId": "1b8a734dd28a9d766a5d3dbc0871e76b6a452b65",
       "semanticScholarTitle": "Point-E: A System for Generating 3D Point Clouds from Complex Prompts",
       "publicationDate": "2022-12-16",
-      "internalCitationCount": 113,
+      "internalCitationCount": 114,
       "citedBy": [
         "2L3: Lifting Imperfect Generated 2D Images into Accurate 3D",
         "3D-aware Image Generation using 2D Diffusion Models",
@@ -5700,6 +5742,7 @@
         "V3D: Video Diffusion Models are Effective 3D Generators",
         "VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching",
         "Wonder3D++: Cross-Domain Diffusion for High-Fidelity 3D Generation From a Single Image",
+        "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
         "Zero-1-to-3: Zero-shot One Image to 3D Object"
       ]
     },
@@ -7246,9 +7289,10 @@
       "semanticScholarPaperId": "f6942b91a072028b07981dc843c8ccda9e06a094",
       "semanticScholarTitle": "Pixal3D: Pixel-Aligned 3D Generation from Images",
       "publicationDate": "2026-05-11",
-      "internalCitationCount": 1,
+      "internalCitationCount": 2,
       "citedBy": [
-        "GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction"
+        "GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction",
+        "WorldSculpt: Generating Compositional Worlds from Grounded Videos"
       ]
     },
     {
@@ -7784,7 +7828,7 @@
       "semanticScholarPaperId": "dc9155d45404cb3baf932c311e6ef894eebd9574",
       "semanticScholarTitle": "SF3D: Stable Fast 3D Mesh Reconstruction with UV-unwrapping and Illumination Disentanglement",
       "publicationDate": "2024-08-01",
-      "internalCitationCount": 7,
+      "internalCitationCount": 8,
       "citedBy": [
         "3D-RE-GEN: 3D Reconstruction of Indoor Scenes with a Generative Framework",
         "3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion",
@@ -7792,7 +7836,8 @@
         "Geometry Image Diffusion: Fast and Data-Efficient Text-to-3D with Image-Based Surface Representation",
         "MagicPose4D: Crafting Articulated Models with Appearance and Motion Control",
         "PBR3DGen: A VLM-guided Mesh Generation with High-quality PBR Texture",
-        "SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single Images"
+        "SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single Images",
+        "WorldSculpt: Generating Compositional Worlds from Grounded Videos"
       ]
     },
     {
@@ -9882,6 +9927,16 @@
       ]
     },
     {
+      "title": "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
+      "section": "World Models",
+      "identifier": "ARXIV:2609.05416",
+      "semanticScholarPaperId": "961408fc53c3b1af2739e67f77256ecd2ae57b1b",
+      "semanticScholarTitle": "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
+      "publicationDate": "2026-09-04",
+      "internalCitationCount": 0,
+      "citedBy": []
+    },
+    {
       "title": "Streaming4D: Accelerate 4D World Models via Block-wise Video Generation and Incremental Reconstruction",
       "section": "World Models",
       "identifier": "ARXIV:2609.00610",
@@ -9946,7 +10001,7 @@
       "section": "World Models",
       "identifier": "ARXIV:2607.14005",
       "semanticScholarPaperId": "74a9252a1e0d8865d357ba040d50762959d4a59e",
-      "semanticScholarTitle": "M$^\\text{4}$World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming",
+      "semanticScholarTitle": "M4World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming",
       "publicationDate": "2026-07-15",
       "internalCitationCount": 0,
       "citedBy": []
@@ -10293,7 +10348,7 @@
       "semanticScholarPaperId": "1b90e9e9734bed6b379ae87d688cb3b887baf597",
       "semanticScholarTitle": "Objaverse-XL: A Universe of 10M+ 3D Objects",
       "publicationDate": "2023-07-11",
-      "internalCitationCount": 83,
+      "internalCitationCount": 84,
       "citedBy": [
         "3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis",
         "3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion",
@@ -10374,6 +10429,7 @@
         "UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image",
         "UniPhysGen: Unified Physical Grounding for Simulation-Ready 3D Assets",
         "World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible",
+        "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
         "X-Part: high fidelity and structure coherent shape decomposition",
         "YouDream: Generating Anatomically Controllable Consistent Text-to-3D Animals",
         "Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model",
@@ -10431,7 +10487,7 @@
       "semanticScholarPaperId": "1b31dbf44e68b698120552366df03e6e35a1e428",
       "semanticScholarTitle": "Objaverse: A Universe of Annotated 3D Objects",
       "publicationDate": "2022-12-15",
-      "internalCitationCount": 133,
+      "internalCitationCount": 134,
       "citedBy": [
         "3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis",
         "3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion",
@@ -10561,6 +10617,7 @@
         "VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction",
         "Wonder3D++: Cross-Domain Diffusion for High-Fidelity 3D Generation From a Single Image",
         "World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible",
+        "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
         "X-Part: high fidelity and structure coherent shape decomposition",
         "YouDream: Generating Anatomically Controllable Consistent Text-to-3D Animals",
         "Zero-1-to-3: Zero-shot One Image to 3D Object",
