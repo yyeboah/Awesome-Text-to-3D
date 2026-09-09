@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-07T14:46:32.911Z",
+  "generatedAt": "2026-09-09T13:06:34.009Z",
   "source": "Semantic Scholar Academic Graph API",
   "direction": "source cites target",
   "nodes": [
@@ -3271,6 +3271,16 @@
       "citationCount": 6
     },
     {
+      "id": "93491b9a5c8e30bd21f5f7309186c744b704077a",
+      "title": "AVSplat: Dense-View Feed-Forward 3D Gaussian Splatting with Assist-View Preconditioning",
+      "externalIds": {
+        "ArXiv": "2609.05925",
+        "CorpusId": 291831925
+      },
+      "publicationDate": "2026-09-05",
+      "citationCount": 0
+    },
+    {
       "id": "9432bd77fa374d794bf2c8703b0e0e460380771f",
       "title": "Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models",
       "externalIds": {
@@ -3351,6 +3361,17 @@
       },
       "publicationDate": "2023-03-21",
       "citationCount": 32
+    },
+    {
+      "id": "95aed32d88c74bb7dcd66951e09bf12c09d5db98",
+      "title": "Single Image to Textured 3D Object Generation in Frequency Domain: From Theory to Pipeline",
+      "externalIds": {
+        "DBLP": "journals/ijcv/WangZL26",
+        "DOI": "10.1007/s11263-026-02946-5",
+        "CorpusId": 290334271
+      },
+      "publicationDate": "2026-07-19",
+      "citationCount": 0
     },
     {
       "id": "961408fc53c3b1af2739e67f77256ecd2ae57b1b",

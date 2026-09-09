@@ -6,7 +6,7 @@ This README is intended to work as a fast research index:
 - grouped by task and content type
 - linked to BibTeX, project pages, and code when available
 - updated incrementally as new papers and resources appear
-- Citation count measures distinct papers elsewhere in this index that [Semantic Scholar](https://api.semanticscholar.org/api-docs/graphs) reports as citing an entry (refreshed 2026-09-07; 492 distinct works, 497/497 citation-backed rows resolved).
+- Citation count measures distinct papers elsewhere in this index that [Semantic Scholar](https://api.semanticscholar.org/api-docs/graphs) reports as citing an entry (refreshed 2026-09-09; 494 distinct works, 499/501 citation-backed rows resolved).
 
 ## Overview
 - Core categories: X-to-3D, 3D Editing, Avatars, Dynamic Content, World Models
@@ -31,11 +31,15 @@ This README is intended to work as a fast research index:
 <details close>
 <summary>X-to-3D</summary>
 
+- [AVSplat: Dense-View Feed-Forward 3D Gaussian Splatting with Assist-View Preconditioning](https://arxiv.org/abs/2609.05925), Muyu Xu et al., Arxiv 2026 | [citation](./references/citations.bib#L3502-L3507) | [site]() | [code]() | <a href="./references/internal-citations.md#s2-93491b9a5c8e30bd21f5f7309186c744b704077a" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
+
 - [Reflection-aware Generative Novel View Synthesis](https://arxiv.org/abs/2609.05382), GeonU Kim et al., ECCV 2026 | [citation](./references/citations.bib#L3495-L3500) | [site](https://kim-geonu.github.io/Ref-GeNVS/) | [code](https://github.com/kaist-ami/Ref-GeNVS) | <a href="./references/internal-citations.md#s2-947c251fd63fced3cbb07818b0716d8e9c907ccd" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 
 - [Compact Neural Appearance Models for Efficient Gaussian Splatting](https://arxiv.org/abs/2609.05255), Florian Hahlbohm et al., Arxiv 2026 | [citation](./references/citations.bib#L3481-L3486) | [site](https://fhahlbohm.github.io/efficient-gaussian-appearance/) | [code](https://github.com/nerficg-project/efficient-gaussian-appearance) | <a href="./references/internal-citations.md#s2-8af141fa1bf13a6a4031f0a59c0c4c7aaa3cbaa8" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 
 - [Zero-Shot Novel Depth Synthesis Using 3D Foundation Models Scene Representations](https://arxiv.org/abs/2609.04174), Denis M. Akola et al., ECCV 2026 | [citation](./references/citations.bib#L3467-L3472) | [site](https://akola-mbey-denis.github.io/Z3D-page/) | [code](https://github.com/Akola-Mbey-Denis/Z3D) | <a href="./references/internal-citations.md#s2-bf883d2584389ce0cae9cd53ab55e55346f4fa9c" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
+
+- [FIRE3D: Feed-forward Interactive 3D Scene Reconstruction Within A Minute](https://arxiv.org/abs/2609.08848), Hongchi Xia et al., Arxiv 2026 | [citation](./references/citations.bib#L3523-L3528) | [site](https://xiahongchi.github.io/Fire3D/) | [code](https://github.com/xiahongchi/Fire3D) | ▲ citation count: unavailable
 
 - [DualDiff3D: Dual Structure-Appearance Diffusion Priors for Reliability-Enhanced 3D Gaussian Splatting](https://arxiv.org/abs/2609.01516), Qian Wang et al., ECCV 2026 | [citation](./references/citations.bib#L3446-L3451) | [site](https://akaneqwq.github.io/dualdiff3d/) | [code](https://github.com/Akaneqwq/DualDiff3D) | <a href="./references/internal-citations.md#s2-5f66c5bc27497c93c8e0c741286f65d4833fa2f4" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 
@@ -74,6 +78,8 @@ This README is intended to work as a fast research index:
 - [Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing](https://arxiv.org/abs/2608.02711), Junliang Ye et al., Arxiv 2026 | [citation](./references/citations.bib#L3215-L3220) | [site](https://tencent-hunyuan.github.io/Hunyuan3D-Buffalo1.0/) | [code](https://github.com/Tencent-Hunyuan/Hunyuan3D-Buffalo1.0) | <a href="./references/internal-citations.md#s2-b6501632e0ba3d0db57dec57be1ad1b27eff4812" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 
 - [Meshy T2: Fast Native Mesh Generation with Flow Matching](https://arxiv.org/abs/2607.28675), Jiale Xu et al., Arxiv 2026 | [citation](./references/citations.bib#L3194-L3199) | [site]() | [code](https://github.com/meshy-dev/meshy-t2) | <a href="./references/internal-citations.md#s2-79d6966008a261f23c854b2d321aa151ae44df4b" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
+
+- [Single Image to Textured 3D Object Generation in Frequency Domain: From Theory to Pipeline](https://arxiv.org/abs/2609.07085), Qisen Wang et al., IJCV 2026 | [citation](./references/citations.bib#L3509-L3514) | [site](https://icvteam.github.io/Morpheus3D.html) | [code](https://github.com/iCVTEAM/Morpheus3D) | <a href="./references/internal-citations.md#s2-95aed32d88c74bb7dcd66951e09bf12c09d5db98" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 
 - [Event3R: Asynchronous-to-Global 3D Reconstruction from Event Camera via Spatial-Temporal Feature Aggregation](https://arxiv.org/abs/2607.15727), Jian Huang et al., IROS 2026 | [citation](./references/citations.bib#L3117-L3122) | [site]() | [code]() | <a href="./references/internal-citations.md#s2-422ef99efc9f959c91577e526da36060fc0fcaa4" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 
@@ -580,6 +586,8 @@ This README is intended to work as a fast research index:
 <summary>3D Editing, Decomposition & Stylization</summary>
 
 - [PointGT: Simultaneous Geometry and Texture Editing for Point-Based Representations](https://arxiv.org/abs/2609.03341), Yanshu Zhang et al., ECCV 2026 | [citation](./references/citations.bib#L3453-L3458) | [site](https://zvict.github.io/pointgt/) | [code]() | <a href="./references/internal-citations.md#s2-d83df73fb9aa10b1e2b46e3bcc58901a8e181fdd" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
+
+- [RelightFormer: Feed-forward Generative Transformer for Multiview Object Relighting](https://arxiv.org/abs/2609.07414), Hejun Wang et al., SIGGRAPH Asia 2026 | [citation](./references/citations.bib#L3516-L3521) | [site]() | [code](https://github.com/vLAR-group/RelightFormer) | ▲ citation count: unavailable
 
 - [PoseAdapter: Dual-Stream 2.5D Controllable Image Generation for Complex Multi-Object Scenes](https://arxiv.org/abs/2608.15583), Yufeng Chi et al., ACM MM 2026 | [citation](./references/citations.bib#L3285-L3290) | [site]() | [code](https://github.com/cyf23/PoseAdapter) | <a href="./references/internal-citations.md#s2-09211888bb1c4f4ccd5057e5c529570369a6daf0" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 
