@@ -277,6 +277,7 @@
     "id:9009075202066e9918078c9977b08f2fd5f1b6fb": "9009075202066e9918078c9977b08f2fd5f1b6fb",
     "id:92ca0270f7f7757a0db308935c90ebf225eec473": "92ca0270f7f7757a0db308935c90ebf225eec473",
     "id:92f4c2a6c1fabf7bbb4aba38e218aecc83d2d639": "92f4c2a6c1fabf7bbb4aba38e218aecc83d2d639",
+    "id:93491b9a5c8e30bd21f5f7309186c744b704077a": "93491b9a5c8e30bd21f5f7309186c744b704077a",
     "id:9432bd77fa374d794bf2c8703b0e0e460380771f": "9432bd77fa374d794bf2c8703b0e0e460380771f",
     "id:94641ea93bca91d53a2c20834a7e75c220c5c748": "94641ea93bca91d53a2c20834a7e75c220c5c748",
     "id:947c251fd63fced3cbb07818b0716d8e9c907ccd": "947c251fd63fced3cbb07818b0716d8e9c907ccd",
@@ -284,6 +285,7 @@
     "id:953376636504b88239d881704a567552fed466f4": "953376636504b88239d881704a567552fed466f4",
     "id:957304867a36e15ec6181d67e37a7b40058bd5a4": "957304867a36e15ec6181d67e37a7b40058bd5a4",
     "id:95aa6fa4e42387561cff22378348d528adea37f2": "95aa6fa4e42387561cff22378348d528adea37f2",
+    "id:95aed32d88c74bb7dcd66951e09bf12c09d5db98": "95aed32d88c74bb7dcd66951e09bf12c09d5db98",
     "id:961408fc53c3b1af2739e67f77256ecd2ae57b1b": "961408fc53c3b1af2739e67f77256ecd2ae57b1b",
     "id:9628d2ad834868d675f3d403269d848a6dec5399": "9628d2ad834868d675f3d403269d848a6dec5399",
     "id:963812ce7f138b411c73c74066187e9140ecc674": "963812ce7f138b411c73c74066187e9140ecc674",
@@ -329,6 +331,10 @@
     "id:afb6e01e0f7a92285cc2780ec80ef98646cf98fc": "afb6e01e0f7a92285cc2780ec80ef98646cf98fc",
     "id:afcfa12b0e922c8b9b7f811e08d9526721462edf": "afcfa12b0e922c8b9b7f811e08d9526721462edf",
     "id:afd078249f3137290cfffc5ba258211ba8e1f920": "afd078249f3137290cfffc5ba258211ba8e1f920",
+    "id:ARXIV:2609.05925": "93491b9a5c8e30bd21f5f7309186c744b704077a",
+    "id:ARXIV:2609.07085": null,
+    "id:ARXIV:2609.07414": null,
+    "id:ARXIV:2609.08848": null,
     "id:b00da7bbf32490b6da94c4bfdf1724fb86dce0c4": "b00da7bbf32490b6da94c4bfdf1724fb86dce0c4",
     "id:b0109b3dc52ff158e25e3fb0718b13c4401354fd": "b0109b3dc52ff158e25e3fb0718b13c4401354fd",
     "id:b01e8f939c685dbf11cb38d3af7604ef1e77306f": "b01e8f939c685dbf11cb38d3af7604ef1e77306f",
@@ -493,6 +499,8 @@
     "id:fe56c235cf30d6055a8eab158a19d202c3412297": "fe56c235cf30d6055a8eab158a19d202c3412297",
     "id:fefe5ccb33c99b1f6ad00c9dd5851869798be4cb": "fefe5ccb33c99b1f6ad00c9dd5851869798be4cb",
     "id:ff0baeb316df06d017f381c80a2c3aa6399fe938": "ff0baeb316df06d017f381c80a2c3aa6399fe938",
+    "incoming:93491b9a5c8e30bd21f5f7309186c744b704077a": "93491b9a5c8e30bd21f5f7309186c744b704077a",
+    "incoming:95aed32d88c74bb7dcd66951e09bf12c09d5db98": "95aed32d88c74bb7dcd66951e09bf12c09d5db98",
     "title:2l3 lifting imperfect generated 2d images into accurate 3d": "c5bcd7134757192efe04c94a50037ed053e090b7",
     "title:3d aware image generation using 2d diffusion models": "8e1ad8e0f4b86db4ac986f1c493d4ae673b63fed",
     "title:3d gpt procedural 3d modeling with large language models": "588930cdd801f335b5e524d13f99aa94136a20a0",
@@ -629,6 +637,7 @@
     "title:faceclipnerf text driven 3d face manipulation using deformable neural radiance fields": "f04aaa554a0ffb888f2c1ea86d18c591b3c2de7e",
     "title:fantasia3d disentangling geometry and appearance for high quality text to 3d content creation": "0cbb518c364067200476a51e5ce7476a4f582770",
     "title:feedforward 3d editing via text steerable image to 3d": "a449091e2bcee1706b2795eeb2a79fb0dd2f5477",
+    "title:fire3d feed forward interactive 3d scene reconstruction within a minute": null,
     "title:fixanything 3d consistent rendering refinement via video generative priors": "f25a8c4b795c7194916098baebf28eec5f1d591a",
     "title:flashrender few step generative rendering via camera controlled video meanflow": "32a4aad0e7077a618eac33f798fd8c721ddf7ba0",
     "title:flashtex fast relightable mesh texturing with lightcontrolnet": "20cb868a466afd13c4fbea6ec24510181f1764ec",
@@ -841,6 +850,7 @@
     "title:reconstruction or semantics what makes a latent space useful for robotic world models": "e075577f6009b707439792696fd4f6a7ddc39145",
     "title:reflection aware generative novel view synthesis": "947c251fd63fced3cbb07818b0716d8e9c907ccd",
     "title:relaxflow text driven amodal 3d generation": "a7fc93336d227bdb5d75966cc4555c62b501f26d",
+    "title:relightformer feed forward generative transformer for multiview object relighting": null,
     "title:remember to be curious episodic context and persistent worlds for 3d exploration": "085b9ef2d76e54538f842d569676c8319208509e",
     "title:repaint nerf nerf editing via semantic masks and diffusion models": "74fd5e71f9e1ac2bbbf0cefc871bcaa5244ce661",
     "title:repaint123 fast and high quality one image to 3d generation with progressive controllable 2d repainting": "6c06fc704c4c0a8d5ef43e48e615eede81ad4531",
@@ -887,6 +897,7 @@
     "title:sharp it a multi view to multi view diffusion model for 3d synthesis and manipulation": "be5b7cb14ae8dd3f248eac09927396371f6fce4a",
     "title:simavatar simulation ready avatars with layered hair and clothinge": "bc5fd0d0fb5a126fb8fda8ef1d4ad34b37b799f2",
     "title:simworld studio automatic environment generation with evolving coding agent for embodied agent learning": "7fdb2462ccca8648b9d4d558e776c3aa8be32db9",
+    "title:single image to textured 3d object generation in frequency domain from theory to pipeline": "95aed32d88c74bb7dcd66951e09bf12c09d5db98",
     "title:single stage diffusion nerf a unified approach to 3d generation and reconstruction": "78869b78b5c1e02fcfa39edd034bb7a1bdb24c4d",
     "title:sketch a shape zero shot sketch to 3d shape generation": "1b610296563ef5ce6de78e096d9bcc52543607d6",
     "title:sketch2nerf multi view sketch guided text to 3d generation": "be50b554fd2fb37982bae3d0e359f1520b8665f9",
@@ -66182,6 +66193,108 @@
       ],
       "fetchedAt": "2026-09-07T14:38:43.420Z"
     },
+    "93491b9a5c8e30bd21f5f7309186c744b704077a": {
+      "paperId": "93491b9a5c8e30bd21f5f7309186c744b704077a",
+      "externalIds": {
+        "ArXiv": "2609.05925",
+        "CorpusId": 291831925
+      },
+      "title": "AVSplat: Dense-View Feed-Forward 3D Gaussian Splatting with Assist-View Preconditioning",
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2609.05925, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "publicationDate": "2026-09-05",
+      "authors": [],
+      "references": [
+        {
+          "paperId": "6b233439141dbf7df9f0151a45d7a48bd44076f6"
+        },
+        {
+          "paperId": "49256952e2243cf646e11a6c16224dec3f760922"
+        },
+        {
+          "paperId": "0fcbfba846c6ae3216ec793fef12f75b25247da5"
+        },
+        {
+          "paperId": "3ae034e619a9ed9400c0de4688b007934fac0ebd"
+        },
+        {
+          "paperId": "4356b46e5dd1a4ebd579b1cd6eb3eeedddd5a65c"
+        },
+        {
+          "paperId": "a18df6f9ad6bf78c5b73afd77f8a6627e130abd8"
+        },
+        {
+          "paperId": "5565d3c41df0670461038ca79348556801e4d38d"
+        },
+        {
+          "paperId": "443775ea7430bd3a1a9dbe05f8279228d058c925"
+        },
+        {
+          "paperId": "dd1a1cfeedd186fd9494569073352e8e831657cd"
+        },
+        {
+          "paperId": "9f23a9901473784b1d7546524bd4b7eaf244fe92"
+        },
+        {
+          "paperId": "82c78c1fa921ac40aed0f8944b4a8ccc065bbb98"
+        },
+        {
+          "paperId": "44d8c25fecb5628382854ecfe92e3b1015749e7c"
+        },
+        {
+          "paperId": "4f997c404e97087194d2df538deb82b2c5428c1e"
+        },
+        {
+          "paperId": "fa0c7c850b6298fa49518e42e9f9e492dd4c5541"
+        },
+        {
+          "paperId": "3398b365ba3dd711b65d27f5e51ee2efdbc6ab85"
+        },
+        {
+          "paperId": "7e92a42736fea2a6ccc91a4a3e30e47c1f249cdd"
+        },
+        {
+          "paperId": "ac980fe6382a89d50ebf395f626b8677541a2547"
+        },
+        {
+          "paperId": "5f82a81766cb78395a55b8fc697c2421a20f4a9e"
+        },
+        {
+          "paperId": "632a4956aebedd85f61445718ec5df9589bb5843"
+        },
+        {
+          "paperId": "4096f27c87bfb1e76fa478186de8761dd3fa34f5"
+        },
+        {
+          "paperId": "2cc1d857e86d5152ba7fe6a8355c2a0150cc280a"
+        },
+        {
+          "paperId": "ec90ffa017a2cc6a51342509ce42b81b478aefb3"
+        },
+        {
+          "paperId": "b44657c2e33b043374be13ff065744fd201a9a02"
+        },
+        {
+          "paperId": "c468bbde6a22d961829e1970e6ad5795e05418d1"
+        },
+        {
+          "paperId": "eae2e0fa72e898c289365c0af16daf57a7a6cf40"
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        }
+      ],
+      "fetchedAt": "2026-09-09T13:05:43.524Z",
+      "citations": [],
+      "citationsFetchedAt": "2026-09-09T13:06:22.558Z"
+    },
     "9432bd77fa374d794bf2c8703b0e0e460380771f": {
       "paperId": "9432bd77fa374d794bf2c8703b0e0e460380771f",
       "externalIds": {
@@ -68164,6 +68277,41 @@
         }
       ],
       "fetchedAt": "2026-09-07T14:38:43.420Z"
+    },
+    "95aed32d88c74bb7dcd66951e09bf12c09d5db98": {
+      "paperId": "95aed32d88c74bb7dcd66951e09bf12c09d5db98",
+      "externalIds": {
+        "DBLP": "journals/ijcv/WangZL26",
+        "DOI": "10.1007/s11263-026-02946-5",
+        "CorpusId": 290334271
+      },
+      "title": "Single Image to Textured 3D Object Generation in Frequency Domain: From Theory to Pipeline",
+      "openAccessPdf": {
+        "url": "",
+        "status": "CLOSED",
+        "license": null,
+        "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'references'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11263-026-02946-5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11263-026-02946-5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "publicationDate": "2026-07-19",
+      "authors": [
+        {
+          "authorId": "2333515726",
+          "name": "Qisen Wang"
+        },
+        {
+          "authorId": "151469503",
+          "name": "Yifan Zhao"
+        },
+        {
+          "authorId": "2333521509",
+          "name": "Jia Li"
+        }
+      ],
+      "references": null,
+      "matchScore": 258.75946,
+      "fetchedAt": "2026-09-09T13:06:14.168Z",
+      "citations": [],
+      "citationsFetchedAt": "2026-09-09T13:06:22.420Z"
     },
     "961408fc53c3b1af2739e67f77256ecd2ae57b1b": {
       "paperId": "961408fc53c3b1af2739e67f77256ecd2ae57b1b",

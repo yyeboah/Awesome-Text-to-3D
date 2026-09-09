@@ -1,12 +1,23 @@
 {
   "source": "Semantic Scholar Academic Graph API",
   "sourceUrl": "https://api.semanticscholar.org/api-docs/graphs",
-  "generatedAt": "2026-09-07T14:46:32.911Z",
+  "generatedAt": "2026-09-09T13:06:34.009Z",
   "definition": "Distinct resolved papers in this README whose Semantic Scholar reference lists include the target paper.",
-  "resolvedRows": 497,
-  "citationBackedRows": 497,
-  "distinctResolvedWorks": 492,
+  "resolvedRows": 499,
+  "citationBackedRows": 501,
+  "distinctResolvedWorks": 494,
   "entries": [
+    {
+      "title": "AVSplat: Dense-View Feed-Forward 3D Gaussian Splatting with Assist-View Preconditioning",
+      "section": "X-to-3D",
+      "identifier": "ARXIV:2609.05925",
+      "semanticScholarPaperId": "93491b9a5c8e30bd21f5f7309186c744b704077a",
+      "semanticScholarTitle": "AVSplat: Dense-View Feed-Forward 3D Gaussian Splatting with Assist-View Preconditioning",
+      "publicationDate": "2026-09-05",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
     {
       "title": "Reflection-aware Generative Novel View Synthesis",
       "section": "X-to-3D",
@@ -37,6 +48,17 @@
       "semanticScholarTitle": "Zero-Shot Novel Depth Synthesis Using 3D Foundation Models Scene Representations",
       "publicationDate": "2026-09-03",
       "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
+    {
+      "title": "FIRE3D: Feed-forward Interactive 3D Scene Reconstruction Within A Minute",
+      "section": "X-to-3D",
+      "identifier": "ARXIV:2609.08848",
+      "semanticScholarPaperId": null,
+      "semanticScholarTitle": null,
+      "publicationDate": "2026-09-01",
+      "internalCitationCount": null,
       "citedBy": [],
       "citedByIds": []
     },
@@ -245,6 +267,17 @@
       "semanticScholarPaperId": "79d6966008a261f23c854b2d321aa151ae44df4b",
       "semanticScholarTitle": "Meshy T2: Fast Native Mesh Generation with Flow Matching",
       "publicationDate": "2026-07-28",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
+    {
+      "title": "Single Image to Textured 3D Object Generation in Frequency Domain: From Theory to Pipeline",
+      "section": "X-to-3D",
+      "identifier": "ARXIV:2609.07085",
+      "semanticScholarPaperId": "95aed32d88c74bb7dcd66951e09bf12c09d5db98",
+      "semanticScholarTitle": "Single Image to Textured 3D Object Generation in Frequency Domain: From Theory to Pipeline",
+      "publicationDate": "2026-07-19",
       "internalCitationCount": 0,
       "citedBy": [],
       "citedByIds": []
@@ -11862,6 +11895,17 @@
       "semanticScholarTitle": "PointGT: Simultaneous Geometry and Texture Editing for Point-Based Representations",
       "publicationDate": "2026-09-03",
       "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
+    {
+      "title": "RelightFormer: Feed-forward Generative Transformer for Multiview Object Relighting",
+      "section": "3D Editing, Decomposition & Stylization",
+      "identifier": "ARXIV:2609.07414",
+      "semanticScholarPaperId": null,
+      "semanticScholarTitle": null,
+      "publicationDate": "2026-09-01",
+      "internalCitationCount": null,
       "citedBy": [],
       "citedByIds": []
     },

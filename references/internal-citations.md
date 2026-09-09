@@ -1,6 +1,6 @@
 # Citation counts
 
-Generated 2026-09-07 from the Semantic Scholar reference graph. Counts include only distinct papers indexed in this repository.
+Generated 2026-09-09 from the Semantic Scholar reference graph. Counts include only distinct papers indexed in this repository.
 
 <a id="s2-4c94d04afa4309ec2f06bdd0fe3781f91461b362"></a>
 ## DreamFusion: Text-to-3D using 2D Diffusion
@@ -7002,6 +7002,13 @@ Generated 2026-09-07 from the Semantic Scholar reference graph. Counts include o
 
 - One-shot Implicit Animatable Avatars with Model-based Priors
 
+<a id="s2-93491b9a5c8e30bd21f5f7309186c744b704077a"></a>
+## AVSplat: Dense-View Feed-Forward 3D Gaussian Splatting with Assist-View Preconditioning
+
+**Citation count:** 0
+
+No other indexed papers cite this paper.
+
 <a id="s2-8af141fa1bf13a6a4031f0a59c0c4c7aaa3cbaa8"></a>
 ## Compact Neural Appearance Models for Efficient Gaussian Splatting
 
@@ -7368,6 +7375,13 @@ No other indexed papers cite this paper.
 
 <a id="s2-4d7de7b64be6dce4c7beece2ed1553ce5653abaf"></a>
 ## AniGS: Bridging Rendering and Diffusion Prior for 3D Scene Animation
+
+**Citation count:** 0
+
+No other indexed papers cite this paper.
+
+<a id="s2-95aed32d88c74bb7dcd66951e09bf12c09d5db98"></a>
+## Single Image to Textured 3D Object Generation in Frequency Domain: From Theory to Pipeline
 
 **Citation count:** 0
 
