@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-09T13:06:34.009Z",
+  "generatedAt": "2026-09-10T17:05:14.249Z",
   "source": "Semantic Scholar Academic Graph API",
   "direction": "source cites target",
   "nodes": [
@@ -168,7 +168,7 @@
         "CorpusId": 268531375
       },
       "publicationDate": "2024-03-18",
-      "citationCount": 40
+      "citationCount": 41
     },
     {
       "id": "03ebe0fb80d3253a5231d0f1cbac7f3f20fa3aec",
@@ -324,7 +324,7 @@
         "CorpusId": 284057591
       },
       "publicationDate": "2025-12-19",
-      "citationCount": 2
+      "citationCount": 3
     },
     {
       "id": "0ae390462f72ec4b7ea2e66fd0d43922667c7ca8",
@@ -372,7 +372,7 @@
         "CorpusId": 281326038
       },
       "publicationDate": "2025-09-16",
-      "citationCount": 3
+      "citationCount": 4
     },
     {
       "id": "0c4d8df762be5d5cfe9ba81fd733f109c5abbbb6",
@@ -639,7 +639,7 @@
         "CorpusId": 254685588
       },
       "publicationDate": "2022-12-15",
-      "citationCount": 134
+      "citationCount": 136
     },
     {
       "id": "1b610296563ef5ce6de78e096d9bcc52543607d6",
@@ -1023,7 +1023,7 @@
         "CorpusId": 259309218
       },
       "publicationDate": "2023-06-30",
-      "citationCount": 78
+      "citationCount": 79
     },
     {
       "id": "261ef57339a56fefdf0555827fa9ebf59208fa15",
@@ -1165,7 +1165,7 @@
         "CorpusId": 257631738
       },
       "publicationDate": "2023-03-20",
-      "citationCount": 165
+      "citationCount": 167
     },
     {
       "id": "2d4e2b2a9f823ba7bb5b4409c40f22cc9087814a",
@@ -1459,7 +1459,7 @@
         "CorpusId": 268248244
       },
       "publicationDate": "2024-03-04",
-      "citationCount": 25
+      "citationCount": 26
     },
     {
       "id": "4344f8973be4366988e63adf402456b822ea6c27",
@@ -1554,6 +1554,16 @@
       },
       "publicationDate": "2024-02-11",
       "citationCount": 14
+    },
+    {
+      "id": "464d129d9b9bef255152414be0dcb682d0b4e9ac",
+      "title": "MotionCanvas: Learning Implicit Motion Planning from Composable Kinematic Cues",
+      "externalIds": {
+        "ArXiv": "2609.10457",
+        "CorpusId": 291876622
+      },
+      "publicationDate": "2026-09-09",
+      "citationCount": 0
     },
     {
       "id": "47f574c6ffa3ced5881a170b5cdffabafea01eab",
@@ -1673,7 +1683,7 @@
         "CorpusId": 252596091
       },
       "publicationDate": "2022-09-29",
-      "citationCount": 290
+      "citationCount": 291
     },
     {
       "id": "4d7de7b64be6dce4c7beece2ed1553ce5653abaf",
@@ -2446,6 +2456,16 @@
       "citationCount": 2
     },
     {
+      "id": "74416900c40f4df9750e336b41dde7ddc4050d94",
+      "title": "AnimalLift: Reconstructing Animatable 3D Animals from a Single Image by Learning Canonical Shape, Texture, and Fur Maps",
+      "externalIds": {
+        "ArXiv": "2609.09513",
+        "CorpusId": 291872392
+      },
+      "publicationDate": "2026-09-08",
+      "citationCount": 0
+    },
+    {
       "id": "74907b59d6540750c9c3f361b0b038f1889cdbbd",
       "title": "HumanLiff: Layer-wise 3D Human Generation with Diffusion Model",
       "externalIds": {
@@ -2633,7 +2653,7 @@
         "CorpusId": 253510536
       },
       "publicationDate": "2022-11-14",
-      "citationCount": 97
+      "citationCount": 98
     },
     {
       "id": "79d6966008a261f23c854b2d321aa151ae44df4b",
@@ -2870,7 +2890,7 @@
         "CorpusId": 281886422
       },
       "publicationDate": "2025-10-07",
-      "citationCount": 1
+      "citationCount": 2
     },
     {
       "id": "84cce9b8aea35e4fa38eef63da439573f21c0728",
@@ -2986,7 +3006,7 @@
         "CorpusId": 259316427
       },
       "publicationDate": "2023-07-03",
-      "citationCount": 28
+      "citationCount": 29
     },
     {
       "id": "8885ef26c2dbef9635fc2a1e97fc698475b265bb",
@@ -4050,6 +4070,16 @@
       "citationCount": 4
     },
     {
+      "id": "b5cb6f50c20b1ecc5e8bb1af9611527f9a23184d",
+      "title": "StreetDiff: Multi-view Street Scenes Generation via Cross-view Consistent Multi-view Stable Diffusion with Structure Prompts",
+      "externalIds": {
+        "ArXiv": "2609.09890",
+        "CorpusId": 291872867
+      },
+      "publicationDate": "2026-09-09",
+      "citationCount": 0
+    },
+    {
       "id": "b62b63a87738f53020540639a5de164f47a84287",
       "title": "NeuSEditor: From Multi-View Images to Text-Guided Neural Surface Edits",
       "externalIds": {
@@ -4233,7 +4263,7 @@
         "CorpusId": 253708074
       },
       "publicationDate": "2022-11-18",
-      "citationCount": 198
+      "citationCount": 199
     },
     {
       "id": "be50b554fd2fb37982bae3d0e359f1520b8665f9",
@@ -4303,7 +4333,7 @@
         "CorpusId": 259286991
       },
       "publicationDate": "2023-06-29",
-      "citationCount": 87
+      "citationCount": 89
     },
     {
       "id": "c2768bb042df122cd018701315f28b3035100225",
@@ -4361,6 +4391,16 @@
         "CorpusId": 291325218
       },
       "publicationDate": "2026-08-22",
+      "citationCount": 0
+    },
+    {
+      "id": "c57fc45e22559d7a39f9eafb5cae4fffc362cb58",
+      "title": "FIRE3D: Feed-forward Interactive 3D Scene Reconstruction Within A Minute",
+      "externalIds": {
+        "ArXiv": "2609.08848",
+        "CorpusId": 291870979
+      },
+      "publicationDate": "2026-09-08",
       "citationCount": 0
     },
     {
@@ -4517,6 +4557,16 @@
         "CorpusId": 290983800
       },
       "publicationDate": "2026-08-10",
+      "citationCount": 0
+    },
+    {
+      "id": "c9b13a4038ab1b4fbd4b79ac320e5ae2cdb45f09",
+      "title": "RelightFormer: Feed-forward Generative Transformer for Multiview Object Relighting",
+      "externalIds": {
+        "ArXiv": "2609.07414",
+        "CorpusId": 291871522
+      },
+      "publicationDate": "2026-09-07",
       "citationCount": 0
     },
     {
@@ -5012,6 +5062,16 @@
       "citationCount": 3
     },
     {
+      "id": "df085db3b9569b4fa76d2a410e4d14de6f85b907",
+      "title": "View-Structured Conformal Prediction for 3D Gaussian Splatting",
+      "externalIds": {
+        "ArXiv": "2609.10307",
+        "CorpusId": 291876563
+      },
+      "publicationDate": "2026-09-09",
+      "citationCount": 0
+    },
+    {
       "id": "dfabdf96c18f535d4a55012d91c6cab213d2b28f",
       "title": "LL3M: Large Language 3D Modelers",
       "externalIds": {
@@ -5220,7 +5280,7 @@
         "CorpusId": 268554137
       },
       "publicationDate": "2024-03-21",
-      "citationCount": 33
+      "citationCount": 34
     },
     {
       "id": "e6e9f1c45b98fddf1243a06f50d1dd8dcd544df8",
@@ -5293,7 +5353,7 @@
         "CorpusId": 265050698
       },
       "publicationDate": "2023-11-08",
-      "citationCount": 88
+      "citationCount": 89
     },
     {
       "id": "eb33fe4db171c33a96cea4cf77bda7cff769a0c4",
@@ -5375,7 +5435,7 @@
         "CorpusId": 283110051
       },
       "publicationDate": "2025-11-20",
-      "citationCount": 13
+      "citationCount": 14
     },
     {
       "id": "efda2446411fcef4eade3099ea0766d25959a668",
@@ -14147,6 +14207,30 @@
       "target": "989071b209da57f5764ec404d4a3352173f5a1c3"
     },
     {
+      "source": "74416900c40f4df9750e336b41dde7ddc4050d94",
+      "target": "0c394ef805e3931bcbb1b3186e6cca6d51f699f1"
+    },
+    {
+      "source": "74416900c40f4df9750e336b41dde7ddc4050d94",
+      "target": "2c70684973bc4d7b6f8404a647b8031c4d3c8383"
+    },
+    {
+      "source": "74416900c40f4df9750e336b41dde7ddc4050d94",
+      "target": "4c94d04afa4309ec2f06bdd0fe3781f91461b362"
+    },
+    {
+      "source": "74416900c40f4df9750e336b41dde7ddc4050d94",
+      "target": "bdf4af8311637c681904e71cf50f96fd0026f578"
+    },
+    {
+      "source": "74416900c40f4df9750e336b41dde7ddc4050d94",
+      "target": "e6cb30effd90d563bc680430ecc1317842d33b6e"
+    },
+    {
+      "source": "74416900c40f4df9750e336b41dde7ddc4050d94",
+      "target": "eb2cbd12f749f14716296f7f415e921562c9079b"
+    },
+    {
       "source": "74907b59d6540750c9c3f361b0b038f1889cdbbd",
       "target": "02c0b857b13030a596bd34dc0d75f499aaf4b420"
     },
@@ -19727,6 +19811,22 @@
       "target": "4c94d04afa4309ec2f06bdd0fe3781f91461b362"
     },
     {
+      "source": "b5cb6f50c20b1ecc5e8bb1af9611527f9a23184d",
+      "target": "2c70684973bc4d7b6f8404a647b8031c4d3c8383"
+    },
+    {
+      "source": "b5cb6f50c20b1ecc5e8bb1af9611527f9a23184d",
+      "target": "793939b83e10903f58d8edbb7534963df627a1fe"
+    },
+    {
+      "source": "b5cb6f50c20b1ecc5e8bb1af9611527f9a23184d",
+      "target": "87a6fa722b2eacf7fc6470a493f49ce8809f4543"
+    },
+    {
+      "source": "b5cb6f50c20b1ecc5e8bb1af9611527f9a23184d",
+      "target": "c22ef963b2388cdbbfcc7a00b24f68710a7febd2"
+    },
+    {
       "source": "b62b63a87738f53020540639a5de164f47a84287",
       "target": "0cbb518c364067200476a51e5ce7476a4f582770"
     },
@@ -21291,6 +21391,38 @@
       "target": "cc1a674bb164d09a060cf5b26fe518c02fae0ddc"
     },
     {
+      "source": "c57fc45e22559d7a39f9eafb5cae4fffc362cb58",
+      "target": "03e2cfa44b64489fb98f09dfbd940043fbef90ad"
+    },
+    {
+      "source": "c57fc45e22559d7a39f9eafb5cae4fffc362cb58",
+      "target": "0a448b0c2cdf32de0393190dd17a166a30289e3c"
+    },
+    {
+      "source": "c57fc45e22559d7a39f9eafb5cae4fffc362cb58",
+      "target": "1b31dbf44e68b698120552366df03e6e35a1e428"
+    },
+    {
+      "source": "c57fc45e22559d7a39f9eafb5cae4fffc362cb58",
+      "target": "2605f0776dcda957fa540f88cdec53badab848b1"
+    },
+    {
+      "source": "c57fc45e22559d7a39f9eafb5cae4fffc362cb58",
+      "target": "4299b79ef41601cf6e3e0603f7216d72b6d1315f"
+    },
+    {
+      "source": "c57fc45e22559d7a39f9eafb5cae4fffc362cb58",
+      "target": "83fdbde07c6ba9a6ef5871e66b7020570c844d09"
+    },
+    {
+      "source": "c57fc45e22559d7a39f9eafb5cae4fffc362cb58",
+      "target": "c22ef963b2388cdbbfcc7a00b24f68710a7febd2"
+    },
+    {
+      "source": "c57fc45e22559d7a39f9eafb5cae4fffc362cb58",
+      "target": "ef19e75521087bda065b33ed78c3b358285ce18e"
+    },
+    {
       "source": "c59a8dea5fd9570d0c4205eef9ced6fe2ee1e9aa",
       "target": "05782b157d5468c08de9dbde9635ee9902f40b60"
     },
@@ -21993,6 +22125,10 @@
     {
       "source": "c98028781d33c85206fc2d6927a28db7bdc203f0",
       "target": "fcd0de4066d93fa3822a14898008fa2dd99f7be6"
+    },
+    {
+      "source": "c9b13a4038ab1b4fbd4b79ac320e5ae2cdb45f09",
+      "target": "1b31dbf44e68b698120552366df03e6e35a1e428"
     },
     {
       "source": "cae2a7bacfde502a04af010b04e47800b8f20d26",
