@@ -132,6 +132,7 @@
     "id:45ce01446a0b85e84aa29c3209f25e0844a1cd45": "45ce01446a0b85e84aa29c3209f25e0844a1cd45",
     "id:45cea06661862dd27aa45d7bb6e26b12ef6f31f5": "45cea06661862dd27aa45d7bb6e26b12ef6f31f5",
     "id:45f61c7c99e729c5666af436ad90c2c82c480375": "45f61c7c99e729c5666af436ad90c2c82c480375",
+    "id:464d129d9b9bef255152414be0dcb682d0b4e9ac": "464d129d9b9bef255152414be0dcb682d0b4e9ac",
     "id:47f574c6ffa3ced5881a170b5cdffabafea01eab": "47f574c6ffa3ced5881a170b5cdffabafea01eab",
     "id:48c77b4cdd7567544cfd03832494d920abbe082c": "48c77b4cdd7567544cfd03832494d920abbe082c",
     "id:48dc3d9acdc624add5b68984d6419a10883a7b7e": "48dc3d9acdc624add5b68984d6419a10883a7b7e",
@@ -207,6 +208,7 @@
     "id:73782be72f7188ef4a24482435352ec22d49e710": "73782be72f7188ef4a24482435352ec22d49e710",
     "id:738e3e0623054da29dc57fc6aee5e6711867c4e8": "738e3e0623054da29dc57fc6aee5e6711867c4e8",
     "id:73df6a33d9177cf18fa4661f45a35b606e09a643": "73df6a33d9177cf18fa4661f45a35b606e09a643",
+    "id:74416900c40f4df9750e336b41dde7ddc4050d94": "74416900c40f4df9750e336b41dde7ddc4050d94",
     "id:74907b59d6540750c9c3f361b0b038f1889cdbbd": "74907b59d6540750c9c3f361b0b038f1889cdbbd",
     "id:74a9252a1e0d8865d357ba040d50762959d4a59e": "74a9252a1e0d8865d357ba040d50762959d4a59e",
     "id:74f25085e2e7c8931c2030d3d245616369f48947": "74f25085e2e7c8931c2030d3d245616369f48947",
@@ -332,9 +334,16 @@
     "id:afcfa12b0e922c8b9b7f811e08d9526721462edf": "afcfa12b0e922c8b9b7f811e08d9526721462edf",
     "id:afd078249f3137290cfffc5ba258211ba8e1f920": "afd078249f3137290cfffc5ba258211ba8e1f920",
     "id:ARXIV:2609.05925": "93491b9a5c8e30bd21f5f7309186c744b704077a",
-    "id:ARXIV:2609.07085": null,
-    "id:ARXIV:2609.07414": null,
-    "id:ARXIV:2609.08848": null,
+    "id:ARXIV:2609.07414": "c9b13a4038ab1b4fbd4b79ac320e5ae2cdb45f09",
+    "id:c9b13a4038ab1b4fbd4b79ac320e5ae2cdb45f09": "c9b13a4038ab1b4fbd4b79ac320e5ae2cdb45f09",
+    "id:ARXIV:2609.08848": "c57fc45e22559d7a39f9eafb5cae4fffc362cb58",
+    "id:c57fc45e22559d7a39f9eafb5cae4fffc362cb58": "c57fc45e22559d7a39f9eafb5cae4fffc362cb58",
+    "id:ARXIV:2609.09513": "74416900c40f4df9750e336b41dde7ddc4050d94",
+    "id:ARXIV:2609.09890": "b5cb6f50c20b1ecc5e8bb1af9611527f9a23184d",
+    "id:b5cb6f50c20b1ecc5e8bb1af9611527f9a23184d": "b5cb6f50c20b1ecc5e8bb1af9611527f9a23184d",
+    "id:ARXIV:2609.10307": "df085db3b9569b4fa76d2a410e4d14de6f85b907",
+    "id:df085db3b9569b4fa76d2a410e4d14de6f85b907": "df085db3b9569b4fa76d2a410e4d14de6f85b907",
+    "id:ARXIV:2609.10457": "464d129d9b9bef255152414be0dcb682d0b4e9ac",
     "id:b00da7bbf32490b6da94c4bfdf1724fb86dce0c4": "b00da7bbf32490b6da94c4bfdf1724fb86dce0c4",
     "id:b0109b3dc52ff158e25e3fb0718b13c4401354fd": "b0109b3dc52ff158e25e3fb0718b13c4401354fd",
     "id:b01e8f939c685dbf11cb38d3af7604ef1e77306f": "b01e8f939c685dbf11cb38d3af7604ef1e77306f",
@@ -499,8 +508,14 @@
     "id:fe56c235cf30d6055a8eab158a19d202c3412297": "fe56c235cf30d6055a8eab158a19d202c3412297",
     "id:fefe5ccb33c99b1f6ad00c9dd5851869798be4cb": "fefe5ccb33c99b1f6ad00c9dd5851869798be4cb",
     "id:ff0baeb316df06d017f381c80a2c3aa6399fe938": "ff0baeb316df06d017f381c80a2c3aa6399fe938",
+    "incoming:464d129d9b9bef255152414be0dcb682d0b4e9ac": "464d129d9b9bef255152414be0dcb682d0b4e9ac",
+    "incoming:74416900c40f4df9750e336b41dde7ddc4050d94": "74416900c40f4df9750e336b41dde7ddc4050d94",
     "incoming:93491b9a5c8e30bd21f5f7309186c744b704077a": "93491b9a5c8e30bd21f5f7309186c744b704077a",
     "incoming:95aed32d88c74bb7dcd66951e09bf12c09d5db98": "95aed32d88c74bb7dcd66951e09bf12c09d5db98",
+    "incoming:b5cb6f50c20b1ecc5e8bb1af9611527f9a23184d": "b5cb6f50c20b1ecc5e8bb1af9611527f9a23184d",
+    "incoming:c57fc45e22559d7a39f9eafb5cae4fffc362cb58": "c57fc45e22559d7a39f9eafb5cae4fffc362cb58",
+    "incoming:c9b13a4038ab1b4fbd4b79ac320e5ae2cdb45f09": "c9b13a4038ab1b4fbd4b79ac320e5ae2cdb45f09",
+    "incoming:df085db3b9569b4fa76d2a410e4d14de6f85b907": "df085db3b9569b4fa76d2a410e4d14de6f85b907",
     "title:2l3 lifting imperfect generated 2d images into accurate 3d": "c5bcd7134757192efe04c94a50037ed053e090b7",
     "title:3d aware image generation using 2d diffusion models": "8e1ad8e0f4b86db4ac986f1c493d4ae673b63fed",
     "title:3d gpt procedural 3d modeling with large language models": "588930cdd801f335b5e524d13f99aa94136a20a0",
@@ -637,7 +652,6 @@
     "title:faceclipnerf text driven 3d face manipulation using deformable neural radiance fields": "f04aaa554a0ffb888f2c1ea86d18c591b3c2de7e",
     "title:fantasia3d disentangling geometry and appearance for high quality text to 3d content creation": "0cbb518c364067200476a51e5ce7476a4f582770",
     "title:feedforward 3d editing via text steerable image to 3d": "a449091e2bcee1706b2795eeb2a79fb0dd2f5477",
-    "title:fire3d feed forward interactive 3d scene reconstruction within a minute": null,
     "title:fixanything 3d consistent rendering refinement via video generative priors": "f25a8c4b795c7194916098baebf28eec5f1d591a",
     "title:flashrender few step generative rendering via camera controlled video meanflow": "32a4aad0e7077a618eac33f798fd8c721ddf7ba0",
     "title:flashtex fast relightable mesh texturing with lightcontrolnet": "20cb868a466afd13c4fbea6ec24510181f1764ec",
@@ -850,7 +864,6 @@
     "title:reconstruction or semantics what makes a latent space useful for robotic world models": "e075577f6009b707439792696fd4f6a7ddc39145",
     "title:reflection aware generative novel view synthesis": "947c251fd63fced3cbb07818b0716d8e9c907ccd",
     "title:relaxflow text driven amodal 3d generation": "a7fc93336d227bdb5d75966cc4555c62b501f26d",
-    "title:relightformer feed forward generative transformer for multiview object relighting": null,
     "title:remember to be curious episodic context and persistent worlds for 3d exploration": "085b9ef2d76e54538f842d569676c8319208509e",
     "title:repaint nerf nerf editing via semantic masks and diffusion models": "74fd5e71f9e1ac2bbbf0cefc871bcaa5244ce661",
     "title:repaint123 fast and high quality one image to 3d generation with progressive controllable 2d repainting": "6c06fc704c4c0a8d5ef43e48e615eede81ad4531",
@@ -32705,6 +32718,183 @@
       ],
       "fetchedAt": "2026-09-07T14:38:43.420Z"
     },
+    "464d129d9b9bef255152414be0dcb682d0b4e9ac": {
+      "paperId": "464d129d9b9bef255152414be0dcb682d0b4e9ac",
+      "externalIds": {
+        "ArXiv": "2609.10457",
+        "CorpusId": 291876622
+      },
+      "title": "MotionCanvas: Learning Implicit Motion Planning from Composable Kinematic Cues",
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2609.10457, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "publicationDate": "2026-09-09",
+      "authors": [],
+      "references": [
+        {
+          "paperId": "9743e3076aa1efe8a0c59556cc2be1b745805def"
+        },
+        {
+          "paperId": "4376cd3e758a217e31afb2a76da225916d1a17fb"
+        },
+        {
+          "paperId": "4d0844c7defe4b333b54329ef3a272d08b37c872"
+        },
+        {
+          "paperId": "91fa9d0f760a28a191b76b366ba073788273898f"
+        },
+        {
+          "paperId": "2afad12e907dca7e3814900990c8e08cfd214921"
+        },
+        {
+          "paperId": "d2207a3809fe32c0ca88ccf67410bc01c6fe4ece"
+        },
+        {
+          "paperId": "54e44b45790f789c6b9593cea708b7db1d43a4c7"
+        },
+        {
+          "paperId": "286a2faf1f044447286778239e045cb58f9d28fb"
+        },
+        {
+          "paperId": "5ccd73789b89d9730c1cf0407f523f2eb1090304"
+        },
+        {
+          "paperId": "d0f41f728f16a0450bebc38b67a5173102d75cd5"
+        },
+        {
+          "paperId": "f47c901907c42e2d807151a127a9395f645f0245"
+        },
+        {
+          "paperId": "908c34d1583e130d05f659217c1d5ee565097262"
+        },
+        {
+          "paperId": "803b27550075156f6db3d484a31d1ca3b3b3285f"
+        },
+        {
+          "paperId": "61491f5ad78181d9b27baeb5ef942003138aaff9"
+        },
+        {
+          "paperId": "f744d7d1ccfb4dad11e36d674d34ae77ed8e9629"
+        },
+        {
+          "paperId": "7f4e17a7eb3876777f7c2df7b5a116f39801fec3"
+        },
+        {
+          "paperId": "3ee7a5325a6f4090859e8b2c530922f16aa26d4d"
+        },
+        {
+          "paperId": "0c5dd68293bc1cc790e5925810d2a2e146fc90be"
+        },
+        {
+          "paperId": "ed2fd4a9efee1e379cadc31410aa3eaa804b10c4"
+        },
+        {
+          "paperId": "c5c42fc9fea057ad453b6deea1749bb2a05c8fcb"
+        },
+        {
+          "paperId": "cec3d58e34c298f51e22cb01e71e3a8f5396e3e4"
+        },
+        {
+          "paperId": "f3ac8660d675313099d9cba3d142441f56aca4be"
+        },
+        {
+          "paperId": "87969c939723cdbf0df0e397655d625ac5deeef9"
+        },
+        {
+          "paperId": "f108f5d248c7af575c524d2ad2c3e90169f88add"
+        },
+        {
+          "paperId": "31cf335ceee3e5ed44aaaf04bd5631645c7d954c"
+        },
+        {
+          "paperId": "41a66997ce0a366bba3becf7c3f37c9aebb13fbd"
+        },
+        {
+          "paperId": "fcc1ccdee03cfd121ed840d089e1b9fd2778ea70"
+        },
+        {
+          "paperId": "b6b49a33a1ee2afea884dc947e124ee36a303117"
+        },
+        {
+          "paperId": "f52af2c0cf521b48edd50670e9ba9cd02646d2b4"
+        },
+        {
+          "paperId": "ab31b3e6e35f661ec840e5bee6efeee8b6aaf7bc"
+        },
+        {
+          "paperId": "32d3048a4fe4becc7c4638afd05f2354b631cfca"
+        },
+        {
+          "paperId": "d212fa27f5868f0fd106e1a7bba908fd47da0816"
+        },
+        {
+          "paperId": "b44e302e87fdb84cb299f1ba5fdb89f0d1b309b6"
+        },
+        {
+          "paperId": "daec9129f0fe200493d204963cd1a71e640725cb"
+        },
+        {
+          "paperId": "cb89947993021a3ee3c9f2bb926f6cab71d39793"
+        },
+        {
+          "paperId": "efbe97d20c4ffe356e8826c01dc550bacc405add"
+        },
+        {
+          "paperId": "99bd96961a880adad88d087c9dc45f6cfbae1ea6"
+        },
+        {
+          "paperId": "7694f004c67840d7f098b3612d4b3dabd915c116"
+        },
+        {
+          "paperId": "a2d2bbe4c542173662a444b33b76c66992697830"
+        },
+        {
+          "paperId": "af68f10ab5078bfc519caae377c90ee6d9c504e9"
+        },
+        {
+          "paperId": "15736f7c205d961c00378a938daffaacb5a0718d"
+        },
+        {
+          "paperId": "244054a4254a2147e43a3dad9c124b9b7eb4a04a"
+        },
+        {
+          "paperId": "c17a983b11381fabb53f28066f76d4b2dc5a6a17"
+        },
+        {
+          "paperId": "4ccb30b632d847764591481bde34613b69530692"
+        },
+        {
+          "paperId": "599bc7cfe98c2b57ddbe111412203a636da57be0"
+        },
+        {
+          "paperId": "fe9bc34b3e3b181de6caee3ff79e9c5bf1bbcf98"
+        },
+        {
+          "paperId": "6fc0e648ef6002fe3507107f4f3637c76d54477f"
+        },
+        {
+          "paperId": "d07284a6811f1b2745d91bdb06b040b57f226882"
+        },
+        {
+          "paperId": "90f72fbbe5f0a29e627db28999e01a30a9655bc6"
+        },
+        {
+          "paperId": "705fd4febe2fff810d2f72f48dcda20826eca77a"
+        },
+        {
+          "paperId": "e3d631f0998e71db31a0740711ad03b19593590f"
+        },
+        {
+          "paperId": null
+        }
+      ],
+      "fetchedAt": "2026-09-10T17:04:50.537Z",
+      "citations": [],
+      "citationsFetchedAt": "2026-09-10T17:04:54.389Z"
+    },
     "47f574c6ffa3ced5881a170b5cdffabafea01eab": {
       "paperId": "47f574c6ffa3ced5881a170b5cdffabafea01eab",
       "externalIds": {
@@ -50072,6 +50262,195 @@
         }
       ],
       "fetchedAt": "2026-09-07T14:38:43.420Z"
+    },
+    "74416900c40f4df9750e336b41dde7ddc4050d94": {
+      "paperId": "74416900c40f4df9750e336b41dde7ddc4050d94",
+      "externalIds": {
+        "ArXiv": "2609.09513",
+        "CorpusId": 291872392
+      },
+      "title": "AnimalLift: Reconstructing Animatable 3D Animals from a Single Image by Learning Canonical Shape, Texture, and Fur Maps",
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2609.09513, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "publicationDate": "2026-09-08",
+      "authors": [],
+      "references": [
+        {
+          "paperId": "450070ce53658796ce293a3d93a57fba32dfe914"
+        },
+        {
+          "paperId": "0c394ef805e3931bcbb1b3186e6cca6d51f699f1"
+        },
+        {
+          "paperId": "65556ef457ae6d61a8b43492495c0f8ef3665333"
+        },
+        {
+          "paperId": "d72632c00f54ed3048bc35c1d593ebc3af1924b8"
+        },
+        {
+          "paperId": "fd4dbcf159ca47e40069d64f4446032d84551a52"
+        },
+        {
+          "paperId": "b844ffff23e65c88bdd4392d1bfb266fdbdb5fc6"
+        },
+        {
+          "paperId": "45bb193481d94aa1cca3a505a5f30d66f87ace16"
+        },
+        {
+          "paperId": "e4876440b75195acfb307804488f9f74b047cfae"
+        },
+        {
+          "paperId": "6b2bee91660aea362bed4c20ae5d1da172d912ca"
+        },
+        {
+          "paperId": "faaf9e63b389c429f661112457da7c0328ba00dc"
+        },
+        {
+          "paperId": "e6cb30effd90d563bc680430ecc1317842d33b6e"
+        },
+        {
+          "paperId": "41a66997ce0a366bba3becf7c3f37c9aebb13fbd"
+        },
+        {
+          "paperId": "f2a2002bc418c47ac983ca201fc9b2049a2fdf27"
+        },
+        {
+          "paperId": "7f88b43bb524ca5e68214071226d74b7a245960c"
+        },
+        {
+          "paperId": "a595fbb4d760022f96cd531ff95e9a814362ee22"
+        },
+        {
+          "paperId": "3af134a559a618b3185390646d49d1d4e7ffab45"
+        },
+        {
+          "paperId": "eb2cbd12f749f14716296f7f415e921562c9079b"
+        },
+        {
+          "paperId": "9977b8ba3f53f48085be4b7f0f7fa45f03066fc4"
+        },
+        {
+          "paperId": "32d3048a4fe4becc7c4638afd05f2354b631cfca"
+        },
+        {
+          "paperId": "838d8008cecea7f57c6ba99a93c8c8f3cd563239"
+        },
+        {
+          "paperId": "5a9cb1b3dc4655218b3deeaf4a2417a9a8cd0891"
+        },
+        {
+          "paperId": "2c70684973bc4d7b6f8404a647b8031c4d3c8383"
+        },
+        {
+          "paperId": "aa28fce898d772a60285c673f0097002112da01f"
+        },
+        {
+          "paperId": "732b007c75fae397da182f9a1ae132f2e2e30d05"
+        },
+        {
+          "paperId": "bdf4af8311637c681904e71cf50f96fd0026f578"
+        },
+        {
+          "paperId": "4c94d04afa4309ec2f06bdd0fe3781f91461b362"
+        },
+        {
+          "paperId": "28f57dcbb4a5eab7f249e6297c706d678cf8a533"
+        },
+        {
+          "paperId": "fb877c091d87a75aeb28a01002c34761b473ab64"
+        },
+        {
+          "paperId": "86f1845dc6617998c010b3607fc521bc2f26b45d"
+        },
+        {
+          "paperId": "6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4"
+        },
+        {
+          "paperId": "70d85a9e3b2e93834fe5d85542baa2ac1212bd7b"
+        },
+        {
+          "paperId": "d42f3aaa39da2dc47e361f1878c817bc7114e2b3"
+        },
+        {
+          "paperId": "c468bbde6a22d961829e1970e6ad5795e05418d1"
+        },
+        {
+          "paperId": "d07284a6811f1b2745d91bdb06b040b57f226882"
+        },
+        {
+          "paperId": "ffe28f6bf0e9e6bbca6313319aa1a5409d283d9b"
+        },
+        {
+          "paperId": "231af7dc01a166cac3b5b01ca05778238f796e41"
+        },
+        {
+          "paperId": "41d08fb733f3e50ac183490f84d6377dffccf350"
+        },
+        {
+          "paperId": "870a7d08978d39cd43973a1100abf7e30fd94cbd"
+        },
+        {
+          "paperId": "4d3c2c8c9cd40be06466993b5ea6da6b829236ab"
+        },
+        {
+          "paperId": "8458412282496da39f71c9f80b266a173e26027e"
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": "e1e984956435013a90553a6707c4ec6cf8a79198"
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": "336c95f9bce0dcf71b11c9b8cf0ff23b987ee47a"
+        },
+        {
+          "paperId": "cc08e072ce806ecc84d8bb6e65f896134306d8d1"
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        }
+      ],
+      "fetchedAt": "2026-09-10T17:04:50.537Z",
+      "citations": [],
+      "citationsFetchedAt": "2026-09-10T17:04:53.551Z"
     },
     "74907b59d6540750c9c3f361b0b038f1889cdbbd": {
       "paperId": "74907b59d6540750c9c3f361b0b038f1889cdbbd",
@@ -78778,6 +79157,807 @@
         }
       ],
       "fetchedAt": "2026-09-07T14:38:43.420Z"
+    },
+    "c9b13a4038ab1b4fbd4b79ac320e5ae2cdb45f09": {
+      "paperId": "c9b13a4038ab1b4fbd4b79ac320e5ae2cdb45f09",
+      "externalIds": {
+        "ArXiv": "2609.07414",
+        "CorpusId": 291871522
+      },
+      "title": "RelightFormer: Feed-forward Generative Transformer for Multiview Object Relighting",
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2609.07414, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "publicationDate": "2026-09-07",
+      "authors": [],
+      "references": [
+        {
+          "paperId": "7eb3cd8d82edd51f7d704f3a607b28ff6981197c"
+        },
+        {
+          "paperId": "8ddd85ccb0999b717d4e4e4c4235547caa69843e"
+        },
+        {
+          "paperId": "177cadbc69eb91cfd45c54e35ef1333cd956022d"
+        },
+        {
+          "paperId": "4b0049e34c123e6bc4bb208ecb2ba081d06e3954"
+        },
+        {
+          "paperId": "894da110afb92d13f7ace0d8a543fe5a0a2f6f28"
+        },
+        {
+          "paperId": "8877e9a5bf473404c35b758faa76905c202f0f36"
+        },
+        {
+          "paperId": "1b9a26359584fd2eacb618f971d8e1da75ebffa4"
+        },
+        {
+          "paperId": "1a52483740ef96d6a6cf57ea3434851f5dffc0ff"
+        },
+        {
+          "paperId": "d7d3c2a6d8d3cc08225df3b672419c3c73e665b3"
+        },
+        {
+          "paperId": "d5a13d5dfb10cab26c2ff0b486f4b546cfc90716"
+        },
+        {
+          "paperId": "708a4ed18264e7b762a3248bb75616cf582f3d4d"
+        },
+        {
+          "paperId": "ab01f985e771145e4de5a51742319e7de4e5fc4c"
+        },
+        {
+          "paperId": "0c7a787db90280cd667a7718ff90e87a30ce3320"
+        },
+        {
+          "paperId": "b16378d058d3c8ec639ce0cbf2eded59125f752e"
+        },
+        {
+          "paperId": "e5dd95af05d946e790da293190dd41eb53d979b8"
+        },
+        {
+          "paperId": "41a66997ce0a366bba3becf7c3f37c9aebb13fbd"
+        },
+        {
+          "paperId": "10ce50f784d8a5ebff922290f02ea5f53ccf14e7"
+        },
+        {
+          "paperId": "2e99a953a34b703658cdf6a510e2bf89b823771a"
+        },
+        {
+          "paperId": "e9efe9e01680c539ebf2581dc6cc8a10711df670"
+        },
+        {
+          "paperId": "2ff9dcf78753079d02e5ef6f57da0232200d01eb"
+        },
+        {
+          "paperId": "51b93b9a5e5e51d0846f45f54875698ccdd6c231"
+        },
+        {
+          "paperId": "1747b9f13b483c19910a3441262ebeb8984fc8b0"
+        },
+        {
+          "paperId": "260bb42405845b5763d1b949945ca6e191adef8c"
+        },
+        {
+          "paperId": "2cc1d857e86d5152ba7fe6a8355c2a0150cc280a"
+        },
+        {
+          "paperId": "6873dacc5d3e373d4eac9c0fa80dd9c21c2530a9"
+        },
+        {
+          "paperId": "d78648b71047a03f8b5812d581209ccfa53aa84f"
+        },
+        {
+          "paperId": "736973165f98105fec3729b7db414ae4d80fcbeb"
+        },
+        {
+          "paperId": "1b31dbf44e68b698120552366df03e6e35a1e428"
+        },
+        {
+          "paperId": "244054a4254a2147e43a3dad9c124b9b7eb4a04a"
+        },
+        {
+          "paperId": "6eda1471577fcb73fd25fef12b1a122a4aafc615"
+        },
+        {
+          "paperId": "9e5dbe73428e4ae2aff17f2fd286126b449a52b5"
+        },
+        {
+          "paperId": "ed1c56652e36e7ecead5cd2ab37453362f577a8c"
+        },
+        {
+          "paperId": "9dce927f8cddaef2acbed50d30d997c31764711a"
+        },
+        {
+          "paperId": "ae352757fae3bf360a3db1c00be587d8c25bf3ca"
+        },
+        {
+          "paperId": "823615871e7acd6daec9e764d0d9d3712d01092d"
+        },
+        {
+          "paperId": "737b591e7fcaf90c74ee4a5bb64ad807bc017ea6"
+        },
+        {
+          "paperId": "15d599727cdc6acfddcf590d7c5ea242ffad40ff"
+        },
+        {
+          "paperId": "91c724cd4616a8d14424f93e5a682b990ddfbbb9"
+        },
+        {
+          "paperId": "a4d7d4ae15f821c6ae43134638ac556a0e430891"
+        },
+        {
+          "paperId": "91a1b1b36bc1a18c84ab1b6cb5201d7d0e4ede8f"
+        },
+        {
+          "paperId": "66c10bf1f11bc1b2d92204d8f8391d087f6de1c4"
+        },
+        {
+          "paperId": "50bca2632e973fc6a60cdd7da1d64f3fc5ddd9b1"
+        },
+        {
+          "paperId": "4b266567253da27b2cbdb6bb7e450565032a35ab"
+        },
+        {
+          "paperId": "0a512f38e69351029c79f38046bac911fcd8207f"
+        },
+        {
+          "paperId": "43b1e34451f783fed053c1d539d7560dc4ec16a9"
+        },
+        {
+          "paperId": "8c23e2de58f9a3121bcd9a0c319591a7fe0f62ce"
+        },
+        {
+          "paperId": "db57c51d84ff1ff3809ba76701e1171118f2f091"
+        },
+        {
+          "paperId": "37cd1a69b6a995a81e1c5bac88b8c7834f28b884"
+        },
+        {
+          "paperId": "dd81523b9accdf1c13cd37f76b22ab27d84b7a42"
+        },
+        {
+          "paperId": "445c4cb2ad64f2bac35646829bb89faf044b10ed"
+        },
+        {
+          "paperId": "3f319959bdc1ea61c23153bda3c1f974ae8e10e8"
+        },
+        {
+          "paperId": "d4a9eea2d71078e50e79e0cc0680d1c4a89794c3"
+        },
+        {
+          "paperId": "e0ff65c1d6e8ba731265675f7a39727291a6b3c3"
+        },
+        {
+          "paperId": "816919e5a7584cfce6e976714fbfba461ac684e5"
+        },
+        {
+          "paperId": "25d8e3c14c584f02a9ffb8c3b5d91e668396ee1d"
+        },
+        {
+          "paperId": "129e1f4f01b37525da063ac73df6f7e22ba7a6aa"
+        },
+        {
+          "paperId": "e5e921184ac27fb8d1da2a5d1404c6c814685b04"
+        },
+        {
+          "paperId": "ef9b840f910c28fec8b4d7ef98d8852a993d7d0e"
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": "ef4f5a50837a7c1b3e87b9300ffc7ba00d461a0f"
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": "cc08e072ce806ecc84d8bb6e65f896134306d8d1"
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        }
+      ],
+      "fetchedAt": "2026-09-10T17:04:50.537Z",
+      "citations": [],
+      "citationsFetchedAt": "2026-09-10T17:04:54.126Z"
+    },
+    "c57fc45e22559d7a39f9eafb5cae4fffc362cb58": {
+      "paperId": "c57fc45e22559d7a39f9eafb5cae4fffc362cb58",
+      "externalIds": {
+        "ArXiv": "2609.08848",
+        "CorpusId": 291870979
+      },
+      "title": "FIRE3D: Feed-forward Interactive 3D Scene Reconstruction Within A Minute",
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2609.08848, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "publicationDate": "2026-09-08",
+      "authors": [],
+      "references": [
+        {
+          "paperId": "d841009b210b0ab9ad48df602a4bd5d7ac531c2c"
+        },
+        {
+          "paperId": "0370d40e1c89a04dd7c4c57209bea22792038343"
+        },
+        {
+          "paperId": "c8594c98cd1550f0545e386460415d21336645af"
+        },
+        {
+          "paperId": "eb624d11377b19e68b484860c7cbde64da58a40d"
+        },
+        {
+          "paperId": "1d8552447bcf9f081e8e9dacb192144e4f6b2981"
+        },
+        {
+          "paperId": "0a448b0c2cdf32de0393190dd17a166a30289e3c"
+        },
+        {
+          "paperId": "9ff2ac89b68c8cc6543da0bcacb018e70348d282"
+        },
+        {
+          "paperId": "ef19e75521087bda065b33ed78c3b358285ce18e"
+        },
+        {
+          "paperId": "bdc42352b968f52386fb09d1b43db9d8816fe083"
+        },
+        {
+          "paperId": "ce38f75003a971a02b4cfeec36dcf4feb46cc5c1"
+        },
+        {
+          "paperId": "d61ca1c3b8fd7294d6f811074f54ed7acd996a20"
+        },
+        {
+          "paperId": "8bb7ad4793b8992a975157cb7ed3a8dc8d143812"
+        },
+        {
+          "paperId": "83fdbde07c6ba9a6ef5871e66b7020570c844d09"
+        },
+        {
+          "paperId": "15ccf77ecd201c5ef5bc8761b42cd3329d37c84c"
+        },
+        {
+          "paperId": "d193a68223323460f46fe2770e1c2b5f7cecd8f5"
+        },
+        {
+          "paperId": "4e55e8a16c32726fbe518542d90f7b488ea47b53"
+        },
+        {
+          "paperId": "b49c1adc847c8e2cb9f1b97358366e4887e532ce"
+        },
+        {
+          "paperId": "5bcba424f2d550a8321fa50a43bebe8751e2d2a5"
+        },
+        {
+          "paperId": "995ec013113291e88a8168c8b5519c3ad7b2312a"
+        },
+        {
+          "paperId": "cab6c332ae1dfade6f8d67eafa9823a41b34bb99"
+        },
+        {
+          "paperId": "88f6820ef774d7da34a8276ce9f6f4ebe4085912"
+        },
+        {
+          "paperId": "62d564bc589cf6c37139144d0d6984d4aff1cc4a"
+        },
+        {
+          "paperId": "be47289592be9747050b1d50bd2cf7d00dfde825"
+        },
+        {
+          "paperId": "4d969386c65de5c892f6477314a62cda523772ad"
+        },
+        {
+          "paperId": "2d0d989e0a0f6aeb90a88bc147b6e5391d11ad94"
+        },
+        {
+          "paperId": "5666d551bc9f86e2f379ede8b8ffddbe4d1d53a8"
+        },
+        {
+          "paperId": "72ee22f4973522f70c46343a4e8b1cbcb346fa52"
+        },
+        {
+          "paperId": "92a09cdfc19f3f582d89c28c1b4f386299cc69e1"
+        },
+        {
+          "paperId": "c7e5d90d0698124cc6f16b7e120573dc7bc2e668"
+        },
+        {
+          "paperId": "4f997c404e97087194d2df538deb82b2c5428c1e"
+        },
+        {
+          "paperId": "10ecbe690481fbb8182653c100d175ab21333cd4"
+        },
+        {
+          "paperId": "fae1b9df574383fd8bc1d487f1b5ba6c1eb60baf"
+        },
+        {
+          "paperId": "17718c56427be1024741ae2c24d28447463e426b"
+        },
+        {
+          "paperId": "9c0d40f01ced7d425cb6145e9f961c6e44a478a8"
+        },
+        {
+          "paperId": "2691adcb81844568a55f44f521658225b5c5a7e7"
+        },
+        {
+          "paperId": "45ecc57010340239b48783957a7e5cbf8b814aeb"
+        },
+        {
+          "paperId": "03e2cfa44b64489fb98f09dfbd940043fbef90ad"
+        },
+        {
+          "paperId": "4299b79ef41601cf6e3e0603f7216d72b6d1315f"
+        },
+        {
+          "paperId": "d89690dc43626d34addcf1814ea44aae31461cee"
+        },
+        {
+          "paperId": "5f82a81766cb78395a55b8fc697c2421a20f4a9e"
+        },
+        {
+          "paperId": "7e305e37b49feb8899ae94f641c4f2d0d01ef054"
+        },
+        {
+          "paperId": "d2cd64888f3f41079eb80522993423b3157bd722"
+        },
+        {
+          "paperId": "d21f82a1eb94a74ce0447fb3e0d015d05127c273"
+        },
+        {
+          "paperId": "d2c5565a039f464b778e0f2263da418ef42e98b0"
+        },
+        {
+          "paperId": "fc96c4a7d4708bfd6138bfd16482229975404499"
+        },
+        {
+          "paperId": "2cc1d857e86d5152ba7fe6a8355c2a0150cc280a"
+        },
+        {
+          "paperId": "2605f0776dcda957fa540f88cdec53badab848b1"
+        },
+        {
+          "paperId": "c22ef963b2388cdbbfcc7a00b24f68710a7febd2"
+        },
+        {
+          "paperId": "1a262a8eaf86f850b1b268dd40ce089ed88f339d"
+        },
+        {
+          "paperId": "4a092ed266b146671a339ab5c33797afc3db0ef3"
+        },
+        {
+          "paperId": "bd8d5fe2c7b35241410262a0a26edfdca9673dc6"
+        },
+        {
+          "paperId": "60219c9da45ec42560ade9f4adf792776ecc763a"
+        },
+        {
+          "paperId": "1b31dbf44e68b698120552366df03e6e35a1e428"
+        },
+        {
+          "paperId": "b798790509d52fcb9dd8b1aebdf24f7d6436e9c2"
+        },
+        {
+          "paperId": "365e0572ec77191a50bcb8816cd3d6a2d49079ba"
+        },
+        {
+          "paperId": "283a4e3e45f65d825c5640d582d30aa4d6dddf7e"
+        },
+        {
+          "paperId": "60e69982ef2920596c6f31d6fd3ca5e9591f3db6"
+        },
+        {
+          "paperId": "48e2d76d35b44edc21d09d460021103ce997c804"
+        },
+        {
+          "paperId": "28fa2c85f891d4d22589d7a63f2c3a62bcb7b136"
+        },
+        {
+          "paperId": "21336e57dc2ab9ae2171a0f6c35f7d1aba584796"
+        },
+        {
+          "paperId": "8d3421280594525dd9036d2ece740b24b4a1b53b"
+        },
+        {
+          "paperId": "bb8656979f38d95062ba55640c1be65535f57c6a"
+        },
+        {
+          "paperId": "fb8a1dd5d3bc0395b8ceb7ee73475a10e39b52fe"
+        },
+        {
+          "paperId": "ffd87206430e4d7657a77d8eff484d335ac4056c"
+        },
+        {
+          "paperId": "84c40cf28afdf84ec6941d92cacd49fed3c7ef9a"
+        },
+        {
+          "paperId": "bf68b7d2566a2bb4f3af582ea9c9e4a15ee20c1b"
+        },
+        {
+          "paperId": "962dc29fdc3fbdc5930a10aba114050b82fe5a3e"
+        },
+        {
+          "paperId": "60f511eef446120fe59563ee976f948d5e3f9064"
+        },
+        {
+          "paperId": "89c8aad71433f7638d2e2c009e1ea20e039f832d"
+        },
+        {
+          "paperId": "8674494bd7a076286b905912d26d47f7501c4046"
+        },
+        {
+          "paperId": "d997beefc0922d97202789d2ac307c55c2c52fba"
+        },
+        {
+          "paperId": "e7d0c37f4f3589a3b787f39e8307704da5ed8d6c"
+        },
+        {
+          "paperId": "cc08e072ce806ecc84d8bb6e65f896134306d8d1"
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        }
+      ],
+      "fetchedAt": "2026-09-10T17:04:50.537Z",
+      "citations": [],
+      "citationsFetchedAt": "2026-09-10T17:04:53.814Z"
+    },
+    "b5cb6f50c20b1ecc5e8bb1af9611527f9a23184d": {
+      "paperId": "b5cb6f50c20b1ecc5e8bb1af9611527f9a23184d",
+      "externalIds": {
+        "ArXiv": "2609.09890",
+        "CorpusId": 291872867
+      },
+      "title": "StreetDiff: Multi-view Street Scenes Generation via Cross-view Consistent Multi-view Stable Diffusion with Structure Prompts",
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2609.09890, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "publicationDate": "2026-09-09",
+      "authors": [],
+      "references": [
+        {
+          "paperId": "7b5a12fddcc88531f690e80c74b7356828d495dd"
+        },
+        {
+          "paperId": "16c38a5b7d7d8487c9e03e7231330445eb64e5b1"
+        },
+        {
+          "paperId": "866d2978dcd50aab9e431b140b2a9db6551f0f78"
+        },
+        {
+          "paperId": "199ee71ead11c27c05b287b7156a6c37b9cd69af"
+        },
+        {
+          "paperId": "11d1ee7c587eaecfb1115c0bdffcce50b346130d"
+        },
+        {
+          "paperId": "c990ca3caaf97ffeac210ae52bc042f34076f0fb"
+        },
+        {
+          "paperId": "838412610019d945e909d2ec0680a8d0ed56a9e7"
+        },
+        {
+          "paperId": "2de50a09ba04da49c2c3cc97cb69f0240a92a172"
+        },
+        {
+          "paperId": "63de44b8f4bcfe994d259bc581aa7e121aeaca2e"
+        },
+        {
+          "paperId": "15ed4e0e157523578e5260555c72f9944b688478"
+        },
+        {
+          "paperId": "f444878f17840162ce5a052bf556001c8a06a1c9"
+        },
+        {
+          "paperId": "66bc083c16257ca3878d5eeaa8dd83ab37a1e5a5"
+        },
+        {
+          "paperId": "e2ffaaac4d80ba74fab7b2838107b5e26c4aecdc"
+        },
+        {
+          "paperId": "9f52715bd5bf9328e0565e9fcbbed323278d596a"
+        },
+        {
+          "paperId": "b9078f91c4c6b51d20cb6ba5afbf4b1ac4fcfb91"
+        },
+        {
+          "paperId": "ba08ea9127249b203dc59e332167b0408fccd1d2"
+        },
+        {
+          "paperId": "888e36b348b786538e3a74c459fe884a3457a36f"
+        },
+        {
+          "paperId": "35b142ea69598e6241f0011312128031df55895c"
+        },
+        {
+          "paperId": "f5275c61736781d236abe6700b822f1ea62f982e"
+        },
+        {
+          "paperId": "3e5e06bc5624b2408fec03c301cfe6c3a48747fa"
+        },
+        {
+          "paperId": "941ff23c6cbbc558fe88a3759bf234d35c9bd04f"
+        },
+        {
+          "paperId": "c465e2c612c9bb15f3efcb554e35052b6374d012"
+        },
+        {
+          "paperId": "87f66888de2ca4e6fc18c6d9e9c73f7dfdb38be2"
+        },
+        {
+          "paperId": "87a6fa722b2eacf7fc6470a493f49ce8809f4543"
+        },
+        {
+          "paperId": "c22ef963b2388cdbbfcc7a00b24f68710a7febd2"
+        },
+        {
+          "paperId": "f3f49365fbb146794cf6e2b4849000f2dd2de577"
+        },
+        {
+          "paperId": "d8c78221e4366d6a72a6b3e41e35b706cc45c01d"
+        },
+        {
+          "paperId": "07869818c3023f34a22da17a2ccf975b1103e8a1"
+        },
+        {
+          "paperId": "2c70684973bc4d7b6f8404a647b8031c4d3c8383"
+        },
+        {
+          "paperId": "9ced6e814457eae83f5415364e266143defc81d1"
+        },
+        {
+          "paperId": "efbe97d20c4ffe356e8826c01dc550bacc405add"
+        },
+        {
+          "paperId": "793939b83e10903f58d8edbb7534963df627a1fe"
+        },
+        {
+          "paperId": "6a993404e07687b7edb7fb9a05092213a9419859"
+        },
+        {
+          "paperId": "5aeb6d81c6983e6c45e043ef7e8aeb2543e8f2ac"
+        },
+        {
+          "paperId": "9695824d7a01fad57ba9c01d7d76a519d78d65e7"
+        },
+        {
+          "paperId": "88f045ad6e19e31330bdf66d0af2ae65940df73e"
+        },
+        {
+          "paperId": "c57293882b2561e1ba03017902df9fc2f289dea2"
+        },
+        {
+          "paperId": "c24335206ac20712e3b4b699959988506aff405d"
+        },
+        {
+          "paperId": "f58acfeb022ba15282ec5fc047c98010311fa9da"
+        },
+        {
+          "paperId": "7002ae048e4b8c9133a55428441e8066070995cb"
+        },
+        {
+          "paperId": "38aeab26dc304e607ad02080c11ff7c1c77048b7"
+        },
+        {
+          "paperId": "a8ca46b171467ceb2d7652fbfb67fe701ad86092"
+        },
+        {
+          "paperId": "64ea8f180d0682e6c18d1eb688afdb2027c02794"
+        },
+        {
+          "paperId": "2cd605106b88c85d7d8b865b1ef0f8c8293debf1"
+        },
+        {
+          "paperId": "5c126ae3421f05768d8edd97ecd44b1364e2c99a"
+        },
+        {
+          "paperId": "8337441971f941716a9e525a67f37088eb01fd13"
+        },
+        {
+          "paperId": "231af7dc01a166cac3b5b01ca05778238f796e41"
+        },
+        {
+          "paperId": "3f319959bdc1ea61c23153bda3c1f974ae8e10e8"
+        },
+        {
+          "paperId": "a552ecab0203a31995dbe9e1a6f4082bfa9486e4"
+        },
+        {
+          "paperId": "e52e37cd91366f07df1f98e88f87010f494dd16e"
+        },
+        {
+          "paperId": "38c17d7f444f93922c84e99f778dfafa3f200772"
+        },
+        {
+          "paperId": "fcf9fc4e23b45345c2404ce7d6cb0fc9dea2c9ec"
+        },
+        {
+          "paperId": null
+        }
+      ],
+      "fetchedAt": "2026-09-10T17:04:50.536Z",
+      "citations": [],
+      "citationsFetchedAt": "2026-09-10T17:04:50.706Z"
+    },
+    "df085db3b9569b4fa76d2a410e4d14de6f85b907": {
+      "paperId": "df085db3b9569b4fa76d2a410e4d14de6f85b907",
+      "externalIds": {
+        "ArXiv": "2609.10307",
+        "CorpusId": 291876563
+      },
+      "title": "View-Structured Conformal Prediction for 3D Gaussian Splatting",
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2609.10307, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "publicationDate": "2026-09-09",
+      "authors": [],
+      "references": [
+        {
+          "paperId": "36131488682bfd9a1ed7ae7194937b028135ae80"
+        },
+        {
+          "paperId": "fb91c3dce089881dd113c41d5e35176ecc37ca1a"
+        },
+        {
+          "paperId": "4a6836e411049199aec9143feae330aa69dbd29b"
+        },
+        {
+          "paperId": "53a6afa21b59f2955a0f75a6161da7d0910387a1"
+        },
+        {
+          "paperId": "9fe48204f21d379c1bb602cce262a008d4523263"
+        },
+        {
+          "paperId": "963f65453c98ba2cf480eca8afe6ed0bb698ea27"
+        },
+        {
+          "paperId": "e397f9e886969ac97dbe1ab6f3ad88f893a2c7c7"
+        },
+        {
+          "paperId": "6d739b4195c1080176903a868a463ab7ec692196"
+        },
+        {
+          "paperId": "58156bd035bc7892856c419e69d6c3add40589ad"
+        },
+        {
+          "paperId": "19adf2725708c180cbb464b7b2df15727d3c870b"
+        },
+        {
+          "paperId": "3046a843ca616b00c6c11f1fec3a1585ed8fd7c9"
+        },
+        {
+          "paperId": "3d39623e066f468ba0c9b5f8a93007ccdd432207"
+        },
+        {
+          "paperId": "e9fef44b4eef23aaa2f559151963f994c191aecc"
+        },
+        {
+          "paperId": "2cc1d857e86d5152ba7fe6a8355c2a0150cc280a"
+        },
+        {
+          "paperId": "af2fba1911f0d0977c731e3918c51428e08741da"
+        },
+        {
+          "paperId": "203e96eff6d4cbabc2889bfc467516eb83dce194"
+        },
+        {
+          "paperId": "ec90ffa017a2cc6a51342509ce42b81b478aefb3"
+        },
+        {
+          "paperId": "6f9dc6f8519e927d948a13aa7ae0df336f443eb9"
+        },
+        {
+          "paperId": "30453b89e7d83f8142e5010a0998175bffc56025"
+        },
+        {
+          "paperId": "802168a81571dde28f5ddb94d84677bc007afa7b"
+        },
+        {
+          "paperId": "6649448fbdcba3c489be5372cbf75d9d2c962002"
+        },
+        {
+          "paperId": "8eb83ddc7f8683439966dd083339f1638ef885f5"
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        }
+      ],
+      "fetchedAt": "2026-09-10T17:04:50.537Z",
+      "citations": [],
+      "citationsFetchedAt": "2026-09-10T17:04:50.973Z"
     },
     "b00da7bbf32490b6da94c4bfdf1724fb86dce0c4": {
       "paperId": "b00da7bbf32490b6da94c4bfdf1724fb86dce0c4",
