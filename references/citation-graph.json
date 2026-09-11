@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T17:05:14.249Z",
+  "generatedAt": "2026-09-11T14:25:57.449Z",
   "source": "Semantic Scholar Academic Graph API",
   "direction": "source cites target",
   "nodes": [
@@ -60,7 +60,7 @@
         "CorpusId": 274789623
       },
       "publicationDate": "2024-12-16",
-      "citationCount": 11
+      "citationCount": 12
     },
     {
       "id": "012d7d3ee690e5acadf416787651a8fe425e8eb3",
@@ -500,7 +500,7 @@
         "CorpusId": 267523413
       },
       "publicationDate": "2024-02-07",
-      "citationCount": 82
+      "citationCount": 83
     },
     {
       "id": "120c370cae306b03c712045db72a33276ae95685",
@@ -615,7 +615,7 @@
         "CorpusId": 270440501
       },
       "publicationDate": "2024-06-13",
-      "citationCount": 17
+      "citationCount": 18
     },
     {
       "id": "186c2b2386799fa599e2d77bc6945f7da66e5fab",
@@ -782,7 +782,7 @@
         "CorpusId": 286489332
       },
       "publicationDate": "2026-03-12",
-      "citationCount": 1
+      "citationCount": 2
     },
     {
       "id": "1f515f7a9f60a4a6b5751f77058a86f26c03bbd1",
@@ -842,7 +842,7 @@
         "CorpusId": 273877525
       },
       "publicationDate": "2024-11-07",
-      "citationCount": 14
+      "citationCount": 15
     },
     {
       "id": "20cb868a466afd13c4fbea6ec24510181f1764ec",
@@ -1303,7 +1303,7 @@
         "CorpusId": 269033473
       },
       "publicationDate": "2024-04-10",
-      "citationCount": 48
+      "citationCount": 49
     },
     {
       "id": "3563a929f2d17e16a6450bf375a3b0469fc7e53e",
@@ -2014,6 +2014,16 @@
         "CorpusId": 291257636
       },
       "publicationDate": "2026-08-20",
+      "citationCount": 0
+    },
+    {
+      "id": "59cdaccfa70dd663c4a57291c4d502bea31745ed",
+      "title": "ReconPlusGen: Injecting Reconstruction Prior into Multi-view 3D Generation through Noise Inversion and Modulation",
+      "externalIds": {
+        "ArXiv": "2609.11129",
+        "CorpusId": 291901980
+      },
+      "publicationDate": "2026-09-10",
       "citationCount": 0
     },
     {
@@ -3469,7 +3479,7 @@
         "CorpusId": 270045086
       },
       "publicationDate": "2024-05-23",
-      "citationCount": 14
+      "citationCount": 15
     },
     {
       "id": "994a60cae4d2c4ad1c1a3d5727f96a07dc64316a",
@@ -3779,7 +3789,7 @@
         "CorpusId": 281421554
       },
       "publicationDate": "2025-09-22",
-      "citationCount": 0
+      "citationCount": 1
     },
     {
       "id": "a8efa7087fd6d84d5d84fd6c7c7cfb9d7ddb6dce",
@@ -3995,7 +4005,7 @@
         "CorpusId": 288258069
       },
       "publicationDate": "2026-05-13",
-      "citationCount": 0
+      "citationCount": 1
     },
     {
       "id": "b2201d0cd00b8b1058bf684d166d50a0f8989cfd",
@@ -4019,7 +4029,7 @@
         "CorpusId": 282102520
       },
       "publicationDate": "2025-10-15",
-      "citationCount": 2
+      "citationCount": 3
     },
     {
       "id": "b4746593e475324cd3b9f011fade41e201977f4f",
@@ -4886,6 +4896,16 @@
       "citationCount": 4
     },
     {
+      "id": "d73e863227f4abd70df9ff21c681ed7719e2b7df",
+      "title": "3D Point Splatting for mmWave Radar Novel View Synthesis",
+      "externalIds": {
+        "ArXiv": "2609.11894",
+        "CorpusId": 291905866
+      },
+      "publicationDate": "2026-09-10",
+      "citationCount": 0
+    },
+    {
       "id": "d83df73fb9aa10b1e2b46e3bcc58901a8e181fdd",
       "title": "PointGT: Simultaneous Geometry and Texture Editing for Point-Based Representations",
       "externalIds": {
@@ -4976,7 +4996,7 @@
         "CorpusId": 258967476
       },
       "publicationDate": "2023-05-30",
-      "citationCount": 16
+      "citationCount": 17
     },
     {
       "id": "db9fe76a3f03d4d29c919d23e046b7450dd70199",
@@ -5093,6 +5113,16 @@
         "CorpusId": 288014790
       },
       "publicationDate": "2026-05-07",
+      "citationCount": 0
+    },
+    {
+      "id": "e15453c3d5bae47810f6f100e542daf17e713663",
+      "title": "World in World: Explore the World with World Models",
+      "externalIds": {
+        "ArXiv": "2609.11548",
+        "CorpusId": 291905894
+      },
+      "publicationDate": "2026-09-10",
       "citationCount": 0
     },
     {
@@ -5353,7 +5383,7 @@
         "CorpusId": 265050698
       },
       "publicationDate": "2023-11-08",
-      "citationCount": 89
+      "citationCount": 90
     },
     {
       "id": "eb33fe4db171c33a96cea4cf77bda7cff769a0c4",
@@ -5375,7 +5405,7 @@
         "CorpusId": 281496574
       },
       "publicationDate": "2025-09-23",
-      "citationCount": 3
+      "citationCount": 4
     },
     {
       "id": "ec97a7f4a0e1378341ec9f4f95905f81af67e671",
@@ -5645,7 +5675,7 @@
         "CorpusId": 288255525
       },
       "publicationDate": "2026-05-11",
-      "citationCount": 2
+      "citationCount": 3
     },
     {
       "id": "f6dfb1e9539f3f50ffc8fe3ebae318d4607b098f",
@@ -12977,6 +13007,34 @@
     {
       "source": "59c88e1de06653a2afde582862591aebb3ba0df3",
       "target": "4987a76781f299be64ac43419c8b489ca1f4515b"
+    },
+    {
+      "source": "59cdaccfa70dd663c4a57291c4d502bea31745ed",
+      "target": "11665dbecb17ef4d3d71b75b8666ce0e61bd43fa"
+    },
+    {
+      "source": "59cdaccfa70dd663c4a57291c4d502bea31745ed",
+      "target": "1f50fb9fffe17d660c8eaceb5f0fac8fd8bc071d"
+    },
+    {
+      "source": "59cdaccfa70dd663c4a57291c4d502bea31745ed",
+      "target": "34276d30da30285f4ad348848ec746457730899a"
+    },
+    {
+      "source": "59cdaccfa70dd663c4a57291c4d502bea31745ed",
+      "target": "989071b209da57f5764ec404d4a3352173f5a1c3"
+    },
+    {
+      "source": "59cdaccfa70dd663c4a57291c4d502bea31745ed",
+      "target": "daf3b117f789b2b95223e58592979fb57627515e"
+    },
+    {
+      "source": "59cdaccfa70dd663c4a57291c4d502bea31745ed",
+      "target": "eb2cbd12f749f14716296f7f415e921562c9079b"
+    },
+    {
+      "source": "59cdaccfa70dd663c4a57291c4d502bea31745ed",
+      "target": "f6942b91a072028b07981dc843c8ccda9e06a094"
     },
     {
       "source": "59f159e85880d40d90d9ead7798e7312e167fdec",
@@ -24217,6 +24275,34 @@
     {
       "source": "dfabdf96c18f535d4a55012d91c6cab213d2b28f",
       "target": "e44a11954715bb36df0303e25783968e5f3bd610"
+    },
+    {
+      "source": "e15453c3d5bae47810f6f100e542daf17e713663",
+      "target": "00d3c25193aa2d08b954ba769734689051aa1e82"
+    },
+    {
+      "source": "e15453c3d5bae47810f6f100e542daf17e713663",
+      "target": "1806ae222b5d5941eb621f8e366e2ebdbf96afa7"
+    },
+    {
+      "source": "e15453c3d5bae47810f6f100e542daf17e713663",
+      "target": "1fcce9c865a5969f97eb268f858d6943e1e47c8d"
+    },
+    {
+      "source": "e15453c3d5bae47810f6f100e542daf17e713663",
+      "target": "a8391b3bbc1a71b6e87e5ab72bd516ebbca7738c"
+    },
+    {
+      "source": "e15453c3d5bae47810f6f100e542daf17e713663",
+      "target": "b1c1ced6819be8cf2005fb38015184a3a3bbe542"
+    },
+    {
+      "source": "e15453c3d5bae47810f6f100e542daf17e713663",
+      "target": "b41944dbf5833dd4e6db4aee05ab4fbd60398397"
+    },
+    {
+      "source": "e15453c3d5bae47810f6f100e542daf17e713663",
+      "target": "eb6ca77d28285c95ac370052deda4a53f65e05e6"
     },
     {
       "source": "e2507bac701d3bdfa4c9655b1d54f1d7f4b2b9e5",
