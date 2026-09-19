@@ -1,12 +1,34 @@
 {
   "source": "Semantic Scholar Academic Graph API",
   "sourceUrl": "https://api.semanticscholar.org/api-docs/graphs",
-  "generatedAt": "2026-09-11T14:25:57.449Z",
+  "generatedAt": "2026-09-19T08:47:46.533Z",
   "definition": "Distinct resolved papers in this README whose Semantic Scholar reference lists include the target paper.",
-  "resolvedRows": 508,
-  "citationBackedRows": 508,
-  "distinctResolvedWorks": 503,
+  "resolvedRows": 514,
+  "citationBackedRows": 514,
+  "distinctResolvedWorks": 509,
   "entries": [
+    {
+      "title": "PhGS: Post-Hoc Pruning and Refinement of Single-View Feed-Forward 3D Gaussian Reconstructions",
+      "section": "X-to-3D",
+      "identifier": "ARXIV:2609.20623",
+      "semanticScholarPaperId": "f3b6a3782f856210cb20591e46ea994dd092ef6d",
+      "semanticScholarTitle": "PhGS: Post-Hoc Pruning and Refinement of Single-View Feed-Forward 3D Gaussian Reconstructions",
+      "publicationDate": "2026-09-17",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
+    {
+      "title": "IRIS: Implicit Rendering Matters for Pose-Free Novel View Synthesis",
+      "section": "X-to-3D",
+      "identifier": "ARXIV:2609.18034",
+      "semanticScholarPaperId": "28d8e5cc641334b0995079f0b2aae6d2a9d91b2b",
+      "semanticScholarTitle": "IRIS: Implicit Rendering Matters for Pose-Free Novel View Synthesis",
+      "publicationDate": "2026-09-16",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
     {
       "title": "3D Point Splatting for mmWave Radar Novel View Synthesis",
       "section": "X-to-3D",
@@ -469,6 +491,17 @@
       "semanticScholarPaperId": "fefe5ccb33c99b1f6ad00c9dd5851869798be4cb",
       "semanticScholarTitle": "PixGS: Pixel-Space Diffusion for Direct 3D Gaussian Splat Generation",
       "publicationDate": "2026-07-02",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
+    {
+      "title": "Printing the Underdetermined: Materializing Multi-solutionness in Figurative Paintings",
+      "section": "X-to-3D",
+      "identifier": "ARXIV:2609.19782",
+      "semanticScholarPaperId": "3340440c0841f3a9ed0772b7e36d6d0e4d5881fd",
+      "semanticScholarTitle": "Printing the Underdetermined: Materializing Multi-solutionness in Figurative Paintings",
+      "publicationDate": "2026-06-29",
       "internalCitationCount": 0,
       "citedBy": [],
       "citedByIds": []
@@ -3410,7 +3443,7 @@
       "semanticScholarPaperId": "4299b79ef41601cf6e3e0603f7216d72b6d1315f",
       "semanticScholarTitle": "TripoSR: Fast 3D Object Reconstruction from a Single Image",
       "publicationDate": "2024-03-04",
-      "internalCitationCount": 26,
+      "internalCitationCount": 27,
       "citedBy": [
         "CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction Model",
         "ConsistentDreamer: View-Consistent Meshes Through Balanced Multi-View Gaussian Optimization",
@@ -3429,6 +3462,7 @@
         "Objaverse++: Curated 3D Object Dataset with Quality Annotations",
         "Ouroboros3D: Image-to-3D Generation via 3D-aware Recursive Diffusion",
         "PBR3DGen: A VLM-guided Mesh Generation with High-quality PBR Texture",
+        "Printing the Underdetermined: Materializing Multi-solutionness in Figurative Paintings",
         "SF3D: Stable Fast 3D Mesh Reconstruction with UV-unwrapping and Illumination Disentanglement",
         "SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single Images",
         "ScaleDreamer: Scalable Text-to-3D Synthesis with Asynchronous Score Distillation",
@@ -3445,6 +3479,7 @@
         "100686923618e9809d0212ef4f757580997547e0",
         "2177967931f395f88faa630019e3cd9b1831ffc1",
         "2574a85178d9d13d447b55cb856d3b1f124cb28e",
+        "3340440c0841f3a9ed0772b7e36d6d0e4d5881fd",
         "34276d30da30285f4ad348848ec746457730899a",
         "386af41e16114574f3e0da7f759e9b365d1e96d6",
         "426876d89595022b0f90ba2c108874fbc6ba8212",
@@ -4424,7 +4459,7 @@
       "semanticScholarPaperId": "eb2cbd12f749f14716296f7f415e921562c9079b",
       "semanticScholarTitle": "LRM: Large Reconstruction Model for Single Image to 3D",
       "publicationDate": "2023-11-08",
-      "internalCitationCount": 90,
+      "internalCitationCount": 91,
       "citedBy": [
         "3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion",
         "4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling",
@@ -4465,6 +4500,7 @@
         "I2V3D: Controllable Image-to-Video Generation with 3D Guidance",
         "IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation",
         "IPDreamer: Appearance-Controllable 3D Object Generation with Complex Image Prompts",
+        "IRIS: Implicit Rendering Matters for Pose-Free Novel View Synthesis",
         "InTeX: Interactive Text-to-texture Synthesis via Unified Depth-aware Inpainting",
         "InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models",
         "Kiss3DGen: Repurposing Image Diffusion Models for 3D Asset Generation",
@@ -4533,6 +4569,7 @@
         "2370c14e3090893a935f8bddd45f8cdef0265dc9",
         "25bd8267e37f3e9e55274eb9c26b10926c36fdcb",
         "261ef57339a56fefdf0555827fa9ebf59208fa15",
+        "28d8e5cc641334b0995079f0b2aae6d2a9d91b2b",
         "30c664670902f210abfdfc8bb016874d39e0fd56",
         "34276d30da30285f4ad348848ec746457730899a",
         "386af41e16114574f3e0da7f759e9b365d1e96d6",
@@ -6870,7 +6907,7 @@
       "semanticScholarPaperId": "c5e9fd131cde68c218d0ea69cd617a67c7f35d42",
       "semanticScholarTitle": "ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation",
       "publicationDate": "2023-05-25",
-      "internalCitationCount": 164,
+      "internalCitationCount": 165,
       "citedBy": [
         "2L3: Lifting Imperfect Generated 2D Images into Accurate 3D",
         "3D-GPT: Procedural 3D Modeling with Large Language Models",
@@ -6987,6 +7024,7 @@
         "PixGS: Pixel-Space Diffusion for Direct 3D Gaussian Splat Generation",
         "Pixal3D: Pixel-Aligned 3D Generation from Images",
         "Portrait3D: Text-Guided High-Quality 3D Portrait Generation Using Pyramid Representation and GANs Prior",
+        "Printing the Underdetermined: Materializing Multi-solutionness in Figurative Paintings",
         "Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data",
         "Progressive Text-to-3D Generation for Automatic 3D Prototyping",
         "Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts",
@@ -7068,6 +7106,7 @@
         "2c6392491b6a942e08db46c8fff0ef5ba1fd9de8",
         "303f466fb823112f79a9f36637c7084dd8363fc5",
         "30c664670902f210abfdfc8bb016874d39e0fd56",
+        "3340440c0841f3a9ed0772b7e36d6d0e4d5881fd",
         "33d4500f5ab12259662745bc40f56603a013993f",
         "34276d30da30285f4ad348848ec746457730899a",
         "3ae7f7c5db8df734a349198423492f9d4ca159cd",
@@ -8116,7 +8155,7 @@
       "semanticScholarPaperId": "2c70684973bc4d7b6f8404a647b8031c4d3c8383",
       "semanticScholarTitle": "Zero-1-to-3: Zero-shot One Image to 3D Object",
       "publicationDate": "2023-03-20",
-      "internalCitationCount": 167,
+      "internalCitationCount": 168,
       "citedBy": [
         "2L3: Lifting Imperfect Generated 2D Images into Accurate 3D",
         "3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis",
@@ -8228,6 +8267,7 @@
         "Pixal3D: Pixel-Aligned 3D Generation from Images",
         "PlacidDreamer: Advancing Harmony in Text-to-3D Generation",
         "PoseAdapter: Dual-Stream 2.5D Controllable Image Generation for Complex Multi-Object Scenes",
+        "Printing the Underdetermined: Materializing Multi-solutionness in Figurative Paintings",
         "Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data",
         "Progressive Text-to-3D Generation for Automatic 3D Prototyping",
         "ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation",
@@ -8321,6 +8361,7 @@
         "2605f0776dcda957fa540f88cdec53badab848b1",
         "2d4e2b2a9f823ba7bb5b4409c40f22cc9087814a",
         "303f466fb823112f79a9f36637c7084dd8363fc5",
+        "3340440c0841f3a9ed0772b7e36d6d0e4d5881fd",
         "34276d30da30285f4ad348848ec746457730899a",
         "386af41e16114574f3e0da7f759e9b365d1e96d6",
         "3ae7f7c5db8df734a349198423492f9d4ca159cd",
@@ -9968,7 +10009,7 @@
       "semanticScholarPaperId": "bdf4af8311637c681904e71cf50f96fd0026f578",
       "semanticScholarTitle": "Magic3D: High-Resolution Text-to-3D Content Creation",
       "publicationDate": "2022-11-18",
-      "internalCitationCount": 199,
+      "internalCitationCount": 200,
       "citedBy": [
         "2L3: Lifting Imperfect Generated 2D Images into Accurate 3D",
         "3D-GPT: Procedural 3D Modeling with Large Language Models",
@@ -10102,6 +10143,7 @@
         "PlacidDreamer: Advancing Harmony in Text-to-3D Generation",
         "Point-E: A System for Generating 3D Point Clouds from Complex Prompts",
         "Points-to-3D: Bridging the Gap between Sparse Points and Shape-Controllable Text-to-3D Generation",
+        "Printing the Underdetermined: Materializing Multi-solutionness in Figurative Paintings",
         "Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data",
         "Progressive Text-to-3D Generation for Automatic 3D Prototyping",
         "Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts",
@@ -10209,6 +10251,7 @@
         "303f466fb823112f79a9f36637c7084dd8363fc5",
         "30c4b0e8316fd6ade2bafcd112f430ef6f0f34f5",
         "30c664670902f210abfdfc8bb016874d39e0fd56",
+        "3340440c0841f3a9ed0772b7e36d6d0e4d5881fd",
         "33d4500f5ab12259662745bc40f56603a013993f",
         "34276d30da30285f4ad348848ec746457730899a",
         "3ae7f7c5db8df734a349198423492f9d4ca159cd",
@@ -10853,7 +10896,7 @@
       "semanticScholarPaperId": "4c94d04afa4309ec2f06bdd0fe3781f91461b362",
       "semanticScholarTitle": "DreamFusion: Text-to-3D using 2D Diffusion",
       "publicationDate": "2022-09-29",
-      "internalCitationCount": 291,
+      "internalCitationCount": 292,
       "citedBy": [
         "2L3: Lifting Imperfect Generated 2D Images into Accurate 3D",
         "3D-GPT: Procedural 3D Modeling with Large Language Models",
@@ -11049,6 +11092,7 @@
         "Point-E: A System for Generating 3D Point Clouds from Complex Prompts",
         "Points-to-3D: Bridging the Gap between Sparse Points and Shape-Controllable Text-to-3D Generation",
         "Portrait3D: Text-Guided High-Quality 3D Portrait Generation Using Pyramid Representation and GANs Prior",
+        "Printing the Underdetermined: Materializing Multi-solutionness in Figurative Paintings",
         "Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data",
         "Progressive Text-to-3D Generation for Automatic 3D Prototyping",
         "Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts",
@@ -11212,6 +11256,7 @@
         "30c4b0e8316fd6ade2bafcd112f430ef6f0f34f5",
         "30c664670902f210abfdfc8bb016874d39e0fd56",
         "31bfd63204c861baf2a87fc48f62281d382fd26d",
+        "3340440c0841f3a9ed0772b7e36d6d0e4d5881fd",
         "33d4500f5ab12259662745bc40f56603a013993f",
         "34276d30da30285f4ad348848ec746457730899a",
         "3c13686750c9b2541bff9567ea440c96df810764",
@@ -11993,6 +12038,17 @@
         "f6dfb1e9539f3f50ffc8fe3ebae318d4607b098f",
         "ff0baeb316df06d017f381c80a2c3aa6399fe938"
       ]
+    },
+    {
+      "title": "GS-PI: An Optimization-Decoupled Appearance Decomposition Approach for Generating PBR Gaussian Assets",
+      "section": "3D Editing, Decomposition & Stylization",
+      "identifier": "ARXIV:2609.19907",
+      "semanticScholarPaperId": "1b99642e150ba3c589955820112d0336dbe44d45",
+      "semanticScholarTitle": "GS-PI: An Optimization-Decoupled Appearance Decomposition Approach for Generating PBR Gaussian Assets",
+      "publicationDate": "2026-09-17",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
     },
     {
       "title": "RelightFormer: Feed-forward Generative Transformer for Multiview Object Relighting",
@@ -15613,6 +15669,28 @@
         "50cb348c5853d7c5843c949fa1db4eb9c1d9994d",
         "8885ef26c2dbef9635fc2a1e97fc698475b265bb"
       ]
+    },
+    {
+      "title": "SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos",
+      "section": "Dynamic Content Generation",
+      "identifier": "ARXIV:2609.20818",
+      "semanticScholarPaperId": "867602b00c26bf754d1d080302d4ede30643710c",
+      "semanticScholarTitle": "SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos",
+      "publicationDate": "2026-09-17",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
+    {
+      "title": "Wind on Trees: Testing Physical Grounding in Dynamic 4D Gaussian Splatting",
+      "section": "Dynamic Content Generation",
+      "identifier": "ARXIV:2609.17810",
+      "semanticScholarPaperId": "2de3a8b2b9f983d620f35891734039747e515606",
+      "semanticScholarTitle": "Wind on Trees: Testing Physical Grounding in Dynamic 4D Gaussian Splatting",
+      "publicationDate": "2026-09-15",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
     },
     {
       "title": "MotionCanvas: Learning Implicit Motion Planning from Composable Kinematic Cues",

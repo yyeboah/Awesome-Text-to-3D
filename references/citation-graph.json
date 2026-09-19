@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T14:25:57.449Z",
+  "generatedAt": "2026-09-19T08:47:46.533Z",
   "source": "Semantic Scholar Academic Graph API",
   "direction": "source cites target",
   "nodes": [
@@ -678,6 +678,16 @@
       "citationCount": 84
     },
     {
+      "id": "1b99642e150ba3c589955820112d0336dbe44d45",
+      "title": "GS-PI: An Optimization-Decoupled Appearance Decomposition Approach for Generating PBR Gaussian Assets",
+      "externalIds": {
+        "ArXiv": "2609.19907",
+        "CorpusId": 292058825
+      },
+      "publicationDate": "2026-09-17",
+      "citationCount": 0
+    },
+    {
       "id": "1c63cc9bb89839c3714f7f6236dcb00371cf1504",
       "title": "The More You See in 2D, the More You Perceive in 3D",
       "externalIds": {
@@ -1072,6 +1082,16 @@
       "citationCount": 0
     },
     {
+      "id": "28d8e5cc641334b0995079f0b2aae6d2a9d91b2b",
+      "title": "IRIS: Implicit Rendering Matters for Pose-Free Novel View Synthesis",
+      "externalIds": {
+        "ArXiv": "2609.18034",
+        "CorpusId": 292042510
+      },
+      "publicationDate": "2026-09-16",
+      "citationCount": 0
+    },
+    {
       "id": "297f7cfa8b9a9a2cbd43a074927bece889288f3a",
       "title": "Large-Vocabulary 3D Diffusion Model with Transformer",
       "externalIds": {
@@ -1165,7 +1185,7 @@
         "CorpusId": 257631738
       },
       "publicationDate": "2023-03-20",
-      "citationCount": 167
+      "citationCount": 168
     },
     {
       "id": "2d4e2b2a9f823ba7bb5b4409c40f22cc9087814a",
@@ -1175,6 +1195,16 @@
         "CorpusId": 291683037
       },
       "publicationDate": "2026-09-03",
+      "citationCount": 0
+    },
+    {
+      "id": "2de3a8b2b9f983d620f35891734039747e515606",
+      "title": "Wind on Trees: Testing Physical Grounding in Dynamic 4D Gaussian Splatting",
+      "externalIds": {
+        "ArXiv": "2609.17810",
+        "CorpusId": 292041778
+      },
+      "publicationDate": "2026-09-15",
       "citationCount": 0
     },
     {
@@ -1279,6 +1309,18 @@
         "CorpusId": 291678053
       },
       "publicationDate": "2026-09-03",
+      "citationCount": 0
+    },
+    {
+      "id": "3340440c0841f3a9ed0772b7e36d6d0e4d5881fd",
+      "title": "Printing the Underdetermined: Materializing Multi-solutionness in Figurative Paintings",
+      "externalIds": {
+        "ArXiv": "2609.19782",
+        "DBLP": "journals/pacmcgit/MingXWLYZYZ26",
+        "DOI": "10.1145/3816091",
+        "CorpusId": 289727640
+      },
+      "publicationDate": "2026-06-29",
       "citationCount": 0
     },
     {
@@ -1459,7 +1501,7 @@
         "CorpusId": 268248244
       },
       "publicationDate": "2024-03-04",
-      "citationCount": 26
+      "citationCount": 27
     },
     {
       "id": "4344f8973be4366988e63adf402456b822ea6c27",
@@ -1683,7 +1725,7 @@
         "CorpusId": 252596091
       },
       "publicationDate": "2022-09-29",
-      "citationCount": 291
+      "citationCount": 292
     },
     {
       "id": "4d7de7b64be6dce4c7beece2ed1553ce5653abaf",
@@ -2959,6 +3001,16 @@
       },
       "publicationDate": "2023-10-26",
       "citationCount": 20
+    },
+    {
+      "id": "867602b00c26bf754d1d080302d4ede30643710c",
+      "title": "SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos",
+      "externalIds": {
+        "ArXiv": "2609.20818",
+        "CorpusId": 292063219
+      },
+      "publicationDate": "2026-09-17",
+      "citationCount": 0
     },
     {
       "id": "86b5318b0a69ccdeec17abb0120e4bd7688a4b59",
@@ -4273,7 +4325,7 @@
         "CorpusId": 253708074
       },
       "publicationDate": "2022-11-18",
-      "citationCount": 199
+      "citationCount": 200
     },
     {
       "id": "be50b554fd2fb37982bae3d0e359f1520b8665f9",
@@ -4447,7 +4499,7 @@
         "CorpusId": 258887357
       },
       "publicationDate": "2023-05-25",
-      "citationCount": 164
+      "citationCount": 165
     },
     {
       "id": "c631e3d465d8a9f0b39aa865f1c867081998f856",
@@ -5383,7 +5435,7 @@
         "CorpusId": 265050698
       },
       "publicationDate": "2023-11-08",
-      "citationCount": 90
+      "citationCount": 91
     },
     {
       "id": "eb33fe4db171c33a96cea4cf77bda7cff769a0c4",
@@ -5594,6 +5646,16 @@
       },
       "publicationDate": "2023-04-11",
       "citationCount": 4
+    },
+    {
+      "id": "f3b6a3782f856210cb20591e46ea994dd092ef6d",
+      "title": "PhGS: Post-Hoc Pruning and Refinement of Single-View Feed-Forward 3D Gaussian Reconstructions",
+      "externalIds": {
+        "ArXiv": "2609.20623",
+        "CorpusId": 292063528
+      },
+      "publicationDate": "2026-09-17",
+      "citationCount": 0
     },
     {
       "id": "f445188827232185779fe19e5b3cbf9b276d03c1",
@@ -9801,6 +9863,10 @@
       "target": "6f709278506813d04a074e6fa20188cce9bb927b"
     },
     {
+      "source": "28d8e5cc641334b0995079f0b2aae6d2a9d91b2b",
+      "target": "eb2cbd12f749f14716296f7f415e921562c9079b"
+    },
+    {
       "source": "297f7cfa8b9a9a2cbd43a074927bece889288f3a",
       "target": "1b8a734dd28a9d766a5d3dbc0871e76b6a452b65"
     },
@@ -10311,6 +10377,26 @@
     {
       "source": "32a4aad0e7077a618eac33f798fd8c721ddf7ba0",
       "target": "b41944dbf5833dd4e6db4aee05ab4fbd60398397"
+    },
+    {
+      "source": "3340440c0841f3a9ed0772b7e36d6d0e4d5881fd",
+      "target": "2c70684973bc4d7b6f8404a647b8031c4d3c8383"
+    },
+    {
+      "source": "3340440c0841f3a9ed0772b7e36d6d0e4d5881fd",
+      "target": "4299b79ef41601cf6e3e0603f7216d72b6d1315f"
+    },
+    {
+      "source": "3340440c0841f3a9ed0772b7e36d6d0e4d5881fd",
+      "target": "4c94d04afa4309ec2f06bdd0fe3781f91461b362"
+    },
+    {
+      "source": "3340440c0841f3a9ed0772b7e36d6d0e4d5881fd",
+      "target": "bdf4af8311637c681904e71cf50f96fd0026f578"
+    },
+    {
+      "source": "3340440c0841f3a9ed0772b7e36d6d0e4d5881fd",
+      "target": "c5e9fd131cde68c218d0ea69cd617a67c7f35d42"
     },
     {
       "source": "33d4500f5ab12259662745bc40f56603a013993f",
