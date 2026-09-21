@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T08:47:46.533Z",
+  "generatedAt": "2026-09-21T08:50:02.953Z",
   "source": "Semantic Scholar Academic Graph API",
   "direction": "source cites target",
   "nodes": [
@@ -301,6 +301,16 @@
         "CorpusId": 288650503
       },
       "publicationDate": "2026-05-21",
+      "citationCount": 0
+    },
+    {
+      "id": "08c3a9995bccfd65c138c49a0bc4341a332eca81",
+      "title": "VoxelTTO: Voxel-Aligned Feed-Forward 3D Gaussian Splatting with Test-Time Optimization",
+      "externalIds": {
+        "ArXiv": "2609.21498",
+        "CorpusId": 292194561
+      },
+      "publicationDate": "2026-09-18",
       "citationCount": 0
     },
     {
@@ -1185,7 +1195,7 @@
         "CorpusId": 257631738
       },
       "publicationDate": "2023-03-20",
-      "citationCount": 168
+      "citationCount": 169
     },
     {
       "id": "2d4e2b2a9f823ba7bb5b4409c40f22cc9087814a",
@@ -1526,6 +1536,17 @@
       "citationCount": 32
     },
     {
+      "id": "43a693802168e12d0a828bf57c9da1108208a6c9",
+      "title": "Physically Based Rendering in the Latent Space",
+      "externalIds": {
+        "ArXiv": "2609.21054",
+        "DOI": "10.1111/cgf.70633",
+        "CorpusId": 292194472
+      },
+      "publicationDate": "2026-09-17",
+      "citationCount": 0
+    },
+    {
       "id": "44679ca473700dd4db318e526ba5f651f85331ff",
       "title": "Hallo4D: Multi-Modal Hallucination Mitigation for Consistent Spatio-Temporal Generation",
       "externalIds": {
@@ -1725,7 +1746,7 @@
         "CorpusId": 252596091
       },
       "publicationDate": "2022-09-29",
-      "citationCount": 292
+      "citationCount": 293
     },
     {
       "id": "4d7de7b64be6dce4c7beece2ed1553ce5653abaf",
@@ -2327,7 +2348,7 @@
         "CorpusId": 277103685
       },
       "publicationDate": "2025-03-18",
-      "citationCount": 9
+      "citationCount": 10
     },
     {
       "id": "6d9609ccf84e0ecb2d59844b5135e77933939003",
@@ -2705,7 +2726,7 @@
         "CorpusId": 253510536
       },
       "publicationDate": "2022-11-14",
-      "citationCount": 98
+      "citationCount": 99
     },
     {
       "id": "79d6966008a261f23c854b2d321aa151ae44df4b",
@@ -5493,7 +5514,7 @@
         "CorpusId": 283909568
       },
       "publicationDate": "2025-12-16",
-      "citationCount": 22
+      "citationCount": 23
     },
     {
       "id": "ed1d274ef73f640361f0614835e46468fe489386",
@@ -11149,6 +11170,26 @@
     {
       "source": "438e9fb79c9e37d43223e61bb575ebd2dae0b0a7",
       "target": "fc011ed5ee986332523a62d2783adee1179dc1ed"
+    },
+    {
+      "source": "43a693802168e12d0a828bf57c9da1108208a6c9",
+      "target": "2c70684973bc4d7b6f8404a647b8031c4d3c8383"
+    },
+    {
+      "source": "43a693802168e12d0a828bf57c9da1108208a6c9",
+      "target": "4c94d04afa4309ec2f06bdd0fe3781f91461b362"
+    },
+    {
+      "source": "43a693802168e12d0a828bf57c9da1108208a6c9",
+      "target": "6c6e7588391dd6d4bc5459e56634f3eac105011a"
+    },
+    {
+      "source": "43a693802168e12d0a828bf57c9da1108208a6c9",
+      "target": "793939b83e10903f58d8edbb7534963df627a1fe"
+    },
+    {
+      "source": "43a693802168e12d0a828bf57c9da1108208a6c9",
+      "target": "ecd0d6c7e8093bd69655edc511e408216d52c7fb"
     },
     {
       "source": "44679ca473700dd4db318e526ba5f651f85331ff",

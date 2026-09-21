@@ -1,11 +1,11 @@
 # Citation counts
 
-Generated 2026-09-19 from the Semantic Scholar reference graph. Counts include only distinct papers indexed in this repository.
+Generated 2026-09-21 from the Semantic Scholar reference graph. Counts include only distinct papers indexed in this repository.
 
 <a id="s2-4c94d04afa4309ec2f06bdd0fe3781f91461b362"></a>
 ## DreamFusion: Text-to-3D using 2D Diffusion
 
-**Citation count:** 292
+**Citation count:** 293
 
 - 2L3: Lifting Imperfect Generated 2D Images into Accurate 3D
 - 3D-GPT: Procedural 3D Modeling with Large Language Models
@@ -195,6 +195,7 @@ Generated 2026-09-19 from the Semantic Scholar reference graph. Counts include o
 - PhysX-3D: Physical-Grounded 3D Asset Generation
 - PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image
 - PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects
+- Physically Based Rendering in the Latent Space
 - PixGS: Pixel-Space Diffusion for Direct 3D Gaussian Splat Generation
 - Pixal3D: Pixel-Aligned 3D Generation from Images
 - PlacidDreamer: Advancing Harmony in Text-to-3D Generation
@@ -509,7 +510,7 @@ Generated 2026-09-19 from the Semantic Scholar reference graph. Counts include o
 <a id="s2-2c70684973bc4d7b6f8404a647b8031c4d3c8383"></a>
 ## Zero-1-to-3: Zero-shot One Image to 3D Object
 
-**Citation count:** 168
+**Citation count:** 169
 
 - 2L3: Lifting Imperfect Generated 2D Images into Accurate 3D
 - 3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis
@@ -618,6 +619,7 @@ Generated 2026-09-19 from the Semantic Scholar reference graph. Counts include o
 - PRISM: Feed-Forward Single-Image 3D Reconstruction via Geometric Warp-Residual Modeling
 - Part123: Part-aware 3D Reconstruction from a Single-view Image
 - Phidias: A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions with Reference-Augmented Diffusion
+- Physically Based Rendering in the Latent Space
 - Pixal3D: Pixel-Aligned 3D Generation from Images
 - PlacidDreamer: Advancing Harmony in Text-to-3D Generation
 - PoseAdapter: Dual-Stream 2.5D Controllable Image Generation for Complex Multi-Object Scenes
@@ -1653,7 +1655,7 @@ Generated 2026-09-19 from the Semantic Scholar reference graph. Counts include o
 <a id="s2-793939b83e10903f58d8edbb7534963df627a1fe"></a>
 ## Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures
 
-**Citation count:** 98
+**Citation count:** 99
 
 - 3D-GPT: Procedural 3D Modeling with Large Language Models
 - A General Framework to Boost 3D GS Initialization for Text-to-3D Generation by Lexical Richness
@@ -1714,6 +1716,7 @@ Generated 2026-09-19 from the Semantic Scholar reference graph. Counts include o
 - One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization
 - Paint-it: Text-to-Texture Synthesis via Deep Convolutional Texture Map Optimization and Physically-Based Rendering
 - PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World
+- Physically Based Rendering in the Latent Space
 - PlacidDreamer: Advancing Harmony in Text-to-3D Generation
 - Points-to-3D: Bridging the Gap between Sparse Points and Shape-Controllable Text-to-3D Generation
 - Progressive Text-to-3D Generation for Automatic 3D Prototyping
@@ -4384,6 +4387,35 @@ Generated 2026-09-19 from the Semantic Scholar reference graph. Counts include o
 - Text-Guided 3D Face Synthesis - From Generation to Editing
 - WonderHuman: Hallucinating Unseen Parts in Dynamic 3D Human Reconstruction
 
+<a id="s2-ecd0d6c7e8093bd69655edc511e408216d52c7fb"></a>
+## Native and Compact Structured Latents for 3D Generation
+
+**Citation count:** 23
+
+- 3DMorph: Single-Image-Guided Local 3D Shape Editing and Morphing
+- ABot-Earth 0.5: Generative 3D Earth Model
+- DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation
+- Extracting Neural Materials from Multi-view Images
+- GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction
+- Home3D 1.0: A High-Fidelity Image-to-3D Asset Generation System for Interior Design
+- Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models
+- Instant NuRec: Feed-Forward 3D Gaussian Reconstruction for Driving Scene Simulation
+- Luce: Relightable Gaussians for 3D Asset Generation
+- Meshy T2: Fast Native Mesh Generation with Flow Matching
+- PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects
+- Physically Based Rendering in the Latent Space
+- PixGS: Pixel-Space Diffusion for Direct 3D Gaussian Splat Generation
+- ROAR-3D: Routing Arbitrary Views for High-Fidelity 3D Generation
+- SceneReGen: Generative Reconstruction of 3D Scenes from a Single Image
+- TGRHuman: Text-Guided Realistic 3D Human Generation via Diffusion Renderer
+- TexSpot: 3D Texture Enhancement with Spatially-uniform Point Latent Representation
+- UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement
+- UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image
+- UniPhysGen: Unified Physical Grounding for Simulation-Ready 3D Assets
+- VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching
+- World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible
+- WorldSculpt: Generating Compositional Worlds from Grounded Videos
+
 <a id="s2-4e21879b564cc2e803b16edf0dda9f1edb91b497"></a>
 ## Text-to-3D with classifier score distillation
 
@@ -4412,34 +4444,6 @@ Generated 2026-09-19 from the Semantic Scholar reference graph. Counts include o
 - ScaleDreamer: Scalable Text-to-3D Synthesis with Asynchronous Score Distillation
 - Stable Score Distillation for High-Quality 3D Generation
 - TC4D: Trajectory-Conditioned Text-to-4D Generation
-
-<a id="s2-ecd0d6c7e8093bd69655edc511e408216d52c7fb"></a>
-## Native and Compact Structured Latents for 3D Generation
-
-**Citation count:** 22
-
-- 3DMorph: Single-Image-Guided Local 3D Shape Editing and Morphing
-- ABot-Earth 0.5: Generative 3D Earth Model
-- DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation
-- Extracting Neural Materials from Multi-view Images
-- GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction
-- Home3D 1.0: A High-Fidelity Image-to-3D Asset Generation System for Interior Design
-- Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models
-- Instant NuRec: Feed-Forward 3D Gaussian Reconstruction for Driving Scene Simulation
-- Luce: Relightable Gaussians for 3D Asset Generation
-- Meshy T2: Fast Native Mesh Generation with Flow Matching
-- PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects
-- PixGS: Pixel-Space Diffusion for Direct 3D Gaussian Splat Generation
-- ROAR-3D: Routing Arbitrary Views for High-Fidelity 3D Generation
-- SceneReGen: Generative Reconstruction of 3D Scenes from a Single Image
-- TGRHuman: Text-Guided Realistic 3D Human Generation via Diffusion Renderer
-- TexSpot: 3D Texture Enhancement with Spatially-uniform Point Latent Representation
-- UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement
-- UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image
-- UniPhysGen: Unified Physical Grounding for Simulation-Ready 3D Assets
-- VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching
-- World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible
-- WorldSculpt: Generating Compositional Worlds from Grounded Videos
 
 <a id="s2-04d9cc34fdd128ae94819a5a0bcbc99cc16e1f38"></a>
 ## HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation
@@ -5296,6 +5300,22 @@ Generated 2026-09-19 from the Semantic Scholar reference graph. Counts include o
 - Wonderland: Navigating 3D Scenes From a Single Image
 - WorldGen: From Text to Traversable and Interactive 3D Worlds
 
+<a id="s2-6c6e7588391dd6d4bc5459e56634f3eac105011a"></a>
+## Stable Virtual Camera: Generative View Synthesis with Diffusion Models
+
+**Citation count:** 10
+
+- Bolt3D: Generating 3D Scenes in Seconds
+- GeoFace: Consistent Multi-View Face Generation with Geometry-Constrained Diffusion
+- HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Models
+- JointEdit3D: Feed-Forward 3D Scene Editing in a Unified Latent Space
+- Physically Based Rendering in the Latent Space
+- Reflection-aware Generative Novel View Synthesis
+- SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer
+- Stabilizing Camera-Controlled Novel View Synthesis at Inference Time
+- VideoFrom3D: 3D Scene Video Generation via Complementary Image and Video Diffusion Models
+- VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching
+
 <a id="s2-fbf78c26ff88a30aa8c1c899837c729fe6d088e7"></a>
 ## DreamReward: Text-to-3D Generation with Human Preference
 
@@ -5438,21 +5458,6 @@ Generated 2026-09-19 from the Semantic Scholar reference graph. Counts include o
 - Seed3D 1.0: From Images to High-Fidelity Simulation-Ready 3D Assets
 - TexSpot: 3D Texture Enhancement with Spatially-uniform Point Latent Representation
 - UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement
-
-<a id="s2-6c6e7588391dd6d4bc5459e56634f3eac105011a"></a>
-## Stable Virtual Camera: Generative View Synthesis with Diffusion Models
-
-**Citation count:** 9
-
-- Bolt3D: Generating 3D Scenes in Seconds
-- GeoFace: Consistent Multi-View Face Generation with Geometry-Constrained Diffusion
-- HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Models
-- JointEdit3D: Feed-Forward 3D Scene Editing in a Unified Latent Space
-- Reflection-aware Generative Novel View Synthesis
-- SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer
-- Stabilizing Camera-Controlled Novel View Synthesis at Inference Time
-- VideoFrom3D: 3D Scene Video Generation via Complementary Image and Video Diffusion Models
-- VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching
 
 <a id="s2-1f515f7a9f60a4a6b5751f77058a86f26c03bbd1"></a>
 ## Generic 3D Diffusion Adapter Using Controlled Multi-View Editing
@@ -7053,6 +7058,13 @@ Generated 2026-09-19 from the Semantic Scholar reference graph. Counts include o
 
 - One-shot Implicit Animatable Avatars with Model-based Priors
 
+<a id="s2-08c3a9995bccfd65c138c49a0bc4341a332eca81"></a>
+## VoxelTTO: Voxel-Aligned Feed-Forward 3D Gaussian Splatting with Test-Time Optimization
+
+**Citation count:** 0
+
+No other indexed papers cite this paper.
+
 <a id="s2-1b99642e150ba3c589955820112d0336dbe44d45"></a>
 ## GS-PI: An Optimization-Decoupled Appearance Decomposition Approach for Generating PBR Gaussian Assets
 
@@ -7062,6 +7074,13 @@ No other indexed papers cite this paper.
 
 <a id="s2-f3b6a3782f856210cb20591e46ea994dd092ef6d"></a>
 ## PhGS: Post-Hoc Pruning and Refinement of Single-View Feed-Forward 3D Gaussian Reconstructions
+
+**Citation count:** 0
+
+No other indexed papers cite this paper.
+
+<a id="s2-43a693802168e12d0a828bf57c9da1108208a6c9"></a>
+## Physically Based Rendering in the Latent Space
 
 **Citation count:** 0
 
