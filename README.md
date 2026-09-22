@@ -6,7 +6,7 @@ This README is intended to work as a fast research index:
 - grouped by task and content type
 - linked to BibTeX, project pages, and code when available
 - updated incrementally as new papers and resources appear
-- Citation count measures distinct papers elsewhere in this index that [Semantic Scholar](https://api.semanticscholar.org/api-docs/graphs) reports as citing an entry (refreshed 2026-09-21; 511 distinct works, 516/516 citation-backed rows resolved).
+- Citation count measures distinct papers elsewhere in this index that [Semantic Scholar](https://api.semanticscholar.org/api-docs/graphs) reports as citing an entry (refreshed 2026-09-22; 511 distinct works, 516/519 citation-backed rows resolved).
 
 ## Overview
 - Core categories: X-to-3D, 3D Editing, Avatars, Dynamic Content, World Models
@@ -611,6 +611,8 @@ This README is intended to work as a fast research index:
 
 - [PointGT: Simultaneous Geometry and Texture Editing for Point-Based Representations](https://arxiv.org/abs/2609.03341), Yanshu Zhang et al., ECCV 2026 | [citation](./references/citations.bib#L3453-L3458) | [site](https://zvict.github.io/pointgt/) | [code]() | <a href="./references/internal-citations.md#s2-d83df73fb9aa10b1e2b46e3bcc58901a8e181fdd" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 
+- [LiteTex-GS: Fast and Lightweight Texturing for Gaussian Splatting](https://arxiv.org/abs/2609.23380), Zhiwei Li et al., Pacific Graphics 2026 (Computer Graphics Forum) | [citation](./references/citations.bib#L3651-L3657) | [site]() | [code]() | ▲ citation count: unavailable
+
 - [PoseAdapter: Dual-Stream 2.5D Controllable Image Generation for Complex Multi-Object Scenes](https://arxiv.org/abs/2608.15583), Yufeng Chi et al., ACM MM 2026 | [citation](./references/citations.bib#L3285-L3290) | [site]() | [code](https://github.com/cyf23/PoseAdapter) | <a href="./references/internal-citations.md#s2-09211888bb1c4f4ccd5057e5c529570369a6daf0" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 
 - [GeoCache: Training-Free Acceleration of Multi-View Texture Diffusion via Geometric Delta Transport](https://arxiv.org/abs/2608.13255), Haotang Li et al., Arxiv 2026 | [citation](./references/citations.bib#L3278-L3283) | [site]() | [code]() | <a href="./references/internal-citations.md#s2-6ff1805a8f14c762dcdda7366d7c300c30d19fe3" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
@@ -813,6 +815,8 @@ This README is intended to work as a fast research index:
 <details close>
 <summary>Avatar Generation and Manupilation</summary>
 
+- [Relightable 3D Avatar Reconstruction with Semantic-Adaptive Motion-Illumination Responses](https://arxiv.org/abs/2609.24158), Jiankuo Zhao et al., Arxiv 2026 | [citation](./references/citations.bib#L3644-L3649) | [site]() | [code]() | ▲ citation count: unavailable
+
 - [Seeing the World and the Self from Egocentric Video](https://arxiv.org/abs/2609.01276), Kai Guan et al., Arxiv 2026 | [citation](./references/citations.bib#L3439-L3444) | [site](https://ka1guan.github.io/RESELF/) | [code](https://github.com/Ka1Guan/RESELF) | <a href="./references/internal-citations.md#s2-86f9e82515e74c073f90bb816a456f8bdd342586" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 
 - [DiGS-Avatar: Single-Image Animatable 3D Human Reconstruction via UV-Space Diffusion](https://arxiv.org/abs/2608.20759), Jiakun Li et al., ECCV 2026 | [citation](./references/citations.bib#L3334-L3339) | [site]() | [code](https://github.com/KLMAV-CUC/DiGS-Avatar) | <a href="./references/internal-citations.md#s2-8885ef26c2dbef9635fc2a1e97fc698475b265bb" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
@@ -1003,6 +1007,8 @@ This README is intended to work as a fast research index:
 - [World in World: Explore the World with World Models](https://arxiv.org/abs/2609.11548), Chenxi Song et al., Arxiv 2026 | [citation](./references/citations.bib#L3565-L3570) | [site](https://chenxi-song.github.io/worldinworld/) | [code](https://github.com/Westlake-AGI-Lab/WorldinWorld) | <a href="./references/internal-citations.md#s2-e15453c3d5bae47810f6f100e542daf17e713663" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 
 - [WorldSculpt: Generating Compositional Worlds from Grounded Videos](https://arxiv.org/abs/2609.05416), Muyao Niu et al., Arxiv 2026 | [citation](./references/citations.bib#L3488-L3493) | [site](https://alaya-lab.github.io/WorldSculpt/) | [code](https://github.com/AlayaLab/WorldSculpt) | <a href="./references/internal-citations.md#s2-961408fc53c3b1af2739e67f77256ecd2ae57b1b" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
+
+- [WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory](https://arxiv.org/abs/2609.24984), Wangbo Yu et al., Arxiv 2026 | [citation](./references/citations.bib#L3637-L3642) | [site](https://drexubery.github.io/WorldCrafter/) | [code](https://github.com/TencentARC/WorldCrafter) | ▲ citation count: unavailable
 
 - [Streaming4D: Accelerate 4D World Models via Block-wise Video Generation and Incremental Reconstruction](https://arxiv.org/abs/2609.00610), Xiaoyan Liu et al., Arxiv 2026 | [citation](./references/citations.bib#L3432-L3437) | [site]() | [code]() | <a href="./references/internal-citations.md#s2-857796cac936e1e8f9c439b034ac900b7e1c2c16" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 

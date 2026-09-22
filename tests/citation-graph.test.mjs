@@ -51,3 +51,28 @@ test('incremental update requests only new paper and paginates incoming citation
   assert.deepEqual(rebuilt.nodes,graph.nodes);
  } finally {await fs.rm(root,{recursive:true,force:true});}
 });
+
+
+test('unindexed ID batches fall back to title lookup and preserve unavailable counts offline', async () => {
+ const root=await fs.mkdtemp(path.join(os.tmpdir(),'citation-miss-test-'));
+ try {
+  await fs.mkdir(path.join(root,'references'));
+  await fs.writeFile(path.join(root,'references/citations.bib'),'@article{new,\n}\n');
+  await fs.writeFile(path.join(root,'README.md'),'- updated incrementally\n<summary>X-to-3D</summary>\n\n- [Unindexed paper](https://arxiv.org/abs/2609.99999) | [citation](./references/citations.bib#L1-L2)\n');
+  const mock=path.join(root,'mock.mjs');
+  await fs.writeFile(mock,`import assert from 'node:assert/strict';
+   globalThis.fetch=async(url)=>{
+    if(url.includes('/batch?')) return {ok:false,status:400,statusText:'Bad Request',text:async()=>JSON.stringify({error:'No valid paper ids given'})};
+    assert(url.includes('/paper/search/match?'));
+    return {ok:false,status:404,statusText:'Not Found',text:async()=>''};
+   };`);
+  const script=path.resolve('scripts/update-index-metadata.mjs');
+  for(const args of [['--import',mock,script],[script,'--offline']]) {
+   const result=spawnSync(process.execPath,args,{cwd:root,encoding:'utf8'});
+   assert.equal(result.status,0,result.stderr);
+   const report=JSON.parse(await fs.readFile(path.join(root,'references/internal-citations.json')));
+   assert.equal(report.entries[0].semanticScholarPaperId,null);
+   assert.equal(report.entries[0].internalCitationCount,null);
+  }
+ } finally {await fs.rm(root,{recursive:true,force:true});}
+});
