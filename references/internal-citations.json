@@ -1,10 +1,10 @@
 {
   "source": "Semantic Scholar Academic Graph API",
   "sourceUrl": "https://api.semanticscholar.org/api-docs/graphs",
-  "generatedAt": "2026-09-21T08:50:02.953Z",
+  "generatedAt": "2026-09-22T11:00:58.002Z",
   "definition": "Distinct resolved papers in this README whose Semantic Scholar reference lists include the target paper.",
   "resolvedRows": 516,
-  "citationBackedRows": 516,
+  "citationBackedRows": 519,
   "distinctResolvedWorks": 511,
   "entries": [
     {
@@ -12105,6 +12105,17 @@
       "citedByIds": []
     },
     {
+      "title": "LiteTex-GS: Fast and Lightweight Texturing for Gaussian Splatting",
+      "section": "3D Editing, Decomposition & Stylization",
+      "identifier": "ARXIV:2609.23380",
+      "semanticScholarPaperId": null,
+      "semanticScholarTitle": null,
+      "publicationDate": "2026-09-01",
+      "internalCitationCount": null,
+      "citedBy": [],
+      "citedByIds": []
+    },
+    {
       "title": "PoseAdapter: Dual-Stream 2.5D Controllable Image Generation for Complex Multi-Object Scenes",
       "section": "3D Editing, Decomposition & Stylization",
       "identifier": "ARXIV:2608.15583",
@@ -14299,6 +14310,17 @@
       ]
     },
     {
+      "title": "Relightable 3D Avatar Reconstruction with Semantic-Adaptive Motion-Illumination Responses",
+      "section": "Avatar Generation and Manupilation",
+      "identifier": "ARXIV:2609.24158",
+      "semanticScholarPaperId": null,
+      "semanticScholarTitle": null,
+      "publicationDate": "2026-09-01",
+      "internalCitationCount": null,
+      "citedBy": [],
+      "citedByIds": []
+    },
+    {
       "title": "Seeing the World and the Self from Egocentric Video",
       "section": "Avatar Generation and Manupilation",
       "identifier": "ARXIV:2609.01276",
@@ -16056,6 +16078,17 @@
       "semanticScholarTitle": "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
       "publicationDate": "2026-09-04",
       "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
+    {
+      "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+      "section": "World Models",
+      "identifier": "ARXIV:2609.24984",
+      "semanticScholarPaperId": null,
+      "semanticScholarTitle": null,
+      "publicationDate": "2026-09-01",
+      "internalCitationCount": null,
       "citedBy": [],
       "citedByIds": []
     },

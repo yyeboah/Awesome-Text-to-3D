@@ -1,6 +1,6 @@
 # Citation counts
 
-Generated 2026-09-21 from the Semantic Scholar reference graph. Counts include only distinct papers indexed in this repository.
+Generated 2026-09-22 from the Semantic Scholar reference graph. Counts include only distinct papers indexed in this repository.
 
 <a id="s2-4c94d04afa4309ec2f06bdd0fe3781f91461b362"></a>
 ## DreamFusion: Text-to-3D using 2D Diffusion

@@ -152,11 +152,20 @@ async function resolveBatch(identifiers, cache) {
   }
   for (let start = 0; start < missing.length; start += 25) {
     const ids = missing.slice(start, start + 25);
-    const data = await apiRequest(`${apiBase}/paper/batch?fields=${encodeURIComponent(fields)}`, {
-      method: "POST",
-      headers: { "content-type": "application/json" },
-      body: JSON.stringify({ ids }),
-    });
+    let data;
+    try {
+      data = await apiRequest(`${apiBase}/paper/batch?fields=${encodeURIComponent(fields)}`, {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({ ids }),
+      });
+    } catch (error) {
+      // Semantic Scholar rejects a batch when none of its IDs are indexed yet.
+      // Treat only that specific response as misses so title lookup can proceed.
+      if (!/^Error: 400 [^:]*:/.test(String(error)) ||
+          !String(error).includes('"error":"No valid paper ids given"')) throw error;
+      data = ids.map(() => null);
+    }
     ids.forEach((id, offset) => {
       const paper = data[offset] ? { ...data[offset], fetchedAt: new Date().toISOString() } : null;
       results.set(id, paper);
