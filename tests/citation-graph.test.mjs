@@ -5,6 +5,32 @@ import fs from 'node:fs/promises';
 import os from 'node:os';
 import path from 'node:path';
 import { spawnSync } from 'node:child_process';
+import { pathToFileURL } from 'node:url';
+
+test('CRLF input preserves paper categories when rebuilding metadata', async () => {
+ const root=await fs.mkdtemp(path.join(os.tmpdir(),'citation-crlf-test-'));
+ try {
+  await fs.mkdir(path.join(root,'references'));
+  const lookups={'id:ARXIV:2606.02580':null,'id:ARXIV:2609.24981':null,'title:blender paper':null,'title:world paper':null};
+  await fs.writeFile(path.join(root,'references/citation-cache.json'),JSON.stringify({schemaVersion:1,lookups,papers:{}}));
+  await fs.writeFile(path.join(root,'references/citations.bib'),'@article{blender,\r\n}\r\n@article{world,\r\n}\r\n');
+  await fs.writeFile(path.join(root,'README.md'),[
+   '- updated incrementally',
+   '<summary>X-to-3D</summary>',
+   '- [Blender paper](https://arxiv.org/abs/2606.02580) | [citation](./references/citations.bib#L1-L2)',
+   '<summary>World Models</summary>',
+   '- [World paper](https://arxiv.org/abs/2609.24981) | [citation](./references/citations.bib#L3-L4)',
+   '',
+  ].join('\r\n'));
+  const result=spawnSync(process.execPath,[path.resolve('scripts/update-index-metadata.mjs'),'--offline'],{cwd:root,encoding:'utf8'});
+  assert.equal(result.status,0,result.stderr);
+  const report=JSON.parse(await fs.readFile(path.join(root,'references/internal-citations.json')));
+  assert.deepEqual(report.entries.map(row=>[row.title,row.section]),[['Blender paper','X-to-3D'],['World paper','World Models']]);
+  const readme=await fs.readFile(path.join(root,'README.md'),'utf8');
+  assert.match(readme,/<summary>X-to-3D<\/summary>\n- \[Blender paper\]/);
+  assert.match(readme,/<summary>World Models<\/summary>\n- \[World paper\]/);
+ } finally {await fs.rm(root,{recursive:true,force:true});}
+});
 
 test('counts distinct IDs with duplicate titles, overlapping evidence and self citations', () => {
   const graph=buildCitationGraph([
@@ -41,7 +67,7 @@ test('incremental update requests only new paper and paginates incoming citation
   };`);
   const script=path.resolve('scripts/update-index-metadata.mjs');
   const run=args=>{const r=spawnSync(process.execPath,args,{cwd:root,encoding:'utf8'});assert.equal(r.status,0,r.stderr);};
-  run(['--import',mock,script]);
+  run(['--import',pathToFileURL(mock).href,script]);
   const graph=JSON.parse(await fs.readFile(path.join(root,'references/citation-graph.json')));
   assert.deepEqual(graph.nodes.map(n=>[n.id,n.citationCount]),[['new',1],['old',1]]);
   assert.equal(graph.edges.length,2);
@@ -67,7 +93,7 @@ test('unindexed ID batches fall back to title lookup and preserve unavailable co
     return {ok:false,status:404,statusText:'Not Found',text:async()=>''};
    };`);
   const script=path.resolve('scripts/update-index-metadata.mjs');
-  for(const args of [['--import',mock,script],[script,'--offline']]) {
+  for(const args of [['--import',pathToFileURL(mock).href,script],[script,'--offline']]) {
    const result=spawnSync(process.execPath,args,{cwd:root,encoding:'utf8'});
    assert.equal(result.status,0,result.stderr);
    const report=JSON.parse(await fs.readFile(path.join(root,'references/internal-citations.json')));

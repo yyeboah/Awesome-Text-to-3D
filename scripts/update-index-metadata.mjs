@@ -63,8 +63,8 @@ function extractSection(line) {
 }
 
 function parseRows(readme, bib) {
-  const lines = readme.split("\n");
-  const bibLines = bib.split("\n");
+  const lines = readme.split(/\r?\n/);
+  const bibLines = bib.split(/\r?\n/);
   let section = "";
   const rows = [];
 
