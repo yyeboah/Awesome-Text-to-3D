@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T11:00:58.002Z",
+  "generatedAt": "2026-09-23T14:14:34.148Z",
   "source": "Semantic Scholar Academic Graph API",
   "direction": "source cites target",
   "nodes": [
@@ -1195,7 +1195,7 @@
         "CorpusId": 257631738
       },
       "publicationDate": "2023-03-20",
-      "citationCount": 169
+      "citationCount": 170
     },
     {
       "id": "2d4e2b2a9f823ba7bb5b4409c40f22cc9087814a",
@@ -1205,6 +1205,16 @@
         "CorpusId": 291683037
       },
       "publicationDate": "2026-09-03",
+      "citationCount": 0
+    },
+    {
+      "id": "2d88ce8d79035244c0babf5e45a441ab2b24ba10",
+      "title": "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation",
+      "externalIds": {
+        "ArXiv": "2609.24981",
+        "CorpusId": 292220133
+      },
+      "publicationDate": "2026-09-21",
       "citationCount": 0
     },
     {
@@ -1394,6 +1404,16 @@
       "citationCount": 0
     },
     {
+      "id": "3acf83e38d7783ae90dd3e6c58661537e449ee99",
+      "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+      "externalIds": {
+        "ArXiv": "2609.24984",
+        "CorpusId": 292219024
+      },
+      "publicationDate": "2026-09-21",
+      "citationCount": 0
+    },
+    {
       "id": "3ae7f7c5db8df734a349198423492f9d4ca159cd",
       "title": "MVGaussian: High-Fidelity text-to-3D Content Generation with Multi-View Guidance and Surface Densification",
       "externalIds": {
@@ -1463,6 +1483,16 @@
         "CorpusId": 288976590
       },
       "publicationDate": "2026-06-03",
+      "citationCount": 0
+    },
+    {
+      "id": "41d591d12aea1f9e6d836fe7222a3c276a7198cf",
+      "title": "Relightable 3D Avatar Reconstruction with Semantic-Adaptive Motion-Illumination Responses",
+      "externalIds": {
+        "ArXiv": "2609.24158",
+        "CorpusId": 292218289
+      },
+      "publicationDate": "2026-09-21",
       "citationCount": 0
     },
     {
@@ -1698,7 +1728,7 @@
         "CorpusId": 269791465
       },
       "publicationDate": "2024-05-16",
-      "citationCount": 36
+      "citationCount": 38
     },
     {
       "id": "49b4485b2034f7d3215d5d5c78131a1a32748aad",
@@ -3427,7 +3457,7 @@
         "CorpusId": 287472529
       },
       "publicationDate": "2026-04-14",
-      "citationCount": 1
+      "citationCount": 2
     },
     {
       "id": "953376636504b88239d881704a567552fed466f4",
@@ -3588,7 +3618,7 @@
         "CorpusId": 261395233
       },
       "publicationDate": "2023-08-31",
-      "citationCount": 127
+      "citationCount": 128
     },
     {
       "id": "9c3620b579733cdab76ce2aed87b69674b5dc877",
@@ -4114,7 +4144,7 @@
         "CorpusId": 288254740
       },
       "publicationDate": "2026-05-14",
-      "citationCount": 0
+      "citationCount": 1
     },
     {
       "id": "b4ece600c6dadd41b0b38d8359ce8e5b544305a9",
@@ -4216,7 +4246,7 @@
         "CorpusId": 284860807
       },
       "publicationDate": "2026-01-16",
-      "citationCount": 4
+      "citationCount": 5
     },
     {
       "id": "b8f8ccbd44491eb63fc8f1eaba0a1e2c5070fbef",
@@ -4662,7 +4692,7 @@
         "CorpusId": 289301530
       },
       "publicationDate": "2026-06-15",
-      "citationCount": 1
+      "citationCount": 2
     },
     {
       "id": "cae2a7bacfde502a04af010b04e47800b8f20d26",
@@ -5072,6 +5102,18 @@
       "citationCount": 17
     },
     {
+      "id": "db1f54c08c8a1eb13eabf36eec69f40f38077e3c",
+      "title": "Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models",
+      "externalIds": {
+        "DBLP": "journals/corr/abs-2606-02580",
+        "ArXiv": "2606.02580",
+        "DOI": "10.48550/arXiv.2606.02580",
+        "CorpusId": 288862300
+      },
+      "publicationDate": "2026-06-01",
+      "citationCount": 0
+    },
+    {
       "id": "db9fe76a3f03d4d29c919d23e046b7450dd70199",
       "title": "PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects",
       "externalIds": {
@@ -5162,6 +5204,17 @@
         "CorpusId": 291876563
       },
       "publicationDate": "2026-09-09",
+      "citationCount": 0
+    },
+    {
+      "id": "df5fe3da673abcaa7baefab08e6d8fc2d6f3b45c",
+      "title": "LiteTex-GS: Fast and Lightweight Texturing for Gaussian Splatting",
+      "externalIds": {
+        "ArXiv": "2609.23380",
+        "DOI": "10.1111/cgf.70637",
+        "CorpusId": 292218480
+      },
+      "publicationDate": "2026-09-20",
       "citationCount": 0
     },
     {
@@ -5538,7 +5591,7 @@
         "CorpusId": 283110051
       },
       "publicationDate": "2025-11-20",
-      "citationCount": 14
+      "citationCount": 15
     },
     {
       "id": "efda2446411fcef4eade3099ea0766d25959a668",
@@ -5818,7 +5871,7 @@
         "CorpusId": 280691814
       },
       "publicationDate": "2025-08-20",
-      "citationCount": 1
+      "citationCount": 2
     },
     {
       "id": "f950cd1f5314d11fc2c89d927d807552dc228f20",
@@ -5938,7 +5991,7 @@
         "CorpusId": 261582503
       },
       "publicationDate": "2023-09-07",
-      "citationCount": 80
+      "citationCount": 81
     },
     {
       "id": "fd84ff9fc88bdfb8f683b789b37a3bdef1833c95",
@@ -10108,6 +10161,22 @@
       "target": "6c6e7588391dd6d4bc5459e56634f3eac105011a"
     },
     {
+      "source": "2d88ce8d79035244c0babf5e45a441ab2b24ba10",
+      "target": "2c70684973bc4d7b6f8404a647b8031c4d3c8383"
+    },
+    {
+      "source": "2d88ce8d79035244c0babf5e45a441ab2b24ba10",
+      "target": "4987a76781f299be64ac43419c8b489ca1f4515b"
+    },
+    {
+      "source": "2d88ce8d79035244c0babf5e45a441ab2b24ba10",
+      "target": "9aa01997226b5c4d705ae2e2f52c32681006654b"
+    },
+    {
+      "source": "2d88ce8d79035244c0babf5e45a441ab2b24ba10",
+      "target": "fcd0de4066d93fa3822a14898008fa2dd99f7be6"
+    },
+    {
       "source": "2f5e667e932dc5f2b1d2d11e364f80e131b834a8",
       "target": "05782b157d5468c08de9dbde9635ee9902f40b60"
     },
@@ -10642,6 +10711,18 @@
     {
       "source": "386af41e16114574f3e0da7f759e9b365d1e96d6",
       "target": "eb2cbd12f749f14716296f7f415e921562c9079b"
+    },
+    {
+      "source": "3acf83e38d7783ae90dd3e6c58661537e449ee99",
+      "target": "94cb7880f208d15b5c7daf82b8fa8425c2cfebe2"
+    },
+    {
+      "source": "3acf83e38d7783ae90dd3e6c58661537e449ee99",
+      "target": "b4746593e475324cd3b9f011fade41e201977f4f"
+    },
+    {
+      "source": "3acf83e38d7783ae90dd3e6c58661537e449ee99",
+      "target": "caccbcf4e2b65457fb511c6e64fe76ff615826d7"
     },
     {
       "source": "3ae7f7c5db8df734a349198423492f9d4ca159cd",
@@ -24046,6 +24127,22 @@
     {
       "source": "daf3b117f789b2b95223e58592979fb57627515e",
       "target": "fc011ed5ee986332523a62d2783adee1179dc1ed"
+    },
+    {
+      "source": "db1f54c08c8a1eb13eabf36eec69f40f38077e3c",
+      "target": "4987a76781f299be64ac43419c8b489ca1f4515b"
+    },
+    {
+      "source": "db1f54c08c8a1eb13eabf36eec69f40f38077e3c",
+      "target": "b83f69213504e1e56c4ddcd2c1393a1c168f26a7"
+    },
+    {
+      "source": "db1f54c08c8a1eb13eabf36eec69f40f38077e3c",
+      "target": "ef19e75521087bda065b33ed78c3b358285ce18e"
+    },
+    {
+      "source": "db1f54c08c8a1eb13eabf36eec69f40f38077e3c",
+      "target": "f8bb83bc7c2aa11f6ac09cc6eaa7dac1a2df1110"
     },
     {
       "source": "db9fe76a3f03d4d29c919d23e046b7450dd70199",

@@ -1,12 +1,23 @@
 {
   "source": "Semantic Scholar Academic Graph API",
   "sourceUrl": "https://api.semanticscholar.org/api-docs/graphs",
-  "generatedAt": "2026-09-22T11:00:58.002Z",
+  "generatedAt": "2026-09-23T14:14:34.148Z",
   "definition": "Distinct resolved papers in this README whose Semantic Scholar reference lists include the target paper.",
-  "resolvedRows": 516,
-  "citationBackedRows": 519,
-  "distinctResolvedWorks": 511,
+  "resolvedRows": 521,
+  "citationBackedRows": 521,
+  "distinctResolvedWorks": 516,
   "entries": [
+    {
+      "title": "Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models",
+      "section": "X-to-3D",
+      "identifier": "ARXIV:2606.02580",
+      "semanticScholarPaperId": "db1f54c08c8a1eb13eabf36eec69f40f38077e3c",
+      "semanticScholarTitle": "Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models",
+      "publicationDate": "2026-06-01",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
     {
       "title": "VoxelTTO: Voxel-Aligned Feed-Forward 3D Gaussian Splatting with Test-Time Optimization",
       "section": "X-to-3D",
@@ -744,18 +755,20 @@
       "semanticScholarPaperId": "b83f69213504e1e56c4ddcd2c1393a1c168f26a7",
       "semanticScholarTitle": "Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning",
       "publicationDate": "2026-01-16",
-      "internalCitationCount": 4,
+      "internalCitationCount": 5,
       "citedBy": [
         "4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation",
         "NeoWorld-Pro: Programming Interactive Scenes from Monocular Images for Embodied Simulation",
         "REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image",
+        "Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models",
         "WorldClaw: Agentic 3D Open-World Generation at Scale"
       ],
       "citedByIds": [
         "128d893ce9c71599742ceb950656cc232b1b928e",
         "7b76fde443bec229c84e2e1dba47daeddd36d18e",
         "8a897f463dc951bf35baf62681d9bdc9e3e9f416",
-        "96cfd37ec098eb68a1f978de16e45b82ff13589f"
+        "96cfd37ec098eb68a1f978de16e45b82ff13589f",
+        "db1f54c08c8a1eb13eabf36eec69f40f38077e3c"
       ]
     },
     {
@@ -867,7 +880,7 @@
       "semanticScholarPaperId": "ef19e75521087bda065b33ed78c3b358285ce18e",
       "semanticScholarTitle": "SAM 3D: 3Dfy Anything in Images",
       "publicationDate": "2025-11-20",
-      "internalCitationCount": 14,
+      "internalCitationCount": 15,
       "citedBy": [
         "4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation",
         "Cross-Platform Benchmark of Neural 3D Reconstruction for Autonomous Laboratory Robots",
@@ -880,6 +893,7 @@
         "RelaxFlow: Text-Driven Amodal 3D Generation",
         "SceneReGen: Generative Reconstruction of 3D Scenes from a Single Image",
         "SpaceControl: Introducing Test-Time Spatial Control to 3D Generative Modeling",
+        "Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models",
         "World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible",
         "WorldClaw: Agentic 3D Open-World Generation at Scale",
         "WorldSculpt: Generating Compositional Worlds from Grounded Videos"
@@ -895,6 +909,7 @@
         "a7fc93336d227bdb5d75966cc4555c62b501f26d",
         "c57fc45e22559d7a39f9eafb5cae4fffc362cb58",
         "d6fd9910db4d81f240c0f227e1d3f93de4c6e94d",
+        "db1f54c08c8a1eb13eabf36eec69f40f38077e3c",
         "f6942b91a072028b07981dc843c8ccda9e06a094",
         "f72c138b6ec3a339b7e5ae6eb914211df4f70e39",
         "f9dda01c46a244f983b662b7a93f2aeeb1418cca",
@@ -1042,12 +1057,14 @@
       "semanticScholarPaperId": "f8bb83bc7c2aa11f6ac09cc6eaa7dac1a2df1110",
       "semanticScholarTitle": "MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds",
       "publicationDate": "2025-08-20",
-      "internalCitationCount": 1,
+      "internalCitationCount": 2,
       "citedBy": [
+        "Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models",
         "X-Part: high fidelity and structure coherent shape decomposition"
       ],
       "citedByIds": [
-        "17e2c6baf5194b554f3f124ba5be55447fe58194"
+        "17e2c6baf5194b554f3f124ba5be55447fe58194",
+        "db1f54c08c8a1eb13eabf36eec69f40f38077e3c"
       ]
     },
     {
@@ -2486,7 +2503,7 @@
       "semanticScholarPaperId": "4987a76781f299be64ac43419c8b489ca1f4515b",
       "semanticScholarTitle": "CAT3D: Create Anything in 3D with Multi-View Diffusion Models",
       "publicationDate": "2024-05-16",
-      "internalCitationCount": 36,
+      "internalCitationCount": 38,
       "citedBy": [
         "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
         "ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion",
@@ -2503,6 +2520,7 @@
         "ExScene: Free-View 3D Scene Reconstruction with Gaussian Splatting from a Single Image",
         "Eye2Eye: A Simple Approach for Monocular-to-Stereo Video Synthesis",
         "FlashWorld: High-quality 3D Scene Generation within Seconds",
+        "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation",
         "GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction",
         "GeoFace: Consistent Multi-View Face Generation with Geometry-Constrained Diffusion",
         "Geometry-Aware Diffusion Models for Multiview Scene Inpainting",
@@ -2520,6 +2538,7 @@
         "SF3D: Stable Fast 3D Mesh Reconstruction with UV-unwrapping and Illumination Disentanglement",
         "SPATIALGEN: Layout-Guided 3D Indoor Scene Generation",
         "Stable Virtual Camera: Generative View Synthesis with Diffusion Models",
+        "Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models",
         "VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching",
         "WonderWorld: Interactive 3D Scene Generation from a Single Image",
         "Wonderland: Navigating 3D Scenes From a Single Image",
@@ -2533,6 +2552,7 @@
         "1f7b8b462af062f7f80cbcda4bb80e097e3f8e1f",
         "1fcce9c865a5969f97eb268f858d6943e1e47c8d",
         "24959b24a4cd85becf1bad50ace1f58fa6109d1c",
+        "2d88ce8d79035244c0babf5e45a441ab2b24ba10",
         "3df4bb753cd741b4c8420e06730a05b599104f08",
         "4f4082210f0bee921839bf82fe7f9bcbf84b6841",
         "529e62cae04d3d7b458392033ba12d65c3444253",
@@ -2554,6 +2574,7 @@
         "c2768bb042df122cd018701315f28b3035100225",
         "c72aea23a78619ee085d80ea22e663b2d5910ba6",
         "c7398e15b3eb8247ff235ce4d58d94c548e67404",
+        "db1f54c08c8a1eb13eabf36eec69f40f38077e3c",
         "dc9155d45404cb3baf932c311e6ef894eebd9574",
         "e2507bac701d3bdfa4c9655b1d54f1d7f4b2b9e5",
         "e62a571ddf00581c27350eaa211b87f5e8222b67",
@@ -5572,7 +5593,7 @@
       "semanticScholarPaperId": "fcd0de4066d93fa3822a14898008fa2dd99f7be6",
       "semanticScholarTitle": "SyncDreamer: Generating Multiview-consistent Images from a Single-view Image",
       "publicationDate": "2023-09-07",
-      "internalCitationCount": 80,
+      "internalCitationCount": 81,
       "citedBy": [
         "2L3: Lifting Imperfect Generated 2D Images into Accurate 3D",
         "4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling",
@@ -5590,6 +5611,7 @@
         "DreamCraft3D++: Efficient Hierarchical 3D Generation with Multi-Plane Reconstruction Model",
         "DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation",
         "Era3D: High-Resolution Multiview Diffusion using Efficient Row-wise Attention",
+        "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation",
         "GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation",
         "GVGEN: Text-to-3D Generation with Volumetric Representation",
         "GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality",
@@ -5675,6 +5697,7 @@
         "2370c14e3090893a935f8bddd45f8cdef0265dc9",
         "24879ad945888cf34fb5880e98e085c935a379b7",
         "2574a85178d9d13d447b55cb856d3b1f124cb28e",
+        "2d88ce8d79035244c0babf5e45a441ab2b24ba10",
         "34276d30da30285f4ad348848ec746457730899a",
         "44679ca473700dd4db318e526ba5f651f85331ff",
         "47f574c6ffa3ced5881a170b5cdffabafea01eab",
@@ -5745,7 +5768,7 @@
       "semanticScholarPaperId": "9aa01997226b5c4d705ae2e2f52c32681006654b",
       "semanticScholarTitle": "MVDream: Multi-view Diffusion for 3D Generation",
       "publicationDate": "2023-08-31",
-      "internalCitationCount": 127,
+      "internalCitationCount": 128,
       "citedBy": [
         "3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis",
         "3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion",
@@ -5788,6 +5811,7 @@
         "FlashTex: Fast Relightable Mesh Texturing with LightControlNet",
         "FlashWorld: High-quality 3D Scene Generation within Seconds",
         "FlowDreamer: Exploring High Fidelity Text-to-3D Generation via Rectified Flow",
+        "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation",
         "GALA3D: Towards Text-to-3D Complex Scene Generation via Layout-guided Generative Gaussian Splatting",
         "GAvatar: Animatable 3D Gaussian Avatars with Implicit Mesh Learning",
         "GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation",
@@ -5905,6 +5929,7 @@
         "24959b24a4cd85becf1bad50ace1f58fa6109d1c",
         "2574a85178d9d13d447b55cb856d3b1f124cb28e",
         "25bde4c7c216b1be80dabbfa4b5cd07f0a5544f5",
+        "2d88ce8d79035244c0babf5e45a441ab2b24ba10",
         "34276d30da30285f4ad348848ec746457730899a",
         "3c13686750c9b2541bff9567ea440c96df810764",
         "3df4bb753cd741b4c8420e06730a05b599104f08",
@@ -8170,7 +8195,7 @@
       "semanticScholarPaperId": "2c70684973bc4d7b6f8404a647b8031c4d3c8383",
       "semanticScholarTitle": "Zero-1-to-3: Zero-shot One Image to 3D Object",
       "publicationDate": "2023-03-20",
-      "internalCitationCount": 169,
+      "internalCitationCount": 170,
       "citedBy": [
         "2L3: Lifting Imperfect Generated 2D Images into Accurate 3D",
         "3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis",
@@ -8215,6 +8240,7 @@
         "Era3D: High-Resolution Multiview Diffusion using Efficient Row-wise Attention",
         "FlashTex: Fast Relightable Mesh Texturing with LightControlNet",
         "FreeArt3D: Training-Free Articulated Object Generation using 3D Diffusion",
+        "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation",
         "GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation",
         "GTA: Advancing Image-to-3D World Generation via Geometry Then Appearance Video Diffusion",
         "Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction",
@@ -8376,6 +8402,7 @@
         "25bde4c7c216b1be80dabbfa4b5cd07f0a5544f5",
         "2605f0776dcda957fa540f88cdec53badab848b1",
         "2d4e2b2a9f823ba7bb5b4409c40f22cc9087814a",
+        "2d88ce8d79035244c0babf5e45a441ab2b24ba10",
         "303f466fb823112f79a9f36637c7084dd8363fc5",
         "3340440c0841f3a9ed0772b7e36d6d0e4d5881fd",
         "34276d30da30285f4ad348848ec746457730899a",
@@ -12108,10 +12135,10 @@
       "title": "LiteTex-GS: Fast and Lightweight Texturing for Gaussian Splatting",
       "section": "3D Editing, Decomposition & Stylization",
       "identifier": "ARXIV:2609.23380",
-      "semanticScholarPaperId": null,
-      "semanticScholarTitle": null,
-      "publicationDate": "2026-09-01",
-      "internalCitationCount": null,
+      "semanticScholarPaperId": "df5fe3da673abcaa7baefab08e6d8fc2d6f3b45c",
+      "semanticScholarTitle": "LiteTex-GS: Fast and Lightweight Texturing for Gaussian Splatting",
+      "publicationDate": "2026-09-20",
+      "internalCitationCount": 0,
       "citedBy": [],
       "citedByIds": []
     },
@@ -14313,10 +14340,10 @@
       "title": "Relightable 3D Avatar Reconstruction with Semantic-Adaptive Motion-Illumination Responses",
       "section": "Avatar Generation and Manupilation",
       "identifier": "ARXIV:2609.24158",
-      "semanticScholarPaperId": null,
-      "semanticScholarTitle": null,
-      "publicationDate": "2026-09-01",
-      "internalCitationCount": null,
+      "semanticScholarPaperId": "41d591d12aea1f9e6d836fe7222a3c276a7198cf",
+      "semanticScholarTitle": "Relightable 3D Avatar Reconstruction with Semantic-Adaptive Motion-Illumination Responses",
+      "publicationDate": "2026-09-21",
+      "internalCitationCount": 0,
       "citedBy": [],
       "citedByIds": []
     },
@@ -16060,6 +16087,17 @@
       ]
     },
     {
+      "title": "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation",
+      "section": "World Models",
+      "identifier": "ARXIV:2609.24981",
+      "semanticScholarPaperId": "2d88ce8d79035244c0babf5e45a441ab2b24ba10",
+      "semanticScholarTitle": "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation",
+      "publicationDate": "2026-09-21",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
+    {
       "title": "World in World: Explore the World with World Models",
       "section": "World Models",
       "identifier": "ARXIV:2609.11548",
@@ -16085,10 +16123,10 @@
       "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
       "section": "World Models",
       "identifier": "ARXIV:2609.24984",
-      "semanticScholarPaperId": null,
-      "semanticScholarTitle": null,
-      "publicationDate": "2026-09-01",
-      "internalCitationCount": null,
+      "semanticScholarPaperId": "3acf83e38d7783ae90dd3e6c58661537e449ee99",
+      "semanticScholarTitle": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+      "publicationDate": "2026-09-21",
+      "internalCitationCount": 0,
       "citedBy": [],
       "citedByIds": []
     },
@@ -16242,12 +16280,14 @@
       "semanticScholarPaperId": "caccbcf4e2b65457fb511c6e64fe76ff615826d7",
       "semanticScholarTitle": "DreamX-World 1.0: A General-Purpose Interactive World Model",
       "publicationDate": "2026-06-15",
-      "internalCitationCount": 1,
+      "internalCitationCount": 2,
       "citedBy": [
-        "From Pixels to States: Rethinking Interactive World Models as Game Engines"
+        "From Pixels to States: Rethinking Interactive World Models as Game Engines",
+        "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory"
       ],
       "citedByIds": [
-        "0000394359444bb2dac72249d8609fa0bc0df2d7"
+        "0000394359444bb2dac72249d8609fa0bc0df2d7",
+        "3acf83e38d7783ae90dd3e6c58661537e449ee99"
       ]
     },
     {
@@ -16301,9 +16341,13 @@
       "semanticScholarPaperId": "b4746593e475324cd3b9f011fade41e201977f4f",
       "semanticScholarTitle": "SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer",
       "publicationDate": "2026-05-14",
-      "internalCitationCount": 0,
-      "citedBy": [],
-      "citedByIds": []
+      "internalCitationCount": 1,
+      "citedBy": [
+        "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory"
+      ],
+      "citedByIds": [
+        "3acf83e38d7783ae90dd3e6c58661537e449ee99"
+      ]
     },
     {
       "title": "GTA: Advancing Image-to-3D World Generation via Geometry Then Appearance Video Diffusion",
@@ -16342,12 +16386,14 @@
       "semanticScholarPaperId": "94cb7880f208d15b5c7daf82b8fa8425c2cfebe2",
       "semanticScholarTitle": "Lyra 2.0: Explorable Generative 3D Worlds",
       "publicationDate": "2026-04-14",
-      "internalCitationCount": 1,
+      "internalCitationCount": 2,
       "citedBy": [
-        "Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration"
+        "Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration",
+        "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory"
       ],
       "citedByIds": [
-        "085b9ef2d76e54538f842d569676c8319208509e"
+        "085b9ef2d76e54538f842d569676c8319208509e",
+        "3acf83e38d7783ae90dd3e6c58661537e449ee99"
       ]
     },
     {
