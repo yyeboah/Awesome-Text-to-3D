@@ -817,6 +817,8 @@ This README is intended to work as a fast research index:
 <details close>
 <summary>Avatar Generation and Manupilation</summary>
 
+- [lifeworld](https://github.com/jajmangold/lifeworld) - Autonomous SMPL-X humanoid NPCs with Habitat 3.0 simulation, DeepSeek reasoning, and Blender rendering.
+
 - [Relightable 3D Avatar Reconstruction with Semantic-Adaptive Motion-Illumination Responses](https://arxiv.org/abs/2609.24158), Jiankuo Zhao et al., Arxiv 2026 | [citation](./references/citations.bib#L3644-L3649) | [site]() | [code]() | <a href="./references/internal-citations.md#s2-41d591d12aea1f9e6d836fe7222a3c276a7198cf" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 
 - [Seeing the World and the Self from Egocentric Video](https://arxiv.org/abs/2609.01276), Kai Guan et al., Arxiv 2026 | [citation](./references/citations.bib#L3439-L3444) | [site](https://ka1guan.github.io/RESELF/) | [code](https://github.com/Ka1Guan/RESELF) | <a href="./references/internal-citations.md#s2-86f9e82515e74c073f90bb816a456f8bdd342586" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
