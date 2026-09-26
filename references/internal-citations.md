@@ -1,6 +1,6 @@
 # Citation counts
 
-Generated 2026-09-23 from the Semantic Scholar reference graph. Counts include only distinct papers indexed in this repository.
+Generated 2026-09-26 from the Semantic Scholar reference graph. Counts include only distinct papers indexed in this repository.
 
 <a id="s2-4c94d04afa4309ec2f06bdd0fe3781f91461b362"></a>
 ## DreamFusion: Text-to-3D using 2D Diffusion
@@ -4362,6 +4362,36 @@ Generated 2026-09-23 from the Semantic Scholar reference graph. Counts include o
 - WorldSculpt: Generating Compositional Worlds from Grounded Videos
 - X-Part: high fidelity and structure coherent shape decomposition
 
+<a id="s2-ecd0d6c7e8093bd69655edc511e408216d52c7fb"></a>
+## Native and Compact Structured Latents for 3D Generation
+
+**Citation count:** 24
+
+- 3DMorph: Single-Image-Guided Local 3D Shape Editing and Morphing
+- ABot-Earth 0.5: Generative 3D Earth Model
+- DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation
+- Extracting Neural Materials from Multi-view Images
+- GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction
+- Home3D 1.0: A High-Fidelity Image-to-3D Asset Generation System for Interior Design
+- Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models
+- Instant NuRec: Feed-Forward 3D Gaussian Reconstruction for Driving Scene Simulation
+- Luce: Relightable Gaussians for 3D Asset Generation
+- Meshy T2: Fast Native Mesh Generation with Flow Matching
+- PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects
+- Physically Based Rendering in the Latent Space
+- PixGS: Pixel-Space Diffusion for Direct 3D Gaussian Splat Generation
+- ROAR-3D: Routing Arbitrary Views for High-Fidelity 3D Generation
+- SceneReGen: Generative Reconstruction of 3D Scenes from a Single Image
+- TGRHuman: Text-Guided Realistic 3D Human Generation via Diffusion Renderer
+- TexSpot: 3D Texture Enhancement with Spatially-uniform Point Latent Representation
+- UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement
+- UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image
+- UniPhysGen: Unified Physical Grounding for Simulation-Ready 3D Assets
+- VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching
+- World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible
+- WorldSculpt: Generating Compositional Worlds from Grounded Videos
+- \phi-RIE: From Photorealistic Reconstruction to Interactive Environments
+
 <a id="s2-303f466fb823112f79a9f36637c7084dd8363fc5"></a>
 ## TADA! Text to Animatable Digital Avatars
 
@@ -4391,35 +4421,6 @@ Generated 2026-09-23 from the Semantic Scholar reference graph. Counts include o
 - Text-Conditioned Generative Model of 3D Strand-Based Human Hairstyles
 - Text-Guided 3D Face Synthesis - From Generation to Editing
 - WonderHuman: Hallucinating Unseen Parts in Dynamic 3D Human Reconstruction
-
-<a id="s2-ecd0d6c7e8093bd69655edc511e408216d52c7fb"></a>
-## Native and Compact Structured Latents for 3D Generation
-
-**Citation count:** 23
-
-- 3DMorph: Single-Image-Guided Local 3D Shape Editing and Morphing
-- ABot-Earth 0.5: Generative 3D Earth Model
-- DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation
-- Extracting Neural Materials from Multi-view Images
-- GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction
-- Home3D 1.0: A High-Fidelity Image-to-3D Asset Generation System for Interior Design
-- Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models
-- Instant NuRec: Feed-Forward 3D Gaussian Reconstruction for Driving Scene Simulation
-- Luce: Relightable Gaussians for 3D Asset Generation
-- Meshy T2: Fast Native Mesh Generation with Flow Matching
-- PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects
-- Physically Based Rendering in the Latent Space
-- PixGS: Pixel-Space Diffusion for Direct 3D Gaussian Splat Generation
-- ROAR-3D: Routing Arbitrary Views for High-Fidelity 3D Generation
-- SceneReGen: Generative Reconstruction of 3D Scenes from a Single Image
-- TGRHuman: Text-Guided Realistic 3D Human Generation via Diffusion Renderer
-- TexSpot: 3D Texture Enhancement with Spatially-uniform Point Latent Representation
-- UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement
-- UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image
-- UniPhysGen: Unified Physical Grounding for Simulation-Ready 3D Assets
-- VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching
-- World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible
-- WorldSculpt: Generating Compositional Worlds from Grounded Videos
 
 <a id="s2-4e21879b564cc2e803b16edf0dda9f1edb91b497"></a>
 ## Text-to-3D with classifier score distillation
@@ -4811,6 +4812,28 @@ Generated 2026-09-23 from the Semantic Scholar reference graph. Counts include o
 - Text-to-3D with Classifier Score Distillation
 - YouDream: Generating Anatomically Controllable Consistent Text-to-3D Animals
 
+<a id="s2-ef19e75521087bda065b33ed78c3b358285ce18e"></a>
+## SAM 3D: 3Dfy Anything in Images
+
+**Citation count:** 16
+
+- 4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation
+- Cross-Platform Benchmark of Neural 3D Reconstruction for Autonomous Laboratory Robots
+- DogWeave: High-Fidelity 3D Canine Reconstruction from a Single Image via Normal Fusion and Conditional Inpainting
+- FIRE3D: Feed-forward Interactive 3D Scene Reconstruction Within A Minute
+- MV-SAM3D: Adaptive Multi-View Fusion for Layout-Aware 3D Generation
+- MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction
+- Pixal3D: Pixel-Aligned 3D Generation from Images
+- REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image
+- RelaxFlow: Text-Driven Amodal 3D Generation
+- SceneReGen: Generative Reconstruction of 3D Scenes from a Single Image
+- SpaceControl: Introducing Test-Time Spatial Control to 3D Generative Modeling
+- Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models
+- World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible
+- WorldClaw: Agentic 3D Open-World Generation at Scale
+- WorldSculpt: Generating Compositional Worlds from Grounded Videos
+- \phi-RIE: From Photorealistic Reconstruction to Interactive Environments
+
 <a id="s2-2b94785cbfd865a01cc68d7d4c7500b710e5e2fb"></a>
 ## IT3D: Improved Text-to-3D Generation with Explicit View Synthesis
 
@@ -4854,27 +4877,6 @@ Generated 2026-09-23 from the Semantic Scholar reference graph. Counts include o
 - TADA! Text to Animatable Digital Avatars
 - TC4D: Trajectory-Conditioned Text-to-4D Generation
 - TanGO: Training-Free 3D Editing via Tangent-Space Guidance and Optimization
-
-<a id="s2-ef19e75521087bda065b33ed78c3b358285ce18e"></a>
-## SAM 3D: 3Dfy Anything in Images
-
-**Citation count:** 15
-
-- 4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation
-- Cross-Platform Benchmark of Neural 3D Reconstruction for Autonomous Laboratory Robots
-- DogWeave: High-Fidelity 3D Canine Reconstruction from a Single Image via Normal Fusion and Conditional Inpainting
-- FIRE3D: Feed-forward Interactive 3D Scene Reconstruction Within A Minute
-- MV-SAM3D: Adaptive Multi-View Fusion for Layout-Aware 3D Generation
-- MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction
-- Pixal3D: Pixel-Aligned 3D Generation from Images
-- REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image
-- RelaxFlow: Text-Driven Amodal 3D Generation
-- SceneReGen: Generative Reconstruction of 3D Scenes from a Single Image
-- SpaceControl: Introducing Test-Time Spatial Control to 3D Generative Modeling
-- Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models
-- World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible
-- WorldClaw: Agentic 3D Open-World Generation at Scale
-- WorldSculpt: Generating Compositional Worlds from Grounded Videos
 
 <a id="s2-03ebe0fb80d3253a5231d0f1cbac7f3f20fa3aec"></a>
 ## Direct3D-S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention
@@ -6251,6 +6253,15 @@ Generated 2026-09-23 from the Semantic Scholar reference graph. Counts include o
 - Lyra 2.0: Explorable Generative 3D Worlds
 - World in World: Explore the World with World Models
 
+<a id="s2-83fdbde07c6ba9a6ef5871e66b7020570c844d09"></a>
+## HoloScene: Simulation-Ready Interactive 3D Worlds from a Single Video
+
+**Citation count:** 3
+
+- FIRE3D: Feed-forward Interactive 3D Scene Reconstruction Within A Minute
+- REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image
+- \phi-RIE: From Photorealistic Reconstruction to Interactive Environments
+
 <a id="s2-9628d2ad834868d675f3d403269d848a6dec5399"></a>
 ## DeOcc-1-to-3: 3D De-Occlusion from a Single Image via Self-Supervised Multi-View Diffusion
 
@@ -6546,14 +6557,6 @@ Generated 2026-09-23 from the Semantic Scholar reference graph. Counts include o
 
 - ABot-Earth 0.5: Generative 3D Earth Model
 - Home3D 1.0: A High-Fidelity Image-to-3D Asset Generation System for Interior Design
-
-<a id="s2-83fdbde07c6ba9a6ef5871e66b7020570c844d09"></a>
-## HoloScene: Simulation-Ready Interactive 3D Worlds from a Single Video
-
-**Citation count:** 2
-
-- FIRE3D: Feed-forward Interactive 3D Scene Reconstruction Within A Minute
-- REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image
 
 <a id="s2-f8bb83bc7c2aa11f6ac09cc6eaa7dac1a2df1110"></a>
 ## MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds
@@ -7074,6 +7077,20 @@ Generated 2026-09-23 from the Semantic Scholar reference graph. Counts include o
 **Citation count:** 1
 
 - One-shot Implicit Animatable Avatars with Model-based Priors
+
+<a id="s2-79e9d4da23aad9a158930c645f394757d048ecb6"></a>
+## EMERGE: Resolution-Agnostic Point Cloud Generation with Equivariant Graph-Based Diffusion
+
+**Citation count:** 0
+
+No other indexed papers cite this paper.
+
+<a id="s2-9e16d2d1c7aff42f31ee0dadb6887465607bb2d0"></a>
+## ϕ-RIE: From Photorealistic Reconstruction to Interactive Environments
+
+**Citation count:** 0
+
+No other indexed papers cite this paper.
 
 <a id="s2-2d88ce8d79035244c0babf5e45a441ab2b24ba10"></a>
 ## GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation
