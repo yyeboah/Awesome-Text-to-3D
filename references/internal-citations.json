@@ -1,19 +1,19 @@
 {
   "source": "Semantic Scholar Academic Graph API",
   "sourceUrl": "https://api.semanticscholar.org/api-docs/graphs",
-  "generatedAt": "2026-09-23T14:14:34.148Z",
+  "generatedAt": "2026-09-26T07:12:25.005Z",
   "definition": "Distinct resolved papers in this README whose Semantic Scholar reference lists include the target paper.",
-  "resolvedRows": 521,
-  "citationBackedRows": 521,
-  "distinctResolvedWorks": 516,
+  "resolvedRows": 523,
+  "citationBackedRows": 523,
+  "distinctResolvedWorks": 518,
   "entries": [
     {
-      "title": "Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models",
+      "title": "EMERGE: Resolution-Agnostic Point Cloud Generation with Equivariant Graph-Based Diffusion",
       "section": "X-to-3D",
-      "identifier": "ARXIV:2606.02580",
-      "semanticScholarPaperId": "db1f54c08c8a1eb13eabf36eec69f40f38077e3c",
-      "semanticScholarTitle": "Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models",
-      "publicationDate": "2026-06-01",
+      "identifier": "ARXIV:2609.26039",
+      "semanticScholarPaperId": "79e9d4da23aad9a158930c645f394757d048ecb6",
+      "semanticScholarTitle": "EMERGE: Resolution-Agnostic Point Cloud Generation with Equivariant Graph-Based Diffusion",
+      "publicationDate": "2026-09-22",
       "internalCitationCount": 0,
       "citedBy": [],
       "citedByIds": []
@@ -573,6 +573,17 @@
       "citedByIds": []
     },
     {
+      "title": "Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models",
+      "section": "X-to-3D",
+      "identifier": "ARXIV:2606.02580",
+      "semanticScholarPaperId": "db1f54c08c8a1eb13eabf36eec69f40f38077e3c",
+      "semanticScholarTitle": "Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models",
+      "publicationDate": "2026-06-01",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
+    {
       "title": "VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching",
       "section": "X-to-3D",
       "identifier": "ARXIV:2605.31466",
@@ -789,7 +800,7 @@
       "semanticScholarPaperId": "ecd0d6c7e8093bd69655edc511e408216d52c7fb",
       "semanticScholarTitle": "Native and Compact Structured Latents for 3D Generation",
       "publicationDate": "2025-12-16",
-      "internalCitationCount": 23,
+      "internalCitationCount": 24,
       "citedBy": [
         "3DMorph: Single-Image-Guided Local 3D Shape Editing and Morphing",
         "ABot-Earth 0.5: Generative 3D Earth Model",
@@ -813,7 +824,8 @@
         "UniPhysGen: Unified Physical Grounding for Simulation-Ready 3D Assets",
         "VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching",
         "World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible",
-        "WorldSculpt: Generating Compositional Worlds from Grounded Videos"
+        "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
+        "\\phi-RIE: From Photorealistic Reconstruction to Interactive Environments"
       ],
       "citedByIds": [
         "00b1e35d905f3cff0f6dad1fccc0c6429bf2eb9c",
@@ -831,6 +843,7 @@
         "957304867a36e15ec6181d67e37a7b40058bd5a4",
         "961408fc53c3b1af2739e67f77256ecd2ae57b1b",
         "9d68d7bd366f202e14e5f979e8ed79caf5445c5b",
+        "9e16d2d1c7aff42f31ee0dadb6887465607bb2d0",
         "af13859b699d9c57fe469e111b176019d5ac9eff",
         "d0af86dc95fd74f22076449f9343035cf21ca263",
         "d6fd9910db4d81f240c0f227e1d3f93de4c6e94d",
@@ -880,7 +893,7 @@
       "semanticScholarPaperId": "ef19e75521087bda065b33ed78c3b358285ce18e",
       "semanticScholarTitle": "SAM 3D: 3Dfy Anything in Images",
       "publicationDate": "2025-11-20",
-      "internalCitationCount": 15,
+      "internalCitationCount": 16,
       "citedBy": [
         "4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation",
         "Cross-Platform Benchmark of Neural 3D Reconstruction for Autonomous Laboratory Robots",
@@ -896,7 +909,8 @@
         "Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models",
         "World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible",
         "WorldClaw: Agentic 3D Open-World Generation at Scale",
-        "WorldSculpt: Generating Compositional Worlds from Grounded Videos"
+        "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
+        "\\phi-RIE: From Photorealistic Reconstruction to Interactive Environments"
       ],
       "citedByIds": [
         "128d893ce9c71599742ceb950656cc232b1b928e",
@@ -906,6 +920,7 @@
         "7b76fde443bec229c84e2e1dba47daeddd36d18e",
         "8a897f463dc951bf35baf62681d9bdc9e3e9f416",
         "961408fc53c3b1af2739e67f77256ecd2ae57b1b",
+        "9e16d2d1c7aff42f31ee0dadb6887465607bb2d0",
         "a7fc93336d227bdb5d75966cc4555c62b501f26d",
         "c57fc45e22559d7a39f9eafb5cae4fffc362cb58",
         "d6fd9910db4d81f240c0f227e1d3f93de4c6e94d",
@@ -12088,6 +12103,28 @@
       ]
     },
     {
+      "title": "ϕ-RIE: From Photorealistic Reconstruction to Interactive Environments",
+      "section": "3D Editing, Decomposition & Stylization",
+      "identifier": "ARXIV:2609.26795",
+      "semanticScholarPaperId": "9e16d2d1c7aff42f31ee0dadb6887465607bb2d0",
+      "semanticScholarTitle": "\\phi-RIE: From Photorealistic Reconstruction to Interactive Environments",
+      "publicationDate": "2026-09-22",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
+    {
+      "title": "LiteTex-GS: Fast and Lightweight Texturing for Gaussian Splatting",
+      "section": "3D Editing, Decomposition & Stylization",
+      "identifier": "ARXIV:2609.23380",
+      "semanticScholarPaperId": "df5fe3da673abcaa7baefab08e6d8fc2d6f3b45c",
+      "semanticScholarTitle": "LiteTex-GS: Fast and Lightweight Texturing for Gaussian Splatting",
+      "publicationDate": "2026-09-20",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
+    {
       "title": "Physically Based Rendering in the Latent Space",
       "section": "3D Editing, Decomposition & Stylization",
       "identifier": "ARXIV:2609.21054",
@@ -12127,17 +12164,6 @@
       "semanticScholarPaperId": "d83df73fb9aa10b1e2b46e3bcc58901a8e181fdd",
       "semanticScholarTitle": "PointGT: Simultaneous Geometry and Texture Editing for Point-Based Representations",
       "publicationDate": "2026-09-03",
-      "internalCitationCount": 0,
-      "citedBy": [],
-      "citedByIds": []
-    },
-    {
-      "title": "LiteTex-GS: Fast and Lightweight Texturing for Gaussian Splatting",
-      "section": "3D Editing, Decomposition & Stylization",
-      "identifier": "ARXIV:2609.23380",
-      "semanticScholarPaperId": "df5fe3da673abcaa7baefab08e6d8fc2d6f3b45c",
-      "semanticScholarTitle": "LiteTex-GS: Fast and Lightweight Texturing for Gaussian Splatting",
-      "publicationDate": "2026-09-20",
       "internalCitationCount": 0,
       "citedBy": [],
       "citedByIds": []
@@ -12648,13 +12674,15 @@
       "semanticScholarPaperId": "83fdbde07c6ba9a6ef5871e66b7020570c844d09",
       "semanticScholarTitle": "HoloScene: Simulation-Ready Interactive 3D Worlds from a Single Video",
       "publicationDate": "2025-10-07",
-      "internalCitationCount": 2,
+      "internalCitationCount": 3,
       "citedBy": [
         "FIRE3D: Feed-forward Interactive 3D Scene Reconstruction Within A Minute",
-        "REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image"
+        "REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image",
+        "\\phi-RIE: From Photorealistic Reconstruction to Interactive Environments"
       ],
       "citedByIds": [
         "8a897f463dc951bf35baf62681d9bdc9e3e9f416",
+        "9e16d2d1c7aff42f31ee0dadb6887465607bb2d0",
         "c57fc45e22559d7a39f9eafb5cae4fffc362cb58"
       ]
     },
@@ -16098,6 +16126,17 @@
       "citedByIds": []
     },
     {
+      "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+      "section": "World Models",
+      "identifier": "ARXIV:2609.24984",
+      "semanticScholarPaperId": "3acf83e38d7783ae90dd3e6c58661537e449ee99",
+      "semanticScholarTitle": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+      "publicationDate": "2026-09-21",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
+    {
       "title": "World in World: Explore the World with World Models",
       "section": "World Models",
       "identifier": "ARXIV:2609.11548",
@@ -16115,17 +16154,6 @@
       "semanticScholarPaperId": "961408fc53c3b1af2739e67f77256ecd2ae57b1b",
       "semanticScholarTitle": "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
       "publicationDate": "2026-09-04",
-      "internalCitationCount": 0,
-      "citedBy": [],
-      "citedByIds": []
-    },
-    {
-      "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
-      "section": "World Models",
-      "identifier": "ARXIV:2609.24984",
-      "semanticScholarPaperId": "3acf83e38d7783ae90dd3e6c58661537e449ee99",
-      "semanticScholarTitle": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
-      "publicationDate": "2026-09-21",
       "internalCitationCount": 0,
       "citedBy": [],
       "citedByIds": []

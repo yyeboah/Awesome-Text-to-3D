@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T14:14:34.148Z",
+  "generatedAt": "2026-09-26T07:12:25.005Z",
   "source": "Semantic Scholar Academic Graph API",
   "direction": "source cites target",
   "nodes": [
@@ -2771,6 +2771,16 @@
       "citationCount": 0
     },
     {
+      "id": "79e9d4da23aad9a158930c645f394757d048ecb6",
+      "title": "EMERGE: Resolution-Agnostic Point Cloud Generation with Equivariant Graph-Based Diffusion",
+      "externalIds": {
+        "ArXiv": "2609.26039",
+        "CorpusId": 292227525
+      },
+      "publicationDate": "2026-09-22",
+      "citationCount": 0
+    },
+    {
       "id": "7b62f316317252f9a2fc9bf53791ad5b6ceb92d4",
       "title": "Text-Guided 3D Face Synthesis - From Generation to Editing",
       "externalIds": {
@@ -2993,7 +3003,7 @@
         "CorpusId": 281886422
       },
       "publicationDate": "2025-10-07",
-      "citationCount": 2
+      "citationCount": 3
     },
     {
       "id": "84cce9b8aea35e4fa38eef63da439573f21c0728",
@@ -3679,6 +3689,16 @@
       },
       "publicationDate": "2024-03-11",
       "citationCount": 11
+    },
+    {
+      "id": "9e16d2d1c7aff42f31ee0dadb6887465607bb2d0",
+      "title": "\\phi-RIE: From Photorealistic Reconstruction to Interactive Environments",
+      "externalIds": {
+        "ArXiv": "2609.26795",
+        "CorpusId": 292227009
+      },
+      "publicationDate": "2026-09-22",
+      "citationCount": 0
     },
     {
       "id": "9e3e5e5b35a2e9ed6e8293c9acbfb418cf0aa4c8",
@@ -5567,7 +5587,7 @@
         "CorpusId": 283909568
       },
       "publicationDate": "2025-12-16",
-      "citationCount": 23
+      "citationCount": 24
     },
     {
       "id": "ed1d274ef73f640361f0614835e46468fe489386",
@@ -5591,7 +5611,7 @@
         "CorpusId": 283110051
       },
       "publicationDate": "2025-11-20",
-      "citationCount": 15
+      "citationCount": 16
     },
     {
       "id": "efda2446411fcef4eade3099ea0766d25959a668",
@@ -18163,6 +18183,18 @@
     {
       "source": "9db25ca30dcc8aa75c034ccaee0f6ee2ca934956",
       "target": "fcd0de4066d93fa3822a14898008fa2dd99f7be6"
+    },
+    {
+      "source": "9e16d2d1c7aff42f31ee0dadb6887465607bb2d0",
+      "target": "83fdbde07c6ba9a6ef5871e66b7020570c844d09"
+    },
+    {
+      "source": "9e16d2d1c7aff42f31ee0dadb6887465607bb2d0",
+      "target": "ecd0d6c7e8093bd69655edc511e408216d52c7fb"
+    },
+    {
+      "source": "9e16d2d1c7aff42f31ee0dadb6887465607bb2d0",
+      "target": "ef19e75521087bda065b33ed78c3b358285ce18e"
     },
     {
       "source": "9e3e5e5b35a2e9ed6e8293c9acbfb418cf0aa4c8",
