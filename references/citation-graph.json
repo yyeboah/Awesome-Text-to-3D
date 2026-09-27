@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-26T07:12:25.005Z",
+  "generatedAt": "2026-09-27T08:07:24.726Z",
   "source": "Semantic Scholar Academic Graph API",
   "direction": "source cites target",
   "nodes": [
@@ -147,6 +147,16 @@
       "citationCount": 0
     },
     {
+      "id": "03768b4ea32a794385e6245a0c8c86f192005030",
+      "title": "ToCo-Mesh: Topology-Consistent Dynamic Mesh Reconstruction via Adaptive Tessellation and Surface-Aligned 2DGS",
+      "externalIds": {
+        "ArXiv": "2609.29529",
+        "CorpusId": 292287284
+      },
+      "publicationDate": "2026-09-01",
+      "citationCount": 0
+    },
+    {
       "id": "03e1c3b5fdad9b21bbed3d13af7e8d6c73cbcfa6",
       "title": "Zero-Shot Text-Guided Object Generation with Dream Fields",
       "externalIds": {
@@ -231,6 +241,17 @@
       "citationCount": 38
     },
     {
+      "id": "06075b84d230b4c7d54312abac2a3b87d329d9c7",
+      "title": "$\\unicode{x1F493}$Heartian: Physiology-Aware Relightable Gaussian Head Avatar",
+      "externalIds": {
+        "ArXiv": "2609.28539",
+        "DOI": "10.1145/3829339.3847838",
+        "CorpusId": 292282363
+      },
+      "publicationDate": "2026-09-22",
+      "citationCount": 0
+    },
+    {
       "id": "06f52b5bde025a6f32ab4522b2a9c40068137603",
       "title": "TripoSG: High-Fidelity 3D Shape Synthesis using Large-Scale Rectified Flow Models",
       "externalIds": {
@@ -241,7 +262,7 @@
         "PubMed": "41247906"
       },
       "publicationDate": "2025-02-10",
-      "citationCount": 29
+      "citationCount": 30
     },
     {
       "id": "071c61e03737de1297c07d6bae6aa9c8a2a669c7",
@@ -334,7 +355,7 @@
         "CorpusId": 284057591
       },
       "publicationDate": "2025-12-19",
-      "citationCount": 3
+      "citationCount": 4
     },
     {
       "id": "0ae390462f72ec4b7ea2e66fd0d43922667c7ca8",
@@ -625,7 +646,7 @@
         "CorpusId": 270440501
       },
       "publicationDate": "2024-06-13",
-      "citationCount": 18
+      "citationCount": 19
     },
     {
       "id": "186c2b2386799fa599e2d77bc6945f7da66e5fab",
@@ -649,7 +670,7 @@
         "CorpusId": 254685588
       },
       "publicationDate": "2022-12-15",
-      "citationCount": 136
+      "citationCount": 137
     },
     {
       "id": "1b610296563ef5ce6de78e096d9bcc52543607d6",
@@ -826,7 +847,7 @@
         "CorpusId": 276421492
       },
       "publicationDate": "2025-02-18",
-      "citationCount": 8
+      "citationCount": 9
     },
     {
       "id": "1fc11ee46cd6c241b376dcb9b6dd32457c27f2dc",
@@ -995,7 +1016,7 @@
         "CorpusId": 273821684
       },
       "publicationDate": "2024-11-04",
-      "citationCount": 8
+      "citationCount": 9
     },
     {
       "id": "2574a85178d9d13d447b55cb856d3b1f124cb28e",
@@ -1066,6 +1087,16 @@
       },
       "publicationDate": "2023-03-22",
       "citationCount": 49
+    },
+    {
+      "id": "26cd6d7bc287e87d58e5e17a9ce8472251fb69c3",
+      "title": "HelloWorld: Towards Practical Applications of Generative Driving World Models",
+      "externalIds": {
+        "ArXiv": "2609.28931",
+        "CorpusId": 292282893
+      },
+      "publicationDate": "2026-09-24",
+      "citationCount": 0
     },
     {
       "id": "273657d54f095ef91ceddedb86c360658d1b012c",
@@ -1195,7 +1226,7 @@
         "CorpusId": 257631738
       },
       "publicationDate": "2023-03-20",
-      "citationCount": 170
+      "citationCount": 171
     },
     {
       "id": "2d4e2b2a9f823ba7bb5b4409c40f22cc9087814a",
@@ -1307,7 +1338,7 @@
         "CorpusId": 257102507
       },
       "publicationDate": "2023-02-23",
-      "citationCount": 1
+      "citationCount": 2
     },
     {
       "id": "31e0c05a785c7c41a53a0f922e11151577246a57",
@@ -1554,6 +1585,16 @@
       "citationCount": 0
     },
     {
+      "id": "4378f319c75116868dc535a92462c3e0e9c79f89",
+      "title": "Code Plans, Diffusion Renders: Open-Ended Generative World Modeling",
+      "externalIds": {
+        "ArXiv": "2609.26458",
+        "CorpusId": 292227333
+      },
+      "publicationDate": "2026-09-22",
+      "citationCount": 0
+    },
+    {
       "id": "438e9fb79c9e37d43223e61bb575ebd2dae0b0a7",
       "title": "SweetDreamer: Aligning Geometric Priors in 2D Diffusion for Consistent Text-to-3D",
       "externalIds": {
@@ -1610,7 +1651,7 @@
         "CorpusId": 253018385
       },
       "publicationDate": "2022-10-20",
-      "citationCount": 20
+      "citationCount": 21
     },
     {
       "id": "45ce01446a0b85e84aa29c3209f25e0844a1cd45",
@@ -1622,7 +1663,7 @@
         "CorpusId": 256503775
       },
       "publicationDate": "2023-02-02",
-      "citationCount": 20
+      "citationCount": 21
     },
     {
       "id": "45cea06661862dd27aa45d7bb6e26b12ef6f31f5",
@@ -1646,7 +1687,7 @@
         "CorpusId": 267627441
       },
       "publicationDate": "2024-02-11",
-      "citationCount": 14
+      "citationCount": 15
     },
     {
       "id": "464d129d9b9bef255152414be0dcb682d0b4e9ac",
@@ -1728,7 +1769,7 @@
         "CorpusId": 269791465
       },
       "publicationDate": "2024-05-16",
-      "citationCount": 38
+      "citationCount": 39
     },
     {
       "id": "49b4485b2034f7d3215d5d5c78131a1a32748aad",
@@ -1776,7 +1817,7 @@
         "CorpusId": 252596091
       },
       "publicationDate": "2022-09-29",
-      "citationCount": 293
+      "citationCount": 295
     },
     {
       "id": "4d7de7b64be6dce4c7beece2ed1553ce5653abaf",
@@ -1800,7 +1841,7 @@
         "CorpusId": 264825424
       },
       "publicationDate": "2023-10-30",
-      "citationCount": 23
+      "citationCount": 24
     },
     {
       "id": "4e8cf9602d4ef714dcdb8580de40e1a2a717ab11",
@@ -2088,6 +2129,16 @@
       "citationCount": 3
     },
     {
+      "id": "590f29b6bbbbea8bf31120da7c569737424f2d2d",
+      "title": "ADATEX4D: adaptive texture capacity allocation for 4D gaussian splatting",
+      "externalIds": {
+        "ArXiv": "2609.29963",
+        "CorpusId": 292287359
+      },
+      "publicationDate": "2026-09-24",
+      "citationCount": 0
+    },
+    {
       "id": "594a35bf04aab5ed95528e88ced5ec683d7d560a",
       "title": "Diffusion-SDF: Conditional Generative Modeling of Signed Distance Functions",
       "externalIds": {
@@ -2141,7 +2192,7 @@
         "CorpusId": 256597953
       },
       "publicationDate": "2023-02-03",
-      "citationCount": 58
+      "citationCount": 59
     },
     {
       "id": "5ed6817b51768f8c461fa816dcde00e77dfb57b8",
@@ -2605,6 +2656,16 @@
       "citationCount": 0
     },
     {
+      "id": "74faec43cac0ae40bc2d71e23a13b295b616032f",
+      "title": "4DGS-Fixer: Generative Sparse-View 4D Gaussian Splatting with Iterative Refinement Guided by Video Diffusion Priors",
+      "externalIds": {
+        "ArXiv": "2609.21176",
+        "CorpusId": 292194050
+      },
+      "publicationDate": "2026-09-18",
+      "citationCount": 0
+    },
+    {
       "id": "74fd5e71f9e1ac2bbbf0cefc871bcaa5244ce661",
       "title": "RePaint-NeRF: NeRF Editting via Semantic Masks and Diffusion Models",
       "externalIds": {
@@ -2627,6 +2688,16 @@
       },
       "publicationDate": "2025-01-08",
       "citationCount": 4
+    },
+    {
+      "id": "7569bb6fc722694eeb267642eccc8ee4766f915d",
+      "title": "WildHSR: Metric Feed-Forward 4D People-Scene Reconstruction from a 3D Foundation Model",
+      "externalIds": {
+        "ArXiv": "2609.29106",
+        "CorpusId": 292282862
+      },
+      "publicationDate": "2026-09-24",
+      "citationCount": 0
     },
     {
       "id": "75b87cc83d64211bef0affdaeaf85ceaedf4ee3a",
@@ -2756,7 +2827,7 @@
         "CorpusId": 253510536
       },
       "publicationDate": "2022-11-14",
-      "citationCount": 99
+      "citationCount": 100
     },
     {
       "id": "79d6966008a261f23c854b2d321aa151ae44df4b",
@@ -2813,6 +2884,16 @@
       },
       "publicationDate": "2024-03-19",
       "citationCount": 3
+    },
+    {
+      "id": "7ccdca1a589e50a982f8059d2fc716f94a407574",
+      "title": "OmniFabric: Coherent UV Space Texture Synthesis for 3D Garment Reconstruction",
+      "externalIds": {
+        "ArXiv": "2609.30234",
+        "CorpusId": 292287911
+      },
+      "publicationDate": "2026-09-24",
+      "citationCount": 0
     },
     {
       "id": "7db0102b2731f5b7257c35e1a2796f904d297bb0",
@@ -2930,6 +3011,16 @@
         "CorpusId": 289132764
       },
       "publicationDate": "2026-06-08",
+      "citationCount": 0
+    },
+    {
+      "id": "807bcde9fa5076a4717b52e352ff879d6b47d47d",
+      "title": "Ego-Exo4D Human Meshes Dataset: 4D Human Motion Reconstruction for Ego-Exo Captures",
+      "externalIds": {
+        "ArXiv": "2609.30187",
+        "CorpusId": 292287819
+      },
+      "publicationDate": "2026-09-24",
       "citationCount": 0
     },
     {
@@ -3161,7 +3252,7 @@
         "CorpusId": 290788668
       },
       "publicationDate": "2026-07-30",
-      "citationCount": 0
+      "citationCount": 1
     },
     {
       "id": "8941e477b2f39eb92712f04400412da60d349ec1",
@@ -3173,7 +3264,7 @@
         "CorpusId": 252089441
       },
       "publicationDate": "2022-03-24",
-      "citationCount": 72
+      "citationCount": 73
     },
     {
       "id": "89427868fea9cad2d51986e862931771993c22ef",
@@ -3209,7 +3300,7 @@
         "CorpusId": 288743134
       },
       "publicationDate": "2026-05-28",
-      "citationCount": 0
+      "citationCount": 1
     },
     {
       "id": "8aab721e4700e863c1ad37d5b52f5ba9268a8242",
@@ -3467,7 +3558,7 @@
         "CorpusId": 287472529
       },
       "publicationDate": "2026-04-14",
-      "citationCount": 2
+      "citationCount": 3
     },
     {
       "id": "953376636504b88239d881704a567552fed466f4",
@@ -4570,7 +4661,7 @@
         "CorpusId": 258887357
       },
       "publicationDate": "2023-05-25",
-      "citationCount": 165
+      "citationCount": 166
     },
     {
       "id": "c631e3d465d8a9f0b39aa865f1c867081998f856",
@@ -4712,7 +4803,7 @@
         "CorpusId": 289301530
       },
       "publicationDate": "2026-06-15",
-      "citationCount": 2
+      "citationCount": 3
     },
     {
       "id": "cae2a7bacfde502a04af010b04e47800b8f20d26",
@@ -4818,7 +4909,7 @@
         "CorpusId": 257952179
       },
       "publicationDate": "2023-04-05",
-      "citationCount": 38
+      "citationCount": 39
     },
     {
       "id": "cfed5690764538a0abe59bd64b75442e794ced50",
@@ -5143,6 +5234,16 @@
         "CorpusId": 288650669
       },
       "publicationDate": "2026-05-20",
+      "citationCount": 0
+    },
+    {
+      "id": "dc16b64e4055570dbd8c32dc2da8f1c4a2dc5fb6",
+      "title": "Mira-Scene: Pixel-Aligned Layouts for Generative 3D Scene Reconstruction",
+      "externalIds": {
+        "ArXiv": "2609.23796",
+        "CorpusId": 292220521
+      },
+      "publicationDate": "2026-09-20",
       "citationCount": 0
     },
     {
@@ -5520,6 +5621,16 @@
       "citationCount": 0
     },
     {
+      "id": "ea39730491904a07a6aefb5695067078363999d4",
+      "title": "M3GD: Multi-Modal Multi-View Geometric Diffusion for Camera--LiDAR Novel View Synthesis",
+      "externalIds": {
+        "ArXiv": "2609.30056",
+        "CorpusId": 292286936
+      },
+      "publicationDate": "2026-09-24",
+      "citationCount": 0
+    },
+    {
       "id": "eb2cbd12f749f14716296f7f415e921562c9079b",
       "title": "LRM: Large Reconstruction Model for Single Image to 3D",
       "externalIds": {
@@ -5529,7 +5640,7 @@
         "CorpusId": 265050698
       },
       "publicationDate": "2023-11-08",
-      "citationCount": 91
+      "citationCount": 92
     },
     {
       "id": "eb33fe4db171c33a96cea4cf77bda7cff769a0c4",
@@ -5551,7 +5662,7 @@
         "CorpusId": 281496574
       },
       "publicationDate": "2025-09-23",
-      "citationCount": 4
+      "citationCount": 5
     },
     {
       "id": "ec97a7f4a0e1378341ec9f4f95905f81af67e671",
@@ -5587,7 +5698,7 @@
         "CorpusId": 283909568
       },
       "publicationDate": "2025-12-16",
-      "citationCount": 24
+      "citationCount": 25
     },
     {
       "id": "ed1d274ef73f640361f0614835e46468fe489386",
@@ -5611,7 +5722,7 @@
         "CorpusId": 283110051
       },
       "publicationDate": "2025-11-20",
-      "citationCount": 16
+      "citationCount": 17
     },
     {
       "id": "efda2446411fcef4eade3099ea0766d25959a668",
@@ -5930,6 +6041,16 @@
       "citationCount": 0
     },
     {
+      "id": "f9fd63f3e26dc36340ff8cfbe1f2377f4c6aa455",
+      "title": "OceanXL: Large-scale Underwater 3D Gaussian Splatting via Block Partitioning and Adaptive Pruning",
+      "externalIds": {
+        "ArXiv": "2609.29985",
+        "CorpusId": 292287903
+      },
+      "publicationDate": "2026-09-24",
+      "citationCount": 0
+    },
+    {
       "id": "faf56cbe01e459829d887e76ff7a2ce55ce7bdce",
       "title": "World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible",
       "externalIds": {
@@ -6011,7 +6132,7 @@
         "CorpusId": 261582503
       },
       "publicationDate": "2023-09-07",
-      "citationCount": 81
+      "citationCount": 83
     },
     {
       "id": "fd84ff9fc88bdfb8f683b789b37a3bdef1833c95",
@@ -11217,6 +11338,30 @@
       "target": "eb2cbd12f749f14716296f7f415e921562c9079b"
     },
     {
+      "source": "4378f319c75116868dc535a92462c3e0e9c79f89",
+      "target": "1806ae222b5d5941eb621f8e366e2ebdbf96afa7"
+    },
+    {
+      "source": "4378f319c75116868dc535a92462c3e0e9c79f89",
+      "target": "45ce01446a0b85e84aa29c3209f25e0844a1cd45"
+    },
+    {
+      "source": "4378f319c75116868dc535a92462c3e0e9c79f89",
+      "target": "8936adb389719e1f3f47766e918d0f4e4dc7a140"
+    },
+    {
+      "source": "4378f319c75116868dc535a92462c3e0e9c79f89",
+      "target": "94cb7880f208d15b5c7daf82b8fa8425c2cfebe2"
+    },
+    {
+      "source": "4378f319c75116868dc535a92462c3e0e9c79f89",
+      "target": "caccbcf4e2b65457fb511c6e64fe76ff615826d7"
+    },
+    {
+      "source": "4378f319c75116868dc535a92462c3e0e9c79f89",
+      "target": "eb6ca77d28285c95ac370052deda4a53f65e05e6"
+    },
+    {
       "source": "438e9fb79c9e37d43223e61bb575ebd2dae0b0a7",
       "target": "0cbb518c364067200476a51e5ce7476a4f582770"
     },
@@ -15315,6 +15460,30 @@
     {
       "source": "7bf0f405ed55934d9a7add81c62a260c3b78eb14",
       "target": "d84616f108ccbd958735fef7622e58d148b32139"
+    },
+    {
+      "source": "7ccdca1a589e50a982f8059d2fc716f94a407574",
+      "target": "24959b24a4cd85becf1bad50ace1f58fa6109d1c"
+    },
+    {
+      "source": "7ccdca1a589e50a982f8059d2fc716f94a407574",
+      "target": "44e49f72fb6b97f52c25a30f0adc68c2384430ba"
+    },
+    {
+      "source": "7ccdca1a589e50a982f8059d2fc716f94a407574",
+      "target": "4c94d04afa4309ec2f06bdd0fe3781f91461b362"
+    },
+    {
+      "source": "7ccdca1a589e50a982f8059d2fc716f94a407574",
+      "target": "5affc264027ec9fc95709c059613333b946cf271"
+    },
+    {
+      "source": "7ccdca1a589e50a982f8059d2fc716f94a407574",
+      "target": "793939b83e10903f58d8edbb7534963df627a1fe"
+    },
+    {
+      "source": "7ccdca1a589e50a982f8059d2fc716f94a407574",
+      "target": "8941e477b2f39eb92712f04400412da60d349ec1"
     },
     {
       "source": "7df5116b04c24a382dc327e057de910c55219ed8",
@@ -24233,6 +24402,58 @@
       "target": "ecd0d6c7e8093bd69655edc511e408216d52c7fb"
     },
     {
+      "source": "dc16b64e4055570dbd8c32dc2da8f1c4a2dc5fb6",
+      "target": "06f52b5bde025a6f32ab4522b2a9c40068137603"
+    },
+    {
+      "source": "dc16b64e4055570dbd8c32dc2da8f1c4a2dc5fb6",
+      "target": "0a448b0c2cdf32de0393190dd17a166a30289e3c"
+    },
+    {
+      "source": "dc16b64e4055570dbd8c32dc2da8f1c4a2dc5fb6",
+      "target": "1b31dbf44e68b698120552366df03e6e35a1e428"
+    },
+    {
+      "source": "dc16b64e4055570dbd8c32dc2da8f1c4a2dc5fb6",
+      "target": "1f7b8b462af062f7f80cbcda4bb80e097e3f8e1f"
+    },
+    {
+      "source": "dc16b64e4055570dbd8c32dc2da8f1c4a2dc5fb6",
+      "target": "45f61c7c99e729c5666af436ad90c2c82c480375"
+    },
+    {
+      "source": "dc16b64e4055570dbd8c32dc2da8f1c4a2dc5fb6",
+      "target": "4c94d04afa4309ec2f06bdd0fe3781f91461b362"
+    },
+    {
+      "source": "dc16b64e4055570dbd8c32dc2da8f1c4a2dc5fb6",
+      "target": "4e21879b564cc2e803b16edf0dda9f1edb91b497"
+    },
+    {
+      "source": "dc16b64e4055570dbd8c32dc2da8f1c4a2dc5fb6",
+      "target": "8a897f463dc951bf35baf62681d9bdc9e3e9f416"
+    },
+    {
+      "source": "dc16b64e4055570dbd8c32dc2da8f1c4a2dc5fb6",
+      "target": "c5e9fd131cde68c218d0ea69cd617a67c7f35d42"
+    },
+    {
+      "source": "dc16b64e4055570dbd8c32dc2da8f1c4a2dc5fb6",
+      "target": "eb2cbd12f749f14716296f7f415e921562c9079b"
+    },
+    {
+      "source": "dc16b64e4055570dbd8c32dc2da8f1c4a2dc5fb6",
+      "target": "ecd0d6c7e8093bd69655edc511e408216d52c7fb"
+    },
+    {
+      "source": "dc16b64e4055570dbd8c32dc2da8f1c4a2dc5fb6",
+      "target": "ef19e75521087bda065b33ed78c3b358285ce18e"
+    },
+    {
+      "source": "dc16b64e4055570dbd8c32dc2da8f1c4a2dc5fb6",
+      "target": "fcd0de4066d93fa3822a14898008fa2dd99f7be6"
+    },
+    {
       "source": "dc7b2a39421f93ae134fbb43ef62763056ebe1c7",
       "target": "03e1c3b5fdad9b21bbed3d13af7e8d6c73cbcfa6"
     },
@@ -25487,6 +25708,26 @@
     {
       "source": "e99e284aae4efd05302a99e94aa11be1074615b9",
       "target": "ecd0d6c7e8093bd69655edc511e408216d52c7fb"
+    },
+    {
+      "source": "ea39730491904a07a6aefb5695067078363999d4",
+      "target": "2c70684973bc4d7b6f8404a647b8031c4d3c8383"
+    },
+    {
+      "source": "ea39730491904a07a6aefb5695067078363999d4",
+      "target": "31bfd63204c861baf2a87fc48f62281d382fd26d"
+    },
+    {
+      "source": "ea39730491904a07a6aefb5695067078363999d4",
+      "target": "4987a76781f299be64ac43419c8b489ca1f4515b"
+    },
+    {
+      "source": "ea39730491904a07a6aefb5695067078363999d4",
+      "target": "cf923fb70bbad20c485cef355444a08096747f68"
+    },
+    {
+      "source": "ea39730491904a07a6aefb5695067078363999d4",
+      "target": "fcd0de4066d93fa3822a14898008fa2dd99f7be6"
     },
     {
       "source": "eb2cbd12f749f14716296f7f415e921562c9079b",
