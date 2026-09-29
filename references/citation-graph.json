@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T08:07:24.726Z",
+  "generatedAt": "2026-09-29T09:57:02.446Z",
   "source": "Semantic Scholar Academic Graph API",
   "direction": "source cites target",
   "nodes": [
@@ -646,7 +646,7 @@
         "CorpusId": 270440501
       },
       "publicationDate": "2024-06-13",
-      "citationCount": 19
+      "citationCount": 20
     },
     {
       "id": "186c2b2386799fa599e2d77bc6945f7da66e5fab",
@@ -659,6 +659,16 @@
       },
       "publicationDate": "2023-10-23",
       "citationCount": 62
+    },
+    {
+      "id": "19f8a67eded02964b0b1d7ed71ee116c94373758",
+      "title": "NavGen: Visual Generative Models as a Scalable Data Engine for Embodied 3D Navigation",
+      "externalIds": {
+        "ArXiv": "2609.30770",
+        "CorpusId": 292360530
+      },
+      "publicationDate": "2026-09-25",
+      "citationCount": 0
     },
     {
       "id": "1b31dbf44e68b698120552366df03e6e35a1e428",
@@ -787,7 +797,7 @@
         "CorpusId": 259145353
       },
       "publicationDate": "2023-06-06",
-      "citationCount": 28
+      "citationCount": 29
     },
     {
       "id": "1e99e6309f36f1829d3de4d67d800ad8acd65b35",
@@ -1314,7 +1324,7 @@
         "CorpusId": 285462692
       },
       "publicationDate": "2026-02-10",
-      "citationCount": 0
+      "citationCount": 1
     },
     {
       "id": "31a28938f2d55dcc704ccd23f52049a6558f4326",
@@ -1560,7 +1570,7 @@
         "CorpusId": 259137821
       },
       "publicationDate": "2023-06-12",
-      "citationCount": 19
+      "citationCount": 20
     },
     {
       "id": "4299b79ef41601cf6e3e0603f7216d72b6d1315f",
@@ -1769,7 +1779,7 @@
         "CorpusId": 269791465
       },
       "publicationDate": "2024-05-16",
-      "citationCount": 39
+      "citationCount": 40
     },
     {
       "id": "49b4485b2034f7d3215d5d5c78131a1a32748aad",
@@ -1817,7 +1827,7 @@
         "CorpusId": 252596091
       },
       "publicationDate": "2022-09-29",
-      "citationCount": 295
+      "citationCount": 296
     },
     {
       "id": "4d7de7b64be6dce4c7beece2ed1553ce5653abaf",
@@ -1865,7 +1875,7 @@
         "CorpusId": 287121680
       },
       "publicationDate": "2026-04-03",
-      "citationCount": 0
+      "citationCount": 1
     },
     {
       "id": "4f7aa1798ea38a30e3046e0a6c1ca78c75d7c1f5",
@@ -2193,6 +2203,16 @@
       },
       "publicationDate": "2023-02-03",
       "citationCount": 59
+    },
+    {
+      "id": "5b1e44472d359db3ee0ec9be2f4d6402fa474f39",
+      "title": "Spackle: Completing Large View Single Image NVS with Adaptive Gaussians",
+      "externalIds": {
+        "ArXiv": "2609.30941",
+        "CorpusId": 292360426
+      },
+      "publicationDate": "2026-09-25",
+      "citationCount": 0
     },
     {
       "id": "5ed6817b51768f8c461fa816dcde00e77dfb57b8",
@@ -2803,7 +2823,7 @@
         "CorpusId": 258108307
       },
       "publicationDate": "2023-04-13",
-      "citationCount": 28
+      "citationCount": 29
     },
     {
       "id": "78dcc7b4d647dd0f59f5cba64aefbc76c9c84e1e",
@@ -2941,7 +2961,7 @@
         "CorpusId": 254564523
       },
       "publicationDate": "2022-12-12",
-      "citationCount": 59
+      "citationCount": 60
     },
     {
       "id": "7ed1961910f83d7c30725cf360e60196299154fb",
@@ -3558,7 +3578,7 @@
         "CorpusId": 287472529
       },
       "publicationDate": "2026-04-14",
-      "citationCount": 3
+      "citationCount": 4
     },
     {
       "id": "953376636504b88239d881704a567552fed466f4",
@@ -4243,7 +4263,7 @@
         "CorpusId": 282102520
       },
       "publicationDate": "2025-10-15",
-      "citationCount": 3
+      "citationCount": 4
     },
     {
       "id": "b4746593e475324cd3b9f011fade41e201977f4f",
@@ -4487,7 +4507,7 @@
         "CorpusId": 253708074
       },
       "publicationDate": "2022-11-18",
-      "citationCount": 200
+      "citationCount": 201
     },
     {
       "id": "be50b554fd2fb37982bae3d0e359f1520b8665f9",
@@ -4746,7 +4766,7 @@
         "CorpusId": 277104152
       },
       "publicationDate": "2025-03-18",
-      "citationCount": 10
+      "citationCount": 11
     },
     {
       "id": "c7f4a93754a29426acc9bf9c03db27b6106eecaf",
@@ -4827,7 +4847,7 @@
         "CorpusId": 263131552
       },
       "publicationDate": "2023-09-28",
-      "citationCount": 91
+      "citationCount": 92
     },
     {
       "id": "cc6c64b4fec00e5371b38d7c4dfa10a1b23c76fe",
@@ -5662,7 +5682,7 @@
         "CorpusId": 281496574
       },
       "publicationDate": "2025-09-23",
-      "citationCount": 5
+      "citationCount": 6
     },
     {
       "id": "ec97a7f4a0e1378341ec9f4f95905f81af67e671",
@@ -5851,6 +5871,16 @@
       },
       "publicationDate": "2023-04-11",
       "citationCount": 4
+    },
+    {
+      "id": "f37d55191f8e2b60928fe8b05a6346d43bb924fd",
+      "title": "DiffusionShadow: Diffusion-based Shadow Caching for Neural Volume Rendering",
+      "externalIds": {
+        "ArXiv": "2609.30658",
+        "CorpusId": 292360748
+      },
+      "publicationDate": "2026-09-25",
+      "citationCount": 0
     },
     {
       "id": "f3b6a3782f856210cb20591e46ea994dd092ef6d",
@@ -8456,6 +8486,14 @@
     {
       "source": "186c2b2386799fa599e2d77bc6945f7da66e5fab",
       "target": "fcd0de4066d93fa3822a14898008fa2dd99f7be6"
+    },
+    {
+      "source": "19f8a67eded02964b0b1d7ed71ee116c94373758",
+      "target": "312925278eac957abec7dc8169e1bdf02249e202"
+    },
+    {
+      "source": "19f8a67eded02964b0b1d7ed71ee116c94373758",
+      "target": "4279a38a098d1d359881b73c6a88a112fe93443a"
     },
     {
       "source": "1b31dbf44e68b698120552366df03e6e35a1e428",
@@ -13436,6 +13474,38 @@
     {
       "source": "5affc264027ec9fc95709c059613333b946cf271",
       "target": "bdf4af8311637c681904e71cf50f96fd0026f578"
+    },
+    {
+      "source": "5b1e44472d359db3ee0ec9be2f4d6402fa474f39",
+      "target": "1806ae222b5d5941eb621f8e366e2ebdbf96afa7"
+    },
+    {
+      "source": "5b1e44472d359db3ee0ec9be2f4d6402fa474f39",
+      "target": "4987a76781f299be64ac43419c8b489ca1f4515b"
+    },
+    {
+      "source": "5b1e44472d359db3ee0ec9be2f4d6402fa474f39",
+      "target": "4f4082210f0bee921839bf82fe7f9bcbf84b6841"
+    },
+    {
+      "source": "5b1e44472d359db3ee0ec9be2f4d6402fa474f39",
+      "target": "94cb7880f208d15b5c7daf82b8fa8425c2cfebe2"
+    },
+    {
+      "source": "5b1e44472d359db3ee0ec9be2f4d6402fa474f39",
+      "target": "b41944dbf5833dd4e6db4aee05ab4fbd60398397"
+    },
+    {
+      "source": "5b1e44472d359db3ee0ec9be2f4d6402fa474f39",
+      "target": "c7398e15b3eb8247ff235ce4d58d94c548e67404"
+    },
+    {
+      "source": "5b1e44472d359db3ee0ec9be2f4d6402fa474f39",
+      "target": "cc1a674bb164d09a060cf5b26fe518c02fae0ddc"
+    },
+    {
+      "source": "5b1e44472d359db3ee0ec9be2f4d6402fa474f39",
+      "target": "eb6ca77d28285c95ac370052deda4a53f65e05e6"
     },
     {
       "source": "5ed6817b51768f8c461fa816dcde00e77dfb57b8",
@@ -26596,6 +26666,26 @@
     {
       "source": "f34b6bc0775d2ea66329cc9ceb919038c5a47682",
       "target": "4c94d04afa4309ec2f06bdd0fe3781f91461b362"
+    },
+    {
+      "source": "f37d55191f8e2b60928fe8b05a6346d43bb924fd",
+      "target": "1e8403af2e1e7a8f803d8df9e8daac584f99c2a0"
+    },
+    {
+      "source": "f37d55191f8e2b60928fe8b05a6346d43bb924fd",
+      "target": "4c94d04afa4309ec2f06bdd0fe3781f91461b362"
+    },
+    {
+      "source": "f37d55191f8e2b60928fe8b05a6346d43bb924fd",
+      "target": "78869b78b5c1e02fcfa39edd034bb7a1bdb24c4d"
+    },
+    {
+      "source": "f37d55191f8e2b60928fe8b05a6346d43bb924fd",
+      "target": "7e993a9ca01dcd4538362454aaac29a18a63c000"
+    },
+    {
+      "source": "f37d55191f8e2b60928fe8b05a6346d43bb924fd",
+      "target": "bdf4af8311637c681904e71cf50f96fd0026f578"
     },
     {
       "source": "f445188827232185779fe19e5b3cbf9b276d03c1",
