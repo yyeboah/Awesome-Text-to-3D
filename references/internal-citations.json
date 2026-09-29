@@ -1,12 +1,23 @@
 {
   "source": "Semantic Scholar Academic Graph API",
   "sourceUrl": "https://api.semanticscholar.org/api-docs/graphs",
-  "generatedAt": "2026-09-27T08:07:24.726Z",
+  "generatedAt": "2026-09-29T09:57:02.446Z",
   "definition": "Distinct resolved papers in this README whose Semantic Scholar reference lists include the target paper.",
-  "resolvedRows": 535,
-  "citationBackedRows": 535,
-  "distinctResolvedWorks": 530,
+  "resolvedRows": 538,
+  "citationBackedRows": 538,
+  "distinctResolvedWorks": 533,
   "entries": [
+    {
+      "title": "Spackle: Completing Large View Single Image NVS with Adaptive Gaussians",
+      "section": "X-to-3D",
+      "identifier": "ARXIV:2609.30941",
+      "semanticScholarPaperId": "5b1e44472d359db3ee0ec9be2f4d6402fa474f39",
+      "semanticScholarTitle": "Spackle: Completing Large View Single Image NVS with Adaptive Gaussians",
+      "publicationDate": "2026-09-25",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
     {
       "title": "M3GD: Multi-Modal Multi-View Geometric Diffusion for Camera--LiDAR Novel View Synthesis",
       "section": "X-to-3D",
@@ -1030,14 +1041,16 @@
       "semanticScholarPaperId": "b41944dbf5833dd4e6db4aee05ab4fbd60398397",
       "semanticScholarTitle": "FlashWorld: High-quality 3D Scene Generation within Seconds",
       "publicationDate": "2025-10-15",
-      "internalCitationCount": 3,
+      "internalCitationCount": 4,
       "citedBy": [
         "FlashRender: Few-Step Generative Rendering via Camera-Controlled Video MeanFlow",
         "Lyra 2.0: Explorable Generative 3D Worlds",
+        "Spackle: Completing Large View Single Image NVS with Adaptive Gaussians",
         "World in World: Explore the World with World Models"
       ],
       "citedByIds": [
         "32a4aad0e7077a618eac33f798fd8c721ddf7ba0",
+        "5b1e44472d359db3ee0ec9be2f4d6402fa474f39",
         "94cb7880f208d15b5c7daf82b8fa8425c2cfebe2",
         "e15453c3d5bae47810f6f100e542daf17e713663"
       ]
@@ -1060,16 +1073,18 @@
       "semanticScholarPaperId": "eb6ca77d28285c95ac370052deda4a53f65e05e6",
       "semanticScholarTitle": "Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation",
       "publicationDate": "2025-09-23",
-      "internalCitationCount": 5,
+      "internalCitationCount": 6,
       "citedBy": [
         "Code Plans, Diffusion Renders: Open-Ended Generative World Modeling",
         "Lyra 2.0: Explorable Generative 3D Worlds",
         "ReconSplat: Generalizable 3D Scene Reconstruction Beyond Observed Views",
+        "Spackle: Completing Large View Single Image NVS with Adaptive Gaussians",
         "World in World: Explore the World with World Models",
         "WorldGen: From Text to Traversable and Interactive 3D Worlds"
       ],
       "citedByIds": [
         "4378f319c75116868dc535a92462c3e0e9c79f89",
+        "5b1e44472d359db3ee0ec9be2f4d6402fa474f39",
         "94cb7880f208d15b5c7daf82b8fa8425c2cfebe2",
         "c2768bb042df122cd018701315f28b3035100225",
         "e15453c3d5bae47810f6f100e542daf17e713663",
@@ -1549,7 +1564,7 @@
       "semanticScholarPaperId": "c7398e15b3eb8247ff235ce4d58d94c548e67404",
       "semanticScholarTitle": "Bolt3D: Generating 3D Scenes in Seconds",
       "publicationDate": "2025-03-18",
-      "internalCitationCount": 10,
+      "internalCitationCount": 11,
       "citedBy": [
         "DecoRec: Decomposed 3D Scene Reconstruction From Single-View Images via Object-Level Diffusion",
         "FlashWorld: High-quality 3D Scene Generation within Seconds",
@@ -1559,6 +1574,7 @@
         "Pixal3D: Pixel-Aligned 3D Generation from Images",
         "ReconSplat: Generalizable 3D Scene Reconstruction Beyond Observed Views",
         "SPATIALGEN: Layout-Guided 3D Indoor Scene Generation",
+        "Spackle: Completing Large View Single Image NVS with Adaptive Gaussians",
         "Wonderland: Navigating 3D Scenes From a Single Image",
         "WorldGen: From Text to Traversable and Interactive 3D Worlds"
       ],
@@ -1566,6 +1582,7 @@
         "00d3c25193aa2d08b954ba769734689051aa1e82",
         "07271f1f0c239848db1ec58e708b7647753c05a2",
         "120c370cae306b03c712045db72a33276ae95685",
+        "5b1e44472d359db3ee0ec9be2f4d6402fa474f39",
         "94cb7880f208d15b5c7daf82b8fa8425c2cfebe2",
         "b41944dbf5833dd4e6db4aee05ab4fbd60398397",
         "bbf0b6159db80814996bba8f8b4fd1492dfee00d",
@@ -2374,7 +2391,7 @@
       "semanticScholarPaperId": "1806ae222b5d5941eb621f8e366e2ebdbf96afa7",
       "semanticScholarTitle": "WonderWorld: Interactive 3D Scene Generation from a Single Image",
       "publicationDate": "2024-06-13",
-      "internalCitationCount": 19,
+      "internalCitationCount": 20,
       "citedBy": [
         "ABot-3DWorld 0: A Universal World Model to Explore Any 3D Space",
         "ArtiScene: Language-Driven Artistic 3D Scene Generation Through Image Intermediary",
@@ -2389,6 +2406,7 @@
         "NavCrafter: Exploring 3D Scenes from a Single Image",
         "RoamScene3D: Immersive Text-to-3D Scene Generation via Adaptive Object-aware Roaming",
         "SimWorld Studio: Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning",
+        "Spackle: Completing Large View Single Image NVS with Adaptive Gaussians",
         "SpatialCrafter: Single Image World Modeling with Generative 3D Proxies",
         "TesserAct: Learning 4D Embodied World Models",
         "Wonderland: Navigating 3D Scenes From a Single Image",
@@ -2406,6 +2424,7 @@
         "45cea06661862dd27aa45d7bb6e26b12ef6f31f5",
         "4f4082210f0bee921839bf82fe7f9bcbf84b6841",
         "533fb8568919b655b287ce2f7097f1a3327ce59d",
+        "5b1e44472d359db3ee0ec9be2f4d6402fa474f39",
         "5f82990bfede910a100185f536605e912d0245c1",
         "78502b35c172eb64b1a6b0ae313b8ee70fce9556",
         "7fdb2462ccca8648b9d4d558e776c3aa8be32db9",
@@ -2567,7 +2586,7 @@
       "semanticScholarPaperId": "4987a76781f299be64ac43419c8b489ca1f4515b",
       "semanticScholarTitle": "CAT3D: Create Anything in 3D with Multi-View Diffusion Models",
       "publicationDate": "2024-05-16",
-      "internalCitationCount": 39,
+      "internalCitationCount": 40,
       "citedBy": [
         "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
         "ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion",
@@ -2602,6 +2621,7 @@
         "Reflection-aware Generative Novel View Synthesis",
         "SF3D: Stable Fast 3D Mesh Reconstruction with UV-unwrapping and Illumination Disentanglement",
         "SPATIALGEN: Layout-Guided 3D Indoor Scene Generation",
+        "Spackle: Completing Large View Single Image NVS with Adaptive Gaussians",
         "Stable Virtual Camera: Generative View Synthesis with Diffusion Models",
         "Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models",
         "VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching",
@@ -2622,6 +2642,7 @@
         "4f4082210f0bee921839bf82fe7f9bcbf84b6841",
         "529e62cae04d3d7b458392033ba12d65c3444253",
         "59c88e1de06653a2afde582862591aebb3ba0df3",
+        "5b1e44472d359db3ee0ec9be2f4d6402fa474f39",
         "6c6e7588391dd6d4bc5459e56634f3eac105011a",
         "77afe2bdaea27285a38e0b42b844f9b3b56e371f",
         "8ac84b7788fcc3cf909b7a7fdcae6db6e239a1a0",
@@ -5325,7 +5346,7 @@
       "semanticScholarPaperId": "cc1a674bb164d09a060cf5b26fe518c02fae0ddc",
       "semanticScholarTitle": "DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation",
       "publicationDate": "2023-09-28",
-      "internalCitationCount": 91,
+      "internalCitationCount": 92,
       "citedBy": [
         "3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion",
         "A General Framework to Boost 3D GS Initialization for Text-to-3D Generation by Lexical Richness",
@@ -5405,6 +5426,7 @@
         "ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding",
         "Sharp-It: A Multi-view to Multi-view Diffusion Model for 3D Synthesis and Manipulation",
         "SimAvatar: Simulation-Ready Avatars with Layered Hair and Clothing",
+        "Spackle: Completing Large View Single Image NVS with Adaptive Gaussians",
         "StableDreamer: Taming Noisy Score Distillation Sampling for Text-to-3D",
         "StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization",
         "StereoSplat+: Feed-Forward Stereo Gaussian Splatting with Diffusion-Assisted Progressive Inference",
@@ -5456,6 +5478,7 @@
         "587b427e6e98513e33656bb91bbaa5e3b9e978f4",
         "588c417a4485f517812b98d9f6c4a7d3af57e333",
         "58deeb11dc024962b1810952a946027f402ddb71",
+        "5b1e44472d359db3ee0ec9be2f4d6402fa474f39",
         "69fa358ca1680ff2779477bdab2f42851c2499ca",
         "6c06fc704c4c0a8d5ef43e48e615eede81ad4531",
         "6f709278506813d04a074e6fa20188cce9bb927b",
@@ -6806,7 +6829,7 @@
       "semanticScholarPaperId": "4279a38a098d1d359881b73c6a88a112fe93443a",
       "semanticScholarTitle": "Scalable 3D Captioning with Pretrained Models",
       "publicationDate": "2023-06-12",
-      "internalCitationCount": 19,
+      "internalCitationCount": 20,
       "citedBy": [
         "Consistent Zero-shot 3D Texture Synthesis Using Geometry-aware Diffusion and Temporal Video Models",
         "DreamReward: Text-to-3D Generation with Human Preference",
@@ -6818,6 +6841,7 @@
         "LATTE3D: Large-scale Amortized Text-To-Enhanced3D Synthesis",
         "LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation",
         "LRM: Large Reconstruction Model for Single Image to 3D",
+        "NavGen: Visual Generative Models as a Scalable Data Engine for Embodied 3D Navigation",
         "PixGS: Pixel-Space Diffusion for Direct 3D Gaussian Splat Generation",
         "PointLLM: Empowering Large Language Models to Understand Point Clouds",
         "RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D",
@@ -6833,6 +6857,7 @@
         "0d56fef3f3c2fbcd8212d4389a1123f58865dfc8",
         "0ecb340140fb81b4a114a6cbc7fac00129ff3231",
         "11665dbecb17ef4d3d71b75b8666ce0e61bd43fa",
+        "19f8a67eded02964b0b1d7ed71ee116c94373758",
         "2222f7e497e9ed59a8dc01996dacd14eef98b464",
         "426876d89595022b0f90ba2c108874fbc6ba8212",
         "438e9fb79c9e37d43223e61bb575ebd2dae0b0a7",
@@ -6872,7 +6897,7 @@
       "semanticScholarPaperId": "1e8403af2e1e7a8f803d8df9e8daac584f99c2a0",
       "semanticScholarTitle": "ATT3D: Amortized Text-to-3D Object Synthesis",
       "publicationDate": "2023-06-06",
-      "internalCitationCount": 28,
+      "internalCitationCount": 29,
       "citedBy": [
         "A General Framework to Boost 3D GS Initialization for Text-to-3D Generation by Lexical Richness",
         "AGG: Amortized Generative 3D Gaussians for Single Image to 3D",
@@ -6881,6 +6906,7 @@
         "BrightDreamer: Generic 3D Gaussian Generative Framework for Fast Text-to-3D Synthesis",
         "CAT3D: Create Anything in 3D with Multi-View Diffusion Models",
         "CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction Model",
+        "DiffusionShadow: Diffusion-based Shadow Caching for Neural Volume Rendering",
         "DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation",
         "Edify 3D: Scalable High-Quality 3D Asset Generation",
         "Geometry Image Diffusion: Fast and Data-Efficient Text-to-3D with Image-Based Surface Representation",
@@ -6931,6 +6957,7 @@
         "cf60a639add75cdea4273697269ee463024b7926",
         "daf3b117f789b2b95223e58592979fb57627515e",
         "e5389acae799cc712366cd58214d8d932b731fb1",
+        "f37d55191f8e2b60928fe8b05a6346d43bb924fd",
         "f46fe824ff7754b127517b27f3045e23f3287afe"
       ]
     },
@@ -7667,7 +7694,7 @@
       "semanticScholarPaperId": "78869b78b5c1e02fcfa39edd034bb7a1bdb24c4d",
       "semanticScholarTitle": "Single-Stage Diffusion NeRF: A Unified Approach to 3D Generation and Reconstruction",
       "publicationDate": "2023-04-13",
-      "internalCitationCount": 28,
+      "internalCitationCount": 29,
       "citedBy": [
         "3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion",
         "AGG: Amortized Generative 3D Gaussians for Single Image to 3D",
@@ -7676,6 +7703,7 @@
         "BoostDream: Efficient Refining for High-Quality Text-to-3D Generation from Multi-View Diffusion",
         "CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction Model",
         "DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation",
+        "DiffusionShadow: Diffusion-based Shadow Caching for Neural Volume Rendering",
         "Direct and Explicit 3D Generation from a Single Image",
         "DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation",
         "EpiDiff: Enhancing Multi-View Synthesis via Localized Epipolar-Constrained Diffusion",
@@ -7726,6 +7754,7 @@
         "daf3b117f789b2b95223e58592979fb57627515e",
         "e2507bac701d3bdfa4c9655b1d54f1d7f4b2b9e5",
         "e6cb30effd90d563bc680430ecc1317842d33b6e",
+        "f37d55191f8e2b60928fe8b05a6346d43bb924fd",
         "fcd0de4066d93fa3822a14898008fa2dd99f7be6"
       ]
     },
@@ -10139,7 +10168,7 @@
       "semanticScholarPaperId": "bdf4af8311637c681904e71cf50f96fd0026f578",
       "semanticScholarTitle": "Magic3D: High-Resolution Text-to-3D Content Creation",
       "publicationDate": "2022-11-18",
-      "internalCitationCount": 200,
+      "internalCitationCount": 201,
       "citedBy": [
         "2L3: Lifting Imperfect Generated 2D Images into Accurate 3D",
         "3D-GPT: Procedural 3D Modeling with Large Language Models",
@@ -10168,6 +10197,7 @@
         "Constructing a 3D Scene from a Single Image",
         "CraftsMan3D: High-fidelity Mesh Generation with 3D Native Generation and Interactive Geometry Refiner",
         "Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting",
+        "DiffusionShadow: Diffusion-based Shadow Caching for Neural Volume Rendering",
         "DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion",
         "Direct and Explicit 3D Generation from a Single Image",
         "Disentangled 3D Scene Generation with Layout Learning",
@@ -10535,6 +10565,7 @@
         "f220a751a573ff74b97e26624f36873080d4a3a9",
         "f335ec0810bb6063fc8ff7b6046e68ebfa729075",
         "f34034806797341a9400f4bd0ce9d327e258c26d",
+        "f37d55191f8e2b60928fe8b05a6346d43bb924fd",
         "f46fe824ff7754b127517b27f3045e23f3287afe",
         "f6734767dc4eb03caf3286b46faf16bf1469795c",
         "f6dfb1e9539f3f50ffc8fe3ebae318d4607b098f",
@@ -11030,7 +11061,7 @@
       "semanticScholarPaperId": "4c94d04afa4309ec2f06bdd0fe3781f91461b362",
       "semanticScholarTitle": "DreamFusion: Text-to-3D using 2D Diffusion",
       "publicationDate": "2022-09-29",
-      "internalCitationCount": 295,
+      "internalCitationCount": 296,
       "citedBy": [
         "2L3: Lifting Imperfect Generated 2D Images into Accurate 3D",
         "3D-GPT: Procedural 3D Modeling with Large Language Models",
@@ -11079,6 +11110,7 @@
         "DecoRec: Decomposed 3D Scene Reconstruction From Single-View Images via Object-Level Diffusion",
         "DiffusioNeRF: Regularizing Neural Radiance Fields with Denoising Diffusion Models",
         "Diffusion-SDF: Conditional Generative Modeling of Signed Distance Functions",
+        "DiffusionShadow: Diffusion-based Shadow Caching for Neural Volume Rendering",
         "DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion",
         "Direct and Explicit 3D Generation from a Single Image",
         "Disentangled 3D Scene Generation with Layout Learning",
@@ -11608,6 +11640,7 @@
         "f335ec0810bb6063fc8ff7b6046e68ebfa729075",
         "f34034806797341a9400f4bd0ce9d327e258c26d",
         "f34b6bc0775d2ea66329cc9ceb919038c5a47682",
+        "f37d55191f8e2b60928fe8b05a6346d43bb924fd",
         "f46fe824ff7754b127517b27f3045e23f3287afe",
         "f6734767dc4eb03caf3286b46faf16bf1469795c",
         "f6942b91a072028b07981dc843c8ccda9e06a094",
@@ -12180,6 +12213,17 @@
         "f6dfb1e9539f3f50ffc8fe3ebae318d4607b098f",
         "ff0baeb316df06d017f381c80a2c3aa6399fe938"
       ]
+    },
+    {
+      "title": "DiffusionShadow: Diffusion-based Shadow Caching for Neural Volume Rendering",
+      "section": "3D Editing, Decomposition & Stylization",
+      "identifier": "ARXIV:2609.30658",
+      "semanticScholarPaperId": "f37d55191f8e2b60928fe8b05a6346d43bb924fd",
+      "semanticScholarTitle": "DiffusionShadow: Diffusion-based Shadow Caching for Neural Volume Rendering",
+      "publicationDate": "2026-09-25",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
     },
     {
       "title": "OmniFabric: Coherent UV Space Texture Synthesis for 3D Garment Reconstruction",
@@ -14755,9 +14799,13 @@
       "semanticScholarPaperId": "312925278eac957abec7dc8169e1bdf02249e202",
       "semanticScholarTitle": "NavDreamer: Video Models as Zero-Shot 3D Navigators",
       "publicationDate": "2026-02-10",
-      "internalCitationCount": 0,
-      "citedBy": [],
-      "citedByIds": []
+      "internalCitationCount": 1,
+      "citedBy": [
+        "NavGen: Visual Generative Models as a Scalable Data Engine for Embodied 3D Navigation"
+      ],
+      "citedByIds": [
+        "19f8a67eded02964b0b1d7ed71ee116c94373758"
+      ]
     },
     {
       "title": "ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion",
@@ -15741,7 +15789,7 @@
       "semanticScholarPaperId": "7e993a9ca01dcd4538362454aaac29a18a63c000",
       "semanticScholarTitle": "RODIN: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion",
       "publicationDate": "2022-12-12",
-      "internalCitationCount": 59,
+      "internalCitationCount": 60,
       "citedBy": [
         "3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion",
         "AToM: Amortized Text-to-Mesh using 2D Diffusion",
@@ -15751,6 +15799,7 @@
         "Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D Diffusion Probabilistic Models",
         "Consistent123: One Image to Highly Consistent 3D Asset Using Case-Aware Diffusion Priors",
         "DINAR: Diffusion Inpainting of Neural Textures for One-Shot Human Avatars",
+        "DiffusionShadow: Diffusion-based Shadow Caching for Neural Volume Rendering",
         "Direct and Explicit 3D Generation from a Single Image",
         "Dream3DAvatar: Text-Controlled 3D Avatar Reconstruction from a Single Image",
         "DreamCraft3D++: Efficient Hierarchical 3D Generation with Multi-Plane Reconstruction Model",
@@ -15859,6 +15908,7 @@
         "dfabdf96c18f535d4a55012d91c6cab213d2b28f",
         "e4c05642ff51a69f251a38dfa6877ad1111f2f7a",
         "f220a751a573ff74b97e26624f36873080d4a3a9",
+        "f37d55191f8e2b60928fe8b05a6346d43bb924fd",
         "f46fe824ff7754b127517b27f3045e23f3287afe",
         "f77f35f07a02c15ed6bcad3bff379b8ebc4820d3",
         "fbbc507dd88fd1aa55e531f4a66d69f80880d779",
@@ -16595,16 +16645,18 @@
       "semanticScholarPaperId": "94cb7880f208d15b5c7daf82b8fa8425c2cfebe2",
       "semanticScholarTitle": "Lyra 2.0: Explorable Generative 3D Worlds",
       "publicationDate": "2026-04-14",
-      "internalCitationCount": 3,
+      "internalCitationCount": 4,
       "citedBy": [
         "Code Plans, Diffusion Renders: Open-Ended Generative World Modeling",
         "Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration",
+        "Spackle: Completing Large View Single Image NVS with Adaptive Gaussians",
         "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory"
       ],
       "citedByIds": [
         "085b9ef2d76e54538f842d569676c8319208509e",
         "3acf83e38d7783ae90dd3e6c58661537e449ee99",
-        "4378f319c75116868dc535a92462c3e0e9c79f89"
+        "4378f319c75116868dc535a92462c3e0e9c79f89",
+        "5b1e44472d359db3ee0ec9be2f4d6402fa474f39"
       ]
     },
     {
@@ -16614,9 +16666,13 @@
       "semanticScholarPaperId": "4f4082210f0bee921839bf82fe7f9bcbf84b6841",
       "semanticScholarTitle": "NavCrafter: Exploring 3D Scenes from a Single Image",
       "publicationDate": "2026-04-03",
-      "internalCitationCount": 0,
-      "citedBy": [],
-      "citedByIds": []
+      "internalCitationCount": 1,
+      "citedBy": [
+        "Spackle: Completing Large View Single Image NVS with Adaptive Gaussians"
+      ],
+      "citedByIds": [
+        "5b1e44472d359db3ee0ec9be2f4d6402fa474f39"
+      ]
     },
     {
       "title": "Generative World Renderer",
@@ -16636,6 +16692,17 @@
       "semanticScholarPaperId": "45cea06661862dd27aa45d7bb6e26b12ef6f31f5",
       "semanticScholarTitle": "LivingWorld: Interactive 4D World Generation with Environmental Dynamics",
       "publicationDate": "2026-04-02",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
+    {
+      "title": "NavGen: Visual Generative Models as a Scalable Data Engine for Embodied 3D Navigation",
+      "section": "Datasets :floppy_disk:",
+      "identifier": "ARXIV:2609.30770",
+      "semanticScholarPaperId": "19f8a67eded02964b0b1d7ed71ee116c94373758",
+      "semanticScholarTitle": "NavGen: Visual Generative Models as a Scalable Data Engine for Embodied 3D Navigation",
+      "publicationDate": "2026-09-25",
       "internalCitationCount": 0,
       "citedBy": [],
       "citedByIds": []
@@ -17033,7 +17100,7 @@
       "semanticScholarPaperId": "4279a38a098d1d359881b73c6a88a112fe93443a",
       "semanticScholarTitle": "Scalable 3D Captioning with Pretrained Models",
       "publicationDate": "2023-06-12",
-      "internalCitationCount": 19,
+      "internalCitationCount": 20,
       "citedBy": [
         "Consistent Zero-shot 3D Texture Synthesis Using Geometry-aware Diffusion and Temporal Video Models",
         "DreamReward: Text-to-3D Generation with Human Preference",
@@ -17045,6 +17112,7 @@
         "LATTE3D: Large-scale Amortized Text-To-Enhanced3D Synthesis",
         "LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation",
         "LRM: Large Reconstruction Model for Single Image to 3D",
+        "NavGen: Visual Generative Models as a Scalable Data Engine for Embodied 3D Navigation",
         "PixGS: Pixel-Space Diffusion for Direct 3D Gaussian Splat Generation",
         "PointLLM: Empowering Large Language Models to Understand Point Clouds",
         "RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D",
@@ -17060,6 +17128,7 @@
         "0d56fef3f3c2fbcd8212d4389a1123f58865dfc8",
         "0ecb340140fb81b4a114a6cbc7fac00129ff3231",
         "11665dbecb17ef4d3d71b75b8666ce0e61bd43fa",
+        "19f8a67eded02964b0b1d7ed71ee116c94373758",
         "2222f7e497e9ed59a8dc01996dacd14eef98b464",
         "426876d89595022b0f90ba2c108874fbc6ba8212",
         "438e9fb79c9e37d43223e61bb575ebd2dae0b0a7",
