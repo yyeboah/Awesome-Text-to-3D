@@ -1139,6 +1139,8 @@ This README is intended to work as a fast research index:
 
 ## Frameworks & Projects :desktop_computer:
 
+- [three.ws Forge - Open-source text-to-3D, image-to-3D, and sketch-to-3D in the browser, exporting textured GLB models with optional auto-rigging for humanoids](https://three.ws/forge), nirholas, Web 2026 | [code](https://github.com/nirholas/three.ws)
+
 - [Xiaomi-Robotics-0: An Open-Sourced Vision-Language-Action Model with Real-Time Execution](https://arxiv.org/abs/2602.12684), Rui Cai et al., Arxiv 2026 | [citation](./references/citations.bib#L2977-L2982) | [site](https://xiaomi-robotics-0.github.io/) | [code](https://github.com/XiaomiRobotics/Xiaomi-Robotics-0) | <a href="./references/internal-citations.md#s2-ae8aa1cced293fd9134c2c9757f419c68a17e4d9" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 
 - [Taxon3D - Blind pairwise arena ranking text-to-3D and image-to-3D models on living organisms, with reference photographs and an admissibility gate](https://taxon3d.org), Jaret Arnold, Web 2026 | [code](https://github.com/musharna/taxon3d) | [data](https://huggingface.co/datasets/musharna/taxon3d-corpus-v1)
