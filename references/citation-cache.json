@@ -410,6 +410,8 @@
     "id:f37d55191f8e2b60928fe8b05a6346d43bb924fd": "f37d55191f8e2b60928fe8b05a6346d43bb924fd",
     "id:ARXIV:2609.30770": "19f8a67eded02964b0b1d7ed71ee116c94373758",
     "id:ARXIV:2609.30941": "5b1e44472d359db3ee0ec9be2f4d6402fa474f39",
+    "id:ARXIV:2609.36380": "d9cb4f0e06417e50be3b192f38d70aacb8379ee3",
+    "id:d9cb4f0e06417e50be3b192f38d70aacb8379ee3": "d9cb4f0e06417e50be3b192f38d70aacb8379ee3",
     "id:b00da7bbf32490b6da94c4bfdf1724fb86dce0c4": "b00da7bbf32490b6da94c4bfdf1724fb86dce0c4",
     "id:b0109b3dc52ff158e25e3fb0718b13c4401354fd": "b0109b3dc52ff158e25e3fb0718b13c4401354fd",
     "id:b01e8f939c685dbf11cb38d3af7604ef1e77306f": "b01e8f939c685dbf11cb38d3af7604ef1e77306f",
@@ -606,6 +608,7 @@
     "incoming:c57fc45e22559d7a39f9eafb5cae4fffc362cb58": "c57fc45e22559d7a39f9eafb5cae4fffc362cb58",
     "incoming:c9b13a4038ab1b4fbd4b79ac320e5ae2cdb45f09": "c9b13a4038ab1b4fbd4b79ac320e5ae2cdb45f09",
     "incoming:d73e863227f4abd70df9ff21c681ed7719e2b7df": "d73e863227f4abd70df9ff21c681ed7719e2b7df",
+    "incoming:d9cb4f0e06417e50be3b192f38d70aacb8379ee3": "d9cb4f0e06417e50be3b192f38d70aacb8379ee3",
     "incoming:db1f54c08c8a1eb13eabf36eec69f40f38077e3c": "db1f54c08c8a1eb13eabf36eec69f40f38077e3c",
     "incoming:dc16b64e4055570dbd8c32dc2da8f1c4a2dc5fb6": "dc16b64e4055570dbd8c32dc2da8f1c4a2dc5fb6",
     "incoming:df085db3b9569b4fa76d2a410e4d14de6f85b907": "df085db3b9569b4fa76d2a410e4d14de6f85b907",
@@ -86457,6 +86460,221 @@
       "fetchedAt": "2026-09-29T09:56:45.018Z",
       "citations": [],
       "citationsFetchedAt": "2026-09-29T09:56:45.839Z"
+    },
+    "d9cb4f0e06417e50be3b192f38d70aacb8379ee3": {
+      "paperId": "d9cb4f0e06417e50be3b192f38d70aacb8379ee3",
+      "externalIds": {
+        "ArXiv": "2609.36380",
+        "CorpusId": 292441749
+      },
+      "title": "LEGO-Anything: Coding Agents for 3D Scene Reconstruction",
+      "openAccessPdf": {
+        "url": "",
+        "status": null,
+        "license": null,
+        "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2609.36380, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "publicationDate": "2026-09-28",
+      "authors": [
+        {
+          "authorId": "2287848266",
+          "name": "Xi-Rui Li"
+        },
+        {
+          "authorId": "2367196849",
+          "name": "Peng Shi"
+        },
+        {
+          "authorId": "2281946734",
+          "name": "Ming-Wen Dong"
+        },
+        {
+          "authorId": "2406380948",
+          "name": "Sheng-Long Zhang"
+        },
+        {
+          "authorId": "2491635743",
+          "name": "Zhuo Xu"
+        },
+        {
+          "authorId": "2315449706",
+          "name": "Dongkyu Lee"
+        },
+        {
+          "authorId": "2385966716",
+          "name": "Shuai-Chen Chang"
+        },
+        {
+          "authorId": "2505536522",
+          "name": "Yi Xiang"
+        },
+        {
+          "authorId": "2298575343",
+          "name": "Lin Pan"
+        },
+        {
+          "authorId": "2385839697",
+          "name": "Jia-Rong Jiang"
+        }
+      ],
+      "references": [
+        {
+          "paperId": "9c9a33503a9869bf596f3e725cd48ae15a5a559c"
+        },
+        {
+          "paperId": "ab6a7295ba27533a42b4047129b23f70f8b22b7b"
+        },
+        {
+          "paperId": "05b8a2155e2cc7b26ec10b19ed0848c92765c72d"
+        },
+        {
+          "paperId": "6954cbad2f9e2995ef362ee14cd79fc3e356a59a"
+        },
+        {
+          "paperId": "db1f54c08c8a1eb13eabf36eec69f40f38077e3c"
+        },
+        {
+          "paperId": "e72186dfc37c14282e4a79210a7f8e70e7ab1c11"
+        },
+        {
+          "paperId": "932315dc21551ff13c5a52404b475371cd35bbb4"
+        },
+        {
+          "paperId": "7d8685f098f0d79918b2b8dcff6f3ac29d87aa3c"
+        },
+        {
+          "paperId": "8a897f463dc951bf35baf62681d9bdc9e3e9f416"
+        },
+        {
+          "paperId": "3b90487328e1763863446086ec0e20cfa961e952"
+        },
+        {
+          "paperId": "349315104dcfe31bc600da6906d7d8835731cae8"
+        },
+        {
+          "paperId": "2b985ae1ab43f47beabd0526e8f3fea1ee59b5eb"
+        },
+        {
+          "paperId": "7fdb2462ccca8648b9d4d558e776c3aa8be32db9"
+        },
+        {
+          "paperId": "1a9ee97a2fa4a03da1b8753d4799fc6468a560a3"
+        },
+        {
+          "paperId": "b2162607b968cef92b5a568d5821cf7b605ad1d1"
+        },
+        {
+          "paperId": "cb5357aaa71a993f2966b71a002ab55631d4a034"
+        },
+        {
+          "paperId": "2b458b58f449fa75bf1ae0ac62c8cb9ed2f6d203"
+        },
+        {
+          "paperId": "64cd8a551607d5d004e37bb0c6cbd6d65241fbfb"
+        },
+        {
+          "paperId": "d3713560f5125e5f3ed0ef1a06bb23dde37dfbc8"
+        },
+        {
+          "paperId": "2b39e389e7970761177a1ded6e3aace66d49a11f"
+        },
+        {
+          "paperId": "3cb124dd60c0d9934be0ba7751c7f890896bc506"
+        },
+        {
+          "paperId": "b83f69213504e1e56c4ddcd2c1393a1c168f26a7"
+        },
+        {
+          "paperId": "44b5a9b719e759c9cd4879f80641bb6f02304495"
+        },
+        {
+          "paperId": "0a448b0c2cdf32de0393190dd17a166a30289e3c"
+        },
+        {
+          "paperId": "89427868fea9cad2d51986e862931771993c22ef"
+        },
+        {
+          "paperId": "8133e2d90f779ee080f9969cea1fd8c818084c3a"
+        },
+        {
+          "paperId": "995ec013113291e88a8168c8b5519c3ad7b2312a"
+        },
+        {
+          "paperId": "ef6ba066fe4b3de1ce847a96dc7798558bd99b64"
+        },
+        {
+          "paperId": "a2ea9af521c7a100f13270040703f205be6fec2a"
+        },
+        {
+          "paperId": "96de4628f9573e9d7d77898e0c4d51b5bbd6033a"
+        },
+        {
+          "paperId": "17718c56427be1024741ae2c24d28447463e426b"
+        },
+        {
+          "paperId": "ecd3091debcd2f393379508df70bceb94db0be3b"
+        },
+        {
+          "paperId": "94a5f96308729e31c1ffbc0f0618db87795092fe"
+        },
+        {
+          "paperId": "45d3a0b103c862f63a4837499c10ece94c083f2b"
+        },
+        {
+          "paperId": "e0d2852be2a3f5952a6600eaa933f23bee448210"
+        },
+        {
+          "paperId": "f902a64f7d08aaa6bfca7463e8729952ddc6134e"
+        },
+        {
+          "paperId": "1bd57b1eb2467d14461cbf5952d2d06ade81f277"
+        },
+        {
+          "paperId": "71b7178df5d2b112d07e45038cb5637208659ff7"
+        },
+        {
+          "paperId": "302710ce0dccd6f888ce5a14a878e4241ba96c6c"
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": "8a909e1c1a2e6c7e7fb0fcefab0eadff1ec657b0"
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        }
+      ],
+      "fetchedAt": "2026-10-01T06:11:25.433Z",
+      "citations": [],
+      "citationsFetchedAt": "2026-10-01T06:11:26.405Z"
     },
     "b00da7bbf32490b6da94c4bfdf1724fb86dce0c4": {
       "paperId": "b00da7bbf32490b6da94c4bfdf1724fb86dce0c4",

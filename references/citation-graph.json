@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T09:57:02.446Z",
+  "generatedAt": "2026-10-01T06:11:52.555Z",
   "source": "Semantic Scholar Academic Graph API",
   "direction": "source cites target",
   "nodes": [
@@ -355,7 +355,7 @@
         "CorpusId": 284057591
       },
       "publicationDate": "2025-12-19",
-      "citationCount": 4
+      "citationCount": 5
     },
     {
       "id": "0ae390462f72ec4b7ea2e66fd0d43922667c7ca8",
@@ -1476,7 +1476,7 @@
         "CorpusId": 288254258
       },
       "publicationDate": "2026-05-14",
-      "citationCount": 3
+      "citationCount": 4
     },
     {
       "id": "3c13686750c9b2541bff9567ea440c96df810764",
@@ -3007,7 +3007,7 @@
         "CorpusId": 288259672
       },
       "publicationDate": "2026-05-10",
-      "citationCount": 1
+      "citationCount": 2
     },
     {
       "id": "7ff2a57cb9c6bc65e87ebc1725f118fddf5629c4",
@@ -3296,7 +3296,7 @@
         "CorpusId": 283071732
       },
       "publicationDate": "2025-11-17",
-      "citationCount": 7
+      "citationCount": 8
     },
     {
       "id": "8978a4a0c546bd41dd2a964e6fe850d3e6ae8f5b",
@@ -3320,7 +3320,7 @@
         "CorpusId": 288743134
       },
       "publicationDate": "2026-05-28",
-      "citationCount": 1
+      "citationCount": 2
     },
     {
       "id": "8aab721e4700e863c1ad37d5b52f5ba9268a8242",
@@ -4377,7 +4377,7 @@
         "CorpusId": 284860807
       },
       "publicationDate": "2026-01-16",
-      "citationCount": 5
+      "citationCount": 6
     },
     {
       "id": "b8f8ccbd44491eb63fc8f1eaba0a1e2c5070fbef",
@@ -5198,6 +5198,16 @@
       "citationCount": 0
     },
     {
+      "id": "d9cb4f0e06417e50be3b192f38d70aacb8379ee3",
+      "title": "LEGO-Anything: Coding Agents for 3D Scene Reconstruction",
+      "externalIds": {
+        "ArXiv": "2609.36380",
+        "CorpusId": 292441749
+      },
+      "publicationDate": "2026-09-28",
+      "citationCount": 0
+    },
+    {
       "id": "d9ded3825ff1400908f2679efd26521b78b73e4a",
       "title": "GeoDiff3D: Self-Supervised 3D Scene Generation with Geometry-Constrained 2D Diffusion Guidance",
       "externalIds": {
@@ -5242,7 +5252,7 @@
         "CorpusId": 288862300
       },
       "publicationDate": "2026-06-01",
-      "citationCount": 0
+      "citationCount": 1
     },
     {
       "id": "db9fe76a3f03d4d29c919d23e046b7450dd70199",
@@ -24310,6 +24320,34 @@
     {
       "source": "d964bddba14d771c884e585d6ebac62d34dff3e3",
       "target": "c5e9fd131cde68c218d0ea69cd617a67c7f35d42"
+    },
+    {
+      "source": "d9cb4f0e06417e50be3b192f38d70aacb8379ee3",
+      "target": "0a448b0c2cdf32de0393190dd17a166a30289e3c"
+    },
+    {
+      "source": "d9cb4f0e06417e50be3b192f38d70aacb8379ee3",
+      "target": "3b90487328e1763863446086ec0e20cfa961e952"
+    },
+    {
+      "source": "d9cb4f0e06417e50be3b192f38d70aacb8379ee3",
+      "target": "7fdb2462ccca8648b9d4d558e776c3aa8be32db9"
+    },
+    {
+      "source": "d9cb4f0e06417e50be3b192f38d70aacb8379ee3",
+      "target": "89427868fea9cad2d51986e862931771993c22ef"
+    },
+    {
+      "source": "d9cb4f0e06417e50be3b192f38d70aacb8379ee3",
+      "target": "8a897f463dc951bf35baf62681d9bdc9e3e9f416"
+    },
+    {
+      "source": "d9cb4f0e06417e50be3b192f38d70aacb8379ee3",
+      "target": "b83f69213504e1e56c4ddcd2c1393a1c168f26a7"
+    },
+    {
+      "source": "d9cb4f0e06417e50be3b192f38d70aacb8379ee3",
+      "target": "db1f54c08c8a1eb13eabf36eec69f40f38077e3c"
     },
     {
       "source": "da2e472343d1c07d0b41c9e555ccc43bc95afb21",
