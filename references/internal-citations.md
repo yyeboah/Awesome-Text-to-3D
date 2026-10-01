@@ -1,6 +1,6 @@
 # Citation counts
 
-Generated 2026-09-29 from the Semantic Scholar reference graph. Counts include only distinct papers indexed in this repository.
+Generated 2026-10-01 from the Semantic Scholar reference graph. Counts include only distinct papers indexed in this repository.
 
 <a id="s2-4c94d04afa4309ec2f06bdd0fe3781f91461b362"></a>
 ## DreamFusion: Text-to-3D using 2D Diffusion
@@ -5588,6 +5588,20 @@ Generated 2026-09-29 from the Semantic Scholar reference graph. Counts include o
 - TADA! Text to Animatable Digital Avatars
 - Text-Guided 3D Face Synthesis - From Generation to Editing
 
+<a id="s2-89427868fea9cad2d51986e862931771993c22ef"></a>
+## PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image
+
+**Citation count:** 8
+
+- Articraft: An Agentic System for Scalable Articulated 3D Asset Generation
+- LEGO-Anything: Coding Agents for 3D Scene Reconstruction
+- MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction
+- NeoWorld-Pro: Programming Interactive Scenes from Monocular Images for Embodied Simulation
+- PhysX-3D: Physical-Grounded 3D Asset Generation
+- PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects
+- UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image
+- UniPhysGen: Unified Physical Grounding for Simulation-Ready 3D Assets
+
 <a id="s2-8bbaea34567e3693653335ce0f70068b3a977c92"></a>
 ## SAMPart3D: Segment Any Part in 3D Objects
 
@@ -5671,19 +5685,6 @@ Generated 2026-09-29 from the Semantic Scholar reference graph. Counts include o
 - LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion
 - LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS
 - NeuMesh++: Toward Versatile and Efficient Volumetric Editing With Disentangled Neural Mesh-Based Implicit Field
-
-<a id="s2-89427868fea9cad2d51986e862931771993c22ef"></a>
-## PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image
-
-**Citation count:** 7
-
-- Articraft: An Agentic System for Scalable Articulated 3D Asset Generation
-- MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction
-- NeoWorld-Pro: Programming Interactive Scenes from Monocular Images for Embodied Simulation
-- PhysX-3D: Physical-Grounded 3D Asset Generation
-- PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects
-- UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image
-- UniPhysGen: Unified Physical Grounding for Simulation-Ready 3D Assets
 
 <a id="s2-17e2c6baf5194b554f3f124ba5be55447fe58194"></a>
 ## X-Part: high fidelity and structure coherent shape decomposition
@@ -5841,6 +5842,18 @@ Generated 2026-09-29 from the Semantic Scholar reference graph. Counts include o
 - One-shot Implicit Animatable Avatars with Model-based Priors
 - Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models
 
+<a id="s2-b83f69213504e1e56c4ddcd2c1393a1c168f26a7"></a>
+## Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning
+
+**Citation count:** 6
+
+- 4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation
+- LEGO-Anything: Coding Agents for 3D Scene Reconstruction
+- NeoWorld-Pro: Programming Interactive Scenes from Monocular Images for Embodied Simulation
+- REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image
+- Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models
+- WorldClaw: Agentic 3D Open-World Generation at Scale
+
 <a id="s2-eb6ca77d28285c95ac370052deda4a53f65e05e6"></a>
 ## Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation
 
@@ -5925,15 +5938,15 @@ Generated 2026-09-29 from the Semantic Scholar reference graph. Counts include o
 - TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts
 - Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models
 
-<a id="s2-b83f69213504e1e56c4ddcd2c1393a1c168f26a7"></a>
-## Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning
+<a id="s2-0a448b0c2cdf32de0393190dd17a166a30289e3c"></a>
+## 3D-RE-GEN: 3D Reconstruction of Indoor Scenes with a Generative Framework
 
 **Citation count:** 5
 
-- 4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation
-- NeoWorld-Pro: Programming Interactive Scenes from Monocular Images for Embodied Simulation
+- FIRE3D: Feed-forward Interactive 3D Scene Reconstruction Within A Minute
+- LEGO-Anything: Coding Agents for 3D Scene Reconstruction
+- Mira-Scene: Pixel-Aligned Layouts for Generative 3D Scene Reconstruction
 - REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image
-- Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models
 - WorldClaw: Agentic 3D Open-World Generation at Scale
 
 <a id="s2-9f384c604b1433e0e960cee124ce8463536e2e2c"></a>
@@ -6112,6 +6125,16 @@ Generated 2026-09-29 from the Semantic Scholar reference graph. Counts include o
 - TADA! Text to Animatable Digital Avatars
 - TeCH: Text-Guided Reconstruction of Lifelike Clothed Humans
 
+<a id="s2-3b90487328e1763863446086ec0e20cfa961e952"></a>
+## Articraft: An Agentic System for Scalable Articulated 3D Asset Generation
+
+**Citation count:** 4
+
+- LEGO-Anything: Coding Agents for 3D Scene Reconstruction
+- NeoWorld-Pro: Programming Interactive Scenes from Monocular Images for Embodied Simulation
+- UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image
+- WorldClaw: Agentic 3D Open-World Generation at Scale
+
 <a id="s2-94cb7880f208d15b5c7daf82b8fa8425c2cfebe2"></a>
 ## Lyra 2.0: Explorable Generative 3D Worlds
 
@@ -6121,16 +6144,6 @@ Generated 2026-09-29 from the Semantic Scholar reference graph. Counts include o
 - Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration
 - Spackle: Completing Large View Single Image NVS with Adaptive Gaussians
 - WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory
-
-<a id="s2-0a448b0c2cdf32de0393190dd17a166a30289e3c"></a>
-## 3D-RE-GEN: 3D Reconstruction of Indoor Scenes with a Generative Framework
-
-**Citation count:** 4
-
-- FIRE3D: Feed-forward Interactive 3D Scene Reconstruction Within A Minute
-- Mira-Scene: Pixel-Aligned Layouts for Generative 3D Scene Reconstruction
-- REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image
-- WorldClaw: Agentic 3D Open-World Generation at Scale
 
 <a id="s2-b41944dbf5833dd4e6db4aee05ab4fbd60398397"></a>
 ## FlashWorld: High-quality 3D Scene Generation within Seconds
@@ -6290,15 +6303,6 @@ Generated 2026-09-29 from the Semantic Scholar reference graph. Counts include o
 - Code Plans, Diffusion Renders: Open-Ended Generative World Modeling
 - From Pixels to States: Rethinking Interactive World Models as Game Engines
 - WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory
-
-<a id="s2-3b90487328e1763863446086ec0e20cfa961e952"></a>
-## Articraft: An Agentic System for Scalable Articulated 3D Asset Generation
-
-**Citation count:** 3
-
-- NeoWorld-Pro: Programming Interactive Scenes from Monocular Images for Embodied Simulation
-- UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image
-- WorldClaw: Agentic 3D Open-World Generation at Scale
 
 <a id="s2-f6942b91a072028b07981dc843c8ccda9e06a094"></a>
 ## Pixal3D: Pixel-Aligned 3D Generation from Images
@@ -6533,6 +6537,22 @@ Generated 2026-09-29 from the Semantic Scholar reference graph. Counts include o
 - 3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion
 - InstructP2P: Learning to Edit 3D Point Clouds with Text Instructions
 - MeshFormer: High-Quality Mesh Generation with 3D-Guided Reconstruction Model
+
+<a id="s2-8a897f463dc951bf35baf62681d9bdc9e3e9f416"></a>
+## REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image
+
+**Citation count:** 2
+
+- LEGO-Anything: Coding Agents for 3D Scene Reconstruction
+- Mira-Scene: Pixel-Aligned Layouts for Generative 3D Scene Reconstruction
+
+<a id="s2-7fdb2462ccca8648b9d4d558e776c3aa8be32db9"></a>
+## SimWorld Studio: Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning
+
+**Citation count:** 2
+
+- LEGO-Anything: Coding Agents for 3D Scene Reconstruction
+- WorldClaw: Agentic 3D Open-World Generation at Scale
 
 <a id="s2-e3a10689ead179bbba256a35d0d249f7e0d69bba"></a>
 ## PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World
@@ -6811,12 +6831,12 @@ Generated 2026-09-29 from the Semantic Scholar reference graph. Counts include o
 
 - Meshy T2: Fast Native Mesh Generation with Flow Matching
 
-<a id="s2-8a897f463dc951bf35baf62681d9bdc9e3e9f416"></a>
-## REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image
+<a id="s2-db1f54c08c8a1eb13eabf36eec69f40f38077e3c"></a>
+## Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models
 
 **Citation count:** 1
 
-- Mira-Scene: Pixel-Aligned Layouts for Generative 3D Scene Reconstruction
+- LEGO-Anything: Coding Agents for 3D Scene Reconstruction
 
 <a id="s2-957304867a36e15ec6181d67e37a7b40058bd5a4"></a>
 ## GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction
@@ -6838,13 +6858,6 @@ Generated 2026-09-29 from the Semantic Scholar reference graph. Counts include o
 **Citation count:** 1
 
 - World in World: Explore the World with World Models
-
-<a id="s2-7fdb2462ccca8648b9d4d558e776c3aa8be32db9"></a>
-## SimWorld Studio: Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning
-
-**Citation count:** 1
-
-- WorldClaw: Agentic 3D Open-World Generation at Scale
 
 <a id="s2-4f4082210f0bee921839bf82fe7f9bcbf84b6841"></a>
 ## NavCrafter: Exploring 3D Scenes from a Single Image
@@ -7146,6 +7159,13 @@ Generated 2026-09-29 from the Semantic Scholar reference graph. Counts include o
 **Citation count:** 1
 
 - One-shot Implicit Animatable Avatars with Model-based Priors
+
+<a id="s2-d9cb4f0e06417e50be3b192f38d70aacb8379ee3"></a>
+## LEGO-Anything: Coding Agents for 3D Scene Reconstruction
+
+**Citation count:** 0
+
+No other indexed papers cite this paper.
 
 <a id="s2-f37d55191f8e2b60928fe8b05a6346d43bb924fd"></a>
 ## DiffusionShadow: Diffusion-based Shadow Caching for Neural Volume Rendering
@@ -8066,13 +8086,6 @@ No other indexed papers cite this paper.
 
 <a id="s2-3f7919823abdf208fbf9540b992f42539b864eb5"></a>
 ## Recent Advances and Trends in Learning-based 3D Representations
-
-**Citation count:** 0
-
-No other indexed papers cite this paper.
-
-<a id="s2-db1f54c08c8a1eb13eabf36eec69f40f38077e3c"></a>
-## Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models
 
 **Citation count:** 0
 

@@ -1,12 +1,23 @@
 {
   "source": "Semantic Scholar Academic Graph API",
   "sourceUrl": "https://api.semanticscholar.org/api-docs/graphs",
-  "generatedAt": "2026-09-29T09:57:02.446Z",
+  "generatedAt": "2026-10-01T06:11:52.555Z",
   "definition": "Distinct resolved papers in this README whose Semantic Scholar reference lists include the target paper.",
-  "resolvedRows": 538,
-  "citationBackedRows": 538,
-  "distinctResolvedWorks": 533,
+  "resolvedRows": 539,
+  "citationBackedRows": 539,
+  "distinctResolvedWorks": 534,
   "entries": [
+    {
+      "title": "LEGO-Anything: Coding Agents for 3D Scene Reconstruction",
+      "section": "X-to-3D",
+      "identifier": "ARXIV:2609.36380",
+      "semanticScholarPaperId": "d9cb4f0e06417e50be3b192f38d70aacb8379ee3",
+      "semanticScholarTitle": "LEGO-Anything: Coding Agents for 3D Scene Reconstruction",
+      "publicationDate": "2026-09-28",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
     {
       "title": "Spackle: Completing Large View Single Image NVS with Adaptive Gaussians",
       "section": "X-to-3D",
@@ -623,9 +634,13 @@
       "semanticScholarPaperId": "db1f54c08c8a1eb13eabf36eec69f40f38077e3c",
       "semanticScholarTitle": "Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models",
       "publicationDate": "2026-06-01",
-      "internalCitationCount": 0,
-      "citedBy": [],
-      "citedByIds": []
+      "internalCitationCount": 1,
+      "citedBy": [
+        "LEGO-Anything: Coding Agents for 3D Scene Reconstruction"
+      ],
+      "citedByIds": [
+        "d9cb4f0e06417e50be3b192f38d70aacb8379ee3"
+      ]
     },
     {
       "title": "VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching",
@@ -656,11 +671,13 @@
       "semanticScholarPaperId": "8a897f463dc951bf35baf62681d9bdc9e3e9f416",
       "semanticScholarTitle": "REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image",
       "publicationDate": "2026-05-28",
-      "internalCitationCount": 1,
+      "internalCitationCount": 2,
       "citedBy": [
+        "LEGO-Anything: Coding Agents for 3D Scene Reconstruction",
         "Mira-Scene: Pixel-Aligned Layouts for Generative 3D Scene Reconstruction"
       ],
       "citedByIds": [
+        "d9cb4f0e06417e50be3b192f38d70aacb8379ee3",
         "dc16b64e4055570dbd8c32dc2da8f1c4a2dc5fb6"
       ]
     },
@@ -708,8 +725,9 @@
       "semanticScholarPaperId": "3b90487328e1763863446086ec0e20cfa961e952",
       "semanticScholarTitle": "Articraft: An Agentic System for Scalable Articulated 3D Asset Generation",
       "publicationDate": "2026-05-14",
-      "internalCitationCount": 3,
+      "internalCitationCount": 4,
       "citedBy": [
+        "LEGO-Anything: Coding Agents for 3D Scene Reconstruction",
         "NeoWorld-Pro: Programming Interactive Scenes from Monocular Images for Embodied Simulation",
         "UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image",
         "WorldClaw: Agentic 3D Open-World Generation at Scale"
@@ -717,6 +735,7 @@
       "citedByIds": [
         "128d893ce9c71599742ceb950656cc232b1b928e",
         "96cfd37ec098eb68a1f978de16e45b82ff13589f",
+        "d9cb4f0e06417e50be3b192f38d70aacb8379ee3",
         "e99e284aae4efd05302a99e94aa11be1074615b9"
       ]
     },
@@ -814,9 +833,10 @@
       "semanticScholarPaperId": "b83f69213504e1e56c4ddcd2c1393a1c168f26a7",
       "semanticScholarTitle": "Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning",
       "publicationDate": "2026-01-16",
-      "internalCitationCount": 5,
+      "internalCitationCount": 6,
       "citedBy": [
         "4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation",
+        "LEGO-Anything: Coding Agents for 3D Scene Reconstruction",
         "NeoWorld-Pro: Programming Interactive Scenes from Monocular Images for Embodied Simulation",
         "REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image",
         "Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models",
@@ -827,6 +847,7 @@
         "7b76fde443bec229c84e2e1dba47daeddd36d18e",
         "8a897f463dc951bf35baf62681d9bdc9e3e9f416",
         "96cfd37ec098eb68a1f978de16e45b82ff13589f",
+        "d9cb4f0e06417e50be3b192f38d70aacb8379ee3",
         "db1f54c08c8a1eb13eabf36eec69f40f38077e3c"
       ]
     },
@@ -12668,9 +12689,10 @@
       "semanticScholarPaperId": "0a448b0c2cdf32de0393190dd17a166a30289e3c",
       "semanticScholarTitle": "3D-RE-GEN: 3D Reconstruction of Indoor Scenes with a Generative Framework",
       "publicationDate": "2025-12-19",
-      "internalCitationCount": 4,
+      "internalCitationCount": 5,
       "citedBy": [
         "FIRE3D: Feed-forward Interactive 3D Scene Reconstruction Within A Minute",
+        "LEGO-Anything: Coding Agents for 3D Scene Reconstruction",
         "Mira-Scene: Pixel-Aligned Layouts for Generative 3D Scene Reconstruction",
         "REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image",
         "WorldClaw: Agentic 3D Open-World Generation at Scale"
@@ -12679,6 +12701,7 @@
         "128d893ce9c71599742ceb950656cc232b1b928e",
         "8a897f463dc951bf35baf62681d9bdc9e3e9f416",
         "c57fc45e22559d7a39f9eafb5cae4fffc362cb58",
+        "d9cb4f0e06417e50be3b192f38d70aacb8379ee3",
         "dc16b64e4055570dbd8c32dc2da8f1c4a2dc5fb6"
       ]
     },
@@ -12745,9 +12768,10 @@
       "semanticScholarPaperId": "89427868fea9cad2d51986e862931771993c22ef",
       "semanticScholarTitle": "PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image",
       "publicationDate": "2025-11-17",
-      "internalCitationCount": 7,
+      "internalCitationCount": 8,
       "citedBy": [
         "Articraft: An Agentic System for Scalable Articulated 3D Asset Generation",
+        "LEGO-Anything: Coding Agents for 3D Scene Reconstruction",
         "MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction",
         "NeoWorld-Pro: Programming Interactive Scenes from Monocular Images for Embodied Simulation",
         "PhysX-3D: Physical-Grounded 3D Asset Generation",
@@ -12761,6 +12785,7 @@
         "5ed6817b51768f8c461fa816dcde00e77dfb57b8",
         "8b1229673fd46aed8b8400ce8843897bd4fcfefb",
         "96cfd37ec098eb68a1f978de16e45b82ff13589f",
+        "d9cb4f0e06417e50be3b192f38d70aacb8379ee3",
         "db9fe76a3f03d4d29c919d23e046b7450dd70199",
         "e99e284aae4efd05302a99e94aa11be1074615b9"
       ]
@@ -16630,12 +16655,14 @@
       "semanticScholarPaperId": "7fdb2462ccca8648b9d4d558e776c3aa8be32db9",
       "semanticScholarTitle": "SimWorld Studio: Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning",
       "publicationDate": "2026-05-10",
-      "internalCitationCount": 1,
+      "internalCitationCount": 2,
       "citedBy": [
+        "LEGO-Anything: Coding Agents for 3D Scene Reconstruction",
         "WorldClaw: Agentic 3D Open-World Generation at Scale"
       ],
       "citedByIds": [
-        "128d893ce9c71599742ceb950656cc232b1b928e"
+        "128d893ce9c71599742ceb950656cc232b1b928e",
+        "d9cb4f0e06417e50be3b192f38d70aacb8379ee3"
       ]
     },
     {
