@@ -1,6 +1,6 @@
 # Citation counts
 
-Generated 2026-10-01 from the Semantic Scholar reference graph. Counts include only distinct papers indexed in this repository.
+Generated 2026-10-06 from the Semantic Scholar reference graph. Counts include only distinct papers indexed in this repository.
 
 <a id="s2-4c94d04afa4309ec2f06bdd0fe3781f91461b362"></a>
 ## DreamFusion: Text-to-3D using 2D Diffusion
@@ -7159,6 +7159,13 @@ Generated 2026-10-01 from the Semantic Scholar reference graph. Counts include o
 **Citation count:** 1
 
 - One-shot Implicit Animatable Avatars with Model-based Priors
+
+<a id="s2-cf872d0eb81dba74e6d2cb6a5428bbc779d2038f"></a>
+## VCURF: Virtual Camera-based Uncertainty of Radiance Fields
+
+**Citation count:** 0
+
+No other indexed papers cite this paper.
 
 <a id="s2-d9cb4f0e06417e50be3b192f38d70aacb8379ee3"></a>
 ## LEGO-Anything: Coding Agents for 3D Scene Reconstruction
