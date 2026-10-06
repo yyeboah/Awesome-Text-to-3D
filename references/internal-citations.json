@@ -1,12 +1,34 @@
 {
   "source": "Semantic Scholar Academic Graph API",
   "sourceUrl": "https://api.semanticscholar.org/api-docs/graphs",
-  "generatedAt": "2026-10-01T06:11:52.555Z",
+  "generatedAt": "2026-10-06T12:24:32.198Z",
   "definition": "Distinct resolved papers in this README whose Semantic Scholar reference lists include the target paper.",
-  "resolvedRows": 539,
-  "citationBackedRows": 539,
-  "distinctResolvedWorks": 534,
+  "resolvedRows": 540,
+  "citationBackedRows": 542,
+  "distinctResolvedWorks": 535,
   "entries": [
+    {
+      "title": "VCURF: Virtual Camera-based Uncertainty of Radiance Fields",
+      "section": "X-to-3D",
+      "identifier": "ARXIV:2610.04076",
+      "semanticScholarPaperId": "cf872d0eb81dba74e6d2cb6a5428bbc779d2038f",
+      "semanticScholarTitle": "VCURF: Virtual Camera-based Uncertainty of Radiance Fields",
+      "publicationDate": "2026-10-02",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
+    {
+      "title": "NAMVIS: Next-Scale Autoregressive Multi-View Image Synthesis",
+      "section": "X-to-3D",
+      "identifier": "ARXIV:2610.04722",
+      "semanticScholarPaperId": null,
+      "semanticScholarTitle": null,
+      "publicationDate": "2026-10-01",
+      "internalCitationCount": null,
+      "citedBy": [],
+      "citedByIds": []
+    },
     {
       "title": "LEGO-Anything: Coding Agents for 3D Scene Reconstruction",
       "section": "X-to-3D",
@@ -12234,6 +12256,17 @@
         "f6dfb1e9539f3f50ffc8fe3ebae318d4607b098f",
         "ff0baeb316df06d017f381c80a2c3aa6399fe938"
       ]
+    },
+    {
+      "title": "Real-time Rendering of Pre-integrated Neural Emitters",
+      "section": "3D Editing, Decomposition & Stylization",
+      "identifier": "ARXIV:2610.06762",
+      "semanticScholarPaperId": null,
+      "semanticScholarTitle": null,
+      "publicationDate": "2026-10-01",
+      "internalCitationCount": null,
+      "citedBy": [],
+      "citedByIds": []
     },
     {
       "title": "DiffusionShadow: Diffusion-based Shadow Caching for Neural Volume Rendering",

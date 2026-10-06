@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T06:11:52.555Z",
+  "generatedAt": "2026-10-06T12:24:32.198Z",
   "source": "Semantic Scholar Academic Graph API",
   "direction": "source cites target",
   "nodes": [
@@ -4918,6 +4918,16 @@
       },
       "publicationDate": "2023-11-28",
       "citationCount": 25
+    },
+    {
+      "id": "cf872d0eb81dba74e6d2cb6a5428bbc779d2038f",
+      "title": "VCURF: Virtual Camera-based Uncertainty of Radiance Fields",
+      "externalIds": {
+        "ArXiv": "2610.04076",
+        "CorpusId": 292639396
+      },
+      "publicationDate": "2026-10-02",
+      "citationCount": 0
     },
     {
       "id": "cf923fb70bbad20c485cef355444a08096747f68",

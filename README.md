@@ -6,7 +6,7 @@ This README is intended to work as a fast research index:
 - grouped by task and content type
 - linked to BibTeX, project pages, and code when available
 - updated incrementally as new papers and resources appear
-- Citation count measures distinct papers elsewhere in this index that [Semantic Scholar](https://api.semanticscholar.org/api-docs/graphs) reports as citing an entry (refreshed 2026-10-01; 534 distinct works, 539/539 citation-backed rows resolved).
+- Citation count measures distinct papers elsewhere in this index that [Semantic Scholar](https://api.semanticscholar.org/api-docs/graphs) reports as citing an entry (refreshed 2026-10-06; 535 distinct works, 540/542 citation-backed rows resolved).
 
 ## Overview
 - Core categories: X-to-3D, 3D Editing, Avatars, Dynamic Content, World Models
@@ -30,6 +30,10 @@ This README is intended to work as a fast research index:
 <a id="x-to-3d"></a>
 <details close>
 <summary>X-to-3D</summary>
+
+- [VCURF: Virtual Camera-based Uncertainty of Radiance Fields](https://arxiv.org/abs/2610.04076), Liyan Chen et al., Arxiv 2026 | [citation](./references/citations.bib#L3819-L3824) | [site]() | [code]() | <a href="./references/internal-citations.md#s2-cf872d0eb81dba74e6d2cb6a5428bbc779d2038f" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
+
+- [NAMVIS: Next-Scale Autoregressive Multi-View Image Synthesis](https://arxiv.org/abs/2610.04722), Ramil Khafizov et al., NeurIPS 2026 | [citation](./references/citations.bib#L3810-L3817) | [site](https://corl-team.github.io/namvis/) | [code](https://github.com/corl-team/namvis) | ▲ citation count: unavailable
 
 - [LEGO-Anything: Coding Agents for 3D Scene Reconstruction](https://arxiv.org/abs/2609.36380), Xirui Li et al., Arxiv 2026 | [citation](./references/citations.bib#L3796-L3801) | [site](https://lego-anything.com/) | [code]() | <a href="./references/internal-citations.md#s2-d9cb4f0e06417e50be3b192f38d70aacb8379ee3" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 
@@ -616,6 +620,8 @@ This README is intended to work as a fast research index:
 <a id="3d-editing-decomposition--stylization"></a>
 <details close>
 <summary>3D Editing, Decomposition & Stylization</summary>
+
+- [Real-time Rendering of Pre-integrated Neural Emitters](https://arxiv.org/abs/2610.06762), Arno Coomans et al., Arxiv 2026 | [citation](./references/citations.bib#L3803-L3808) | [site]() | [code]() | ▲ citation count: unavailable
 
 - [DiffusionShadow: Diffusion-based Shadow Caching for Neural Volume Rendering](https://arxiv.org/abs/2609.30658), Kai-Chen Tung et al., Arxiv 2026 | [citation](./references/citations.bib#L3789-L3794) | [site]() | [code]() | <a href="./references/internal-citations.md#s2-f37d55191f8e2b60928fe8b05a6346d43bb924fd" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 
