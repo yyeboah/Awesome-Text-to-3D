@@ -633,7 +633,7 @@ This README is intended to work as a fast research index:
 
 - [Real-time Rendering of Pre-integrated Neural Emitters](https://arxiv.org/abs/2610.06762), Arno Coomans et al., Arxiv 2026 | [citation](./references/citations.bib#L3803-L3808) | [site]() | [code]() | <a href="./references/internal-citations.md#s2-f44fe037f5ac6d6a12e0d3feb3f28c98032829d6" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 
-- [EditHero: A Benchmark for Long-Horizon Part-Level 3D Editing and Vibe Modeling](https://arxiv.org/abs/2610.02298), Ruihan Yu et al., Arxiv 2026 | [citation](./references/citations.bib#L3847-L3852) | [site](https://alaya-lab.github.io/EditHero/) | [code](https://github.com/AlayaLab/EditHero) (coming soon) | <a href="./references/internal-citations.md#s2-d78c5a04549658649c7a8d93af4b5ef05c8dac20" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
+- [EditHero: A Benchmark for Long-Horizon Part-Level 3D Editing and Vibe Modeling](https://arxiv.org/abs/2610.02298), Ruihan Yu et al., Arxiv 2026 | [citation](./references/citations.bib#L3847-L3852) | [site](https://alaya-lab.github.io/EditHero/) | [code](https://github.com/AlayaLab/EditHero) | <a href="./references/internal-citations.md#s2-d78c5a04549658649c7a8d93af4b5ef05c8dac20" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 
 - [DiffusionShadow: Diffusion-based Shadow Caching for Neural Volume Rendering](https://arxiv.org/abs/2609.30658), Kai-Chen Tung et al., Arxiv 2026 | [citation](./references/citations.bib#L3789-L3794) | [site]() | [code]() | <a href="./references/internal-citations.md#s2-f37d55191f8e2b60928fe8b05a6346d43bb924fd" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 
