@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T12:24:32.198Z",
+  "generatedAt": "2026-10-12T11:56:40.261Z",
   "source": "Semantic Scholar Academic Graph API",
   "direction": "source cites target",
   "nodes": [
@@ -108,7 +108,7 @@
         "CorpusId": 280649738
       },
       "publicationDate": "2025-08-14",
-      "citationCount": 5
+      "citationCount": 6
     },
     {
       "id": "02fcf8bd74ab99dc74ae8bdf6491d564162067c4",
@@ -262,7 +262,7 @@
         "PubMed": "41247906"
       },
       "publicationDate": "2025-02-10",
-      "citationCount": 30
+      "citationCount": 31
     },
     {
       "id": "071c61e03737de1297c07d6bae6aa9c8a2a669c7",
@@ -658,7 +658,7 @@
         "CorpusId": 264436559
       },
       "publicationDate": "2023-10-23",
-      "citationCount": 62
+      "citationCount": 63
     },
     {
       "id": "19f8a67eded02964b0b1d7ed71ee116c94373758",
@@ -680,7 +680,7 @@
         "CorpusId": 254685588
       },
       "publicationDate": "2022-12-15",
-      "citationCount": 137
+      "citationCount": 139
     },
     {
       "id": "1b610296563ef5ce6de78e096d9bcc52543607d6",
@@ -716,7 +716,7 @@
         "CorpusId": 259836993
       },
       "publicationDate": "2023-07-11",
-      "citationCount": 84
+      "citationCount": 85
     },
     {
       "id": "1b99642e150ba3c589955820112d0336dbe44d45",
@@ -833,7 +833,7 @@
         "CorpusId": 286489332
       },
       "publicationDate": "2026-03-12",
-      "citationCount": 2
+      "citationCount": 3
     },
     {
       "id": "1f515f7a9f60a4a6b5751f77058a86f26c03bbd1",
@@ -1074,7 +1074,7 @@
         "CorpusId": 259309218
       },
       "publicationDate": "2023-06-30",
-      "citationCount": 79
+      "citationCount": 80
     },
     {
       "id": "261ef57339a56fefdf0555827fa9ebf59208fa15",
@@ -1203,6 +1203,16 @@
       "citationCount": 7
     },
     {
+      "id": "2c4ac80a8c5a8c4d154d5e6c62ae5b11a1303584",
+      "title": "NeRFifyMesh: Optimizing Neural Radiance Fields from Textured Meshes for Robotics Scene Building",
+      "externalIds": {
+        "ArXiv": "2610.10387",
+        "CorpusId": 292701057
+      },
+      "publicationDate": "2026-10-07",
+      "citationCount": 0
+    },
+    {
       "id": "2c51a8feb13e7fdcb3c0bea5fca9e5b9be1c0853",
       "title": "MeshCraft: Exploring Efficient and Controllable Mesh Generation with Flow-based DiTs",
       "externalIds": {
@@ -1236,7 +1246,7 @@
         "CorpusId": 257631738
       },
       "publicationDate": "2023-03-20",
-      "citationCount": 171
+      "citationCount": 173
     },
     {
       "id": "2d4e2b2a9f823ba7bb5b4409c40f22cc9087814a",
@@ -1373,6 +1383,16 @@
       "citationCount": 0
     },
     {
+      "id": "32e2f772b681122860a9b86ac1748bff33130f4c",
+      "title": "DynStream: Online Streaming 4D Gaussian Reconstruction of Dynamic Worlds from Unposed Video",
+      "externalIds": {
+        "ArXiv": "2610.09720",
+        "CorpusId": 292700488
+      },
+      "publicationDate": "2026-10-07",
+      "citationCount": 0
+    },
+    {
       "id": "3340440c0841f3a9ed0772b7e36d6d0e4d5881fd",
       "title": "Printing the Underdetermined: Materializing Multi-solutionness in Figurative Paintings",
       "externalIds": {
@@ -1406,7 +1426,7 @@
         "CorpusId": 269033473
       },
       "publicationDate": "2024-04-10",
-      "citationCount": 49
+      "citationCount": 50
     },
     {
       "id": "3563a929f2d17e16a6450bf375a3b0469fc7e53e",
@@ -1488,7 +1508,7 @@
         "CorpusId": 270559202
       },
       "publicationDate": "2024-06-14",
-      "citationCount": 8
+      "citationCount": 11
     },
     {
       "id": "3df4bb753cd741b4c8420e06730a05b599104f08",
@@ -1827,7 +1847,7 @@
         "CorpusId": 252596091
       },
       "publicationDate": "2022-09-29",
-      "citationCount": 296
+      "citationCount": 298
     },
     {
       "id": "4d7de7b64be6dce4c7beece2ed1553ce5653abaf",
@@ -2281,6 +2301,16 @@
       },
       "publicationDate": "2023-03-16",
       "citationCount": 8
+    },
+    {
+      "id": "63958b8b74bb6e1cc40e07634a74c12011b32715",
+      "title": "T3lescope: Arbitrary-Resolution High-Fidelity Generative Surface Reconstruction from Images",
+      "externalIds": {
+        "ArXiv": "2610.03308",
+        "CorpusId": 292589935
+      },
+      "publicationDate": "2026-10-02",
+      "citationCount": 0
     },
     {
       "id": "63f9e703713a0eea40cc428e5e81d61f77adae11",
@@ -3501,6 +3531,16 @@
       "citationCount": 2
     },
     {
+      "id": "9282caf1a637a43a13b6ffa357ffb438ccc2edc1",
+      "title": "Eulerian Motion Reconstruction for Water Scenery",
+      "externalIds": {
+        "ArXiv": "2609.38622",
+        "CorpusId": 292477403
+      },
+      "publicationDate": "2026-09-29",
+      "citationCount": 0
+    },
+    {
       "id": "92ca0270f7f7757a0db308935c90ebf225eec473",
       "title": "RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models",
       "externalIds": {
@@ -3739,7 +3779,7 @@
         "CorpusId": 261395233
       },
       "publicationDate": "2023-08-31",
-      "citationCount": 128
+      "citationCount": 129
     },
     {
       "id": "9c3620b579733cdab76ce2aed87b69674b5dc877",
@@ -4035,7 +4075,7 @@
         "CorpusId": 257039008
       },
       "publicationDate": "2023-02-20",
-      "citationCount": 32
+      "citationCount": 33
     },
     {
       "id": "a9a986382361845b0c753e4a3735592fe900ae6d",
@@ -4215,7 +4255,17 @@
         "CorpusId": 284935670
       },
       "publicationDate": "2026-01-22",
-      "citationCount": 1
+      "citationCount": 2
+    },
+    {
+      "id": "b068f56f94c74340160a15caa9e0d2f0c72ffb79",
+      "title": "GenIA: Generative Reconstruction with Test-Time Input Alignment",
+      "externalIds": {
+        "ArXiv": "2610.12388",
+        "CorpusId": 292738097
+      },
+      "publicationDate": "2026-10-08",
+      "citationCount": 0
     },
     {
       "id": "b19ca192a5bebbc3473be61989baf085ff21daa5",
@@ -4343,6 +4393,16 @@
         "CorpusId": 290833397
       },
       "publicationDate": "2026-08-03",
+      "citationCount": 0
+    },
+    {
+      "id": "b7092da15059810966a1ab053705bf52c039c9b7",
+      "title": "EffGS: Efficient and High-Fidelity Gaussian Splatting",
+      "externalIds": {
+        "ArXiv": "2609.39553",
+        "CorpusId": 292486586
+      },
+      "publicationDate": "2026-09-30",
       "citationCount": 0
     },
     {
@@ -4507,7 +4567,7 @@
         "CorpusId": 253708074
       },
       "publicationDate": "2022-11-18",
-      "citationCount": 201
+      "citationCount": 202
     },
     {
       "id": "be50b554fd2fb37982bae3d0e359f1520b8665f9",
@@ -4553,6 +4613,16 @@
         "CorpusId": 291682849
       },
       "publicationDate": "2026-09-03",
+      "citationCount": 0
+    },
+    {
+      "id": "c0f76e3adf99919163e425452ed91a542fc72270",
+      "title": "Reconstructing the Dynamic World: A Representation-Centric View of 4D Scene Reconstruction",
+      "externalIds": {
+        "ArXiv": "2609.39960",
+        "CorpusId": 292487312
+      },
+      "publicationDate": "2026-09-30",
       "citationCount": 0
     },
     {
@@ -4778,7 +4848,7 @@
         "CorpusId": 265034292
       },
       "publicationDate": "2023-11-06",
-      "citationCount": 11
+      "citationCount": 12
     },
     {
       "id": "c8a20e10b4c77983fdda9bb6ac336917ccb45cd9",
@@ -4838,6 +4908,16 @@
       "citationCount": 8
     },
     {
+      "id": "cb07639f1c44d202b79477520183cb89676a9618",
+      "title": "Feedforward Novel View Synthesis for Heterogeneous Cameras",
+      "externalIds": {
+        "ArXiv": "2610.03522",
+        "CorpusId": 292589996
+      },
+      "publicationDate": "2026-10-02",
+      "citationCount": 0
+    },
+    {
       "id": "cc1a674bb164d09a060cf5b26fe518c02fae0ddc",
       "title": "DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation",
       "externalIds": {
@@ -4847,7 +4927,7 @@
         "CorpusId": 263131552
       },
       "publicationDate": "2023-09-28",
-      "citationCount": 92
+      "citationCount": 93
     },
     {
       "id": "cc6c64b4fec00e5371b38d7c4dfa10a1b23c76fe",
@@ -5150,6 +5230,16 @@
       "citationCount": 0
     },
     {
+      "id": "d78c5a04549658649c7a8d93af4b5ef05c8dac20",
+      "title": "EditHero: A Benchmark for Long-Horizon Part-Level 3D Editing and Vibe Modeling",
+      "externalIds": {
+        "ArXiv": "2610.02298",
+        "CorpusId": 292587026
+      },
+      "publicationDate": "2026-10-01",
+      "citationCount": 0
+    },
+    {
       "id": "d83df73fb9aa10b1e2b46e3bcc58901a8e181fdd",
       "title": "PointGT: Simultaneous Geometry and Texture Editing for Point-Based Representations",
       "externalIds": {
@@ -5169,7 +5259,7 @@
         "CorpusId": 257757320
       },
       "publicationDate": "2023-03-24",
-      "citationCount": 75
+      "citationCount": 76
     },
     {
       "id": "d8e1832a54ef00f5157c10391fca5892f7560eb1",
@@ -5205,6 +5295,16 @@
         "CorpusId": 266902554
       },
       "publicationDate": "2024-01-10",
+      "citationCount": 0
+    },
+    {
+      "id": "d9be7260bdc2d523d604cdaca311a173b464002f",
+      "title": "NAMVIS: Next-Scale Autoregressive Multi-View Image Synthesis",
+      "externalIds": {
+        "ArXiv": "2610.04722",
+        "CorpusId": 292655879
+      },
+      "publicationDate": "2026-10-03",
       "citationCount": 0
     },
     {
@@ -5680,7 +5780,7 @@
         "CorpusId": 265050698
       },
       "publicationDate": "2023-11-08",
-      "citationCount": 92
+      "citationCount": 94
     },
     {
       "id": "eb33fe4db171c33a96cea4cf77bda7cff769a0c4",
@@ -5738,7 +5838,7 @@
         "CorpusId": 283909568
       },
       "publicationDate": "2025-12-16",
-      "citationCount": 25
+      "citationCount": 27
     },
     {
       "id": "ed1d274ef73f640361f0614835e46468fe489386",
@@ -5762,7 +5862,7 @@
         "CorpusId": 283110051
       },
       "publicationDate": "2025-11-20",
-      "citationCount": 17
+      "citationCount": 18
     },
     {
       "id": "efda2446411fcef4eade3099ea0766d25959a668",
@@ -5925,6 +6025,16 @@
       "citationCount": 2
     },
     {
+      "id": "f44fe037f5ac6d6a12e0d3feb3f28c98032829d6",
+      "title": "Real-time Rendering of Pre-integrated Neural Emitters",
+      "externalIds": {
+        "ArXiv": "2610.06762",
+        "CorpusId": 292656327
+      },
+      "publicationDate": "2026-10-05",
+      "citationCount": 0
+    },
+    {
       "id": "f46fe824ff7754b127517b27f3045e23f3287afe",
       "title": "Meta 3D Gen",
       "externalIds": {
@@ -5992,7 +6102,7 @@
         "CorpusId": 288255525
       },
       "publicationDate": "2026-05-11",
-      "citationCount": 3
+      "citationCount": 5
     },
     {
       "id": "f6dfb1e9539f3f50ffc8fe3ebae318d4607b098f",
@@ -6182,7 +6292,7 @@
         "CorpusId": 261582503
       },
       "publicationDate": "2023-09-07",
-      "citationCount": 83
+      "citationCount": 85
     },
     {
       "id": "fd84ff9fc88bdfb8f683b789b37a3bdef1833c95",
@@ -10240,6 +10350,10 @@
       "target": "4c94d04afa4309ec2f06bdd0fe3781f91461b362"
     },
     {
+      "source": "2c4ac80a8c5a8c4d154d5e6c62ae5b11a1303584",
+      "target": "1b31dbf44e68b698120552366df03e6e35a1e428"
+    },
+    {
       "source": "2c51a8feb13e7fdcb3c0bea5fca9e5b9be1c0853",
       "target": "0ecb340140fb81b4a114a6cbc7fac00129ff3231"
     },
@@ -13658,6 +13772,18 @@
     {
       "source": "611e2100a3f8ed02b2583d4e53fd27a12d223b4c",
       "target": "1b31dbf44e68b698120552366df03e6e35a1e428"
+    },
+    {
+      "source": "63958b8b74bb6e1cc40e07634a74c12011b32715",
+      "target": "02c762ee0da8295e1dcf856782d84ed24331e6e5"
+    },
+    {
+      "source": "63958b8b74bb6e1cc40e07634a74c12011b32715",
+      "target": "ecd0d6c7e8093bd69655edc511e408216d52c7fb"
+    },
+    {
+      "source": "63958b8b74bb6e1cc40e07634a74c12011b32715",
+      "target": "f6942b91a072028b07981dc843c8ccda9e06a094"
     },
     {
       "source": "64139c399610dab71ef6cd07d9f72bd189529099",
@@ -17216,6 +17342,10 @@
       "target": "ff0baeb316df06d017f381c80a2c3aa6399fe938"
     },
     {
+      "source": "9282caf1a637a43a13b6ffa357ffb438ccc2edc1",
+      "target": "3c13686750c9b2541bff9567ea440c96df810764"
+    },
+    {
       "source": "92ca0270f7f7757a0db308935c90ebf225eec473",
       "target": "4c94d04afa4309ec2f06bdd0fe3781f91461b362"
     },
@@ -20052,6 +20182,66 @@
       "target": "eb2cbd12f749f14716296f7f415e921562c9079b"
     },
     {
+      "source": "b068f56f94c74340160a15caa9e0d2f0c72ffb79",
+      "target": "06f52b5bde025a6f32ab4522b2a9c40068137603"
+    },
+    {
+      "source": "b068f56f94c74340160a15caa9e0d2f0c72ffb79",
+      "target": "1f50fb9fffe17d660c8eaceb5f0fac8fd8bc071d"
+    },
+    {
+      "source": "b068f56f94c74340160a15caa9e0d2f0c72ffb79",
+      "target": "2c70684973bc4d7b6f8404a647b8031c4d3c8383"
+    },
+    {
+      "source": "b068f56f94c74340160a15caa9e0d2f0c72ffb79",
+      "target": "34276d30da30285f4ad348848ec746457730899a"
+    },
+    {
+      "source": "b068f56f94c74340160a15caa9e0d2f0c72ffb79",
+      "target": "3c13686750c9b2541bff9567ea440c96df810764"
+    },
+    {
+      "source": "b068f56f94c74340160a15caa9e0d2f0c72ffb79",
+      "target": "4c94d04afa4309ec2f06bdd0fe3781f91461b362"
+    },
+    {
+      "source": "b068f56f94c74340160a15caa9e0d2f0c72ffb79",
+      "target": "b05dfae80f8c07e15b701381e2bce91bb3f69d1d"
+    },
+    {
+      "source": "b068f56f94c74340160a15caa9e0d2f0c72ffb79",
+      "target": "bdf4af8311637c681904e71cf50f96fd0026f578"
+    },
+    {
+      "source": "b068f56f94c74340160a15caa9e0d2f0c72ffb79",
+      "target": "c7f4a93754a29426acc9bf9c03db27b6106eecaf"
+    },
+    {
+      "source": "b068f56f94c74340160a15caa9e0d2f0c72ffb79",
+      "target": "cc1a674bb164d09a060cf5b26fe518c02fae0ddc"
+    },
+    {
+      "source": "b068f56f94c74340160a15caa9e0d2f0c72ffb79",
+      "target": "eb2cbd12f749f14716296f7f415e921562c9079b"
+    },
+    {
+      "source": "b068f56f94c74340160a15caa9e0d2f0c72ffb79",
+      "target": "ecd0d6c7e8093bd69655edc511e408216d52c7fb"
+    },
+    {
+      "source": "b068f56f94c74340160a15caa9e0d2f0c72ffb79",
+      "target": "ef19e75521087bda065b33ed78c3b358285ce18e"
+    },
+    {
+      "source": "b068f56f94c74340160a15caa9e0d2f0c72ffb79",
+      "target": "f6942b91a072028b07981dc843c8ccda9e06a094"
+    },
+    {
+      "source": "b068f56f94c74340160a15caa9e0d2f0c72ffb79",
+      "target": "fcd0de4066d93fa3822a14898008fa2dd99f7be6"
+    },
+    {
       "source": "b19ca192a5bebbc3473be61989baf085ff21daa5",
       "target": "1b8a734dd28a9d766a5d3dbc0871e76b6a452b65"
     },
@@ -21558,6 +21748,10 @@
     {
       "source": "bef2647d7eef07049baf63caa7952eb127a10fe2",
       "target": "ff0baeb316df06d017f381c80a2c3aa6399fe938"
+    },
+    {
+      "source": "c0f76e3adf99919163e425452ed91a542fc72270",
+      "target": "3c13686750c9b2541bff9567ea440c96df810764"
     },
     {
       "source": "c1bd6c981c946b1954bfe75b38397eaa2cc61c7f",
@@ -24330,6 +24524,50 @@
     {
       "source": "d964bddba14d771c884e585d6ebac62d34dff3e3",
       "target": "c5e9fd131cde68c218d0ea69cd617a67c7f35d42"
+    },
+    {
+      "source": "d9be7260bdc2d523d604cdaca311a173b464002f",
+      "target": "186c2b2386799fa599e2d77bc6945f7da66e5fab"
+    },
+    {
+      "source": "d9be7260bdc2d523d604cdaca311a173b464002f",
+      "target": "1b31dbf44e68b698120552366df03e6e35a1e428"
+    },
+    {
+      "source": "d9be7260bdc2d523d604cdaca311a173b464002f",
+      "target": "1b90e9e9734bed6b379ae87d688cb3b887baf597"
+    },
+    {
+      "source": "d9be7260bdc2d523d604cdaca311a173b464002f",
+      "target": "2605f0776dcda957fa540f88cdec53badab848b1"
+    },
+    {
+      "source": "d9be7260bdc2d523d604cdaca311a173b464002f",
+      "target": "2c70684973bc4d7b6f8404a647b8031c4d3c8383"
+    },
+    {
+      "source": "d9be7260bdc2d523d604cdaca311a173b464002f",
+      "target": "4c94d04afa4309ec2f06bdd0fe3781f91461b362"
+    },
+    {
+      "source": "d9be7260bdc2d523d604cdaca311a173b464002f",
+      "target": "9aa01997226b5c4d705ae2e2f52c32681006654b"
+    },
+    {
+      "source": "d9be7260bdc2d523d604cdaca311a173b464002f",
+      "target": "a8efa7087fd6d84d5d84fd6c7c7cfb9d7ddb6dce"
+    },
+    {
+      "source": "d9be7260bdc2d523d604cdaca311a173b464002f",
+      "target": "d84616f108ccbd958735fef7622e58d148b32139"
+    },
+    {
+      "source": "d9be7260bdc2d523d604cdaca311a173b464002f",
+      "target": "eb2cbd12f749f14716296f7f415e921562c9079b"
+    },
+    {
+      "source": "d9be7260bdc2d523d604cdaca311a173b464002f",
+      "target": "fcd0de4066d93fa3822a14898008fa2dd99f7be6"
     },
     {
       "source": "d9cb4f0e06417e50be3b192f38d70aacb8379ee3",
