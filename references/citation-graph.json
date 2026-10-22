@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T11:56:40.261Z",
+  "generatedAt": "2026-10-22T16:09:56.738Z",
   "source": "Semantic Scholar Academic Graph API",
   "direction": "source cites target",
   "nodes": [
@@ -96,7 +96,7 @@
         "CorpusId": 254408516
       },
       "publicationDate": "2022-12-08",
-      "citationCount": 46
+      "citationCount": 47
     },
     {
       "id": "02c762ee0da8295e1dcf856782d84ed24331e6e5",
@@ -262,7 +262,7 @@
         "PubMed": "41247906"
       },
       "publicationDate": "2025-02-10",
-      "citationCount": 31
+      "citationCount": 32
     },
     {
       "id": "071c61e03737de1297c07d6bae6aa9c8a2a669c7",
@@ -531,7 +531,7 @@
         "CorpusId": 267523413
       },
       "publicationDate": "2024-02-07",
-      "citationCount": 83
+      "citationCount": 84
     },
     {
       "id": "120c370cae306b03c712045db72a33276ae95685",
@@ -1203,6 +1203,16 @@
       "citationCount": 7
     },
     {
+      "id": "2c1383103ceb9cd9d4994dd8596e24401b7c2545",
+      "title": "Persistent Planar Memory for Video World Models",
+      "externalIds": {
+        "ArXiv": "2610.23795",
+        "CorpusId": 293546304
+      },
+      "publicationDate": "2026-10-16",
+      "citationCount": 0
+    },
+    {
       "id": "2c4ac80a8c5a8c4d154d5e6c62ae5b11a1303584",
       "title": "NeRFifyMesh: Optimizing Neural Radiance Fields from Textured Meshes for Robotics Scene Building",
       "externalIds": {
@@ -1246,7 +1256,7 @@
         "CorpusId": 257631738
       },
       "publicationDate": "2023-03-20",
-      "citationCount": 173
+      "citationCount": 174
     },
     {
       "id": "2d4e2b2a9f823ba7bb5b4409c40f22cc9087814a",
@@ -1438,6 +1448,16 @@
         "CorpusId": 279270411
       },
       "publicationDate": "2025-06-10",
+      "citationCount": 0
+    },
+    {
+      "id": "35cfbe9b51e5ee4f13406f46d8c4893006da08b8",
+      "title": "TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation",
+      "externalIds": {
+        "ArXiv": "2610.23050",
+        "CorpusId": 293452804
+      },
+      "publicationDate": "2026-10-16",
       "citationCount": 0
     },
     {
@@ -1847,7 +1867,7 @@
         "CorpusId": 252596091
       },
       "publicationDate": "2022-09-29",
-      "citationCount": 298
+      "citationCount": 299
     },
     {
       "id": "4d7de7b64be6dce4c7beece2ed1553ce5653abaf",
@@ -2991,7 +3011,7 @@
         "CorpusId": 254564523
       },
       "publicationDate": "2022-12-12",
-      "citationCount": 60
+      "citationCount": 61
     },
     {
       "id": "7ed1961910f83d7c30725cf360e60196299154fb",
@@ -3108,7 +3128,7 @@
         "CorpusId": 259287391
       },
       "publicationDate": "2023-06-29",
-      "citationCount": 25
+      "citationCount": 26
     },
     {
       "id": "834d55e57a99d58ea8b490dd7dc2f59aae2b211a",
@@ -4268,6 +4288,16 @@
       "citationCount": 0
     },
     {
+      "id": "b12aa243528dc632551c7285628694cd4286bb14",
+      "title": "Video Diffusion Avatars: Taming Video Diffusion Models into Controllable 3D Avatars",
+      "externalIds": {
+        "ArXiv": "2610.23772",
+        "CorpusId": 293546623
+      },
+      "publicationDate": "2026-10-16",
+      "citationCount": 0
+    },
+    {
       "id": "b19ca192a5bebbc3473be61989baf085ff21daa5",
       "title": "Re-imagine the Negative Prompt Algorithm: Transform 2D Diffusion into 3D, alleviate Janus problem and Beyond",
       "externalIds": {
@@ -4313,7 +4343,7 @@
         "CorpusId": 282102520
       },
       "publicationDate": "2025-10-15",
-      "citationCount": 4
+      "citationCount": 5
     },
     {
       "id": "b4746593e475324cd3b9f011fade41e201977f4f",
@@ -4531,7 +4561,7 @@
         "CorpusId": 269982498
       },
       "publicationDate": "2024-03-28",
-      "citationCount": 3
+      "citationCount": 4
     },
     {
       "id": "bdb7f4493f9f4729c56bf28fb982c686d33681bb",
@@ -4567,7 +4597,7 @@
         "CorpusId": 253708074
       },
       "publicationDate": "2022-11-18",
-      "citationCount": 202
+      "citationCount": 203
     },
     {
       "id": "be50b554fd2fb37982bae3d0e359f1520b8665f9",
@@ -5532,7 +5562,7 @@
         "CorpusId": 288814598
       },
       "publicationDate": "2026-05-29",
-      "citationCount": 0
+      "citationCount": 1
     },
     {
       "id": "e2be502d17f44420817d009f02006e1d5de5da62",
@@ -5602,7 +5632,7 @@
         "CorpusId": 265457242
       },
       "publicationDate": "2023-11-27",
-      "citationCount": 21
+      "citationCount": 22
     },
     {
       "id": "e4c05642ff51a69f251a38dfa6877ad1111f2f7a",
@@ -5697,7 +5727,7 @@
         "CorpusId": 268554137
       },
       "publicationDate": "2024-03-21",
-      "citationCount": 34
+      "citationCount": 35
     },
     {
       "id": "e6e9f1c45b98fddf1243a06f50d1dd8dcd544df8",
@@ -5838,7 +5868,7 @@
         "CorpusId": 283909568
       },
       "publicationDate": "2025-12-16",
-      "citationCount": 27
+      "citationCount": 28
     },
     {
       "id": "ed1d274ef73f640361f0614835e46468fe489386",
@@ -10350,6 +10380,10 @@
       "target": "4c94d04afa4309ec2f06bdd0fe3781f91461b362"
     },
     {
+      "source": "2c1383103ceb9cd9d4994dd8596e24401b7c2545",
+      "target": "b41944dbf5833dd4e6db4aee05ab4fbd60398397"
+    },
+    {
       "source": "2c4ac80a8c5a8c4d154d5e6c62ae5b11a1303584",
       "target": "1b31dbf44e68b698120552366df03e6e35a1e428"
     },
@@ -10980,6 +11014,58 @@
     {
       "source": "34276d30da30285f4ad348848ec746457730899a",
       "target": "fcd0de4066d93fa3822a14898008fa2dd99f7be6"
+    },
+    {
+      "source": "35cfbe9b51e5ee4f13406f46d8c4893006da08b8",
+      "target": "02c0b857b13030a596bd34dc0d75f499aaf4b420"
+    },
+    {
+      "source": "35cfbe9b51e5ee4f13406f46d8c4893006da08b8",
+      "target": "06f52b5bde025a6f32ab4522b2a9c40068137603"
+    },
+    {
+      "source": "35cfbe9b51e5ee4f13406f46d8c4893006da08b8",
+      "target": "11665dbecb17ef4d3d71b75b8666ce0e61bd43fa"
+    },
+    {
+      "source": "35cfbe9b51e5ee4f13406f46d8c4893006da08b8",
+      "target": "2c70684973bc4d7b6f8404a647b8031c4d3c8383"
+    },
+    {
+      "source": "35cfbe9b51e5ee4f13406f46d8c4893006da08b8",
+      "target": "4c94d04afa4309ec2f06bdd0fe3781f91461b362"
+    },
+    {
+      "source": "35cfbe9b51e5ee4f13406f46d8c4893006da08b8",
+      "target": "7e993a9ca01dcd4538362454aaac29a18a63c000"
+    },
+    {
+      "source": "35cfbe9b51e5ee4f13406f46d8c4893006da08b8",
+      "target": "830ed65d226a337088d6d97c3c3b068155bf10ec"
+    },
+    {
+      "source": "35cfbe9b51e5ee4f13406f46d8c4893006da08b8",
+      "target": "bcf009e6f0f461c29fb0cafafb0741fc7296de62"
+    },
+    {
+      "source": "35cfbe9b51e5ee4f13406f46d8c4893006da08b8",
+      "target": "bdf4af8311637c681904e71cf50f96fd0026f578"
+    },
+    {
+      "source": "35cfbe9b51e5ee4f13406f46d8c4893006da08b8",
+      "target": "e2507bac701d3bdfa4c9655b1d54f1d7f4b2b9e5"
+    },
+    {
+      "source": "35cfbe9b51e5ee4f13406f46d8c4893006da08b8",
+      "target": "e44a11954715bb36df0303e25783968e5f3bd610"
+    },
+    {
+      "source": "35cfbe9b51e5ee4f13406f46d8c4893006da08b8",
+      "target": "e6cb30effd90d563bc680430ecc1317842d33b6e"
+    },
+    {
+      "source": "35cfbe9b51e5ee4f13406f46d8c4893006da08b8",
+      "target": "ecd0d6c7e8093bd69655edc511e408216d52c7fb"
     },
     {
       "source": "386af41e16114574f3e0da7f759e9b365d1e96d6",
