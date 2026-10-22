@@ -1,12 +1,23 @@
 {
   "source": "Semantic Scholar Academic Graph API",
   "sourceUrl": "https://api.semanticscholar.org/api-docs/graphs",
-  "generatedAt": "2026-10-12T11:56:40.261Z",
+  "generatedAt": "2026-10-22T16:09:56.738Z",
   "definition": "Distinct resolved papers in this README whose Semantic Scholar reference lists include the target paper.",
-  "resolvedRows": 551,
-  "citationBackedRows": 551,
-  "distinctResolvedWorks": 546,
+  "resolvedRows": 554,
+  "citationBackedRows": 554,
+  "distinctResolvedWorks": 549,
   "entries": [
+    {
+      "title": "TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation",
+      "section": "X-to-3D",
+      "identifier": "ARXIV:2610.23050",
+      "semanticScholarPaperId": "35cfbe9b51e5ee4f13406f46d8c4893006da08b8",
+      "semanticScholarTitle": "TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation",
+      "publicationDate": "2026-10-16",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
     {
       "title": "GenIA: Generative Reconstruction with Test-Time Input Alignment",
       "section": "X-to-3D",
@@ -726,9 +737,13 @@
       "semanticScholarPaperId": "e2507bac701d3bdfa4c9655b1d54f1d7f4b2b9e5",
       "semanticScholarTitle": "VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching",
       "publicationDate": "2026-05-29",
-      "internalCitationCount": 0,
-      "citedBy": [],
-      "citedByIds": []
+      "internalCitationCount": 1,
+      "citedBy": [
+        "TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation"
+      ],
+      "citedByIds": [
+        "35cfbe9b51e5ee4f13406f46d8c4893006da08b8"
+      ]
     },
     {
       "title": "S2MDF: A Plug-And-Play Layer for Intersection-Free Multi-Object Signed Distance Fields",
@@ -948,7 +963,7 @@
       "semanticScholarPaperId": "ecd0d6c7e8093bd69655edc511e408216d52c7fb",
       "semanticScholarTitle": "Native and Compact Structured Latents for 3D Generation",
       "publicationDate": "2025-12-16",
-      "internalCitationCount": 27,
+      "internalCitationCount": 28,
       "citedBy": [
         "3DMorph: Single-Image-Guided Local 3D Shape Editing and Morphing",
         "ABot-Earth 0.5: Generative 3D Earth Model",
@@ -970,6 +985,7 @@
         "T3lescope: Arbitrary-Resolution High-Fidelity Generative Surface Reconstruction from Images",
         "TGRHuman: Text-Guided Realistic 3D Human Generation via Diffusion Renderer",
         "TexSpot: 3D Texture Enhancement with Spatially-uniform Point Latent Representation",
+        "TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation",
         "UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement",
         "UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image",
         "UniPhysGen: Unified Physical Grounding for Simulation-Ready 3D Assets",
@@ -983,6 +999,7 @@
         "102b995312f5e5d67c744f3ebc68738288778dec",
         "17c34bb60d305191f197d14c7f50621288083418",
         "25bd8267e37f3e9e55274eb9c26b10926c36fdcb",
+        "35cfbe9b51e5ee4f13406f46d8c4893006da08b8",
         "43a693802168e12d0a828bf57c9da1108208a6c9",
         "48c77b4cdd7567544cfd03832494d920abbe082c",
         "553fd3891aaa51991b277a175aeff3e363508aab",
@@ -1147,14 +1164,16 @@
       "semanticScholarPaperId": "b41944dbf5833dd4e6db4aee05ab4fbd60398397",
       "semanticScholarTitle": "FlashWorld: High-quality 3D Scene Generation within Seconds",
       "publicationDate": "2025-10-15",
-      "internalCitationCount": 4,
+      "internalCitationCount": 5,
       "citedBy": [
         "FlashRender: Few-Step Generative Rendering via Camera-Controlled Video MeanFlow",
         "Lyra 2.0: Explorable Generative 3D Worlds",
+        "Persistent Planar Memory for Video World Models",
         "Spackle: Completing Large View Single Image NVS with Adaptive Gaussians",
         "World in World: Explore the World with World Models"
       ],
       "citedByIds": [
+        "2c1383103ceb9cd9d4994dd8596e24401b7c2545",
         "32a4aad0e7077a618eac33f798fd8c721ddf7ba0",
         "5b1e44472d359db3ee0ec9be2f4d6402fa474f39",
         "94cb7880f208d15b5c7daf82b8fa8425c2cfebe2",
@@ -1818,7 +1837,7 @@
       "semanticScholarPaperId": "06f52b5bde025a6f32ab4522b2a9c40068137603",
       "semanticScholarTitle": "TripoSG: High-Fidelity 3D Shape Synthesis using Large-Scale Rectified Flow Models",
       "publicationDate": "2025-02-10",
-      "internalCitationCount": 31,
+      "internalCitationCount": 32,
       "citedBy": [
         "3DMorph: Single-Image-Guided Local 3D Shape Editing and Morphing",
         "ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion",
@@ -1846,6 +1865,7 @@
         "Seed3D 1.0: From Images to High-Fidelity Simulation-Ready 3D Assets",
         "Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets",
         "TanGO: Training-Free 3D Editing via Tangent-Space Guidance and Optimization",
+        "TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation",
         "UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement",
         "VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching",
         "WorldGen: From Text to Traversable and Interactive 3D Worlds",
@@ -1859,6 +1879,7 @@
         "17e2c6baf5194b554f3f124ba5be55447fe58194",
         "1f50fb9fffe17d660c8eaceb5f0fac8fd8bc071d",
         "25bd8267e37f3e9e55274eb9c26b10926c36fdcb",
+        "35cfbe9b51e5ee4f13406f46d8c4893006da08b8",
         "47f574c6ffa3ced5881a170b5cdffabafea01eab",
         "490363628249e0b85bf9e1a0fc3370e268f86a1d",
         "55c5666d18adb604c7fe110ab54dcf3f8b7386b5",
@@ -3067,13 +3088,15 @@
       "semanticScholarPaperId": "bcf009e6f0f461c29fb0cafafb0741fc7296de62",
       "semanticScholarTitle": "GaussianCube: A Structured and Explicit Radiance Representation for 3D Generative Modeling",
       "publicationDate": "2024-03-28",
-      "internalCitationCount": 3,
+      "internalCitationCount": 4,
       "citedBy": [
         "MorphAny3D: Unleashing the Power of Structured Latent in 3D Morphing",
         "PixGS: Pixel-Space Diffusion for Direct 3D Gaussian Splat Generation",
-        "Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data"
+        "Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data",
+        "TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation"
       ],
       "citedByIds": [
+        "35cfbe9b51e5ee4f13406f46d8c4893006da08b8",
         "a55de8fa62869389ee3e84a10c4f9476d38d640b",
         "bdddf0d539859996afcc2bb997c222947a75f36e",
         "fefe5ccb33c99b1f6ad00c9dd5851869798be4cb"
@@ -3199,7 +3222,7 @@
       "semanticScholarPaperId": "e6cb30effd90d563bc680430ecc1317842d33b6e",
       "semanticScholarTitle": "GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation",
       "publicationDate": "2024-03-21",
-      "internalCitationCount": 34,
+      "internalCitationCount": 35,
       "citedBy": [
         "3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion",
         "AnimalLift: Reconstructing Animatable 3D Animals from a Single Image by Learning Canonical Shape, Texture, and Fur Maps",
@@ -3230,6 +3253,7 @@
         "ScaleDreamer: Scalable Text-to-3D Synthesis with Asynchronous Score Distillation",
         "Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets",
         "TC4D: Trajectory-Conditioned Text-to-4D Generation",
+        "TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation",
         "VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching",
         "Wonder3D++: Cross-Domain Diffusion for High-Fidelity 3D Generation From a Single Image",
         "WonderWorld: Interactive 3D Scene Generation from a Single Image",
@@ -3246,6 +3270,7 @@
         "2c51a8feb13e7fdcb3c0bea5fca9e5b9be1c0853",
         "30c664670902f210abfdfc8bb016874d39e0fd56",
         "34276d30da30285f4ad348848ec746457730899a",
+        "35cfbe9b51e5ee4f13406f46d8c4893006da08b8",
         "3c13686750c9b2541bff9567ea440c96df810764",
         "505d165f3f2cb1ecae156bad3f061d30f3a1b083",
         "529e62cae04d3d7b458392033ba12d65c3444253",
@@ -3837,7 +3862,7 @@
       "semanticScholarPaperId": "11665dbecb17ef4d3d71b75b8666ce0e61bd43fa",
       "semanticScholarTitle": "LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation",
       "publicationDate": "2024-02-07",
-      "internalCitationCount": 83,
+      "internalCitationCount": 84,
       "citedBy": [
         "3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis",
         "3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion",
@@ -3912,6 +3937,7 @@
         "ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding",
         "Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets",
         "TC4D: Trajectory-Conditioned Text-to-4D Generation",
+        "TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation",
         "TripoSR: Fast 3D Object Reconstruction from a Single Image",
         "Turbo3D: Ultra-fast Text-to-3D Generation",
         "UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement",
@@ -3944,6 +3970,7 @@
         "30c4b0e8316fd6ade2bafcd112f430ef6f0f34f5",
         "30c664670902f210abfdfc8bb016874d39e0fd56",
         "34276d30da30285f4ad348848ec746457730899a",
+        "35cfbe9b51e5ee4f13406f46d8c4893006da08b8",
         "386af41e16114574f3e0da7f759e9b365d1e96d6",
         "3c13686750c9b2541bff9567ea440c96df810764",
         "426876d89595022b0f90ba2c108874fbc6ba8212",
@@ -4448,7 +4475,7 @@
       "semanticScholarPaperId": "e44a11954715bb36df0303e25783968e5f3bd610",
       "semanticScholarTitle": "MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers",
       "publicationDate": "2023-11-27",
-      "internalCitationCount": 21,
+      "internalCitationCount": 22,
       "citedBy": [
         "Amodal3R: Amodal 3D Reconstruction from Occluded 2D Images",
         "Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation",
@@ -4468,6 +4495,7 @@
         "PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects",
         "ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding",
         "Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets",
+        "TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation",
         "Turbo3D: Ultra-fast Text-to-3D Generation",
         "V3D: Video Diffusion Models are Effective 3D Generators",
         "YouDream: Generating Anatomically Controllable Consistent Text-to-3D Animals"
@@ -4478,6 +4506,7 @@
         "2370c14e3090893a935f8bddd45f8cdef0265dc9",
         "2c51a8feb13e7fdcb3c0bea5fca9e5b9be1c0853",
         "30c4b0e8316fd6ade2bafcd112f430ef6f0f34f5",
+        "35cfbe9b51e5ee4f13406f46d8c4893006da08b8",
         "426876d89595022b0f90ba2c108874fbc6ba8212",
         "4f7af27daff614eb4e7c58461743f6405f7c265f",
         "6da84f798de781b6dfa6308abffa00a5168099bc",
@@ -6707,7 +6736,7 @@
       "semanticScholarPaperId": "830ed65d226a337088d6d97c3c3b068155bf10ec",
       "semanticScholarTitle": "Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation",
       "publicationDate": "2023-06-29",
-      "internalCitationCount": 25,
+      "internalCitationCount": 26,
       "citedBy": [
         "3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion",
         "Bridging Geometry-Coherent Text-to-3D Generation with Multi-View Diffusion Priors and Gaussian Splatting",
@@ -6732,6 +6761,7 @@
         "ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding",
         "SpatialCrafter: Single Image World Modeling with Generative 3D Proxies",
         "Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets",
+        "TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation",
         "WorldSculpt: Generating Compositional Worlds from Grounded Videos",
         "X-Part: high fidelity and structure coherent shape decomposition"
       ],
@@ -6743,6 +6773,7 @@
         "17e2c6baf5194b554f3f124ba5be55447fe58194",
         "2370c14e3090893a935f8bddd45f8cdef0265dc9",
         "2c51a8feb13e7fdcb3c0bea5fca9e5b9be1c0853",
+        "35cfbe9b51e5ee4f13406f46d8c4893006da08b8",
         "47f574c6ffa3ced5881a170b5cdffabafea01eab",
         "58deeb11dc024962b1810952a946027f402ddb71",
         "5f82990bfede910a100185f536605e912d0245c1",
@@ -8436,7 +8467,7 @@
       "semanticScholarPaperId": "2c70684973bc4d7b6f8404a647b8031c4d3c8383",
       "semanticScholarTitle": "Zero-1-to-3: Zero-shot One Image to 3D Object",
       "publicationDate": "2023-03-20",
-      "internalCitationCount": 173,
+      "internalCitationCount": 174,
       "citedBy": [
         "2L3: Lifting Imperfect Generated 2D Images into Accurate 3D",
         "3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis",
@@ -8596,6 +8627,7 @@
         "Text2Immersion: Generative Immersive Scene with 3D Gaussians",
         "The More You See in 2D, the More You Perceive in 3D",
         "Towards Text-guided 3D Scene Composition",
+        "TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation",
         "TripoSR: Fast 3D Object Reconstruction from a Single Image",
         "Turbo3D: Ultra-fast Text-to-3D Generation",
         "V3D: Video Diffusion Models are Effective 3D Generators",
@@ -8650,6 +8682,7 @@
         "303f466fb823112f79a9f36637c7084dd8363fc5",
         "3340440c0841f3a9ed0772b7e36d6d0e4d5881fd",
         "34276d30da30285f4ad348848ec746457730899a",
+        "35cfbe9b51e5ee4f13406f46d8c4893006da08b8",
         "386af41e16114574f3e0da7f759e9b365d1e96d6",
         "3ae7f7c5db8df734a349198423492f9d4ca159cd",
         "3c13686750c9b2541bff9567ea440c96df810764",
@@ -9671,7 +9704,7 @@
       "semanticScholarPaperId": "02c0b857b13030a596bd34dc0d75f499aaf4b420",
       "semanticScholarTitle": "SDFusion: Multimodal 3D Shape Completion, Reconstruction, and Generation",
       "publicationDate": "2022-12-08",
-      "internalCitationCount": 46,
+      "internalCitationCount": 47,
       "citedBy": [
         "3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion",
         "AToM: Amortized Text-to-Mesh using 2D Diffusion",
@@ -9717,6 +9750,7 @@
         "Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models",
         "Text2Tex: Text-driven Texture Synthesis via Diffusion Models",
         "Towards Text-guided 3D Scene Composition",
+        "TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation",
         "VolFill: Single-View Amodal 3D Scene Reconstruction with Volumetric Flow Matching",
         "Wonder3D++: Cross-Domain Diffusion for High-Fidelity 3D Generation From a Single Image"
       ],
@@ -9730,6 +9764,7 @@
         "2605f0776dcda957fa540f88cdec53badab848b1",
         "30c664670902f210abfdfc8bb016874d39e0fd56",
         "34276d30da30285f4ad348848ec746457730899a",
+        "35cfbe9b51e5ee4f13406f46d8c4893006da08b8",
         "3f5c0837965e9639d52cbeb7f7989fdbe21aba05",
         "4f7af27daff614eb4e7c58461743f6405f7c265f",
         "53974e68d7ea681349e9cd13babb5d511dc86460",
@@ -10308,7 +10343,7 @@
       "semanticScholarPaperId": "bdf4af8311637c681904e71cf50f96fd0026f578",
       "semanticScholarTitle": "Magic3D: High-Resolution Text-to-3D Content Creation",
       "publicationDate": "2022-11-18",
-      "internalCitationCount": 202,
+      "internalCitationCount": 203,
       "citedBy": [
         "2L3: Lifting Imperfect Generated 2D Images into Accurate 3D",
         "3D-GPT: Procedural 3D Modeling with Large Language Models",
@@ -10502,6 +10537,7 @@
         "TextMesh: Generation of Realistic 3D Meshes From Text Prompts",
         "Texture Generation on 3D Meshes with Point-UV Diffusion",
         "Towards Text-guided 3D Scene Composition",
+        "TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation",
         "Turbo3D: Ultra-fast Text-to-3D Generation",
         "V3D: Video Diffusion Models are Effective 3D Generators",
         "VP3D: Unleashing 2D Visual Prompt for Text-to-3D Generation",
@@ -10555,6 +10591,7 @@
         "3340440c0841f3a9ed0772b7e36d6d0e4d5881fd",
         "33d4500f5ab12259662745bc40f56603a013993f",
         "34276d30da30285f4ad348848ec746457730899a",
+        "35cfbe9b51e5ee4f13406f46d8c4893006da08b8",
         "3ae7f7c5db8df734a349198423492f9d4ca159cd",
         "3c13686750c9b2541bff9567ea440c96df810764",
         "3df4bb753cd741b4c8420e06730a05b599104f08",
@@ -11203,7 +11240,7 @@
       "semanticScholarPaperId": "4c94d04afa4309ec2f06bdd0fe3781f91461b362",
       "semanticScholarTitle": "DreamFusion: Text-to-3D using 2D Diffusion",
       "publicationDate": "2022-09-29",
-      "internalCitationCount": 298,
+      "internalCitationCount": 299,
       "citedBy": [
         "2L3: Lifting Imperfect Generated 2D Images into Accurate 3D",
         "3D-GPT: Procedural 3D Modeling with Large Language Models",
@@ -11485,6 +11522,7 @@
         "Texture Generation on 3D Meshes with Point-UV Diffusion",
         "The More You See in 2D, the More You Perceive in 3D",
         "Towards Text-guided 3D Scene Composition",
+        "TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation",
         "TripoSR: Fast 3D Object Reconstruction from a Single Image",
         "Turbo3D: Ultra-fast Text-to-3D Generation",
         "UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement",
@@ -11572,6 +11610,7 @@
         "3340440c0841f3a9ed0772b7e36d6d0e4d5881fd",
         "33d4500f5ab12259662745bc40f56603a013993f",
         "34276d30da30285f4ad348848ec746457730899a",
+        "35cfbe9b51e5ee4f13406f46d8c4893006da08b8",
         "3c13686750c9b2541bff9567ea440c96df810764",
         "3df4bb753cd741b4c8420e06730a05b599104f08",
         "3f5c0837965e9639d52cbeb7f7989fdbe21aba05",
@@ -14683,6 +14722,17 @@
       ]
     },
     {
+      "title": "Video Diffusion Avatars: Taming Video Diffusion Models into Controllable 3D Avatars",
+      "section": "Avatar Generation and Manupilation",
+      "identifier": "ARXIV:2610.23772",
+      "semanticScholarPaperId": "b12aa243528dc632551c7285628694cd4286bb14",
+      "semanticScholarTitle": "Video Diffusion Avatars: Taming Video Diffusion Models into Controllable 3D Avatars",
+      "publicationDate": "2026-10-16",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
+    {
       "title": "Heartian: Physiology-Aware Relightable Gaussian Head Avatar",
       "section": "Avatar Generation and Manupilation",
       "identifier": "ARXIV:2609.28539",
@@ -15967,7 +16017,7 @@
       "semanticScholarPaperId": "7e993a9ca01dcd4538362454aaac29a18a63c000",
       "semanticScholarTitle": "RODIN: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion",
       "publicationDate": "2022-12-12",
-      "internalCitationCount": 60,
+      "internalCitationCount": 61,
       "citedBy": [
         "3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion",
         "AToM: Amortized Text-to-Mesh using 2D Diffusion",
@@ -16026,6 +16076,7 @@
         "Text-to-3D using Gaussian Splatting",
         "Text2Immersion: Generative Immersive Scene with 3D Gaussians",
         "Towards Text-guided 3D Scene Composition",
+        "TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation",
         "Turbo3D: Ultra-fast Text-to-3D Generation",
         "V3D: Video Diffusion Models are Effective 3D Generators",
         "Wonder3D++: Cross-Domain Diffusion for High-Fidelity 3D Generation From a Single Image"
@@ -16047,6 +16098,7 @@
         "30c4b0e8316fd6ade2bafcd112f430ef6f0f34f5",
         "30c664670902f210abfdfc8bb016874d39e0fd56",
         "34276d30da30285f4ad348848ec746457730899a",
+        "35cfbe9b51e5ee4f13406f46d8c4893006da08b8",
         "3f5c0837965e9639d52cbeb7f7989fdbe21aba05",
         "4e8cf9602d4ef714dcdb8580de40e1a2a717ab11",
         "50cb348c5853d7c5843c949fa1db4eb9c1d9994d",
@@ -16533,6 +16585,17 @@
         "eb6ca77d28285c95ac370052deda4a53f65e05e6",
         "ff0baeb316df06d017f381c80a2c3aa6399fe938"
       ]
+    },
+    {
+      "title": "Persistent Planar Memory for Video World Models",
+      "section": "World Models",
+      "identifier": "ARXIV:2610.23795",
+      "semanticScholarPaperId": "2c1383103ceb9cd9d4994dd8596e24401b7c2545",
+      "semanticScholarTitle": "Persistent Planar Memory for Video World Models",
+      "publicationDate": "2026-10-16",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
     },
     {
       "title": "HelloWorld: Towards Practical Applications of Generative Driving World Models",
