@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T16:09:56.738Z",
+  "generatedAt": "2026-10-26T19:13:40.804Z",
   "source": "Semantic Scholar Academic Graph API",
   "direction": "source cites target",
   "nodes": [
@@ -262,7 +262,7 @@
         "PubMed": "41247906"
       },
       "publicationDate": "2025-02-10",
-      "citationCount": 32
+      "citationCount": 33
     },
     {
       "id": "071c61e03737de1297c07d6bae6aa9c8a2a669c7",
@@ -355,7 +355,7 @@
         "CorpusId": 284057591
       },
       "publicationDate": "2025-12-19",
-      "citationCount": 5
+      "citationCount": 6
     },
     {
       "id": "0ae390462f72ec4b7ea2e66fd0d43922667c7ca8",
@@ -512,6 +512,16 @@
       "citationCount": 0
     },
     {
+      "id": "10f4a53b1cc33c3fe237fbc473b54962c64ba5b4",
+      "title": "Easy-3Dfy: Object-Level Geometric Composition for Single-Image 3D Scene Construction",
+      "externalIds": {
+        "ArXiv": "2610.32250",
+        "CorpusId": 293936026
+      },
+      "publicationDate": "2026-10-23",
+      "citationCount": 0
+    },
+    {
       "id": "116087624b22cdec2af31ee54d7602da3aaba702",
       "title": "RealDenseFace: Real-time Monocular 3D Face Reconstruction from Dense UV-space Priors",
       "externalIds": {
@@ -531,7 +541,7 @@
         "CorpusId": 267523413
       },
       "publicationDate": "2024-02-07",
-      "citationCount": 84
+      "citationCount": 86
     },
     {
       "id": "120c370cae306b03c712045db72a33276ae95685",
@@ -646,7 +656,7 @@
         "CorpusId": 270440501
       },
       "publicationDate": "2024-06-13",
-      "citationCount": 20
+      "citationCount": 21
     },
     {
       "id": "186c2b2386799fa599e2d77bc6945f7da66e5fab",
@@ -658,7 +668,7 @@
         "CorpusId": 264436559
       },
       "publicationDate": "2023-10-23",
-      "citationCount": 63
+      "citationCount": 64
     },
     {
       "id": "19f8a67eded02964b0b1d7ed71ee116c94373758",
@@ -680,7 +690,7 @@
         "CorpusId": 254685588
       },
       "publicationDate": "2022-12-15",
-      "citationCount": 139
+      "citationCount": 140
     },
     {
       "id": "1b610296563ef5ce6de78e096d9bcc52543607d6",
@@ -704,7 +714,7 @@
         "CorpusId": 254854214
       },
       "publicationDate": "2022-12-16",
-      "citationCount": 114
+      "citationCount": 115
     },
     {
       "id": "1b90e9e9734bed6b379ae87d688cb3b887baf597",
@@ -716,7 +726,7 @@
         "CorpusId": 259836993
       },
       "publicationDate": "2023-07-11",
-      "citationCount": 85
+      "citationCount": 86
     },
     {
       "id": "1b99642e150ba3c589955820112d0336dbe44d45",
@@ -857,7 +867,7 @@
         "CorpusId": 276421492
       },
       "publicationDate": "2025-02-18",
-      "citationCount": 9
+      "citationCount": 11
     },
     {
       "id": "1fc11ee46cd6c241b376dcb9b6dd32457c27f2dc",
@@ -942,7 +952,7 @@
         "CorpusId": 268297409
       },
       "publicationDate": "2024-03-08",
-      "citationCount": 40
+      "citationCount": 41
     },
     {
       "id": "2222f7e497e9ed59a8dc01996dacd14eef98b464",
@@ -1027,6 +1037,16 @@
       },
       "publicationDate": "2024-11-04",
       "citationCount": 9
+    },
+    {
+      "id": "249bd200e47c65da56c08aab696501c164576db1",
+      "title": "RADIANT: Object-Centric Feed-Forward Global Illumination",
+      "externalIds": {
+        "ArXiv": "2610.32075",
+        "CorpusId": 293936390
+      },
+      "publicationDate": "2026-10-23",
+      "citationCount": 0
     },
     {
       "id": "2574a85178d9d13d447b55cb856d3b1f124cb28e",
@@ -1256,7 +1276,7 @@
         "CorpusId": 257631738
       },
       "publicationDate": "2023-03-20",
-      "citationCount": 174
+      "citationCount": 176
     },
     {
       "id": "2d4e2b2a9f823ba7bb5b4409c40f22cc9087814a",
@@ -1436,7 +1456,7 @@
         "CorpusId": 269033473
       },
       "publicationDate": "2024-04-10",
-      "citationCount": 50
+      "citationCount": 51
     },
     {
       "id": "3563a929f2d17e16a6450bf375a3b0469fc7e53e",
@@ -1819,7 +1839,7 @@
         "CorpusId": 269791465
       },
       "publicationDate": "2024-05-16",
-      "citationCount": 40
+      "citationCount": 41
     },
     {
       "id": "49b4485b2034f7d3215d5d5c78131a1a32748aad",
@@ -2900,6 +2920,16 @@
       "citationCount": 100
     },
     {
+      "id": "798d058dc271d01270ae71d3d4b018ecdfd5b1e6",
+      "title": "CityLift: Compositional 3D Urban Generation from a Single Image",
+      "externalIds": {
+        "ArXiv": "2610.32728",
+        "CorpusId": 293940185
+      },
+      "publicationDate": "2026-10-23",
+      "citationCount": 0
+    },
+    {
       "id": "79d6966008a261f23c854b2d321aa151ae44df4b",
       "title": "Meshy T2: Fast Native Mesh Generation with Flow Matching",
       "externalIds": {
@@ -2909,7 +2939,7 @@
         "CorpusId": 290781440
       },
       "publicationDate": "2026-07-28",
-      "citationCount": 0
+      "citationCount": 1
     },
     {
       "id": "79e9d4da23aad9a158930c645f394757d048ecb6",
@@ -3116,7 +3146,7 @@
         "CorpusId": 264452015
       },
       "publicationDate": "2023-10-25",
-      "citationCount": 33
+      "citationCount": 34
     },
     {
       "id": "830ed65d226a337088d6d97c3c3b068155bf10ec",
@@ -3799,7 +3829,7 @@
         "CorpusId": 261395233
       },
       "publicationDate": "2023-08-31",
-      "citationCount": 129
+      "citationCount": 130
     },
     {
       "id": "9c3620b579733cdab76ce2aed87b69674b5dc877",
@@ -3836,6 +3866,16 @@
       },
       "publicationDate": "2026-01-23",
       "citationCount": 1
+    },
+    {
+      "id": "9d4de53b20c0cccb1372f22a4c43c8cfd5da3e94",
+      "title": "PixGR: Pixel-Space Generative Decoding for Fast Feed-Forward 3D Reconstruction",
+      "externalIds": {
+        "ArXiv": "2610.31908",
+        "CorpusId": 293936358
+      },
+      "publicationDate": "2026-10-22",
+      "citationCount": 0
     },
     {
       "id": "9d68d7bd366f202e14e5f979e8ed79caf5445c5b",
@@ -4107,7 +4147,7 @@
         "CorpusId": 289888007
       },
       "publicationDate": "2026-07-03",
-      "citationCount": 1
+      "citationCount": 2
     },
     {
       "id": "aaebb2f155e5bf233e1776d77f55399c610eeb26",
@@ -4561,7 +4601,7 @@
         "CorpusId": 269982498
       },
       "publicationDate": "2024-03-28",
-      "citationCount": 4
+      "citationCount": 5
     },
     {
       "id": "bdb7f4493f9f4729c56bf28fb982c686d33681bb",
@@ -4866,7 +4906,7 @@
         "CorpusId": 277104152
       },
       "publicationDate": "2025-03-18",
-      "citationCount": 11
+      "citationCount": 12
     },
     {
       "id": "c7f4a93754a29426acc9bf9c03db27b6106eecaf",
@@ -4957,7 +4997,7 @@
         "CorpusId": 263131552
       },
       "publicationDate": "2023-09-28",
-      "citationCount": 93
+      "citationCount": 94
     },
     {
       "id": "cc6c64b4fec00e5371b38d7c4dfa10a1b23c76fe",
@@ -5049,7 +5089,7 @@
         "CorpusId": 257952179
       },
       "publicationDate": "2023-04-05",
-      "citationCount": 39
+      "citationCount": 40
     },
     {
       "id": "cfed5690764538a0abe59bd64b75442e794ced50",
@@ -5727,7 +5767,7 @@
         "CorpusId": 268554137
       },
       "publicationDate": "2024-03-21",
-      "citationCount": 35
+      "citationCount": 36
     },
     {
       "id": "e6e9f1c45b98fddf1243a06f50d1dd8dcd544df8",
@@ -5810,7 +5850,7 @@
         "CorpusId": 265050698
       },
       "publicationDate": "2023-11-08",
-      "citationCount": 94
+      "citationCount": 96
     },
     {
       "id": "eb33fe4db171c33a96cea4cf77bda7cff769a0c4",
@@ -5868,7 +5908,7 @@
         "CorpusId": 283909568
       },
       "publicationDate": "2025-12-16",
-      "citationCount": 28
+      "citationCount": 30
     },
     {
       "id": "ed1d274ef73f640361f0614835e46468fe489386",
@@ -5892,7 +5932,7 @@
         "CorpusId": 283110051
       },
       "publicationDate": "2025-11-20",
-      "citationCount": 18
+      "citationCount": 19
     },
     {
       "id": "efda2446411fcef4eade3099ea0766d25959a668",
@@ -6322,7 +6362,7 @@
         "CorpusId": 261582503
       },
       "publicationDate": "2023-09-07",
-      "citationCount": 85
+      "citationCount": 86
     },
     {
       "id": "fd84ff9fc88bdfb8f683b789b37a3bdef1833c95",
@@ -6332,7 +6372,7 @@
         "CorpusId": 291531425
       },
       "publicationDate": "2026-08-28",
-      "citationCount": 0
+      "citationCount": 1
     },
     {
       "id": "fdfbea1d79be0d48ec725c79e53e2046adec494a",
@@ -8132,6 +8172,30 @@
       "target": "fbbc507dd88fd1aa55e531f4a66d69f80880d779"
     },
     {
+      "source": "10f4a53b1cc33c3fe237fbc473b54962c64ba5b4",
+      "target": "0a448b0c2cdf32de0393190dd17a166a30289e3c"
+    },
+    {
+      "source": "10f4a53b1cc33c3fe237fbc473b54962c64ba5b4",
+      "target": "1f7b8b462af062f7f80cbcda4bb80e097e3f8e1f"
+    },
+    {
+      "source": "10f4a53b1cc33c3fe237fbc473b54962c64ba5b4",
+      "target": "79d6966008a261f23c854b2d321aa151ae44df4b"
+    },
+    {
+      "source": "10f4a53b1cc33c3fe237fbc473b54962c64ba5b4",
+      "target": "a9a986382361845b0c753e4a3735592fe900ae6d"
+    },
+    {
+      "source": "10f4a53b1cc33c3fe237fbc473b54962c64ba5b4",
+      "target": "ecd0d6c7e8093bd69655edc511e408216d52c7fb"
+    },
+    {
+      "source": "10f4a53b1cc33c3fe237fbc473b54962c64ba5b4",
+      "target": "ef19e75521087bda065b33ed78c3b358285ce18e"
+    },
+    {
       "source": "11665dbecb17ef4d3d71b75b8666ce0e61bd43fa",
       "target": "0c4d8df762be5d5cfe9ba81fd733f109c5abbbb6"
     },
@@ -9926,6 +9990,10 @@
     {
       "source": "24959b24a4cd85becf1bad50ace1f58fa6109d1c",
       "target": "cc1a674bb164d09a060cf5b26fe518c02fae0ddc"
+    },
+    {
+      "source": "249bd200e47c65da56c08aab696501c164576db1",
+      "target": "1b31dbf44e68b698120552366df03e6e35a1e428"
     },
     {
       "source": "2574a85178d9d13d447b55cb856d3b1f124cb28e",
@@ -15616,6 +15684,58 @@
       "target": "8941e477b2f39eb92712f04400412da60d349ec1"
     },
     {
+      "source": "798d058dc271d01270ae71d3d4b018ecdfd5b1e6",
+      "target": "06f52b5bde025a6f32ab4522b2a9c40068137603"
+    },
+    {
+      "source": "798d058dc271d01270ae71d3d4b018ecdfd5b1e6",
+      "target": "11665dbecb17ef4d3d71b75b8666ce0e61bd43fa"
+    },
+    {
+      "source": "798d058dc271d01270ae71d3d4b018ecdfd5b1e6",
+      "target": "186c2b2386799fa599e2d77bc6945f7da66e5fab"
+    },
+    {
+      "source": "798d058dc271d01270ae71d3d4b018ecdfd5b1e6",
+      "target": "1b90e9e9734bed6b379ae87d688cb3b887baf597"
+    },
+    {
+      "source": "798d058dc271d01270ae71d3d4b018ecdfd5b1e6",
+      "target": "1f7b8b462af062f7f80cbcda4bb80e097e3f8e1f"
+    },
+    {
+      "source": "798d058dc271d01270ae71d3d4b018ecdfd5b1e6",
+      "target": "2177967931f395f88faa630019e3cd9b1831ffc1"
+    },
+    {
+      "source": "798d058dc271d01270ae71d3d4b018ecdfd5b1e6",
+      "target": "2c70684973bc4d7b6f8404a647b8031c4d3c8383"
+    },
+    {
+      "source": "798d058dc271d01270ae71d3d4b018ecdfd5b1e6",
+      "target": "34276d30da30285f4ad348848ec746457730899a"
+    },
+    {
+      "source": "798d058dc271d01270ae71d3d4b018ecdfd5b1e6",
+      "target": "82696e14076d2d92d3d7452bf67c5d924bf1e101"
+    },
+    {
+      "source": "798d058dc271d01270ae71d3d4b018ecdfd5b1e6",
+      "target": "cc1a674bb164d09a060cf5b26fe518c02fae0ddc"
+    },
+    {
+      "source": "798d058dc271d01270ae71d3d4b018ecdfd5b1e6",
+      "target": "eb2cbd12f749f14716296f7f415e921562c9079b"
+    },
+    {
+      "source": "798d058dc271d01270ae71d3d4b018ecdfd5b1e6",
+      "target": "ecd0d6c7e8093bd69655edc511e408216d52c7fb"
+    },
+    {
+      "source": "798d058dc271d01270ae71d3d4b018ecdfd5b1e6",
+      "target": "fcd0de4066d93fa3822a14898008fa2dd99f7be6"
+    },
+    {
       "source": "79d6966008a261f23c854b2d321aa151ae44df4b",
       "target": "2c51a8feb13e7fdcb3c0bea5fca9e5b9be1c0853"
     },
@@ -18486,6 +18606,54 @@
     {
       "source": "9c778e46ca01a29491695550f24b76fbaa3c36cb",
       "target": "c5e9fd131cde68c218d0ea69cd617a67c7f35d42"
+    },
+    {
+      "source": "9d4de53b20c0cccb1372f22a4c43c8cfd5da3e94",
+      "target": "11665dbecb17ef4d3d71b75b8666ce0e61bd43fa"
+    },
+    {
+      "source": "9d4de53b20c0cccb1372f22a4c43c8cfd5da3e94",
+      "target": "1806ae222b5d5941eb621f8e366e2ebdbf96afa7"
+    },
+    {
+      "source": "9d4de53b20c0cccb1372f22a4c43c8cfd5da3e94",
+      "target": "1b8a734dd28a9d766a5d3dbc0871e76b6a452b65"
+    },
+    {
+      "source": "9d4de53b20c0cccb1372f22a4c43c8cfd5da3e94",
+      "target": "2c70684973bc4d7b6f8404a647b8031c4d3c8383"
+    },
+    {
+      "source": "9d4de53b20c0cccb1372f22a4c43c8cfd5da3e94",
+      "target": "4987a76781f299be64ac43419c8b489ca1f4515b"
+    },
+    {
+      "source": "9d4de53b20c0cccb1372f22a4c43c8cfd5da3e94",
+      "target": "9aa01997226b5c4d705ae2e2f52c32681006654b"
+    },
+    {
+      "source": "9d4de53b20c0cccb1372f22a4c43c8cfd5da3e94",
+      "target": "bcf009e6f0f461c29fb0cafafb0741fc7296de62"
+    },
+    {
+      "source": "9d4de53b20c0cccb1372f22a4c43c8cfd5da3e94",
+      "target": "c7398e15b3eb8247ff235ce4d58d94c548e67404"
+    },
+    {
+      "source": "9d4de53b20c0cccb1372f22a4c43c8cfd5da3e94",
+      "target": "cf923fb70bbad20c485cef355444a08096747f68"
+    },
+    {
+      "source": "9d4de53b20c0cccb1372f22a4c43c8cfd5da3e94",
+      "target": "e6cb30effd90d563bc680430ecc1317842d33b6e"
+    },
+    {
+      "source": "9d4de53b20c0cccb1372f22a4c43c8cfd5da3e94",
+      "target": "eb2cbd12f749f14716296f7f415e921562c9079b"
+    },
+    {
+      "source": "9d4de53b20c0cccb1372f22a4c43c8cfd5da3e94",
+      "target": "fd84ff9fc88bdfb8f683b789b37a3bdef1833c95"
     },
     {
       "source": "9d68d7bd366f202e14e5f979e8ed79caf5445c5b",
