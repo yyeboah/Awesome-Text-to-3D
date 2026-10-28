@@ -31,6 +31,8 @@ This README is intended to work as a fast research index:
 <details close>
 <summary>X-to-3D</summary>
 
+- [Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction](https://arxiv.org/abs/2610.37668), Prakhar Kaushik et al., Arxiv 2026 | [citation](./references/citations.bib#L3940-L3945) | [site](https://honeycomb-surfels.github.io/) | [code](https://github.com/honeycomb-surfels/hexels) | <a href="./references/internal-citations.md#s2-132054e59cc1bc17eb3629de1e139d20f14539e9" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
+
 - [CityLift: Compositional 3D Urban Generation from a Single Image](https://arxiv.org/abs/2610.32728), Haoran Gong et al., Arxiv 2026 | [citation](./references/citations.bib#L3933-L3938) | [site](https://ranhaogong.github.io/CityLift/) | [code]() | <a href="./references/internal-citations.md#s2-798d058dc271d01270ae71d3d4b018ecdfd5b1e6" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 
 - [Easy-3Dfy: Object-Level Geometric Composition for Single-Image 3D Scene Construction](https://arxiv.org/abs/2610.32250), Ziang Zhang et al., Arxiv 2026 | [citation](./references/citations.bib#L3926-L3931) | [site](https://easy3dfy.github.io/) | [code]() | <a href="./references/internal-citations.md#s2-10f4a53b1cc33c3fe237fbc473b54962c64ba5b4" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
@@ -638,6 +640,8 @@ This README is intended to work as a fast research index:
 <a id="3d-editing-decomposition--stylization"></a>
 <details close>
 <summary>3D Editing, Decomposition & Stylization</summary>
+
+- [Texture Consolidation of Generated Multi-View Renderings](https://arxiv.org/abs/2610.36098), Hongyi Liu et al., Arxiv 2026 | [citation](./references/citations.bib#L3947-L3952) | [site]() | [code](https://github.com/hliuw/TextureConsolidation) | <a href="./references/internal-citations.md#s2-846c744e2d51e6580f512c34acdd3e4bec2a37bc" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 
 - [RADIANT: Object-Centric Feed-Forward Global Illumination](https://arxiv.org/abs/2610.32075), Sarah Zhang et al., Arxiv 2026 | [citation](./references/citations.bib#L3912-L3917) | [site]() | [code]() | <a href="./references/internal-citations.md#s2-249bd200e47c65da56c08aab696501c164576db1" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 
