@@ -9061,3 +9061,17 @@ No other indexed papers cite this paper.
 **Citation count:** 0
 
 No other indexed papers cite this paper.
+
+<a id="s2-132054e59cc1bc17eb3629de1e139d20f14539e9"></a>
+## Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction
+
+**Citation count:** 0
+
+No other indexed papers cite this paper.
+
+<a id="s2-846c744e2d51e6580f512c34acdd3e4bec2a37bc"></a>
+## Texture Consolidation of Generated Multi-View Renderings
+
+**Citation count:** 0
+
+No other indexed papers cite this paper.
