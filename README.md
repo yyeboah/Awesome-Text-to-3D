@@ -31,7 +31,7 @@ This README is intended to work as a fast research index:
 <details close>
 <summary>X-to-3D</summary>
 
-- [Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D](https://arxiv.org/abs/2610.41231), Gaige Wang et al., Arxiv 2026 | [citation](./references/citations.bib#L3954-L3959) | [site]() | [code]()
+- [Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D](https://arxiv.org/abs/2610.41231), Gaige Wang et al., Arxiv 2026 | [citation](./references/citations.bib#L3954-L3959) | [site]() | [code]() | ▲ citation count: unavailable
 
 - [Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction](https://arxiv.org/abs/2610.37668), Prakhar Kaushik et al., Arxiv 2026 | [citation](./references/citations.bib#L3940-L3945) | [site](https://honeycomb-surfels.github.io/) | [code](https://github.com/honeycomb-surfels/hexels) | <a href="./references/internal-citations.md#s2-132054e59cc1bc17eb3629de1e139d20f14539e9" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 
