@@ -643,6 +643,7 @@ This README is intended to work as a fast research index:
 <details close>
 <summary>3D Editing, Decomposition & Stylization</summary>
 
+- [RouTex: Multi-Reference 3D Texture Generation by Reprogramming Rotary Position Encoding](https://arxiv.org/abs/2611.06070), Chengyang Li et al., Arxiv 2026 | [citation](./references/citations.bib#L3961-L3966) | [site]() | [code]() | ▲ citation count: unavailable
 - [Texture Consolidation of Generated Multi-View Renderings](https://arxiv.org/abs/2610.36098), Hongyi Liu et al., Arxiv 2026 | [citation](./references/citations.bib#L3947-L3952) | [site]() | [code](https://github.com/hliuw/TextureConsolidation) | <a href="./references/internal-citations.md#s2-846c744e2d51e6580f512c34acdd3e4bec2a37bc" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 
 - [RADIANT: Object-Centric Feed-Forward Global Illumination](https://arxiv.org/abs/2610.32075), Sarah Zhang et al., Arxiv 2026 | [citation](./references/citations.bib#L3912-L3917) | [site]() | [code]() | <a href="./references/internal-citations.md#s2-249bd200e47c65da56c08aab696501c164576db1" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
@@ -1017,6 +1018,7 @@ This README is intended to work as a fast research index:
 <details close>
 <summary>Dynamic Content Generation</summary>
 
+- [FlashRelight: Portrait Video Relighting with Dynamic Lighting](https://arxiv.org/abs/2611.06355), Jiahui Sheng et al., NeurIPS 2026 | [citation](./references/citations.bib#L3968-L3973) | [site]() | [code](https://github.com/vivoCameraResearch/FlashRelight) | ▲ citation count: unavailable
 - [DynStream: Online Streaming 4D Gaussian Reconstruction of Dynamic Worlds from Unposed Video](https://arxiv.org/abs/2610.09720), Dingwei Xian et al., Arxiv 2026 | [citation](./references/citations.bib#L3875-L3880) | [site]() | [code]() | <a href="./references/internal-citations.md#s2-32e2f772b681122860a9b86ac1748bff33130f4c" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 
 - [Reconstructing the Dynamic World: A Representation-Centric View of 4D Scene Reconstruction](https://arxiv.org/abs/2609.39960), Ziren Gong et al., Arxiv 2026 | [citation](./references/citations.bib#L3854-L3859) | [site](https://github.com/ZiyangYan/Awesome-4D-Scene-Reconstruction) | [code]() | <a href="./references/internal-citations.md#s2-c0f76e3adf99919163e425452ed91a542fc72270" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
