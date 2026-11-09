@@ -31,6 +31,8 @@ This README is intended to work as a fast research index:
 <details close>
 <summary>X-to-3D</summary>
 
+- [InstantHMR: Real-Time Human Mesh Recovery on Your Phone](https://arxiv.org/abs/2611.09195), Mohamed Adjel et al., Arxiv 2026 | [citation](./references/citations.bib#L3975-L3980) | [site]() | [code](https://github.com/Naturalpad-studio/InstantHMR) | ▲ citation count: unavailable
+
 - [Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D](https://arxiv.org/abs/2610.41231), Gaige Wang et al., Arxiv 2026 | [citation](./references/citations.bib#L3954-L3959) | [site]() | [code]() | ▲ citation count: unavailable
 
 - [Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction](https://arxiv.org/abs/2610.37668), Prakhar Kaushik et al., Arxiv 2026 | [citation](./references/citations.bib#L3940-L3945) | [site](https://honeycomb-surfels.github.io/) | [code](https://github.com/honeycomb-surfels/hexels) | <a href="./references/internal-citations.md#s2-132054e59cc1bc17eb3629de1e139d20f14539e9" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
@@ -869,6 +871,8 @@ This README is intended to work as a fast research index:
 <a id="avatar-generation-and-manupilation"></a>
 <details close>
 <summary>Avatar Generation and Manupilation</summary>
+
+- [PoseRieFlow: Riemannian Flow Matching for Whole-Body Text-to-Pose Generation](https://arxiv.org/abs/2611.09692), Jan Spindler et al., Arxiv 2026 | [citation](./references/citations.bib#L3982-L3987) | [site]() | [code]() | ▲ citation count: unavailable
 
 - [Video Diffusion Avatars: Taming Video Diffusion Models into Controllable 3D Avatars](https://arxiv.org/abs/2610.23772), Simon Giebenhain et al., Arxiv 2026 | [citation](./references/citations.bib#L3905-L3910) | [site](https://simongiebenhain.github.io/video-diffusion-avatars/) | [code](https://github.com/SimonGiebenhain/video-diffusion-avatars) | <a href="./references/internal-citations.md#s2-b12aa243528dc632551c7285628694cd4286bb14" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 
