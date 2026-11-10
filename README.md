@@ -872,6 +872,8 @@ This README is intended to work as a fast research index:
 <details close>
 <summary>Avatar Generation and Manupilation</summary>
 
+- [ZARA: Zero-shot Animatable and Relightable 3D Avatar reconstruction from a single image](https://arxiv.org/abs/2611.10562), Yixiao Chen et al., Arxiv 2026 | [citation](./references/citations.bib#L3989-L3994) | [site]() | [code]() | ▲ citation count: unavailable
+
 - [PoseRieFlow: Riemannian Flow Matching for Whole-Body Text-to-Pose Generation](https://arxiv.org/abs/2611.09692), Jan Spindler et al., Arxiv 2026 | [citation](./references/citations.bib#L3982-L3987) | [site]() | [code]() | ▲ citation count: unavailable
 
 - [Video Diffusion Avatars: Taming Video Diffusion Models into Controllable 3D Avatars](https://arxiv.org/abs/2610.23772), Simon Giebenhain et al., Arxiv 2026 | [citation](./references/citations.bib#L3905-L3910) | [site](https://simongiebenhain.github.io/video-diffusion-avatars/) | [code](https://github.com/SimonGiebenhain/video-diffusion-avatars) | <a href="./references/internal-citations.md#s2-b12aa243528dc632551c7285628694cd4286bb14" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
