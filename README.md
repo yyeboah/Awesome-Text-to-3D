@@ -1203,6 +1203,8 @@ This README is intended to work as a fast research index:
 
 - [ThreeDee AI 3D Bust Maker - Generate 3D busts from single photo](https://www.threedee.design/products/3d-bust-maker/), ThreeDee, Product 2026
 
+- [OTOY Studio - Run Meshy, Hyper3D Rodin, Hunyuan 3D, TRELLIS and TripoSR side by side on a browser node canvas, with Gaussian splat training](https://otoy.studio/answers/image-to-3d-model), OTOY Studio, Product 2026
+
 - [threestudio: A unified framework for 3D content generation](https://github.com/threestudio-project/threestudio), Yuan-Chen Guo et al., Github 2023
 
 - [Nerfstudio: A Modular Framework for Neural Radiance Field Development](https://docs.nerf.studio/), Matthew Tancik et al., SIGGRAPH 2023
