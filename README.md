@@ -1203,6 +1203,8 @@ This README is intended to work as a fast research index:
 
 - [ThreeDee AI 3D Bust Maker - Generate 3D busts from single photo](https://www.threedee.design/products/3d-bust-maker/), ThreeDee, Product 2026
 
+- [Wiro AI 3D Generator for Blender - Text-to-3D, image-to-3D and textures inside Blender with hosted TRELLIS.2, Hunyuan3D-2.1 and Pixal3D models](https://github.com/wiroai/Wiro-Blender), Wiro AI, Github 2026
+
 - [threestudio: A unified framework for 3D content generation](https://github.com/threestudio-project/threestudio), Yuan-Chen Guo et al., Github 2023
 
 - [Nerfstudio: A Modular Framework for Neural Radiance Field Development](https://docs.nerf.studio/), Matthew Tancik et al., SIGGRAPH 2023
