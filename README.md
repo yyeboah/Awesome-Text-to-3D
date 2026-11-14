@@ -31,6 +31,10 @@ This README is intended to work as a fast research index:
 <details close>
 <summary>X-to-3D</summary>
 
+- [MatrixSplat: Matrix-Parallel and Feature-Scalable 3D Gaussian Splatting Rendering on GPUs](https://arxiv.org/abs/2611.15153), Yangming Zhang et al., NeurIPS 2026 | [citation](./references/citations.bib#L3996-L4001) | [site]() | [code]() | ▲ citation count: unavailable
+
+- [ReflFlow: Learning Geometry-Guided Ray Tracing for Dynamic Specular Reconstruction](https://arxiv.org/abs/2512.10095), Jiachen Tao et al., ICML 2026 | [citation](./references/citations.bib#L4003-L4008) | [site]() | [code]() | ▲ citation count: unavailable
+
 - [InstantHMR: Real-Time Human Mesh Recovery on Your Phone](https://arxiv.org/abs/2611.09195), Mohamed Adjel et al., Arxiv 2026 | [citation](./references/citations.bib#L3975-L3980) | [site]() | [code](https://github.com/Naturalpad-studio/InstantHMR) | ▲ citation count: unavailable
 
 - [Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D](https://arxiv.org/abs/2610.41231), Gaige Wang et al., Arxiv 2026 | [citation](./references/citations.bib#L3954-L3959) | [site]() | [code]() | ▲ citation count: unavailable
@@ -872,6 +876,8 @@ This README is intended to work as a fast research index:
 <details close>
 <summary>Avatar Generation and Manupilation</summary>
 
+- [SAMT: Generating Structured Avatar Meshes and Textures from a Single Image](https://proceedings.mlr.press/v306/wang26bf.html), Muyu Wang et al., ICML 2026 | [citation](./references/citations.bib#L4024-L4029) | [site](https://github.com/muyuWang/SAMT) | [code](https://github.com/muyuWang/SAMT) | ▲ citation count: unavailable
+
 - [ZARA: Zero-shot Animatable and Relightable 3D Avatar reconstruction from a single image](https://arxiv.org/abs/2611.10562), Yixiao Chen et al., Arxiv 2026 | [citation](./references/citations.bib#L3989-L3994) | [site]() | [code]() | ▲ citation count: unavailable
 
 - [PoseRieFlow: Riemannian Flow Matching for Whole-Body Text-to-Pose Generation](https://arxiv.org/abs/2611.09692), Jan Spindler et al., Arxiv 2026 | [citation](./references/citations.bib#L3982-L3987) | [site]() | [code]() | ▲ citation count: unavailable
@@ -1083,6 +1089,10 @@ This README is intended to work as a fast research index:
 <a id="world-models"></a>
 <details close>
 <summary>World Models</summary>
+
+- [WorldDraft: If Code Builds the World, Can Video Models Just Render It?](https://arxiv.org/abs/2611.16217), Zhiyu Hou et al., Arxiv 2026 | [citation](./references/citations.bib#L4010-L4015) | [site](https://haroldchen19.github.io/WorldDraft-site/) | [code](https://github.com/KevinHuge/WorldDraft) | ▲ citation count: unavailable
+
+- [CoCode-World: Shared 3D Proxy Representation for Multi-Player World Models](https://arxiv.org/abs/2611.15602), Qirui Li et al., Arxiv 2026 | [citation](./references/citations.bib#L4017-L4022) | [site](https://iapple233.github.io/CCW/) | [code](https://github.com/IApple233/CoCode-World) | ▲ citation count: unavailable
 
 - [Persistent Planar Memory for Video World Models](https://arxiv.org/abs/2610.23795), Yuze He et al., NeurIPS 2026 | [citation](./references/citations.bib#L3896-L3903) | [site](https://hyzcluster.github.io/ppmem/) | [code](https://github.com/robbyant-research/PPMem) | <a href="./references/internal-citations.md#s2-2c1383103ceb9cd9d4994dd8596e24401b7c2545" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 
