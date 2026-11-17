@@ -1,12 +1,78 @@
 {
   "source": "Semantic Scholar Academic Graph API",
   "sourceUrl": "https://api.semanticscholar.org/api-docs/graphs",
-  "generatedAt": "2026-10-26T19:13:40.804Z",
+  "generatedAt": "2026-11-17T09:24:46.199Z",
   "definition": "Distinct resolved papers in this README whose Semantic Scholar reference lists include the target paper.",
-  "resolvedRows": 558,
-  "citationBackedRows": 558,
-  "distinctResolvedWorks": 553,
+  "resolvedRows": 572,
+  "citationBackedRows": 573,
+  "distinctResolvedWorks": 567,
   "entries": [
+    {
+      "title": "TetraCoder: Adaptive Tetrahedral Encoding for Neural Fields",
+      "section": "X-to-3D",
+      "identifier": "ARXIV:2611.18267",
+      "semanticScholarPaperId": "1631c6bb5791cdc4f26056daee1038c0e6704eb1",
+      "semanticScholarTitle": "TetraCoder: Adaptive Tetrahedral Encoding for Neural Fields",
+      "publicationDate": "2026-11-13",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
+    {
+      "title": "FOMOS: Feature-Oriented Meshing of SDFs",
+      "section": "X-to-3D",
+      "identifier": "ARXIV:2611.17458",
+      "semanticScholarPaperId": "eab6543dfdb53a445341097dfbcf5a10ecc0215c",
+      "semanticScholarTitle": "FOMOS: Feature-Oriented Meshing of SDFs",
+      "publicationDate": "2026-11-12",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
+    {
+      "title": "MatrixSplat: Matrix-Parallel and Feature-Scalable 3D Gaussian Splatting Rendering on GPUs",
+      "section": "X-to-3D",
+      "identifier": "ARXIV:2611.15153",
+      "semanticScholarPaperId": "3f80fd5a44fd7bea9314088ee082606bffecff97",
+      "semanticScholarTitle": "MatrixSplat: Matrix-Parallel and Feature-Scalable 3D Gaussian Splatting Rendering on GPUs",
+      "publicationDate": "2026-11-11",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
+    {
+      "title": "InstantHMR: Real-Time Human Mesh Recovery on Your Phone",
+      "section": "X-to-3D",
+      "identifier": "ARXIV:2611.09195",
+      "semanticScholarPaperId": "a581fc404b0c0744bb5e4ee94b9ea22fdedc9df5",
+      "semanticScholarTitle": "InstantHMR : Real-Time Human Mesh Recovery on Your Phone",
+      "publicationDate": "2026-11-06",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
+    {
+      "title": "Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D",
+      "section": "X-to-3D",
+      "identifier": "ARXIV:2610.41231",
+      "semanticScholarPaperId": "f0f9e23bb1d7fa7454e84f6935ae1d650e079cb9",
+      "semanticScholarTitle": "Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D",
+      "publicationDate": "2026-10-30",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
+    {
+      "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
+      "section": "X-to-3D",
+      "identifier": "ARXIV:2610.37668",
+      "semanticScholarPaperId": "132054e59cc1bc17eb3629de1e139d20f14539e9",
+      "semanticScholarTitle": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
+      "publicationDate": "2026-10-27",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
     {
       "title": "CityLift: Compositional 3D Urban Generation from a Single Image",
       "section": "X-to-3D",
@@ -970,20 +1036,22 @@
       "semanticScholarPaperId": "b83f69213504e1e56c4ddcd2c1393a1c168f26a7",
       "semanticScholarTitle": "Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning",
       "publicationDate": "2026-01-16",
-      "internalCitationCount": 6,
+      "internalCitationCount": 7,
       "citedBy": [
         "4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation",
         "LEGO-Anything: Coding Agents for 3D Scene Reconstruction",
         "NeoWorld-Pro: Programming Interactive Scenes from Monocular Images for Embodied Simulation",
         "REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image",
         "Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models",
-        "WorldClaw: Agentic 3D Open-World Generation at Scale"
+        "WorldClaw: Agentic 3D Open-World Generation at Scale",
+        "WorldDraft: If Code Builds the World, Can Video Models Just Render It?"
       ],
       "citedByIds": [
         "128d893ce9c71599742ceb950656cc232b1b928e",
         "7b76fde443bec229c84e2e1dba47daeddd36d18e",
         "8a897f463dc951bf35baf62681d9bdc9e3e9f416",
         "96cfd37ec098eb68a1f978de16e45b82ff13589f",
+        "c046912e64fb876c049cc50ad502e7d84d637ac5",
         "d9cb4f0e06417e50be3b192f38d70aacb8379ee3",
         "db1f54c08c8a1eb13eabf36eec69f40f38077e3c"
       ]
@@ -1006,11 +1074,12 @@
       "semanticScholarPaperId": "ecd0d6c7e8093bd69655edc511e408216d52c7fb",
       "semanticScholarTitle": "Native and Compact Structured Latents for 3D Generation",
       "publicationDate": "2025-12-16",
-      "internalCitationCount": 30,
+      "internalCitationCount": 32,
       "citedBy": [
         "3DMorph: Single-Image-Guided Local 3D Shape Editing and Morphing",
         "ABot-Earth 0.5: Generative 3D Earth Model",
         "CityLift: Compositional 3D Urban Generation from a Single Image",
+        "Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D",
         "DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation",
         "Easy-3Dfy: Object-Level Geometric Composition for Single-Image 3D Scene Construction",
         "Extracting Neural Materials from Multi-view Images",
@@ -1026,6 +1095,7 @@
         "Physically Based Rendering in the Latent Space",
         "PixGS: Pixel-Space Diffusion for Direct 3D Gaussian Splat Generation",
         "ROAR-3D: Routing Arbitrary Views for High-Fidelity 3D Generation",
+        "RouTex: Multi-reference 3D Texture Generation by Reprogramming Rotary Position Encoding",
         "SceneReGen: Generative Reconstruction of 3D Scenes from a Single Image",
         "T3lescope: Arbitrary-Resolution High-Fidelity Generative Surface Reconstruction from Images",
         "TGRHuman: Text-Guided Realistic 3D Human Generation via Diffusion Renderer",
@@ -1049,6 +1119,7 @@
         "43a693802168e12d0a828bf57c9da1108208a6c9",
         "48c77b4cdd7567544cfd03832494d920abbe082c",
         "553fd3891aaa51991b277a175aeff3e363508aab",
+        "55bd2aae818996443d388eb46e45db9710d8b3da",
         "55c5666d18adb604c7fe110ab54dcf3f8b7386b5",
         "63958b8b74bb6e1cc40e07634a74c12011b32715",
         "78dcc7b4d647dd0f59f5cba64aefbc76c9c84e1e",
@@ -1068,6 +1139,7 @@
         "dc16b64e4055570dbd8c32dc2da8f1c4a2dc5fb6",
         "e2507bac701d3bdfa4c9655b1d54f1d7f4b2b9e5",
         "e99e284aae4efd05302a99e94aa11be1074615b9",
+        "f0f9e23bb1d7fa7454e84f6935ae1d650e079cb9",
         "faf56cbe01e459829d887e76ff7a2ce55ce7bdce",
         "fefe5ccb33c99b1f6ad00c9dd5851869798be4cb"
       ]
@@ -1088,6 +1160,17 @@
         "30c4b0e8316fd6ade2bafcd112f430ef6f0f34f5",
         "49f171a85242c21c620b8b4e8699271461ffdec4"
       ]
+    },
+    {
+      "title": "ReflFlow: Learning Geometry-Guided Ray Tracing for Dynamic Specular Reconstruction",
+      "section": "X-to-3D",
+      "identifier": "ARXIV:2512.10095",
+      "semanticScholarPaperId": "44710820cbd7b57be10ce2f24d61ac2b70611949",
+      "semanticScholarTitle": "ReflFlow: Learning Geometry-Guided Ray Tracing for Dynamic Specular Reconstruction",
+      "publicationDate": "2025-12-10",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
     },
     {
       "title": "MeshRipple: Structured Autoregressive Generation of Artist-Meshes",
@@ -1111,9 +1194,10 @@
       "semanticScholarPaperId": "ef19e75521087bda065b33ed78c3b358285ce18e",
       "semanticScholarTitle": "SAM 3D: 3Dfy Anything in Images",
       "publicationDate": "2025-11-20",
-      "internalCitationCount": 19,
+      "internalCitationCount": 20,
       "citedBy": [
         "4DSynth: Controllable Procedural World Synthesis for Dynamic Embodied Simulation",
+        "Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D",
         "Cross-Platform Benchmark of Neural 3D Reconstruction for Autonomous Laboratory Robots",
         "DogWeave: High-Fidelity 3D Canine Reconstruction from a Single Image via Normal Fusion and Conditional Inpainting",
         "Easy-3Dfy: Object-Level Geometric Composition for Single-Image 3D Scene Construction",
@@ -1149,6 +1233,7 @@
         "d6fd9910db4d81f240c0f227e1d3f93de4c6e94d",
         "db1f54c08c8a1eb13eabf36eec69f40f38077e3c",
         "dc16b64e4055570dbd8c32dc2da8f1c4a2dc5fb6",
+        "f0f9e23bb1d7fa7454e84f6935ae1d650e079cb9",
         "f6942b91a072028b07981dc843c8ccda9e06a094",
         "f72c138b6ec3a339b7e5ae6eb914211df4f70e39",
         "f9dda01c46a244f983b662b7a93f2aeeb1418cca",
@@ -1185,13 +1270,15 @@
       "semanticScholarPaperId": "73df6a33d9177cf18fa4661f45a35b606e09a643",
       "semanticScholarTitle": "Seed3D 1.0: From Images to High-Fidelity Simulation-Ready 3D Assets",
       "publicationDate": "2025-10-22",
-      "internalCitationCount": 2,
+      "internalCitationCount": 3,
       "citedBy": [
         "ABot-Earth 0.5: Generative 3D Earth Model",
-        "Home3D 1.0: A High-Fidelity Image-to-3D Asset Generation System for Interior Design"
+        "Home3D 1.0: A High-Fidelity Image-to-3D Asset Generation System for Interior Design",
+        "RouTex: Multi-reference 3D Texture Generation by Reprogramming Rotary Position Encoding"
       ],
       "citedByIds": [
         "00b1e35d905f3cff0f6dad1fccc0c6429bf2eb9c",
+        "55bd2aae818996443d388eb46e45db9710d8b3da",
         "80780d926f979b0beafd41f6cc22b082ffc04cd0"
       ]
     },
@@ -1376,11 +1463,13 @@
       "semanticScholarPaperId": "7285a63958bc8cdd4e7617f0b8b8838a01b6c8f6",
       "semanticScholarTitle": "LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS",
       "publicationDate": "2025-07-09",
-      "internalCitationCount": 1,
+      "internalCitationCount": 2,
       "citedBy": [
-        "LangFlash: Feed-forward 3D Language Gaussian Splatting from Sparse Unposed Images"
+        "LangFlash: Feed-forward 3D Language Gaussian Splatting from Sparse Unposed Images",
+        "MatrixSplat: Matrix-Parallel and Feature-Scalable 3D Gaussian Splatting Rendering on GPUs"
       ],
       "citedByIds": [
+        "3f80fd5a44fd7bea9314088ee082606bffecff97",
         "9c442297dc6b274917424cd1fce3b102910b7e8a"
       ]
     },
@@ -1500,10 +1589,11 @@
       "semanticScholarPaperId": "03ebe0fb80d3253a5231d0f1cbac7f3f20fa3aec",
       "semanticScholarTitle": "Direct3D-S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention",
       "publicationDate": "2025-05-23",
-      "internalCitationCount": 15,
+      "internalCitationCount": 16,
       "citedBy": [
         "Appearance-Preserving Refinement of Generated 3D Assets for Monochromatic Fabrication",
         "Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation",
+        "Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D",
         "Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models",
         "MeshRipple: Structured Autoregressive Generation of Artist-Meshes",
         "MoCA: Mixture-of-Components Attention for Scalable Compositional 3D Generation",
@@ -1532,6 +1622,7 @@
         "bdddf0d539859996afcc2bb997c222947a75f36e",
         "ecd0d6c7e8093bd69655edc511e408216d52c7fb",
         "ef19e75521087bda065b33ed78c3b358285ce18e",
+        "f0f9e23bb1d7fa7454e84f6935ae1d650e079cb9",
         "f445188827232185779fe19e5b3cbf9b276d03c1",
         "f6942b91a072028b07981dc843c8ccda9e06a094"
       ]
@@ -1565,8 +1656,9 @@
       "semanticScholarPaperId": "6da84f798de781b6dfa6308abffa00a5168099bc",
       "semanticScholarTitle": "Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets",
       "publicationDate": "2025-05-12",
-      "internalCitationCount": 9,
+      "internalCitationCount": 10,
       "citedBy": [
+        "Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D",
         "Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models",
         "MV2UV: Generating High-quality UV Texture Maps with Multiview Prompts",
         "MultiCube: Compositional 3D Generation With Part-Level Semantic and Spatial Control",
@@ -1586,6 +1678,7 @@
         "af13859b699d9c57fe469e111b176019d5ac9eff",
         "b00da7bbf32490b6da94c4bfdf1724fb86dce0c4",
         "ecd0d6c7e8093bd69655edc511e408216d52c7fb",
+        "f0f9e23bb1d7fa7454e84f6935ae1d650e079cb9",
         "f6dfb1e9539f3f50ffc8fe3ebae318d4607b098f"
       ]
     },
@@ -1892,11 +1985,12 @@
       "semanticScholarPaperId": "06f52b5bde025a6f32ab4522b2a9c40068137603",
       "semanticScholarTitle": "TripoSG: High-Fidelity 3D Shape Synthesis using Large-Scale Rectified Flow Models",
       "publicationDate": "2025-02-10",
-      "internalCitationCount": 33,
+      "internalCitationCount": 34,
       "citedBy": [
         "3DMorph: Single-Image-Guided Local 3D Shape Editing and Morphing",
         "ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion",
         "CityLift: Compositional 3D Urban Generation from a Single Image",
+        "Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D",
         "Constructing a 3D Scene from a Single Image",
         "DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation",
         "Direct3D-S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention",
@@ -1961,7 +2055,8 @@
         "e3a10689ead179bbba256a35d0d249f7e0d69bba",
         "e7625fb0254a5e5a0ccb31fa70f70b0aa4b08542",
         "ecd0d6c7e8093bd69655edc511e408216d52c7fb",
-        "ef19e75521087bda065b33ed78c3b358285ce18e"
+        "ef19e75521087bda065b33ed78c3b358285ce18e",
+        "f0f9e23bb1d7fa7454e84f6935ae1d650e079cb9"
       ]
     },
     {
@@ -3931,7 +4026,7 @@
       "semanticScholarPaperId": "11665dbecb17ef4d3d71b75b8666ce0e61bd43fa",
       "semanticScholarTitle": "LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation",
       "publicationDate": "2024-02-07",
-      "internalCitationCount": 86,
+      "internalCitationCount": 87,
       "citedBy": [
         "3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis",
         "3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion",
@@ -4008,6 +4103,7 @@
         "ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding",
         "Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets",
         "TC4D: Trajectory-Conditioned Text-to-4D Generation",
+        "Texture Consolidation of Generated Multi-View Renderings",
         "TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation",
         "TripoSR: Fast 3D Object Reconstruction from a Single Image",
         "Turbo3D: Ultra-fast Text-to-3D Generation",
@@ -4064,6 +4160,7 @@
         "798d058dc271d01270ae71d3d4b018ecdfd5b1e6",
         "7e26a8e75512251befc9a7956aebbb35d235998b",
         "7ff2a57cb9c6bc65e87ebc1725f118fddf5629c4",
+        "846c744e2d51e6580f512c34acdd3e4bec2a37bc",
         "84dba30ad62b37212d1f3f709afdcffbd028800b",
         "88dde8d42f024595a2eb2e1bf633cff842e7e778",
         "89427868fea9cad2d51986e862931771993c22ef",
@@ -5578,7 +5675,7 @@
       "semanticScholarPaperId": "cc1a674bb164d09a060cf5b26fe518c02fae0ddc",
       "semanticScholarTitle": "DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation",
       "publicationDate": "2023-09-28",
-      "internalCitationCount": 94,
+      "internalCitationCount": 96,
       "citedBy": [
         "3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion",
         "A General Framework to Boost 3D GS Initialization for Text-to-3D Generation by Lexical Richness",
@@ -5591,6 +5688,7 @@
         "CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction Model",
         "CasTex: Cascaded Text-to-Texture Synthesis via Explicit Texture Maps and Physically-Based Shading",
         "CityLift: Compositional 3D Urban Generation from a Single Image",
+        "Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D",
         "ComPC: Completing a 3D Point Cloud with 2D Diffusion Priors",
         "ConsistentDreamer: View-Consistent Meshes Through Balanced Multi-View Gaussian Optimization",
         "Constructing a 3D Scene from a Single Image",
@@ -5668,6 +5766,7 @@
         "Text-Conditioned Generative Model of 3D Strand-Based Human Hairstyles",
         "Text-to-3D using Gaussian Splatting",
         "Text2Immersion: Generative Immersive Scene with 3D Gaussians",
+        "Texture Consolidation of Generated Multi-View Renderings",
         "Towards Alias-Free 4D Gaussian Representations with Motion-Aware Filtering",
         "TripoSR: Fast 3D Object Reconstruction from a Single Image",
         "V3D: Video Diffusion Models are Effective 3D Generators",
@@ -5723,6 +5822,7 @@
         "798d058dc271d01270ae71d3d4b018ecdfd5b1e6",
         "7e26a8e75512251befc9a7956aebbb35d235998b",
         "7ff2a57cb9c6bc65e87ebc1725f118fddf5629c4",
+        "846c744e2d51e6580f512c34acdd3e4bec2a37bc",
         "84dba30ad62b37212d1f3f709afdcffbd028800b",
         "86b5318b0a69ccdeec17abb0120e4bd7688a4b59",
         "86bb7322d4e53f915da1ebe9869059663be9fcc8",
@@ -5765,6 +5865,7 @@
         "e6efd64e79ff08bddd7f48e3bb2b8567803b370e",
         "e88d5399956c9d9519a5cfd49308b7d439167543",
         "ed1d274ef73f640361f0614835e46468fe489386",
+        "f0f9e23bb1d7fa7454e84f6935ae1d650e079cb9",
         "f335ec0810bb6063fc8ff7b6046e68ebfa729075",
         "f46fe824ff7754b127517b27f3045e23f3287afe",
         "faf56cbe01e459829d887e76ff7a2ce55ce7bdce",
@@ -5922,7 +6023,7 @@
       "semanticScholarPaperId": "fcd0de4066d93fa3822a14898008fa2dd99f7be6",
       "semanticScholarTitle": "SyncDreamer: Generating Multiview-consistent Images from a Single-view Image",
       "publicationDate": "2023-09-07",
-      "internalCitationCount": 86,
+      "internalCitationCount": 87,
       "citedBy": [
         "2L3: Lifting Imperfect Generated 2D Images into Accurate 3D",
         "4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling",
@@ -6002,6 +6103,7 @@
         "TC4D: Trajectory-Conditioned Text-to-4D Generation",
         "Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models",
         "Text-to-3D Generation with Bidirectional Diffusion Using Both 2D and 3D Priors",
+        "Texture Consolidation of Generated Multi-View Renderings",
         "Turbo3D: Ultra-fast Text-to-3D Generation",
         "V3D: Video Diffusion Models are Effective 3D Generators",
         "View-adaptive renderer for view-consistent 2D-to-3D generation",
@@ -6048,6 +6150,7 @@
         "7526847635f6c717c5e4ef016bb67f1ebf39ff13",
         "798d058dc271d01270ae71d3d4b018ecdfd5b1e6",
         "7e26a8e75512251befc9a7956aebbb35d235998b",
+        "846c744e2d51e6580f512c34acdd3e4bec2a37bc",
         "86bb7322d4e53f915da1ebe9869059663be9fcc8",
         "8978a4a0c546bd41dd2a964e6fe850d3e6ae8f5b",
         "8ac84b7788fcc3cf909b7a7fdcae6db6e239a1a0",
@@ -6107,7 +6210,7 @@
       "semanticScholarPaperId": "9aa01997226b5c4d705ae2e2f52c32681006654b",
       "semanticScholarTitle": "MVDream: Multi-view Diffusion for 3D Generation",
       "publicationDate": "2023-08-31",
-      "internalCitationCount": 130,
+      "internalCitationCount": 131,
       "citedBy": [
         "3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis",
         "3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion",
@@ -6209,6 +6312,7 @@
         "RelaxFlow: Text-Driven Amodal 3D Generation",
         "ReplaceAnything3D: Text-Guided 3D Scene Editing with Compositional Neural Radiance Fields",
         "RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D",
+        "RouTex: Multi-reference 3D Texture Generation by Reprogramming Rotary Position Encoding",
         "SC4D: Sparse-Controlled Video-to-4D Generation and Motion Transfer",
         "SF3D: Stable Fast 3D Mesh Reconstruction with UV-unwrapping and Illumination Disentanglement",
         "SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single Images",
@@ -6286,6 +6390,7 @@
         "529e62cae04d3d7b458392033ba12d65c3444253",
         "5356c3dac654854a0842753bcc2e3433dc4a2afd",
         "553fd3891aaa51991b277a175aeff3e363508aab",
+        "55bd2aae818996443d388eb46e45db9710d8b3da",
         "57fbaa61633e911f5c59517836fcb312e72d8858",
         "587b427e6e98513e33656bb91bbaa5e3b9e978f4",
         "58deeb11dc024962b1810952a946027f402ddb71",
@@ -7298,7 +7403,7 @@
       "semanticScholarPaperId": "c5e9fd131cde68c218d0ea69cd617a67c7f35d42",
       "semanticScholarTitle": "ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation",
       "publicationDate": "2023-05-25",
-      "internalCitationCount": 166,
+      "internalCitationCount": 167,
       "citedBy": [
         "2L3: Lifting Imperfect Generated 2D Images into Accurate 3D",
         "3D-GPT: Procedural 3D Modeling with Large Language Models",
@@ -7452,6 +7557,7 @@
         "Text-to-3D using Gaussian Splatting",
         "Text-to-3D with Classifier Score Distillation",
         "TextMesh: Generation of Realistic 3D Meshes From Text Prompts",
+        "Texture Consolidation of Generated Multi-View Renderings",
         "Towards Alias-Free 4D Gaussian Representations with Motion-Aware Filtering",
         "Towards Text-guided 3D Scene Composition",
         "TripoSR: Fast 3D Object Reconstruction from a Single Image",
@@ -7539,6 +7645,7 @@
         "7f075974c3c0aea31506f16ef7c80a90d5f7f0f6",
         "82696e14076d2d92d3d7452bf67c5d924bf1e101",
         "834d55e57a99d58ea8b490dd7dc2f59aae2b211a",
+        "846c744e2d51e6580f512c34acdd3e4bec2a37bc",
         "84dba30ad62b37212d1f3f709afdcffbd028800b",
         "85a70c0a048cba4f53dcf332ee73f6032a2e53bc",
         "86b5318b0a69ccdeec17abb0120e4bd7688a4b59",
@@ -8940,7 +9047,7 @@
       "semanticScholarPaperId": "611e2100a3f8ed02b2583d4e53fd27a12d223b4c",
       "semanticScholarTitle": "LERF: Language Embedded Radiance Fields",
       "publicationDate": "2023-03-16",
-      "internalCitationCount": 8,
+      "internalCitationCount": 9,
       "citedBy": [
         "CLIP-GS: CLIP-Informed Gaussian Splatting for View-Consistent 3D Indoor Semantic Understanding",
         "Dynamic-Robust Photometric-Semantic Reconstruction for Open-Vocabulary 3D Scene Understanding",
@@ -8949,10 +9056,12 @@
         "LangFlash: Feed-forward 3D Language Gaussian Splatting from Sparse Unposed Images",
         "LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion",
         "LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS",
+        "MatrixSplat: Matrix-Parallel and Feature-Scalable 3D Gaussian Splatting Rendering on GPUs",
         "NeuMesh++: Toward Versatile and Efficient Volumetric Editing With Disentangled Neural Mesh-Based Implicit Field"
       ],
       "citedByIds": [
         "030f0ee82f4b713cb941497f50e9e6760c581f50",
+        "3f80fd5a44fd7bea9314088ee082606bffecff97",
         "53fb186998563080b1807684570d8368ef5bab49",
         "59f159e85880d40d90d9ead7798e7312e167fdec",
         "7285a63958bc8cdd4e7617f0b8b8838a01b6c8f6",
@@ -9303,7 +9412,7 @@
       "semanticScholarPaperId": "5affc264027ec9fc95709c059613333b946cf271",
       "semanticScholarTitle": "TEXTure: Text-Guided Texturing of 3D Shapes",
       "publicationDate": "2023-02-03",
-      "internalCitationCount": 59,
+      "internalCitationCount": 60,
       "citedBy": [
         "AvatarVerse: High-quality & Stable 3D Avatar Creation from Text and Pose",
         "CasTex: Cascaded Text-to-Texture Synthesis via Explicit Texture Maps and Physically-Based Shading",
@@ -9358,6 +9467,7 @@
         "Text-to-3D with Classifier Score Distillation",
         "Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models",
         "Text2Tex: Text-driven Texture Synthesis via Diffusion Models",
+        "Texture Consolidation of Generated Multi-View Renderings",
         "Turbo3D: Ultra-fast Text-to-3D Generation",
         "VecSet-Edit: Unleashing Pre-trained LRM for Mesh Editing from Single Image",
         "VideoFrom3D: 3D Scene Video Generation via Complementary Image and Video Diffusion Models",
@@ -9397,6 +9507,7 @@
         "7ccdca1a589e50a982f8059d2fc716f94a407574",
         "7ed1961910f83d7c30725cf360e60196299154fb",
         "834d55e57a99d58ea8b490dd7dc2f59aae2b211a",
+        "846c744e2d51e6580f512c34acdd3e4bec2a37bc",
         "854653e61aa944ac54ab3e363e64c98b87bedf3b",
         "8978a4a0c546bd41dd2a964e6fe850d3e6ae8f5b",
         "8cb0d1bd37874733933ac57edd8c70daa4833be7",
@@ -10438,7 +10549,7 @@
       "semanticScholarPaperId": "bdf4af8311637c681904e71cf50f96fd0026f578",
       "semanticScholarTitle": "Magic3D: High-Resolution Text-to-3D Content Creation",
       "publicationDate": "2022-11-18",
-      "internalCitationCount": 203,
+      "internalCitationCount": 204,
       "citedBy": [
         "2L3: Lifting Imperfect Generated 2D Images into Accurate 3D",
         "3D-GPT: Procedural 3D Modeling with Large Language Models",
@@ -10630,6 +10741,7 @@
         "Text2Tex: Text-driven Texture Synthesis via Diffusion Models",
         "TextDeformer: Geometry Manipulation using Text Guidance",
         "TextMesh: Generation of Realistic 3D Meshes From Text Prompts",
+        "Texture Consolidation of Generated Multi-View Renderings",
         "Texture Generation on 3D Meshes with Point-UV Diffusion",
         "Towards Text-guided 3D Scene Composition",
         "TriFold: Folding irregular 3D Gaussians into structured latents for 3D Scene Generation",
@@ -10743,6 +10855,7 @@
         "830ed65d226a337088d6d97c3c3b068155bf10ec",
         "834d55e57a99d58ea8b490dd7dc2f59aae2b211a",
         "836f0d803332853bb12a89495ea30f0e91c97bf6",
+        "846c744e2d51e6580f512c34acdd3e4bec2a37bc",
         "84dba30ad62b37212d1f3f709afdcffbd028800b",
         "85a70c0a048cba4f53dcf332ee73f6032a2e53bc",
         "86b5318b0a69ccdeec17abb0120e4bd7688a4b59",
@@ -11335,7 +11448,7 @@
       "semanticScholarPaperId": "4c94d04afa4309ec2f06bdd0fe3781f91461b362",
       "semanticScholarTitle": "DreamFusion: Text-to-3D using 2D Diffusion",
       "publicationDate": "2022-09-29",
-      "internalCitationCount": 299,
+      "internalCitationCount": 301,
       "citedBy": [
         "2L3: Lifting Imperfect Generated 2D Images into Accurate 3D",
         "3D-GPT: Procedural 3D Modeling with Large Language Models",
@@ -11370,6 +11483,7 @@
         "CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction Model",
         "CasTex: Cascaded Text-to-Texture Synthesis via Explicit Texture Maps and Physically-Based Shading",
         "Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D Diffusion Probabilistic Models",
+        "Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D",
         "Coin3D: Controllable and Interactive 3D Assets Generation with Proxy-Guided Conditioning",
         "ComPC: Completing a 3D Point Cloud with 2D Diffusion Priors",
         "Consistent123: One Image to Highly Consistent 3D Asset Using Case-Aware Diffusion Priors",
@@ -11614,6 +11728,7 @@
         "Text2Tex: Text-driven Texture Synthesis via Diffusion Models",
         "TextDeformer: Geometry Manipulation using Text Guidance",
         "TextMesh: Generation of Realistic 3D Meshes From Text Prompts",
+        "Texture Consolidation of Generated Multi-View Renderings",
         "Texture Generation on 3D Meshes with Point-UV Diffusion",
         "The More You See in 2D, the More You Perceive in 3D",
         "Towards Text-guided 3D Scene Composition",
@@ -11784,6 +11899,7 @@
         "834d55e57a99d58ea8b490dd7dc2f59aae2b211a",
         "836f0d803332853bb12a89495ea30f0e91c97bf6",
         "83fdbde07c6ba9a6ef5871e66b7020570c844d09",
+        "846c744e2d51e6580f512c34acdd3e4bec2a37bc",
         "84cce9b8aea35e4fa38eef63da439573f21c0728",
         "84dba30ad62b37212d1f3f709afdcffbd028800b",
         "85a70c0a048cba4f53dcf332ee73f6032a2e53bc",
@@ -11915,6 +12031,7 @@
         "f03a7a6d40afbe662a6023dc59e13f0f2ba97f46",
         "f04aaa554a0ffb888f2c1ea86d18c591b3c2de7e",
         "f0ef583e331d9696f3db10090f86d5e00e7869f1",
+        "f0f9e23bb1d7fa7454e84f6935ae1d650e079cb9",
         "f1d882887552b26d3529ee811b08a099f1efd761",
         "f220a751a573ff74b97e26624f36873080d4a3a9",
         "f335ec0810bb6063fc8ff7b6046e68ebfa729075",
@@ -12495,6 +12612,28 @@
       ]
     },
     {
+      "title": "RouTex: Multi-Reference 3D Texture Generation by Reprogramming Rotary Position Encoding",
+      "section": "3D Editing, Decomposition & Stylization",
+      "identifier": "ARXIV:2611.06070",
+      "semanticScholarPaperId": "55bd2aae818996443d388eb46e45db9710d8b3da",
+      "semanticScholarTitle": "RouTex: Multi-reference 3D Texture Generation by Reprogramming Rotary Position Encoding",
+      "publicationDate": "2026-11-04",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
+    {
+      "title": "Texture Consolidation of Generated Multi-View Renderings",
+      "section": "3D Editing, Decomposition & Stylization",
+      "identifier": "ARXIV:2610.36098",
+      "semanticScholarPaperId": "846c744e2d51e6580f512c34acdd3e4bec2a37bc",
+      "semanticScholarTitle": "Texture Consolidation of Generated Multi-View Renderings",
+      "publicationDate": "2026-10-26",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
+    {
       "title": "RADIANT: Object-Centric Feed-Forward Global Illumination",
       "section": "3D Editing, Decomposition & Stylization",
       "identifier": "ARXIV:2610.32075",
@@ -12758,8 +12897,9 @@
       "semanticScholarPaperId": "f6942b91a072028b07981dc843c8ccda9e06a094",
       "semanticScholarTitle": "Pixal3D: Pixel-Aligned 3D Generation from Images",
       "publicationDate": "2026-05-11",
-      "internalCitationCount": 5,
+      "internalCitationCount": 6,
       "citedBy": [
+        "Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D",
         "GenIA: Generative Reconstruction with Test-Time Input Alignment",
         "GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction",
         "ReconPlusGen: Injecting Reconstruction Prior into Multi-view 3D Generation through Noise Inversion and Modulation",
@@ -12771,7 +12911,8 @@
         "63958b8b74bb6e1cc40e07634a74c12011b32715",
         "957304867a36e15ec6181d67e37a7b40058bd5a4",
         "961408fc53c3b1af2739e67f77256ecd2ae57b1b",
-        "b068f56f94c74340160a15caa9e0d2f0c72ffb79"
+        "b068f56f94c74340160a15caa9e0d2f0c72ffb79",
+        "f0f9e23bb1d7fa7454e84f6935ae1d650e079cb9"
       ]
     },
     {
@@ -13212,9 +13353,13 @@
       "semanticScholarPaperId": "53fb186998563080b1807684570d8368ef5bab49",
       "semanticScholarTitle": "NeuMesh++: Toward Versatile and Efficient Volumetric Editing With Disentangled Neural Mesh-Based Implicit Field",
       "publicationDate": "2025-08-19",
-      "internalCitationCount": 0,
-      "citedBy": [],
-      "citedByIds": []
+      "internalCitationCount": 1,
+      "citedBy": [
+        "TetraCoder: Adaptive Tetrahedral Encoding for Neural Fields"
+      ],
+      "citedByIds": [
+        "1631c6bb5791cdc4f26056daee1038c0e6704eb1"
+      ]
     },
     {
       "title": "ArtiScene: Language-Driven Artistic 3D Scene Generation Through Image Intermediary",
@@ -13347,7 +13492,7 @@
       "semanticScholarPaperId": "24959b24a4cd85becf1bad50ace1f58fa6109d1c",
       "semanticScholarTitle": "MVPaint: Synchronized Multi-View Diffusion for Painting Anything 3D",
       "publicationDate": "2024-11-04",
-      "internalCitationCount": 9,
+      "internalCitationCount": 10,
       "citedBy": [
         "CasTex: Cascaded Text-to-Texture Synthesis via Explicit Texture Maps and Physically-Based Shading",
         "GaussianGrow: Geometry-aware Gaussian Growing from 3D Point Clouds with Text Guidance",
@@ -13356,6 +13501,7 @@
         "Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets",
         "TexSpot: 3D Texture Enhancement with Spatially-uniform Point Latent Representation",
         "TexVerse: A Universe of 3D Objects with High-Resolution Textures",
+        "Texture Consolidation of Generated Multi-View Renderings",
         "VecSet-Edit: Unleashing Pre-trained LRM for Mesh Editing from Single Image",
         "ZeroScene: A Zero-Shot Framework for 3D Scene Generation from a Single Image and Controllable Texture Editing"
       ],
@@ -13366,6 +13512,7 @@
         "587b427e6e98513e33656bb91bbaa5e3b9e978f4",
         "6da84f798de781b6dfa6308abffa00a5168099bc",
         "7ccdca1a589e50a982f8059d2fc716f94a407574",
+        "846c744e2d51e6580f512c34acdd3e4bec2a37bc",
         "953376636504b88239d881704a567552fed466f4",
         "b00da7bbf32490b6da94c4bfdf1724fb86dce0c4",
         "fb47ea183e19247def4029c141bed9ad73b36b26"
@@ -14096,7 +14243,7 @@
       "semanticScholarPaperId": "0cbb518c364067200476a51e5ce7476a4f582770",
       "semanticScholarTitle": "Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation",
       "publicationDate": "2023-03-24",
-      "internalCitationCount": 138,
+      "internalCitationCount": 139,
       "citedBy": [
         "3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis",
         "ATT3D: Amortized Text-to-3D Object Synthesis",
@@ -14226,6 +14373,7 @@
         "Text-to-3D using Gaussian Splatting",
         "Text-to-3D with Classifier Score Distillation",
         "Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model",
+        "Texture Consolidation of Generated Multi-View Renderings",
         "Towards Text-guided 3D Scene Composition",
         "UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement",
         "V3D: Video Diffusion Models are Effective 3D Generators",
@@ -14300,6 +14448,7 @@
         "7f075974c3c0aea31506f16ef7c80a90d5f7f0f6",
         "82696e14076d2d92d3d7452bf67c5d924bf1e101",
         "834d55e57a99d58ea8b490dd7dc2f59aae2b211a",
+        "846c744e2d51e6580f512c34acdd3e4bec2a37bc",
         "84dba30ad62b37212d1f3f709afdcffbd028800b",
         "85a70c0a048cba4f53dcf332ee73f6032a2e53bc",
         "86b5318b0a69ccdeec17abb0120e4bd7688a4b59",
@@ -14531,7 +14680,7 @@
       "semanticScholarPaperId": "53974e68d7ea681349e9cd13babb5d511dc86460",
       "semanticScholarTitle": "Text2Tex: Text-driven Texture Synthesis via Diffusion Models",
       "publicationDate": "2023-03-20",
-      "internalCitationCount": 36,
+      "internalCitationCount": 37,
       "citedBy": [
         "AnchoredDream: Zero-Shot 360° Indoor Scene Generation from a Single View via Geometric Grounding",
         "CasTex: Cascaded Text-to-Texture Synthesis via Explicit Texture Maps and Physically-Based Shading",
@@ -14567,6 +14716,7 @@
         "Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models",
         "TexDreamer: Towards Zero-Shot High-Fidelity 3D Human Texture Generation",
         "TexGen: Text-Guided 3D Texture Generation with Multi-view Sampling and Resampling",
+        "Texture Consolidation of Generated Multi-View Renderings",
         "Turbo3D: Ultra-fast Text-to-3D Generation",
         "ZeroScene: A Zero-Shot Framework for 3D Scene Generation from a Single Image and Controllable Texture Editing"
       ],
@@ -14591,6 +14741,7 @@
         "78dcc7b4d647dd0f59f5cba64aefbc76c9c84e1e",
         "7bf0f405ed55934d9a7add81c62a260c3b78eb14",
         "834d55e57a99d58ea8b490dd7dc2f59aae2b211a",
+        "846c744e2d51e6580f512c34acdd3e4bec2a37bc",
         "87a6fa722b2eacf7fc6470a493f49ce8809f4543",
         "8978a4a0c546bd41dd2a964e6fe850d3e6ae8f5b",
         "8cb0d1bd37874733933ac57edd8c70daa4833be7",
@@ -14828,6 +14979,28 @@
       "citedByIds": [
         "67eb64096c4a0c3aca92f1a1229bdae06eaa73c4"
       ]
+    },
+    {
+      "title": "ZARA: Zero-shot Animatable and Relightable 3D Avatar reconstruction from a single image",
+      "section": "Avatar Generation and Manupilation",
+      "identifier": "ARXIV:2611.10562",
+      "semanticScholarPaperId": "8863a8c532fd570d4d076ba2ae3bb9540b6414fc",
+      "semanticScholarTitle": "ZARA: Zero-shot Animatable and Relightable 3D Avatar reconstruction from a single image",
+      "publicationDate": "2026-11-07",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
+    {
+      "title": "PoseRieFlow: Riemannian Flow Matching for Whole-Body Text-to-Pose Generation",
+      "section": "Avatar Generation and Manupilation",
+      "identifier": "ARXIV:2611.09692",
+      "semanticScholarPaperId": "fac9a6554f9ab41180592a8748d3f993bbe399ef",
+      "semanticScholarTitle": "PoseRieFlow: Riemannian Flow Matching for Whole-Body Text-to-Pose Generation",
+      "publicationDate": "2026-11-06",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
     },
     {
       "title": "Video Diffusion Avatars: Taming Video Diffusion Models into Controllable 3D Avatars",
@@ -15177,6 +15350,17 @@
       "semanticScholarTitle": "LayerGS: Decomposition and Inpainting of Layered 3D Human Avatars via 2D Gaussian Splatting",
       "publicationDate": "2026-01-09",
       "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
+    {
+      "title": "SAMT: Generating Structured Avatar Meshes and Textures from a Single Image",
+      "section": "Avatar Generation and Manupilation",
+      "identifier": null,
+      "semanticScholarPaperId": null,
+      "semanticScholarTitle": null,
+      "publicationDate": "2026-01-01",
+      "internalCitationCount": null,
       "citedBy": [],
       "citedByIds": []
     },
@@ -16277,6 +16461,17 @@
       ]
     },
     {
+      "title": "FlashRelight: Portrait Video Relighting with Dynamic Lighting",
+      "section": "Dynamic Content Generation",
+      "identifier": "ARXIV:2611.06355",
+      "semanticScholarPaperId": "def5b7cd1cdb62fad6d2fec9dfc6d4798f9f8eec",
+      "semanticScholarTitle": "FlashRelight: Portrait Video Relighting with Dynamic Lighting",
+      "publicationDate": "2026-11-04",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
+    {
       "title": "DynStream: Online Streaming 4D Gaussian Reconstruction of Dynamic Worlds from Unposed Video",
       "section": "Dynamic Content Generation",
       "identifier": "ARXIV:2610.09720",
@@ -16693,6 +16888,28 @@
         "eb6ca77d28285c95ac370052deda4a53f65e05e6",
         "ff0baeb316df06d017f381c80a2c3aa6399fe938"
       ]
+    },
+    {
+      "title": "WorldDraft: If Code Builds the World, Can Video Models Just Render It?",
+      "section": "World Models",
+      "identifier": "ARXIV:2611.16217",
+      "semanticScholarPaperId": "c046912e64fb876c049cc50ad502e7d84d637ac5",
+      "semanticScholarTitle": "WorldDraft: If Code Builds the World, Can Video Models Just Render It?",
+      "publicationDate": "2026-11-12",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
+    {
+      "title": "CoCode-World: Shared 3D Proxy Representation for Multi-Player World Models",
+      "section": "World Models",
+      "identifier": "ARXIV:2611.15602",
+      "semanticScholarPaperId": "199739dcbf87d15b28b99a0e8cc90a433bf2e799",
+      "semanticScholarTitle": "CoCode-World: Shared 3D Proxy Representation for Multi-Player World Models",
+      "publicationDate": "2026-11-11",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
     },
     {
       "title": "Persistent Planar Memory for Video World Models",
@@ -17159,22 +17376,26 @@
       "semanticScholarPaperId": "02c762ee0da8295e1dcf856782d84ed24331e6e5",
       "semanticScholarTitle": "TexVerse: A Universe of 3D Objects with High-Resolution Textures",
       "publicationDate": "2025-08-14",
-      "internalCitationCount": 6,
+      "internalCitationCount": 8,
       "citedBy": [
+        "Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D",
         "Extracting Neural Materials from Multi-view Images",
         "Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models",
         "Luce: Relightable Gaussians for 3D Asset Generation",
         "Native and Compact Structured Latents for 3D Generation",
+        "RouTex: Multi-reference 3D Texture Generation by Reprogramming Rotary Position Encoding",
         "T3lescope: Arbitrary-Resolution High-Fidelity Generative Surface Reconstruction from Images",
         "TexSpot: 3D Texture Enhancement with Spatially-uniform Point Latent Representation"
       ],
       "citedByIds": [
         "17c34bb60d305191f197d14c7f50621288083418",
         "48c77b4cdd7567544cfd03832494d920abbe082c",
+        "55bd2aae818996443d388eb46e45db9710d8b3da",
         "55c5666d18adb604c7fe110ab54dcf3f8b7386b5",
         "63958b8b74bb6e1cc40e07634a74c12011b32715",
         "d0af86dc95fd74f22076449f9343035cf21ca263",
-        "ecd0d6c7e8093bd69655edc511e408216d52c7fb"
+        "ecd0d6c7e8093bd69655edc511e408216d52c7fb",
+        "f0f9e23bb1d7fa7454e84f6935ae1d650e079cb9"
       ]
     },
     {
@@ -17307,7 +17528,7 @@
       "semanticScholarPaperId": "1b90e9e9734bed6b379ae87d688cb3b887baf597",
       "semanticScholarTitle": "Objaverse-XL: A Universe of 10M+ 3D Objects",
       "publicationDate": "2023-07-11",
-      "internalCitationCount": 86,
+      "internalCitationCount": 87,
       "citedBy": [
         "3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis",
         "3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion",
@@ -17322,6 +17543,7 @@
         "CAST: Component-Aligned 3D Scene Reconstruction from an RGB Image",
         "CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction Model",
         "CityLift: Compositional 3D Urban Generation from a Single Image",
+        "Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D",
         "Consistent123: One Image to Highly Consistent 3D Asset Using Case-Aware Diffusion Priors",
         "Consistent4D: Consistent 360° Dynamic Object Generation from Monocular Video",
         "ConsistentDreamer: View-Consistent Meshes Through Balanced Multi-View Gaussian Optimization",
@@ -17477,6 +17699,7 @@
         "ecd0d6c7e8093bd69655edc511e408216d52c7fb",
         "ef19e75521087bda065b33ed78c3b358285ce18e",
         "f03a7a6d40afbe662a6023dc59e13f0f2ba97f46",
+        "f0f9e23bb1d7fa7454e84f6935ae1d650e079cb9",
         "f445188827232185779fe19e5b3cbf9b276d03c1",
         "f6942b91a072028b07981dc843c8ccda9e06a094",
         "f72c138b6ec3a339b7e5ae6eb914211df4f70e39",
@@ -17564,7 +17787,7 @@
       "semanticScholarPaperId": "1b31dbf44e68b698120552366df03e6e35a1e428",
       "semanticScholarTitle": "Objaverse: A Universe of Annotated 3D Objects",
       "publicationDate": "2022-12-15",
-      "internalCitationCount": 140,
+      "internalCitationCount": 141,
       "citedBy": [
         "3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis",
         "3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion",
@@ -17671,6 +17894,7 @@
         "ReplaceAnything3D: Text-Guided 3D Scene Editing with Compositional Neural Radiance Fields",
         "Repurposing 3D Generative Model for Autoregressive Layout Generation",
         "RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D",
+        "RouTex: Multi-reference 3D Texture Generation by Reprogramming Rotary Position Encoding",
         "SAMPart3D: Segment Any Part in 3D Objects",
         "SATR: Zero-Shot Semantic Segmentation of 3D Shapes",
         "SC4D: Sparse-Controlled Video-to-4D Generation and Motion Transfer",
@@ -17757,6 +17981,7 @@
         "529479ee539c8cbd7f85f0702a4290ad1e2956a9",
         "529e62cae04d3d7b458392033ba12d65c3444253",
         "53974e68d7ea681349e9cd13babb5d511dc86460",
+        "55bd2aae818996443d388eb46e45db9710d8b3da",
         "55c5666d18adb604c7fe110ab54dcf3f8b7386b5",
         "56c49786c030a20f3a42a3d335bc30521250cb69",
         "587b427e6e98513e33656bb91bbaa5e3b9e978f4",
