@@ -1,12 +1,23 @@
 {
   "source": "Semantic Scholar Academic Graph API",
   "sourceUrl": "https://api.semanticscholar.org/api-docs/graphs",
-  "generatedAt": "2026-11-17T09:24:46.199Z",
+  "generatedAt": "2026-11-20T13:50:48.824Z",
   "definition": "Distinct resolved papers in this README whose Semantic Scholar reference lists include the target paper.",
-  "resolvedRows": 572,
-  "citationBackedRows": 573,
-  "distinctResolvedWorks": 567,
+  "resolvedRows": 573,
+  "citationBackedRows": 574,
+  "distinctResolvedWorks": 568,
   "entries": [
+    {
+      "title": "Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain",
+      "section": "X-to-3D",
+      "identifier": "ARXIV:2611.26511",
+      "semanticScholarPaperId": "c8bae9ca8cbaecba2a9c1dc8fd08c9bf87fa8315",
+      "semanticScholarTitle": "Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain",
+      "publicationDate": "2026-11-09",
+      "internalCitationCount": 0,
+      "citedBy": [],
+      "citedByIds": []
+    },
     {
       "title": "TetraCoder: Adaptive Tetrahedral Encoding for Neural Fields",
       "section": "X-to-3D",
@@ -1063,9 +1074,13 @@
       "semanticScholarPaperId": "af13859b699d9c57fe469e111b176019d5ac9eff",
       "semanticScholarTitle": "UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement",
       "publicationDate": "2025-12-24",
-      "internalCitationCount": 0,
-      "citedBy": [],
-      "citedByIds": []
+      "internalCitationCount": 1,
+      "citedBy": [
+        "Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain"
+      ],
+      "citedByIds": [
+        "c8bae9ca8cbaecba2a9c1dc8fd08c9bf87fa8315"
+      ]
     },
     {
       "title": "Native and Compact Structured Latents for 3D Generation",
@@ -1074,13 +1089,14 @@
       "semanticScholarPaperId": "ecd0d6c7e8093bd69655edc511e408216d52c7fb",
       "semanticScholarTitle": "Native and Compact Structured Latents for 3D Generation",
       "publicationDate": "2025-12-16",
-      "internalCitationCount": 32,
+      "internalCitationCount": 33,
       "citedBy": [
         "3DMorph: Single-Image-Guided Local 3D Shape Editing and Morphing",
         "ABot-Earth 0.5: Generative 3D Earth Model",
         "CityLift: Compositional 3D Urban Generation from a Single Image",
         "Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D",
         "DiffGI: Differentiable Geometry Images for High-Fidelity Thin-Shell 3D Generation",
+        "Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain",
         "Easy-3Dfy: Object-Level Geometric Composition for Single-Image 3D Scene Construction",
         "Extracting Neural Materials from Multi-view Images",
         "GenIA: Generative Reconstruction with Test-Time Input Alignment",
@@ -1133,6 +1149,7 @@
         "9e16d2d1c7aff42f31ee0dadb6887465607bb2d0",
         "af13859b699d9c57fe469e111b176019d5ac9eff",
         "b068f56f94c74340160a15caa9e0d2f0c72ffb79",
+        "c8bae9ca8cbaecba2a9c1dc8fd08c9bf87fa8315",
         "d0af86dc95fd74f22076449f9343035cf21ca263",
         "d6fd9910db4d81f240c0f227e1d3f93de4c6e94d",
         "db9fe76a3f03d4d29c919d23e046b7450dd70199",
@@ -1589,11 +1606,12 @@
       "semanticScholarPaperId": "03ebe0fb80d3253a5231d0f1cbac7f3f20fa3aec",
       "semanticScholarTitle": "Direct3D-S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention",
       "publicationDate": "2025-05-23",
-      "internalCitationCount": 16,
+      "internalCitationCount": 17,
       "citedBy": [
         "Appearance-Preserving Refinement of Generated 3D Assets for Monochromatic Fabrication",
         "Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation",
         "Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D",
+        "Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain",
         "Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models",
         "MeshRipple: Structured Autoregressive Generation of Artist-Meshes",
         "MoCA: Mixture-of-Components Attention for Scalable Compositional 3D Generation",
@@ -1620,6 +1638,7 @@
         "af13859b699d9c57fe469e111b176019d5ac9eff",
         "b0109b3dc52ff158e25e3fb0718b13c4401354fd",
         "bdddf0d539859996afcc2bb997c222947a75f36e",
+        "c8bae9ca8cbaecba2a9c1dc8fd08c9bf87fa8315",
         "ecd0d6c7e8093bd69655edc511e408216d52c7fb",
         "ef19e75521087bda065b33ed78c3b358285ce18e",
         "f0f9e23bb1d7fa7454e84f6935ae1d650e079cb9",
@@ -1798,9 +1817,10 @@
       "semanticScholarPaperId": "6c6e7588391dd6d4bc5459e56634f3eac105011a",
       "semanticScholarTitle": "Stable Virtual Camera: Generative View Synthesis with Diffusion Models",
       "publicationDate": "2025-03-18",
-      "internalCitationCount": 10,
+      "internalCitationCount": 11,
       "citedBy": [
         "Bolt3D: Generating 3D Scenes in Seconds",
+        "Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain",
         "GeoFace: Consistent Multi-View Face Generation with Geometry-Constrained Diffusion",
         "HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Models",
         "JointEdit3D: Feed-Forward 3D Scene Editing in a Unified Latent Space",
@@ -1821,6 +1841,7 @@
         "a8391b3bbc1a71b6e87e5ab72bd516ebbca7738c",
         "b4746593e475324cd3b9f011fade41e201977f4f",
         "c7398e15b3eb8247ff235ce4d58d94c548e67404",
+        "c8bae9ca8cbaecba2a9c1dc8fd08c9bf87fa8315",
         "e2507bac701d3bdfa4c9655b1d54f1d7f4b2b9e5"
       ]
     },
@@ -6023,7 +6044,7 @@
       "semanticScholarPaperId": "fcd0de4066d93fa3822a14898008fa2dd99f7be6",
       "semanticScholarTitle": "SyncDreamer: Generating Multiview-consistent Images from a Single-view Image",
       "publicationDate": "2023-09-07",
-      "internalCitationCount": 87,
+      "internalCitationCount": 88,
       "citedBy": [
         "2L3: Lifting Imperfect Generated 2D Images into Accurate 3D",
         "4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling",
@@ -6038,6 +6059,7 @@
         "CraftsMan3D: High-fidelity Mesh Generation with 3D Native Generation and Interactive Geometry Refiner",
         "DecoRec: Decomposed 3D Scene Reconstruction From Single-View Images via Object-Level Diffusion",
         "Direct and Explicit 3D Generation from a Single Image",
+        "Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain",
         "Dream3DAvatar: Text-Controlled 3D Avatar Reconstruction from a Single Image",
         "DreamCraft3D++: Efficient Hierarchical 3D Generation with Multi-Plane Reconstruction Model",
         "DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation",
@@ -6179,6 +6201,7 @@
         "c5bcd7134757192efe04c94a50037ed053e090b7",
         "c631e3d465d8a9f0b39aa865f1c867081998f856",
         "c72aea23a78619ee085d80ea22e663b2d5910ba6",
+        "c8bae9ca8cbaecba2a9c1dc8fd08c9bf87fa8315",
         "c98028781d33c85206fc2d6927a28db7bdc203f0",
         "cc1a674bb164d09a060cf5b26fe518c02fae0ddc",
         "cf60a639add75cdea4273697269ee463024b7926",
@@ -6928,12 +6951,13 @@
       "semanticScholarPaperId": "830ed65d226a337088d6d97c3c3b068155bf10ec",
       "semanticScholarTitle": "Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation",
       "publicationDate": "2023-06-29",
-      "internalCitationCount": 26,
+      "internalCitationCount": 27,
       "citedBy": [
         "3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion",
         "Bridging Geometry-Coherent Text-to-3D Generation with Multi-View Diffusion Priors and Gaussian Splatting",
         "CraftsMan3D: High-fidelity Mesh Generation with 3D Native Generation and Interactive Geometry Refiner",
         "Direct3D-S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention",
+        "Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain",
         "Hunyuan3D Studio: End-to-End AI Pipeline for Game-Ready 3D Asset Generation",
         "Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing",
         "LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation",
@@ -6979,6 +7003,7 @@
         "a46fcfaec5197c9941c0e99805742fcd2407ef97",
         "b6501632e0ba3d0db57dec57be1ad1b27eff4812",
         "bdddf0d539859996afcc2bb997c222947a75f36e",
+        "c8bae9ca8cbaecba2a9c1dc8fd08c9bf87fa8315",
         "cf60a639add75cdea4273697269ee463024b7926",
         "e3a10689ead179bbba256a35d0d249f7e0d69bba",
         "e6efd64e79ff08bddd7f48e3bb2b8567803b370e",
@@ -8663,7 +8688,7 @@
       "semanticScholarPaperId": "2c70684973bc4d7b6f8404a647b8031c4d3c8383",
       "semanticScholarTitle": "Zero-1-to-3: Zero-shot One Image to 3D Object",
       "publicationDate": "2023-03-20",
-      "internalCitationCount": 176,
+      "internalCitationCount": 177,
       "citedBy": [
         "2L3: Lifting Imperfect Generated 2D Images into Accurate 3D",
         "3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis",
@@ -8692,6 +8717,7 @@
         "DeOcc-1-to-3: 3D De-Occlusion from a Single Image via Self-Supervised Multi-View Diffusion",
         "DecoRec: Decomposed 3D Scene Reconstruction From Single-View Images via Object-Level Diffusion",
         "Direct and Explicit 3D Generation from a Single Image",
+        "Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain",
         "Disentangled 3D Scene Generation with Layout Learning",
         "DreamCraft3D++: Efficient Hierarchical 3D Generation with Multi-Plane Reconstruction Model",
         "DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior",
@@ -8979,6 +9005,7 @@
         "c72aea23a78619ee085d80ea22e663b2d5910ba6",
         "c7398e15b3eb8247ff235ce4d58d94c548e67404",
         "c7f4a93754a29426acc9bf9c03db27b6106eecaf",
+        "c8bae9ca8cbaecba2a9c1dc8fd08c9bf87fa8315",
         "c98028781d33c85206fc2d6927a28db7bdc203f0",
         "cae2a7bacfde502a04af010b04e47800b8f20d26",
         "cc1a674bb164d09a060cf5b26fe518c02fae0ddc",
@@ -12897,9 +12924,10 @@
       "semanticScholarPaperId": "f6942b91a072028b07981dc843c8ccda9e06a094",
       "semanticScholarTitle": "Pixal3D: Pixel-Aligned 3D Generation from Images",
       "publicationDate": "2026-05-11",
-      "internalCitationCount": 6,
+      "internalCitationCount": 7,
       "citedBy": [
         "Coarse3D: Controllable and Faithful Sparse Structure Generation for Image-to-3D",
+        "Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain",
         "GenIA: Generative Reconstruction with Test-Time Input Alignment",
         "GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction",
         "ReconPlusGen: Injecting Reconstruction Prior into Multi-view 3D Generation through Noise Inversion and Modulation",
@@ -12912,6 +12940,7 @@
         "957304867a36e15ec6181d67e37a7b40058bd5a4",
         "961408fc53c3b1af2739e67f77256ecd2ae57b1b",
         "b068f56f94c74340160a15caa9e0d2f0c72ffb79",
+        "c8bae9ca8cbaecba2a9c1dc8fd08c9bf87fa8315",
         "f0f9e23bb1d7fa7454e84f6935ae1d650e079cb9"
       ]
     },
@@ -17528,7 +17557,7 @@
       "semanticScholarPaperId": "1b90e9e9734bed6b379ae87d688cb3b887baf597",
       "semanticScholarTitle": "Objaverse-XL: A Universe of 10M+ 3D Objects",
       "publicationDate": "2023-07-11",
-      "internalCitationCount": 87,
+      "internalCitationCount": 88,
       "citedBy": [
         "3DCarGen: Scalable 3D Car Generation via 3D-consistent Multi-view Synthesis",
         "3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion",
@@ -17553,6 +17582,7 @@
         "DecoRec: Decomposed 3D Scene Reconstruction From Single-View Images via Object-Level Diffusion",
         "DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion",
         "Direct3D-S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention",
+        "Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain",
         "DogWeave: High-Fidelity 3D Canine Reconstruction from a Single Image via Normal Fusion and Conditional Inpainting",
         "DreamCraft3D++: Efficient Hierarchical 3D Generation with Multi-Plane Reconstruction Model",
         "DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation",
@@ -17685,6 +17715,7 @@
         "b71cffc1228d65f8697242677c4122212c08a60d",
         "bdddf0d539859996afcc2bb997c222947a75f36e",
         "c7f4a93754a29426acc9bf9c03db27b6106eecaf",
+        "c8bae9ca8cbaecba2a9c1dc8fd08c9bf87fa8315",
         "cc1a674bb164d09a060cf5b26fe518c02fae0ddc",
         "cc6c64b4fec00e5371b38d7c4dfa10a1b23c76fe",
         "ce2edcc6a0ef7592c385c5d8fd0924f79707e223",

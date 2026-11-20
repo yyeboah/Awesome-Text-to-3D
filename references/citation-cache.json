@@ -478,6 +478,7 @@
     "id:ARXIV:2611.17458": "eab6543dfdb53a445341097dfbcf5a10ecc0215c",
     "id:eab6543dfdb53a445341097dfbcf5a10ecc0215c": "eab6543dfdb53a445341097dfbcf5a10ecc0215c",
     "id:ARXIV:2611.18267": "1631c6bb5791cdc4f26056daee1038c0e6704eb1",
+    "id:ARXIV:2611.26511": null,
     "id:b00da7bbf32490b6da94c4bfdf1724fb86dce0c4": "b00da7bbf32490b6da94c4bfdf1724fb86dce0c4",
     "id:b0109b3dc52ff158e25e3fb0718b13c4401354fd": "b0109b3dc52ff158e25e3fb0718b13c4401354fd",
     "id:b01e8f939c685dbf11cb38d3af7604ef1e77306f": "b01e8f939c685dbf11cb38d3af7604ef1e77306f",
@@ -696,6 +697,8 @@
     "incoming:c046912e64fb876c049cc50ad502e7d84d637ac5": "c046912e64fb876c049cc50ad502e7d84d637ac5",
     "incoming:c0f76e3adf99919163e425452ed91a542fc72270": "c0f76e3adf99919163e425452ed91a542fc72270",
     "incoming:c57fc45e22559d7a39f9eafb5cae4fffc362cb58": "c57fc45e22559d7a39f9eafb5cae4fffc362cb58",
+    "incoming:c8bae9ca8cbaecba2a9c1dc8fd08c9bf87fa8315": "c8bae9ca8cbaecba2a9c1dc8fd08c9bf87fa8315",
+    "id:c8bae9ca8cbaecba2a9c1dc8fd08c9bf87fa8315": "c8bae9ca8cbaecba2a9c1dc8fd08c9bf87fa8315",
     "incoming:c9b13a4038ab1b4fbd4b79ac320e5ae2cdb45f09": "c9b13a4038ab1b4fbd4b79ac320e5ae2cdb45f09",
     "incoming:cb07639f1c44d202b79477520183cb89676a9618": "cb07639f1c44d202b79477520183cb89676a9618",
     "incoming:cf872d0eb81dba74e6d2cb6a5428bbc779d2038f": "cf872d0eb81dba74e6d2cb6a5428bbc779d2038f",
@@ -809,6 +812,7 @@
     "title:dinar diffusion inpainting of neural textures for one shot human avatars": "854653e61aa944ac54ab3e363e64c98b87bedf3b",
     "title:direct and explicit 3d generation from a single image": "ba4f5ac55d1f9d6460f6bb93104ce04bfecdb311",
     "title:direct3d s2 gigascale 3d generation made easy with spatial sparse attention": "03ebe0fb80d3253a5231d0f1cbac7f3f20fa3aec",
+    "title:direct3d v3 latent free diffusion transformers in the native voxel domain": "c8bae9ca8cbaecba2a9c1dc8fd08c9bf87fa8315",
     "title:disentangled 3d scene generation with layout learning": "66dcc6ec983fe0447b440c44a3f631bea418ba3d",
     "title:dogweave high fidelity 3d canine reconstruction from a single image via normal fusion and conditional inpainting": "f72c138b6ec3a339b7e5ae6eb914211df4f70e39",
     "title:dream3d zero shot text to 3d synthesis using 3d shape prior and text to image diffusion models": "9432bd77fa374d794bf2c8703b0e0e460380771f",
@@ -134547,6 +134551,207 @@
         }
       ],
       "fetchedAt": "2026-09-07T14:38:43.420Z"
+    },
+    "c8bae9ca8cbaecba2a9c1dc8fd08c9bf87fa8315": {
+      "paperId": "c8bae9ca8cbaecba2a9c1dc8fd08c9bf87fa8315",
+      "externalIds": {
+        "DOI": "10.1145/3842524",
+        "CorpusId": 295664266
+      },
+      "title": "Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain",
+      "openAccessPdf": {
+        "url": "https://doi.org/10.1145/3842524",
+        "status": "HYBRID",
+        "license": "CCBY",
+        "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1145/3842524?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/3842524, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+      },
+      "publicationDate": "2026-11-09",
+      "authors": [
+        {
+          "authorId": "2303444251",
+          "name": "Shuang Wu"
+        },
+        {
+          "authorId": "2362064169",
+          "name": "Jia-Chen Qian"
+        },
+        {
+          "authorId": "2268430574",
+          "name": "You-Tian Lin"
+        },
+        {
+          "authorId": "2302810973",
+          "name": "Fei-Hu Zhang"
+        },
+        {
+          "authorId": "143635540",
+          "name": "P. Torr"
+        },
+        {
+          "authorId": "2380551629",
+          "name": "Yao Yao"
+        },
+        {
+          "authorId": "2268453713",
+          "name": "Xun Cao"
+        }
+      ],
+      "references": [
+        {
+          "paperId": "f6942b91a072028b07981dc843c8ccda9e06a094"
+        },
+        {
+          "paperId": "af13859b699d9c57fe469e111b176019d5ac9eff"
+        },
+        {
+          "paperId": "ecd0d6c7e8093bd69655edc511e408216d52c7fb"
+        },
+        {
+          "paperId": "7c2e9198f28b5d414fa0d33b48df76fa6b519d12"
+        },
+        {
+          "paperId": "3c3245547a4f24eabb3aae6d90c2744a7a0cde41"
+        },
+        {
+          "paperId": "9ff2ac89b68c8cc6543da0bcacb018e70348d282"
+        },
+        {
+          "paperId": "2076aeedaf55ea2fe7154e4178bbddc027895da0"
+        },
+        {
+          "paperId": "ca3b8d734f00235f8ef88b5b8236d3c93897c892"
+        },
+        {
+          "paperId": "55f5c6f60322fc311a5517f4c6adb6b7f1274d39"
+        },
+        {
+          "paperId": "9f0f5c401c0c6f773f06bbc4539837ab44fbadb6"
+        },
+        {
+          "paperId": "03ebe0fb80d3253a5231d0f1cbac7f3f20fa3aec"
+        },
+        {
+          "paperId": "b72492224b7b3f1b97564412553f4e60c7d485f6"
+        },
+        {
+          "paperId": "5ed22a760b347fb5f6e46bc1bcdbb0e931fbf922"
+        },
+        {
+          "paperId": "e2fadacb03e70d526ad97c9a3325503d5462aaca"
+        },
+        {
+          "paperId": "6c6e7588391dd6d4bc5459e56634f3eac105011a"
+        },
+        {
+          "paperId": "2cc9865bc5b27a3e101097c9c3f09113f543dd9a"
+        },
+        {
+          "paperId": "7d564b3d41711be530c5d36d710ce328fb345e79"
+        },
+        {
+          "paperId": "be47289592be9747050b1d50bd2cf7d00dfde825"
+        },
+        {
+          "paperId": "5666d551bc9f86e2f379ede8b8ffddbe4d1d53a8"
+        },
+        {
+          "paperId": "0b6106e4e4bd18310fd81957625fc912ea403159"
+        },
+        {
+          "paperId": "f3a2e9a43ef9af111d0ccf74d3efa08607f00575"
+        },
+        {
+          "paperId": "2835b5dba741b4e48c2f578bbf7f8c6eed259832"
+        },
+        {
+          "paperId": "fcd0de4066d93fa3822a14898008fa2dd99f7be6"
+        },
+        {
+          "paperId": "2cc1d857e86d5152ba7fe6a8355c2a0150cc280a"
+        },
+        {
+          "paperId": "d2413bc6ce6a2ca90c065f28f7f3f2b7cd0708d9"
+        },
+        {
+          "paperId": "1b90e9e9734bed6b379ae87d688cb3b887baf597"
+        },
+        {
+          "paperId": "830ed65d226a337088d6d97c3c3b068155bf10ec"
+        },
+        {
+          "paperId": "0f6ff83b2b6e3d04d533f155f78322b7d3cd8e5c"
+        },
+        {
+          "paperId": "4b203ee52e27cbf27d210dd671951150729a8259"
+        },
+        {
+          "paperId": "5a9cb1b3dc4655218b3deeaf4a2417a9a8cd0891"
+        },
+        {
+          "paperId": "2c70684973bc4d7b6f8404a647b8031c4d3c8383"
+        },
+        {
+          "paperId": "eb35863662544c977780299c21e669555ae83e81"
+        },
+        {
+          "paperId": "4e6244baf4236f4635e85f7dfb941a9a0a6c4a11"
+        },
+        {
+          "paperId": "897f3bb5eacaa80359e81ff33378e1110e20ae95"
+        },
+        {
+          "paperId": "9f5120b815fddaaef25c7042035ffe5680507a65"
+        },
+        {
+          "paperId": "64ea8f180d0682e6c18d1eb688afdb2027c02794"
+        },
+        {
+          "paperId": "de18baa4964804cf471d85a5a090498242d2e79f"
+        },
+        {
+          "paperId": "77366bef01df1ab277149b330336a0ef9c5041c4"
+        },
+        {
+          "paperId": "5c126ae3421f05768d8edd97ecd44b1364e2c99a"
+        },
+        {
+          "paperId": "428b663772dba998f5dc6a24488fff1858a0899f"
+        },
+        {
+          "paperId": "4287fca41f650f9a953a976136d0f9d271ac5c37"
+        },
+        {
+          "paperId": "231af7dc01a166cac3b5b01ca05778238f796e41"
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        },
+        {
+          "paperId": null
+        }
+      ],
+      "matchScore": 322.9367,
+      "fetchedAt": "2026-11-20T13:50:38.537Z",
+      "citations": [],
+      "citationsFetchedAt": "2026-11-20T13:50:48.783Z"
     }
   }
 }

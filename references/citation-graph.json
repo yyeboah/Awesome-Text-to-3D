@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T09:24:46.199Z",
+  "generatedAt": "2026-11-20T13:50:48.824Z",
   "source": "Semantic Scholar Academic Graph API",
   "direction": "source cites target",
   "nodes": [
@@ -190,7 +190,7 @@
         "CorpusId": 278886869
       },
       "publicationDate": "2025-05-23",
-      "citationCount": 16
+      "citationCount": 17
     },
     {
       "id": "0483be6c3ec6cd41ffe248f86effc7468d3ac7be",
@@ -756,7 +756,7 @@
         "CorpusId": 259836993
       },
       "publicationDate": "2023-07-11",
-      "citationCount": 87
+      "citationCount": 88
     },
     {
       "id": "1b99642e150ba3c589955820112d0336dbe44d45",
@@ -1306,7 +1306,7 @@
         "CorpusId": 257631738
       },
       "publicationDate": "2023-03-20",
-      "citationCount": 176
+      "citationCount": 177
     },
     {
       "id": "2d4e2b2a9f823ba7bb5b4409c40f22cc9087814a",
@@ -2579,7 +2579,7 @@
         "CorpusId": 277103685
       },
       "publicationDate": "2025-03-18",
-      "citationCount": 10
+      "citationCount": 11
     },
     {
       "id": "6d9609ccf84e0ecb2d59844b5135e77933939003",
@@ -3218,7 +3218,7 @@
         "CorpusId": 259287391
       },
       "publicationDate": "2023-06-29",
-      "citationCount": 26
+      "citationCount": 27
     },
     {
       "id": "834d55e57a99d58ea8b490dd7dc2f59aae2b211a",
@@ -4321,7 +4321,7 @@
         "CorpusId": 284153776
       },
       "publicationDate": "2025-12-24",
-      "citationCount": 0
+      "citationCount": 1
     },
     {
       "id": "afb6e01e0f7a92285cc2780ec80ef98646cf98fc",
@@ -5030,6 +5030,16 @@
         "CorpusId": 287777177
       },
       "publicationDate": "2026-04-23",
+      "citationCount": 0
+    },
+    {
+      "id": "c8bae9ca8cbaecba2a9c1dc8fd08c9bf87fa8315",
+      "title": "Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain",
+      "externalIds": {
+        "DOI": "10.1145/3842524",
+        "CorpusId": 295664266
+      },
+      "publicationDate": "2026-11-09",
       "citationCount": 0
     },
     {
@@ -6028,7 +6038,7 @@
         "CorpusId": 283909568
       },
       "publicationDate": "2025-12-16",
-      "citationCount": 32
+      "citationCount": 33
     },
     {
       "id": "ed1d274ef73f640361f0614835e46468fe489386",
@@ -6302,7 +6312,7 @@
         "CorpusId": 288255525
       },
       "publicationDate": "2026-05-11",
-      "citationCount": 6
+      "citationCount": 7
     },
     {
       "id": "f6dfb1e9539f3f50ffc8fe3ebae318d4607b098f",
@@ -6502,7 +6512,7 @@
         "CorpusId": 261582503
       },
       "publicationDate": "2023-09-07",
-      "citationCount": 87
+      "citationCount": 88
     },
     {
       "id": "fd84ff9fc88bdfb8f683b789b37a3bdef1833c95",
@@ -23306,6 +23316,42 @@
     {
       "source": "c8a20e10b4c77983fdda9bb6ac336917ccb45cd9",
       "target": "26c22380282a00166273038bc5ba785d845d61ad"
+    },
+    {
+      "source": "c8bae9ca8cbaecba2a9c1dc8fd08c9bf87fa8315",
+      "target": "03ebe0fb80d3253a5231d0f1cbac7f3f20fa3aec"
+    },
+    {
+      "source": "c8bae9ca8cbaecba2a9c1dc8fd08c9bf87fa8315",
+      "target": "1b90e9e9734bed6b379ae87d688cb3b887baf597"
+    },
+    {
+      "source": "c8bae9ca8cbaecba2a9c1dc8fd08c9bf87fa8315",
+      "target": "2c70684973bc4d7b6f8404a647b8031c4d3c8383"
+    },
+    {
+      "source": "c8bae9ca8cbaecba2a9c1dc8fd08c9bf87fa8315",
+      "target": "6c6e7588391dd6d4bc5459e56634f3eac105011a"
+    },
+    {
+      "source": "c8bae9ca8cbaecba2a9c1dc8fd08c9bf87fa8315",
+      "target": "830ed65d226a337088d6d97c3c3b068155bf10ec"
+    },
+    {
+      "source": "c8bae9ca8cbaecba2a9c1dc8fd08c9bf87fa8315",
+      "target": "af13859b699d9c57fe469e111b176019d5ac9eff"
+    },
+    {
+      "source": "c8bae9ca8cbaecba2a9c1dc8fd08c9bf87fa8315",
+      "target": "ecd0d6c7e8093bd69655edc511e408216d52c7fb"
+    },
+    {
+      "source": "c8bae9ca8cbaecba2a9c1dc8fd08c9bf87fa8315",
+      "target": "f6942b91a072028b07981dc843c8ccda9e06a094"
+    },
+    {
+      "source": "c8bae9ca8cbaecba2a9c1dc8fd08c9bf87fa8315",
+      "target": "fcd0de4066d93fa3822a14898008fa2dd99f7be6"
     },
     {
       "source": "c98028781d33c85206fc2d6927a28db7bdc203f0",
