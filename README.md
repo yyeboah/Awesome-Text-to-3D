@@ -31,6 +31,38 @@ This README is intended to work as a fast research index:
 <details close>
 <summary>X-to-3D</summary>
 
+- [Zing-1.0: A Playable World System Built on Controllable Rendering](https://arxiv.org/abs/2611.27336), Wenbo Zhang et al., Arxiv 2026 | [citation](./references/citations.bib#L4155-L4160) | [site]() | [code]() | ▲ citation count: unavailable
+
+- [TSIR: Ray-Traced Triangle Splats for Inverse Rendering](https://arxiv.org/abs/2611.27030), Wentao Yang et al., Arxiv 2026 | [citation](./references/citations.bib#L4162-L4167) | [site]() | [code]() | ▲ citation count: unavailable
+
+- [UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation](https://arxiv.org/abs/2611.24941), Jingzhi Bao et al., ACM Transactions on Graphics (SIGGRAPH Asia 2026) | [citation](./references/citations.bib#L4057-L4062) | [site](https://ultratex.vercel.app/) | [code]() | ▲ citation count: unavailable
+
+- [Ultimate3D: Teaching Multimodal LLMs 3D Camera-Object Relations by Large-Scale Visual Instruction Data](https://arxiv.org/abs/2611.24795), Liu He et al., Machine Vision and Applications 2027 | [citation](./references/citations.bib#L4064-L4069) | [site]() | [code]() | ▲ citation count: unavailable
+
+- [Multi-Band Galaxy Novel-View Synthesis with Radiative Gaussian Fields](https://arxiv.org/abs/2611.24723), Yuzhe Wu et al., Arxiv 2026 | [citation](./references/citations.bib#L4071-L4076) | [site]() | [code]() | ▲ citation count: unavailable
+
+- [Beyond Appearance: Evidence-Guided Programmatic 3D Scene Reconstruction with Agentic Lighting Reasoning](https://arxiv.org/abs/2611.24565), Zeting Luo et al., Arxiv 2026 | [citation](./references/citations.bib#L4078-L4083) | [site](https://logic-al-al.github.io/LightHarness) | [code](https://github.com/lyf1212/LightHarness_Code) | ▲ citation count: unavailable
+
+- [RAPID: Reconstruction Accelerated by Polarization-Informed Depth for 2D Gaussian Splatting](https://arxiv.org/abs/2611.24404), Daisong Ouyang et al., Arxiv 2026 | [citation](./references/citations.bib#L4085-L4090) | [site]() | [code]() | ▲ citation count: unavailable
+
+- [One Shot, Any View: High-Fidelity Video Reshooting with Geometry Guidance and Visual References](https://arxiv.org/abs/2611.24253), Kai Huang et al., Arxiv 2026 | [citation](./references/citations.bib#L4092-L4097) | [site]() | [code]() | ▲ citation count: unavailable
+
+- [Freeforward4d: Annotation-free feed-forward 4d reconstruction of driving scenes](https://arxiv.org/abs/2611.24007), Luosong Guo et al., Arxiv 2026 | [citation](./references/citations.bib#L4099-L4104) | [site]() | [code]() | ▲ citation count: unavailable
+
+- [WaveView: The Novel View Is in the Noise](https://arxiv.org/abs/2611.23994), Kaiwen Wang et al., Arxiv 2026 | [citation](./references/citations.bib#L4106-L4111) | [site]() | [code]() | ▲ citation count: unavailable
+
+- [TRoPE: Topology-aware Relative Positional Encoding for 4D Generation](https://arxiv.org/abs/2611.23933), Chengzhuo Gui et al., Arxiv 2026 | [citation](./references/citations.bib#L4113-L4118) | [site](https://akui1321.github.io/TRoPE) | [code]() | ▲ citation count: unavailable
+
+- [ReflectScene: MLLM-Guided Closed-Loop Diffusion for 3D Indoor Scene Generation](https://arxiv.org/abs/2611.23845), Jiawei Shen et al., Arxiv 2026 | [citation](./references/citations.bib#L4120-L4125) | [site]() | [code]() | ▲ citation count: unavailable
+
+- [GTA: Generative Tower of Agents for Scalable Holonic Scene Generation](https://arxiv.org/abs/2611.23727), Zeng Tao et al., Arxiv 2026 | [citation](./references/citations.bib#L4127-L4132) | [site](https://zt-zeng-tao.github.io/GTA/) | [code]() | ▲ citation count: unavailable
+
+- [NIRJALA: Draining the Sea out of Gaussian Splatting with Three-Path Optics and Reversible Physics](https://arxiv.org/abs/2611.23450), Latchan Chhetri and Aman Kumar, Arxiv 2026 | [citation](./references/citations.bib#L4134-L4139) | [site]() | [code]() | ▲ citation count: unavailable
+
+- [Autoregressive View Model](https://arxiv.org/abs/2611.23417), Jensen (Jinghao) Zhou et al., Arxiv 2026 | [citation](./references/citations.bib#L4141-L4146) | [site](https://autoregressive-view-model.github.io/) | [code]() | ▲ citation count: unavailable
+
+- [OCLDA-GS: Object-Centric Local Deformation-Aware Gaussian Streaming](https://arxiv.org/abs/2611.23416), Ashim Dahal et al., Arxiv 2026 | [citation](./references/citations.bib#L4148-L4153) | [site]() | [code]() | ▲ citation count: unavailable
+
 - [TetraCoder: Adaptive Tetrahedral Encoding for Neural Fields](https://arxiv.org/abs/2611.18267), Daniele Della Pietra et al., Arxiv 2026 | [citation](./references/citations.bib#L4038-L4043) | [site]() | [code]() | <a href="./references/internal-citations.md#s2-1631c6bb5791cdc4f26056daee1038c0e6704eb1" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 
 - [FOMOS: Feature-Oriented Meshing of SDFs](https://arxiv.org/abs/2611.17458), Stefan Ohrhallinger and Amal Dev Parakkat, Arxiv 2026 | [citation](./references/citations.bib#L4031-L4036) | [site]() | [code]() | <a href="./references/internal-citations.md#s2-eab6543dfdb53a445341097dfbcf5a10ecc0215c" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
