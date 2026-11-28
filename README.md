@@ -31,6 +31,8 @@ This README is intended to work as a fast research index:
 <details close>
 <summary>X-to-3D</summary>
 
+- [FoundSurface: Feedforward Ray-Based 3D Scene Surface Reconstruction from Unposed Images](https://arxiv.org/abs/2611.34128), Shenxing Wei et al., NeurIPS 2026 | [citation](./references/citations.bib#L4169-L4174) | [site]() | [code]() | ▲ citation count: unavailable
+
 - [Zing-1.0: A Playable World System Built on Controllable Rendering](https://arxiv.org/abs/2611.27336), Wenbo Zhang et al., Arxiv 2026 | [citation](./references/citations.bib#L4155-L4160) | [site]() | [code]() | ▲ citation count: unavailable
 
 - [TSIR: Ray-Traced Triangle Splats for Inverse Rendering](https://arxiv.org/abs/2611.27030), Wentao Yang et al., Arxiv 2026 | [citation](./references/citations.bib#L4162-L4167) | [site]() | [code]() | ▲ citation count: unavailable
@@ -914,6 +916,8 @@ This README is intended to work as a fast research index:
 <details close>
 <summary>Avatar Generation and Manupilation</summary>
 
+- [LuxAvatar: Real-Time Relightable Head Avatars via Causal Neural Shading of 3D Intrinsic Proxies](https://arxiv.org/abs/2611.34940), Yipengjing Sun et al., Arxiv 2026 | [citation](./references/citations.bib#L4183-L4188) | [site]() | [code]() | ▲ citation count: unavailable
+
 - [ZARA: Zero-shot Animatable and Relightable 3D Avatar reconstruction from a single image](https://arxiv.org/abs/2611.10562), Yixiao Chen et al., Arxiv 2026 | [citation](./references/citations.bib#L3989-L3994) | [site]() | [code]() | <a href="./references/internal-citations.md#s2-8863a8c532fd570d4d076ba2ae3bb9540b6414fc" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 
 - [PoseRieFlow: Riemannian Flow Matching for Whole-Body Text-to-Pose Generation](https://arxiv.org/abs/2611.09692), Jan Spindler et al., Arxiv 2026 | [citation](./references/citations.bib#L3982-L3987) | [site]() | [code]() | <a href="./references/internal-citations.md#s2-fac9a6554f9ab41180592a8748d3f993bbe399ef" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
@@ -1068,6 +1072,7 @@ This README is intended to work as a fast research index:
 <details close>
 <summary>Dynamic Content Generation</summary>
 
+- [A Mesh for Every Moment](https://arxiv.org/abs/2611.34939), Roy Or-El et al., Arxiv 2026 | [citation](./references/citations.bib#L4176-L4181) | [site](https://memo-4d.github.io) | [code]() | ▲ citation count: unavailable
 - [FlashRelight: Portrait Video Relighting with Dynamic Lighting](https://arxiv.org/abs/2611.06355), Jiahui Sheng et al., NeurIPS 2026 | [citation](./references/citations.bib#L3968-L3973) | [site]() | [code](https://github.com/vivoCameraResearch/FlashRelight) | <a href="./references/internal-citations.md#s2-def5b7cd1cdb62fad6d2fec9dfc6d4798f9f8eec" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 - [DynStream: Online Streaming 4D Gaussian Reconstruction of Dynamic Worlds from Unposed Video](https://arxiv.org/abs/2610.09720), Dingwei Xian et al., Arxiv 2026 | [citation](./references/citations.bib#L3875-L3880) | [site]() | [code]() | <a href="./references/internal-citations.md#s2-32e2f772b681122860a9b86ac1748bff33130f4c" title="No indexed papers cite this paper yet.">▲</a> citation count: 0
 
